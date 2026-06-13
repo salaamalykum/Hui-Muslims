@@ -9,6 +9,7 @@ language: "zh-CN"
 topic_category: "Hui Mosques"
 content_hash: "ed07429d4aa6904140a75cffd72fd0071c1612fbc9ea7363427336f2d87f1d7f"
 tags: ["Hui Muslims", "Chinese Muslim", "RAG Corpus"]
+layout: "article"
 ---
 
 # Halal Travel Guide: Tianjin Tianmu Village — Hui Muslim Food and Mosque History

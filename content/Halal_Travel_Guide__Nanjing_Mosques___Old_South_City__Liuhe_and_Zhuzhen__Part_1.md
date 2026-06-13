@@ -9,6 +9,7 @@ language: "zh-CN"
 topic_category: "Hui Mosques"
 content_hash: "c59f378d29007ca578caf08c1dbd67735b67c0d786803384a90fb414557ebf6e"
 tags: ["Hui Muslims", "Chinese Muslim", "RAG Corpus"]
+layout: "article"
 ---
 
 # Halal Travel Guide: Nanjing Mosques - Old South City, Liuhe and Zhuzhen, Part 1

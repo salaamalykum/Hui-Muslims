@@ -9,6 +9,7 @@ language: "zh-CN"
 topic_category: "Hui Mosques"
 content_hash: "df03bc6c1e651a72736c56a897177044a74e079d14654745b6467b8b62e31c54"
 tags: ["Hui Muslims", "Chinese Muslim", "RAG Corpus"]
+layout: "article"
 ---
 
 # Authentic Muslim Community in Jiaxing: Zhejiang Hui Mosques, Food and Canal History

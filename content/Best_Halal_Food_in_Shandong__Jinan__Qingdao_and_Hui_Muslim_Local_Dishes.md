@@ -9,6 +9,7 @@ language: "zh-CN"
 topic_category: "Hui Halal Food"
 content_hash: "7aebb78b5a8c7060d4260c326ea1d7830dc3ee88cfb09a32e834d9c939cd3ab3"
 tags: ["Hui Muslims", "Chinese Muslim", "RAG Corpus"]
+layout: "article"
 ---
 
 # Best Halal Food in Shandong: Jinan, Qingdao and Hui Muslim Local Dishes

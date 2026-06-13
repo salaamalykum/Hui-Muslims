@@ -9,6 +9,7 @@ language: "zh-CN"
 topic_category: "Hui Mosques"
 content_hash: "24f2f3ced163f6bc26ab21136a6006dff821fdb855a395e7bfe83c216807ad0a"
 tags: ["Hui Muslims", "Chinese Muslim", "RAG Corpus"]
+layout: "article"
 ---
 
 # Langzhong Ancient City Muslim Travel Guide: Mosques, Hui Muslims &amp; Halal Food

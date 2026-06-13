@@ -9,6 +9,7 @@ language: "zh-CN"
 topic_category: "Hui Mosques"
 content_hash: "8a6952a1d0d319b3e3c0cbd2dec1d4e8a7cedac5495cc9e48b7f2ebab501cb51"
 tags: ["Hui Muslims", "Chinese Muslim", "RAG Corpus"]
+layout: "article"
 ---
 
 # Halal Travel Guide: Yangon - Hui Muslim Food, Mosques and Panthay History

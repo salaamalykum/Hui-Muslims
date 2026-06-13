@@ -9,6 +9,7 @@ language: "zh-CN"
 topic_category: "Hui Culture & Heritage"
 content_hash: "fdd488d988093c56599c30326a5b558dc0d8aa6e086e6633db4da76772144daa"
 tags: ["Hui Muslims", "Chinese Muslim", "RAG Corpus"]
+layout: "article"
 ---
 
 # Hui Muslim Language in China: Urumqi Dialect, Identity and Everyday Culture

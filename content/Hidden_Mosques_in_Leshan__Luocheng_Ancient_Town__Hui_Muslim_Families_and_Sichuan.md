@@ -9,6 +9,7 @@ language: "zh-CN"
 topic_category: "Hui Mosques"
 content_hash: "4a9c07e1c3831eded26cbefe40fb7edd5634a809cb43351fe5860ca03d1c2d9a"
 tags: ["Hui Muslims", "Chinese Muslim", "RAG Corpus"]
+layout: "article"
 ---
 
 # Hidden Mosques in Leshan: Luocheng Ancient Town, Hui Muslim Families and Sichuan History

@@ -9,6 +9,7 @@ language: "zh-CN"
 topic_category: "Hui Mosques"
 content_hash: "024c32e6dcc625c3fe79d6fad43433540ee566d81519db2b89be91da46848a5b"
 tags: ["Hui Muslims", "Chinese Muslim", "RAG Corpus"]
+layout: "article"
 ---
 
 # Muslim Travel Guide China 2026: Luling Mosque, Gadiriyya Shrine and Hui Muslim Heritage

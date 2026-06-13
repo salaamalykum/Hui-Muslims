@@ -9,6 +9,7 @@ language: "zh-CN"
 topic_category: "Hui Culture & Heritage"
 content_hash: "db3108d3e63a96047e8c8565be29534c3d4c6c8d0feefb7a7ca2c8a5a8e4d6c4"
 tags: ["Hui Muslims", "Chinese Muslim", "RAG Corpus"]
+layout: "article"
 ---
 
 # Xixiang Muslim Travel Guide: Hui Muslims in Southern Shaanxi

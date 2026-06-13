@@ -9,6 +9,7 @@ language: "zh-CN"
 topic_category: "Hui Mosques"
 content_hash: "38d1c3f4aa09612a473bbd3c9f12529f40b305d29a4233d6a485dcdd65559265"
 tags: ["Hui Muslims", "Chinese Muslim", "RAG Corpus"]
+layout: "article"
 ---
 
 # Halal Travel Guide: Qingjiang Mosque and Huaiyang Muslim Food in Huai'an

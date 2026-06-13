@@ -9,6 +9,7 @@ language: "zh-CN"
 topic_category: "Hui Culture & Heritage"
 content_hash: "151e2327bc6882eb87de5d3651850050fdaff8e30e28c59714d59feb520c08b7"
 tags: ["Hui Muslims", "Chinese Muslim", "RAG Corpus"]
+layout: "article"
 ---
 
 # China local authorities deployed a range of tactics to defuse muslim community opposition.

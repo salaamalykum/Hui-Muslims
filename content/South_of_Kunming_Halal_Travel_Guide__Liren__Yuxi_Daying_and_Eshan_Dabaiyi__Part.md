@@ -9,6 +9,7 @@ language: "zh-CN"
 topic_category: "Hui Halal Food"
 content_hash: "eb5b40072ae252141eab575785410fa47f59cfd48436e5d82b1e16a82097325e"
 tags: ["Hui Muslims", "Chinese Muslim", "RAG Corpus"]
+layout: "article"
 ---
 
 # South of Kunming Halal Travel Guide: Liren, Yuxi Daying and Eshan Dabaiyi (Part 1)

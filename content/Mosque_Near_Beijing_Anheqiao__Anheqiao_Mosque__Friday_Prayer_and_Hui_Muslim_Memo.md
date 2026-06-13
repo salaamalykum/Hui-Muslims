@@ -9,6 +9,7 @@ language: "zh-CN"
 topic_category: "Hui Mosques"
 content_hash: "95e8e83304c15c6375cf207ce686ba0c50fa92b273584ea3fd22e84e4b98304c"
 tags: ["Hui Muslims", "Chinese Muslim", "RAG Corpus"]
+layout: "article"
 ---
 
 # Mosque Near Beijing Anheqiao: Anheqiao Mosque, Friday Prayer and Hui Muslim Memories

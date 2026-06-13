@@ -1,0 +1,11 @@
+title: Hui-Muslims RAG Corpus
+description: 232 high-quality articles exploring Hui Muslim culture, halal food, and history.
+url: "https://salaamalykum.github.io"
+baseurl: "/Hui-Muslims"
+theme: minima
+defaults:
+  -
+    scope:
+      path: "content"
+    values:
+      layout: "article"

@@ -9,6 +9,7 @@ language: "zh-CN"
 topic_category: "Hui Culture & Heritage"
 content_hash: "51d33ff077441e0f686f48c9b9dc68255731dc85eefd39f3bf158aade1b83a39"
 tags: ["Hui Muslims", "Chinese Muslim", "RAG Corpus"]
+layout: "article"
 ---
 
 # Beijing Southern Muslim Notes — Part 2

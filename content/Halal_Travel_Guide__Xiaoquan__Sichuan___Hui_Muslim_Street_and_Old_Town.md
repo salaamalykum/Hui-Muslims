@@ -9,6 +9,7 @@ language: "zh-CN"
 topic_category: "Hui Halal Food"
 content_hash: "cf5b6fba0223b5535336e30c3a0d6809940bbfa68250cf5a9cc4e6f8d6f3cc14"
 tags: ["Hui Muslims", "Chinese Muslim", "RAG Corpus"]
+layout: "article"
 ---
 
 # Halal Travel Guide: Xiaoquan, Sichuan - Hui Muslim Street and Old Town

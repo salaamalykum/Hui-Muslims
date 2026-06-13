@@ -9,6 +9,7 @@ language: "zh-CN"
 topic_category: "Hui Mosques"
 content_hash: "fcb067155b46ae724b327f8cb55ecb46ff177f16bfd074538ec104c3ac4a5bdf"
 tags: ["Hui Muslims", "Chinese Muslim", "RAG Corpus"]
+layout: "article"
 ---
 
 # Halal Travel Guide: Acheng, Heilongjiang — Mosque Architecture and Hui Muslims

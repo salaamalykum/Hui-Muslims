@@ -9,6 +9,7 @@ language: "zh-CN"
 topic_category: "Hui Halal Food"
 content_hash: "5cb9bd43074fc5fc9168fd8a3746a0cea02f8c748f17deec89bf2be4c6c38056"
 tags: ["Hui Muslims", "Chinese Muslim", "RAG Corpus"]
+layout: "article"
 ---
 
 # North China Muslim Life in Old Railway Photos: Hui Food, Shops and Streets

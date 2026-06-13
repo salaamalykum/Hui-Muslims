@@ -9,6 +9,7 @@ language: "zh-CN"
 topic_category: "Hui Halal Food"
 content_hash: "e06d689ecc67c27ba5addb5414b2a6ecb427f928f3cdd7adedc185686a8dbf69"
 tags: ["Hui Muslims", "Chinese Muslim", "RAG Corpus"]
+layout: "article"
 ---
 
 # Halal Travel Guide: Beijing — Sheng Hui Gathering and Hui Muslim Community

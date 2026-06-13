@@ -9,6 +9,7 @@ language: "zh-CN"
 topic_category: "Hui Halal Food"
 content_hash: "a648e3f8de28a4e1520a6c15ce55622e402ab455384843a0a1080d802465ddaa"
 tags: ["Hui Muslims", "Chinese Muslim", "RAG Corpus"]
+layout: "article"
 ---
 
 # Halal Travel Guide: Wangjiagou Hui Muslim Village in Chengde

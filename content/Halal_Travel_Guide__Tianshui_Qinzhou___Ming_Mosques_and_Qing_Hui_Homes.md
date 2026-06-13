@@ -9,6 +9,7 @@ language: "zh-CN"
 topic_category: "Hui Mosques"
 content_hash: "e82563dc6dc4bf28a73e7239f222c734c5749a0483c77e5ecf1abc6293503d33"
 tags: ["Hui Muslims", "Chinese Muslim", "RAG Corpus"]
+layout: "article"
 ---
 
 # Halal Travel Guide: Tianshui Qinzhou - Ming Mosques and Qing Hui Homes

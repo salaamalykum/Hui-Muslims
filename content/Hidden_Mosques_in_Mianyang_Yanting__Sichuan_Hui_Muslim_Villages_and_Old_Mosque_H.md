@@ -9,6 +9,7 @@ language: "zh-CN"
 topic_category: "Hui Mosques"
 content_hash: "38d356c5316f34cecc3770aae409fac05587365acd2373cd2400bd50d671e412"
 tags: ["Hui Muslims", "Chinese Muslim", "RAG Corpus"]
+layout: "article"
 ---
 
 # Hidden Mosques in Mianyang Yanting: Sichuan Hui Muslim Villages and Old Mosque History

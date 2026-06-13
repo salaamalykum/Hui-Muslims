@@ -9,6 +9,7 @@ language: "zh-CN"
 topic_category: "Hui Mosques"
 content_hash: "46c560b89ab8d4ba410e28cf0778bb9311266d091e64cc0d7699341372060b3d"
 tags: ["Hui Muslims", "Chinese Muslim", "RAG Corpus"]
+layout: "article"
 ---
 
 # Halal Travel Guide: Songpan - Mosques, Gongbei and Hui Muslim Homes

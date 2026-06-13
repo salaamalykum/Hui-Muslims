@@ -9,6 +9,7 @@ language: "zh-CN"
 topic_category: "Hui Mosques"
 content_hash: "b9ba0e6d89aa0a04415b030499a724a32bb5dcb26c3ed9aa035de09fca00a98f"
 tags: ["Hui Muslims", "Chinese Muslim", "RAG Corpus"]
+layout: "article"
 ---
 
 # Halal Travel Guide: Xi'an — Beiguangji Street Mosque History Museum

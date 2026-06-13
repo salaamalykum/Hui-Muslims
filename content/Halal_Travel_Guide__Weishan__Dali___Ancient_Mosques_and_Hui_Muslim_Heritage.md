@@ -9,6 +9,7 @@ language: "zh-CN"
 topic_category: "Hui Mosques"
 content_hash: "793ba1a1f479eb25b26e1e2cc16a508d5ccd05d35d87c70385e118c508a4c0a7"
 tags: ["Hui Muslims", "Chinese Muslim", "RAG Corpus"]
+layout: "article"
 ---
 
 # Halal Travel Guide: Weishan, Dali — Ancient Mosques and Hui Muslim Heritage

@@ -9,6 +9,7 @@ language: "zh-CN"
 topic_category: "Hui Mosques"
 content_hash: "1b7fbf5667c9fc106d87138a3eff9d7dcbf0bd299ae7568029874381adde9f37"
 tags: ["Hui Muslims", "Chinese Muslim", "RAG Corpus"]
+layout: "article"
 ---
 
 # Searching for Jiaochangkou Mosque Outside Beijing's Fuchengmen

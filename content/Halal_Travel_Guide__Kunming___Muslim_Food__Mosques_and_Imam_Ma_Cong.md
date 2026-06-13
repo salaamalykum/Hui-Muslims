@@ -9,6 +9,7 @@ language: "zh-CN"
 topic_category: "Hui Mosques"
 content_hash: "761b7843be3dffa5116d16cd794aa0364f45cc1c28772ede740337414b907250"
 tags: ["Hui Muslims", "Chinese Muslim", "RAG Corpus"]
+layout: "article"
 ---
 
 # Halal Travel Guide: Kunming — Muslim Food, Mosques and Imam Ma Cong

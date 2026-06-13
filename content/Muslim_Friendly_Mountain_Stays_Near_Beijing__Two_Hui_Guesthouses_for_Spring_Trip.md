@@ -9,6 +9,7 @@ language: "zh-CN"
 topic_category: "Hui Culture & Heritage"
 content_hash: "d88a2d9de5476c247c7375e97c50d5cf9ebb5e20966e0418a4f4693d4b44766f"
 tags: ["Hui Muslims", "Chinese Muslim", "RAG Corpus"]
+layout: "article"
 ---
 
 # Muslim-Friendly Mountain Stays Near Beijing: Two Hui Guesthouses for Spring Trips

@@ -9,6 +9,7 @@ language: "zh-CN"
 topic_category: "Hui Mosques"
 content_hash: "ba90e35326513f21c15a3bcab871a37653c7e5bca168124acd401abcb568cac9"
 tags: ["Hui Muslims", "Chinese Muslim", "RAG Corpus"]
+layout: "article"
 ---
 
 # Halal Travel Guide: Liaoning - 12 Historic Mosques, Part 1

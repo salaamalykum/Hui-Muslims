@@ -9,6 +9,7 @@ language: "zh-CN"
 topic_category: "Hui Halal Food"
 content_hash: "15707b5931be15d1a23cc008181cc78e263cdead4e7627faf2fb8877c2bc4eb5"
 tags: ["Hui Muslims", "Chinese Muslim", "RAG Corpus"]
+layout: "article"
 ---
 
 # Best Halal Food in Lanzhou: Beef Noodles, Hui Muslim Snacks and Local Restaurants

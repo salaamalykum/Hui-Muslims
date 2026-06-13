@@ -9,6 +9,7 @@ language: "zh-CN"
 topic_category: "Hui Mosques"
 content_hash: "a05f62a9b7071e30b9868fcd7bb3f47e330f9226814c8554548fc2a2a857a4f7"
 tags: ["Hui Muslims", "Chinese Muslim", "RAG Corpus"]
+layout: "article"
 ---
 
 # Halal Travel Guide: Bangkok Chinatown - Hui Cemetery, Mosque and History

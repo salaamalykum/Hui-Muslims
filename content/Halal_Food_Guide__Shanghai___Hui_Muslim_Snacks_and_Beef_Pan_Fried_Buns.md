@@ -9,6 +9,7 @@ language: "zh-CN"
 topic_category: "Hui Halal Food"
 content_hash: "93452e65615e591bfea401b272c6d49301dcc5e1432566ac4a6eefd38ab07b1e"
 tags: ["Hui Muslims", "Chinese Muslim", "RAG Corpus"]
+layout: "article"
 ---
 
 # Halal Food Guide: Shanghai - Hui Muslim Snacks and Beef Pan-Fried Buns

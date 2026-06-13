@@ -9,6 +9,7 @@ language: "zh-CN"
 topic_category: "Hui Halal Food"
 content_hash: "ef9fb5bbeb50933cc29bda566942b04c75ff7dee773dee52e2a8a3d6f9585a3e"
 tags: ["Hui Muslims", "Chinese Muslim", "RAG Corpus"]
+layout: "article"
 ---
 
 # Halal Travel Guide: Changying Hui Township Market in Beijing

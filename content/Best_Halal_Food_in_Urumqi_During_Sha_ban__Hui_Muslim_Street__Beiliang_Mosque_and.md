@@ -9,6 +9,7 @@ language: "zh-CN"
 topic_category: "Hui Mosques"
 content_hash: "13d3504793459b76206badb801cfd2af8a99b270b378b83b20877a6129510271"
 tags: ["Hui Muslims", "Chinese Muslim", "RAG Corpus"]
+layout: "article"
 ---
 
 # Best Halal Food in Urumqi During Sha'ban: Hui Muslim Street, Beiliang Mosque and Xinjiang Meals

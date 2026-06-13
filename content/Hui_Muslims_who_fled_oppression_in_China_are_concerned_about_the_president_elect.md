@@ -9,6 +9,7 @@ language: "zh-CN"
 topic_category: "Hui Culture & Heritage"
 content_hash: "4ec4ced254ef8d9773224d813db93f6a33657544bdedd3465f4fe354a516b072"
 tags: ["Hui Muslims", "Chinese Muslim", "RAG Corpus"]
+layout: "article"
 ---
 
 # Hui Muslims who fled oppression in China are concerned about the president-elect’s vows to tighten asylum policy.

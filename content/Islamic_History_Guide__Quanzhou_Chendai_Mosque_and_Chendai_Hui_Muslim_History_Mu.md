@@ -9,6 +9,7 @@ language: "zh-CN"
 topic_category: "Hui Mosques"
 content_hash: "ccad19ab73dae27737fa63521f22ec3dc698d762d561b750c40409a020b96d52"
 tags: ["Hui Muslims", "Chinese Muslim", "RAG Corpus"]
+layout: "article"
 ---
 
 # Islamic History Guide: Quanzhou Chendai Mosque and Chendai Hui Muslim History Museum

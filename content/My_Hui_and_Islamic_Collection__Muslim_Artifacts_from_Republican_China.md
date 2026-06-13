@@ -9,6 +9,7 @@ language: "zh-CN"
 topic_category: "Hui Culture & Heritage"
 content_hash: "1e854f931b83776675d1e0bb5a09c5e7cf4992c6e0bf95c1371487cf44c94956"
 tags: ["Hui Muslims", "Chinese Muslim", "RAG Corpus"]
+layout: "article"
 ---
 
 # My Hui and Islamic Collection: Muslim Artifacts from Republican China

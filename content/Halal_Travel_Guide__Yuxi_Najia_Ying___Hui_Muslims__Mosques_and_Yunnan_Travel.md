@@ -9,6 +9,7 @@ language: "zh-CN"
 topic_category: "Hui Mosques"
 content_hash: "92b591de6be918b6525054b402ea2c68c0225e168ab85c432a92355c9e7181e8"
 tags: ["Hui Muslims", "Chinese Muslim", "RAG Corpus"]
+layout: "article"
 ---
 
 # Halal Travel Guide: Yuxi Najia Ying — Hui Muslims, Mosques and Yunnan Travel

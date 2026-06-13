@@ -9,6 +9,7 @@ language: "zh-CN"
 topic_category: "Hui Halal Food"
 content_hash: "250807ef90f3451ba076bdd41562581e5c444a3f78b6e156abdc0fd51b9f2ca8"
 tags: ["Hui Muslims", "Chinese Muslim", "RAG Corpus"]
+layout: "article"
 ---
 
 # Halal Food Guide: Urumqi — Four Hui Muslim Banquet Restaurants

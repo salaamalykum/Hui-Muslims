@@ -9,6 +9,7 @@ language: "zh-CN"
 topic_category: "Hui Culture & Heritage"
 content_hash: "a43385ed84049e768e8b8223fa485636f67fbfe99f50848432dac04e09b096e8"
 tags: ["Hui Muslims", "Chinese Muslim", "RAG Corpus"]
+layout: "article"
 ---
 
 # Establishment of party-state supervision and control over recruitment of clergy and other personnel

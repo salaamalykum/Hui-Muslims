@@ -9,6 +9,7 @@ language: "zh-CN"
 topic_category: "Hui Mosques"
 content_hash: "c504f19e180d3783cc6c4ba27d47c10fe89f2606bd70be2d33890be27cf6e288"
 tags: ["Hui Muslims", "Chinese Muslim", "RAG Corpus"]
+layout: "article"
 ---
 
 # Halal Travel Guide: Qinhuangdao - Beaches, Mosques and Halal Food

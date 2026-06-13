@@ -9,6 +9,7 @@ language: "zh-CN"
 topic_category: "Hui Halal Food"
 content_hash: "a8a6fb3a75ff47afe0c18ca96fc965dedadbbd71af2899caf0e71c85db2cc0c7"
 tags: ["Hui Muslims", "Chinese Muslim", "RAG Corpus"]
+layout: "article"
 ---
 
 # Best Halal Food in Hebei: Hui Muslim Restaurants, Beef Dishes and Local Snacks

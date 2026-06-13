@@ -9,6 +9,7 @@ language: "zh-CN"
 topic_category: "Hui Halal Food"
 content_hash: "7b6916ae5ea17cc32eea749faea3dff90ce5545ac35ba3e080f9c46f828bb09c"
 tags: ["Hui Muslims", "Chinese Muslim", "RAG Corpus"]
+layout: "article"
 ---
 
 # Beijing Muslim History: Old Halal Notes from the Southern City

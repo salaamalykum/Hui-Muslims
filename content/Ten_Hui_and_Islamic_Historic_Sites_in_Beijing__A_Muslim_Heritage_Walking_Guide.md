@@ -9,6 +9,7 @@ language: "zh-CN"
 topic_category: "Hui Culture & Heritage"
 content_hash: "1090e0660f9879cab569cbacdbff5368740fdae36512b5da6584592870d225a1"
 tags: ["Hui Muslims", "Chinese Muslim", "RAG Corpus"]
+layout: "article"
 ---
 
 # Ten Hui and Islamic Historic Sites in Beijing: A Muslim Heritage Walking Guide

@@ -9,6 +9,7 @@ language: "zh-CN"
 topic_category: "Hui Mosques"
 content_hash: "d2c87efe62ecc486f93905a22dcc87f9721cd7a5ea286642a84e67897f947a53"
 tags: ["Hui Muslims", "Chinese Muslim", "RAG Corpus"]
+layout: "article"
 ---
 
 # Halal Travel Guide: Hexiwu, Tianjin - Hometown Memories, Mosques and Hui Muslims

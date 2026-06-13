@@ -9,6 +9,7 @@ language: "zh-CN"
 topic_category: "Hui Halal Food"
 content_hash: "83a5983bdae9621b1e07d768ba9db98c45b0bf5b8afde56568f0bee5271e2d98"
 tags: ["Hui Muslims", "Chinese Muslim", "RAG Corpus"]
+layout: "article"
 ---
 
 # Halal Travel Guide: Beijing Chaowai Guanxiang — Hui Muslim Quarter and Food

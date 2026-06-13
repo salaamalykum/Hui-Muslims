@@ -9,6 +9,7 @@ language: "zh-CN"
 topic_category: "Hui Culture & Heritage"
 content_hash: "fb6b4dbc659575aadec7d2aac972493143af25a44312fad6e07a9c92a69889fb"
 tags: ["Hui Muslims", "Chinese Muslim", "RAG Corpus"]
+layout: "article"
 ---
 
 # Muslim Life Guide: 2024 Hui Religious Life — Dua, Fasting, Qurbani &amp; Gatherings

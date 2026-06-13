@@ -9,6 +9,7 @@ language: "zh-CN"
 topic_category: "Hui Halal Food"
 content_hash: "e330c9865af64b1e71dd1bd0c0f1b32d2789006ac547bd642e35696ac31992de"
 tags: ["Hui Muslims", "Chinese Muslim", "RAG Corpus"]
+layout: "article"
 ---
 
 # Halal Travel Guide: Urumqi — Hui Muslim Street, Halal Food &amp; Xinjiang Markets

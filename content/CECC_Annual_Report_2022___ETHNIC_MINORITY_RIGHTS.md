@@ -9,6 +9,7 @@ language: "zh-CN"
 topic_category: "Hui Culture & Heritage"
 content_hash: "dbf6649e65eaaad7160515ad89dd2be6186bf5f0d3392db70fe07d1dfad35478"
 tags: ["Hui Muslims", "Chinese Muslim", "RAG Corpus"]
+layout: "article"
 ---
 
 # CECC Annual Report 2022 | ETHNIC MINORITY RIGHTS

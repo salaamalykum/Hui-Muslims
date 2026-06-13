@@ -9,6 +9,7 @@ language: "zh-CN"
 topic_category: "Hui Halal Food"
 content_hash: "10cf2ef4a4ca7c59a39d4b4232118faae7c51ef1e9007384e7c6f6402f9c466a"
 tags: ["Hui Muslims", "Chinese Muslim", "RAG Corpus"]
+layout: "article"
 ---
 
 # Xi'an Muslim Quarter Halal Food Guide: Hui Muslim Streets and Local Snacks

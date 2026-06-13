@@ -9,6 +9,7 @@ language: "zh-CN"
 topic_category: "Hui Halal Food"
 content_hash: "4419cd3c5056d731dd0ade5fe8edd24cc4262e2e1e91a339dc7d0f32d8671abc"
 tags: ["Hui Muslims", "Chinese Muslim", "RAG Corpus"]
+layout: "article"
 ---
 
 # Halal Travel Guide: Qinghai — Ping’an, Xunhua and Xining Muslim Heritage (Part 2)

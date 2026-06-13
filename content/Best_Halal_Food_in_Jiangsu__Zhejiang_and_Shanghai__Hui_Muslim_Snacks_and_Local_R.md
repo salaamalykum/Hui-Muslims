@@ -9,6 +9,7 @@ language: "zh-CN"
 topic_category: "Hui Halal Food"
 content_hash: "1a24622e8a090f8196116924021ca341fd3d051e84223849386dbbf3e923076e"
 tags: ["Hui Muslims", "Chinese Muslim", "RAG Corpus"]
+layout: "article"
 ---
 
 # Best Halal Food in Jiangsu, Zhejiang and Shanghai: Hui Muslim Snacks and Local Restaurants

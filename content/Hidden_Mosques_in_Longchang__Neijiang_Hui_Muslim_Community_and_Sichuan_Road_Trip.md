@@ -9,6 +9,7 @@ language: "zh-CN"
 topic_category: "Hui Mosques"
 content_hash: "57a78c92dc05d8de77109773d4cdc4894f2704450aabd8375c3d63702b7210c0"
 tags: ["Hui Muslims", "Chinese Muslim", "RAG Corpus"]
+layout: "article"
 ---
 
 # Hidden Mosques in Longchang: Neijiang Hui Muslim Community and Sichuan Road Trip

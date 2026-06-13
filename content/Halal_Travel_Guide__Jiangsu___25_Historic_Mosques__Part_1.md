@@ -9,6 +9,7 @@ language: "zh-CN"
 topic_category: "Hui Mosques"
 content_hash: "6e89ef4a4344f85a6bc53affca6338d5e90f086e44c0463c72046dd0f2880160"
 tags: ["Hui Muslims", "Chinese Muslim", "RAG Corpus"]
+layout: "article"
 ---
 
 # Halal Travel Guide: Jiangsu - 25 Historic Mosques, Part 1

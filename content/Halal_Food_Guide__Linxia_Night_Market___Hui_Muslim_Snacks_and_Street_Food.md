@@ -9,6 +9,7 @@ language: "zh-CN"
 topic_category: "Hui Halal Food"
 content_hash: "2eb275a3f0e7167b02e8b502c3868cc237dddc188fabe74a89a9a98e8d5d73b9"
 tags: ["Hui Muslims", "Chinese Muslim", "RAG Corpus"]
+layout: "article"
 ---
 
 # Halal Food Guide: Linxia Night Market — Hui Muslim Snacks and Street Food

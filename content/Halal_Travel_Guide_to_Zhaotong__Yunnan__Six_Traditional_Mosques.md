@@ -9,6 +9,7 @@ language: "zh-CN"
 topic_category: "Hui Mosques"
 content_hash: "2bf71b7410896946006157c692227b32a5a75d2c6894480c31fecf369f3bd166"
 tags: ["Hui Muslims", "Chinese Muslim", "RAG Corpus"]
+layout: "article"
 ---
 
 # Halal Travel Guide to Zhaotong, Yunnan: Six Traditional Mosques

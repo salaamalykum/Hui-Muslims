@@ -9,6 +9,7 @@ language: "zh-CN"
 topic_category: "Hui Mosques"
 content_hash: "2e4fac8e1ea8b1ef1eaf50d78f04a0e8a86001686296fea7a21a82cb7aa6e708"
 tags: ["Hui Muslims", "Chinese Muslim", "RAG Corpus"]
+layout: "article"
 ---
 
 # Halal Travel Guide: Beijing-Tianjin Canal — Mosques and Hui Muslim History

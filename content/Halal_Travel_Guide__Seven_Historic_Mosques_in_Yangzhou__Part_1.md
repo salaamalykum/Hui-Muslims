@@ -9,6 +9,7 @@ language: "zh-CN"
 topic_category: "Hui Mosques"
 content_hash: "73125d8c373b127a11bcfd5edf6dfe99d472889e524ef35610eeb9cd8af03cc7"
 tags: ["Hui Muslims", "Chinese Muslim", "RAG Corpus"]
+layout: "article"
 ---
 
 # Halal Travel Guide: Seven Historic Mosques in Yangzhou, Part 1

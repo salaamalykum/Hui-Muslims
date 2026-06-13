@@ -9,6 +9,7 @@ language: "zh-CN"
 topic_category: "Hui Halal Food"
 content_hash: "619dfe7657e23efb3506ca71eb79839fe66c0d618aab63145b48bf799acc68e6"
 tags: ["Hui Muslims", "Chinese Muslim", "RAG Corpus"]
+layout: "article"
 ---
 
 # Halal Travel Guide: Urumqi - Dawan Gongbei, Hui Muslims and Sufi Heritage

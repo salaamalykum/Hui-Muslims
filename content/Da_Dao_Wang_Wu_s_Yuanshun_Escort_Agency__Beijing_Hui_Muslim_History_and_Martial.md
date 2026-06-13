@@ -9,6 +9,7 @@ language: "zh-CN"
 topic_category: "Hui History"
 content_hash: "8bd0e857cc5b79fe824e596024d6ddf2cc36342b89ecc8e27dfd7ade591768b3"
 tags: ["Hui Muslims", "Chinese Muslim", "RAG Corpus"]
+layout: "article"
 ---
 
 # Da Dao Wang Wu's Yuanshun Escort Agency: Beijing Hui Muslim History and Martial Arts

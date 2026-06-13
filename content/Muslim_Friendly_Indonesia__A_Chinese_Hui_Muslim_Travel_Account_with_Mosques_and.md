@@ -9,6 +9,7 @@ language: "zh-CN"
 topic_category: "Hui Mosques"
 content_hash: "3c28553732ff548a0bbecda3d94ca7453d424498977efc8861bc1a2dcdd6be60"
 tags: ["Hui Muslims", "Chinese Muslim", "RAG Corpus"]
+layout: "article"
 ---
 
 # Muslim Friendly Indonesia: A Chinese Hui Muslim Travel Account with Mosques and Halal Food

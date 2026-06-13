@@ -9,6 +9,7 @@ language: "zh-CN"
 topic_category: "Hui Mosques"
 content_hash: "6b5a371b81da6bd958dfa584a513657a9b19e6f18972318d35869f321c1f584f"
 tags: ["Hui Muslims", "Chinese Muslim", "RAG Corpus"]
+layout: "article"
 ---
 
 # Halal Travel Guide: Beijing Balizhuang Mosque — Ramadan and Community Life

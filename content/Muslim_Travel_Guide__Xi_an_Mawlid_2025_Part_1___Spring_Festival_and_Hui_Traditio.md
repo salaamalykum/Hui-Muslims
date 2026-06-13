@@ -9,6 +9,7 @@ language: "zh-CN"
 topic_category: "Hui Culture & Heritage"
 content_hash: "380bcce96347628c6ac533de0cee145e75b4984aa488af1d01fac7a03a4fc6f1"
 tags: ["Hui Muslims", "Chinese Muslim", "RAG Corpus"]
+layout: "article"
 ---
 
 # Muslim Travel Guide: Xi'an Mawlid 2025 Part 1 — Spring Festival and Hui Traditions

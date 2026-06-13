@@ -9,6 +9,7 @@ language: "zh-CN"
 topic_category: "Hui Mosques"
 content_hash: "014c84a3eb48f260783bc1410ab2944c3896fe906054f231ce0738ef0b57cf12"
 tags: ["Hui Muslims", "Chinese Muslim", "RAG Corpus"]
+layout: "article"
 ---
 
 # Hidden Gongbei in Guangyuan: Jiujing Sufi Shrine, Mujiapo Hui Village and Sichuan Mosque Road Trip

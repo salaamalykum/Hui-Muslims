@@ -9,6 +9,7 @@ language: "zh-CN"
 topic_category: "Hui History"
 content_hash: "ba355a292ae3528fe47816507b850cff515f58d397a6a87a5351fc02adc8403b"
 tags: ["Hui Muslims", "Chinese Muslim", "RAG Corpus"]
+layout: "article"
 ---
 
 # Beijing Muslim History: Ma Fuxiang's Former Residence

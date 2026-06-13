@@ -9,6 +9,7 @@ language: "zh-CN"
 topic_category: "Hui Halal Food"
 content_hash: "f3b94dd4a7bb2153b441c6d68711d4a8028cef89789efcfc8e58ff515428ed04"
 tags: ["Hui Muslims", "Chinese Muslim", "RAG Corpus"]
+layout: "article"
 ---
 
 # Urumqi Hui Muslim Banquet: Xinjiang Halal Food and Local Muslim Culture

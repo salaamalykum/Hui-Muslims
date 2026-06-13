@@ -9,6 +9,7 @@ language: "zh-CN"
 topic_category: "Hui History"
 content_hash: "30b534cdff6ffdb00cfd862f5e948b5c4a6ad18c29fca378c7dd3b8da1c475ee"
 tags: ["Hui Muslims", "Chinese Muslim", "RAG Corpus"]
+layout: "article"
 ---
 
 # Muslim History Guide China: Hui Muslim Community, Anti-Muslim Rumors and Online Hate Speech

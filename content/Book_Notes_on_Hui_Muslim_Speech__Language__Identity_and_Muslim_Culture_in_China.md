@@ -9,6 +9,7 @@ language: "zh-CN"
 topic_category: "Hui Culture & Heritage"
 content_hash: "7a0d20742b4dd50059f863ef47da86c5f93d1b052d368adec1897336386c6307"
 tags: ["Hui Muslims", "Chinese Muslim", "RAG Corpus"]
+layout: "article"
 ---
 
 # Book Notes on Hui Muslim Speech: Language, Identity and Muslim Culture in China

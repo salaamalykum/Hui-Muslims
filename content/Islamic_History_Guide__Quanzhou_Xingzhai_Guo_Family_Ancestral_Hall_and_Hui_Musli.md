@@ -9,6 +9,7 @@ language: "zh-CN"
 topic_category: "Hui History"
 content_hash: "99dd8b8eb5828c1fd8a7a4bc884e83a08d6fd7ea5a61dc687e573e7f3de21b1e"
 tags: ["Hui Muslims", "Chinese Muslim", "RAG Corpus"]
+layout: "article"
 ---
 
 # Islamic History Guide: Quanzhou Xingzhai Guo Family Ancestral Hall and Hui Muslim Heritage

@@ -9,6 +9,7 @@ language: "zh-CN"
 topic_category: "Hui Mosques"
 content_hash: "96c6818ca7865ab694fe6960dc43a394316424e9d8b7cb76d57d84631fe26e24"
 tags: ["Hui Muslims", "Chinese Muslim", "RAG Corpus"]
+layout: "article"
 ---
 
 # Halal Travel Guide: Huai an, Jiangsu - Mosques, Hui Muslims and Local History

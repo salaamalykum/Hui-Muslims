@@ -9,6 +9,7 @@ language: "zh-CN"
 topic_category: "Hui Culture & Heritage"
 content_hash: "94e0502152324e82290b766620733fb416e57c8720b7fe83e106091d4a0b66b2"
 tags: ["Hui Muslims", "Chinese Muslim", "RAG Corpus"]
+layout: "article"
 ---
 
 # Hundreds of Hui Muslims Protest Arrest of Respected Imam in Yunnan Province, China Mainland

@@ -9,6 +9,7 @@ language: "zh-CN"
 topic_category: "Hui Halal Food"
 content_hash: "f17ef6b3d4f44572288fe13fd14807fda43dd1699c08353f932edbec5a33ae38"
 tags: ["Hui Muslims", "Chinese Muslim", "RAG Corpus"]
+layout: "article"
 ---
 
 # Best Halal Food in Tianjin Part 2: Hui Muslim Restaurants, Local Snacks and Seafood

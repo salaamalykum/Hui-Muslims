@@ -9,6 +9,7 @@ language: "zh-CN"
 topic_category: "Hui Culture & Heritage"
 content_hash: "639a8dcaad2bd88da9d340252796b4fca13d0fa608eec5e507224c14a9d897f1"
 tags: ["Hui Muslims", "Chinese Muslim", "RAG Corpus"]
+layout: "article"
 ---
 
 # Quanzhou Muslim Heritage: The Ding Hui Muslims of Chendai

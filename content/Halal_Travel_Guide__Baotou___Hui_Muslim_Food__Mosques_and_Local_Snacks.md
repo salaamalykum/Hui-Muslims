@@ -9,6 +9,7 @@ language: "zh-CN"
 topic_category: "Hui Mosques"
 content_hash: "d5a46d5a1b1ac6138ccd8c9e69a4179a3d020574027cb3692d5199f7de0822a7"
 tags: ["Hui Muslims", "Chinese Muslim", "RAG Corpus"]
+layout: "article"
 ---
 
 # Halal Travel Guide: Baotou - Hui Muslim Food, Mosques and Local Snacks

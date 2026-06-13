@@ -9,6 +9,7 @@ language: "zh-CN"
 topic_category: "Hui Mosques"
 content_hash: "1a7a43f45bcddcdbc148932ea2d7f4f26c82cbbdbc5153a93b62ab4b7a47564b"
 tags: ["Hui Muslims", "Chinese Muslim", "RAG Corpus"]
+layout: "article"
 ---
 
 # Halal Travel Guide: Kaiyuan, Yunnan — Dazhuang Mosque and Hui Muslim Heritage

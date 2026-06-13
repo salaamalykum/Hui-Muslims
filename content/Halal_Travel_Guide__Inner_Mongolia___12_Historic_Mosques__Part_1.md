@@ -9,6 +9,7 @@ language: "zh-CN"
 topic_category: "Hui Mosques"
 content_hash: "cd8e7ddb3d6bb5d445fdaa513f733f131c05ce1d768ba58ed394201d7c06e47c"
 tags: ["Hui Muslims", "Chinese Muslim", "RAG Corpus"]
+layout: "article"
 ---
 
 # Halal Travel Guide: Inner Mongolia - 12 Historic Mosques, Part 1

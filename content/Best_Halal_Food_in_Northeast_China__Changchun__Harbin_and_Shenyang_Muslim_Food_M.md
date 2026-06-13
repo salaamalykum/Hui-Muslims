@@ -9,6 +9,7 @@ language: "zh-CN"
 topic_category: "Hui Halal Food"
 content_hash: "4a4bcc015dc5669d82e1face514974bb116646dcdf0e4fd6d8fa281d044995e2"
 tags: ["Hui Muslims", "Chinese Muslim", "RAG Corpus"]
+layout: "article"
 ---
 
 # Best Halal Food in Northeast China: Changchun, Harbin and Shenyang Muslim Food Map

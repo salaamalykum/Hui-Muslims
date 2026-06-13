@@ -9,6 +9,7 @@ language: "zh-CN"
 topic_category: "Hui Culture & Heritage"
 content_hash: "29e0929243c6c76590aa89c77cea2ddcee87d14664bed176c5febda0de3d1751"
 tags: ["Hui Muslims", "Chinese Muslim", "RAG Corpus"]
+layout: "article"
 ---
 
 # Claude L. Pickens Jr. Collection: Republican-Era Hui Muslim Documents

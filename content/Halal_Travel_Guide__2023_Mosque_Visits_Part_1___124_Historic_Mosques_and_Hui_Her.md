@@ -9,6 +9,7 @@ language: "zh-CN"
 topic_category: "Hui Mosques"
 content_hash: "0eb8e21b566ce8a1105c28dbfe623cb4a89900eb65ef562e854cb6515cad89ce"
 tags: ["Hui Muslims", "Chinese Muslim", "RAG Corpus"]
+layout: "article"
 ---
 
 # Halal Travel Guide: 2023 Mosque Visits Part 1 — 124 Historic Mosques and Hui Heritage

@@ -9,6 +9,7 @@ language: "zh-CN"
 topic_category: "Hui Halal Food"
 content_hash: "b4166a7e6cf4f4c47293e222c1acc7850e59bc2290303bee8f6217e272cedfda"
 tags: ["Hui Muslims", "Chinese Muslim", "RAG Corpus"]
+layout: "article"
 ---
 
 # Halal Food Guide: Guangzhou — Hui Youxiang and Yemeni Food

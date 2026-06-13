@@ -9,6 +9,7 @@ language: "zh-CN"
 topic_category: "Hui Mosques"
 content_hash: "ec4ca2d6f5275d37673b91a50270bbb5aa5592ca2e871d9fcad89d683bc3c010"
 tags: ["Hui Muslims", "Chinese Muslim", "RAG Corpus"]
+layout: "article"
 ---
 
 # Halal Travel Guide: 25 Beijing Mosques — History, Architecture and Hui Muslim Heritage

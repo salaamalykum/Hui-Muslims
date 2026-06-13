@@ -9,6 +9,7 @@ language: "zh-CN"
 topic_category: "Hui Mosques"
 content_hash: "48ee847aae3b90846ff45af6bfedadce42bff9a511e9d6b2cfcd37fff9dd13fb"
 tags: ["Hui Muslims", "Chinese Muslim", "RAG Corpus"]
+layout: "article"
 ---
 
 # Halal Travel Guide: Tai'an, Shandong - Ramadan Mosque Visits and Hui History

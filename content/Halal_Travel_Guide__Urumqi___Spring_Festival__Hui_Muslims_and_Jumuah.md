@@ -9,6 +9,7 @@ language: "zh-CN"
 topic_category: "Hui Halal Food"
 content_hash: "3d6c26c1dc75b90894ffc4f21260275c4e1585ab402938a973920dc101b04d57"
 tags: ["Hui Muslims", "Chinese Muslim", "RAG Corpus"]
+layout: "article"
 ---
 
 # Halal Travel Guide: Urumqi - Spring Festival, Hui Muslims and Jumuah

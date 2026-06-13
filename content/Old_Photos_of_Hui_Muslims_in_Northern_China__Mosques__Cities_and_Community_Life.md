@@ -9,6 +9,7 @@ language: "zh-CN"
 topic_category: "Hui Mosques"
 content_hash: "e77ef692a484a4e5a6ce99414da513ccf0708a739ace4c65a65e9adf3b252ec1"
 tags: ["Hui Muslims", "Chinese Muslim", "RAG Corpus"]
+layout: "article"
 ---
 
 # Old Photos of Hui Muslims in Northern China: Mosques, Cities and Community Life

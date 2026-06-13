@@ -9,6 +9,7 @@ language: "zh-CN"
 topic_category: "Hui Mosques"
 content_hash: "180695991b660a7a52a39ce1efaa93ece302ed2b4672734f75d56fd6781c1ecd"
 tags: ["Hui Muslims", "Chinese Muslim", "RAG Corpus"]
+layout: "article"
 ---
 
 # Halal Travel Guide: Yancheng, Jiangsu - Mosque and Hui Muslim Food

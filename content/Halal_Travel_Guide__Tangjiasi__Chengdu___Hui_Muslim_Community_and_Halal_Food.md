@@ -9,6 +9,7 @@ language: "zh-CN"
 topic_category: "Hui Halal Food"
 content_hash: "fec71c746ae30ddeab6ca4611f7887274d764a5884a46922fe2b40189522911e"
 tags: ["Hui Muslims", "Chinese Muslim", "RAG Corpus"]
+layout: "article"
 ---
 
 # Halal Travel Guide: Tangjiasi, Chengdu - Hui Muslim Community and Halal Food

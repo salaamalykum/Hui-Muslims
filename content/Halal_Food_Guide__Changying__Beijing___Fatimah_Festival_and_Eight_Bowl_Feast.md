@@ -9,6 +9,7 @@ language: "zh-CN"
 topic_category: "Hui Halal Food"
 content_hash: "58362a7650d5e6b4024e53bfb074ef215401ff0215561545bb88ad277dd86948"
 tags: ["Hui Muslims", "Chinese Muslim", "RAG Corpus"]
+layout: "article"
 ---
 
 # Halal Food Guide: Changying, Beijing - Fatimah Festival and Eight-Bowl Feast

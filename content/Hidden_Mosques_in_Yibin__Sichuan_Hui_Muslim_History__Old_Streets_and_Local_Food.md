@@ -9,6 +9,7 @@ language: "zh-CN"
 topic_category: "Hui Mosques"
 content_hash: "6b9b362fc2e1ae78f80e5ca23bb39b3b579124167d61d0c77df444ca4ddfa82e"
 tags: ["Hui Muslims", "Chinese Muslim", "RAG Corpus"]
+layout: "article"
 ---
 
 # Hidden Mosques in Yibin: Sichuan Hui Muslim History, Old Streets and Local Food

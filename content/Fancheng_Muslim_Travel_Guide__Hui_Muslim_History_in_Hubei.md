@@ -9,6 +9,7 @@ language: "zh-CN"
 topic_category: "Hui History"
 content_hash: "c15804b2fb1accb3f00824dcc71ad339925a3ae9a834186ce2d581c68265003e"
 tags: ["Hui Muslims", "Chinese Muslim", "RAG Corpus"]
+layout: "article"
 ---
 
 # Fancheng Muslim Travel Guide: Hui Muslim History in Hubei

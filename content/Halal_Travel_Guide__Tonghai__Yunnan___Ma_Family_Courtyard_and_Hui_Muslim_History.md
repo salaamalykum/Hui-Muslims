@@ -9,6 +9,7 @@ language: "zh-CN"
 topic_category: "Hui Halal Food"
 content_hash: "a16d1dc245c412bbe050313498ef8e19293a56d1a99c13d1ad4794f743ed76fb"
 tags: ["Hui Muslims", "Chinese Muslim", "RAG Corpus"]
+layout: "article"
 ---
 
 # Halal Travel Guide: Tonghai, Yunnan — Ma Family Courtyard and Hui Muslim History

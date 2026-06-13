@@ -9,6 +9,7 @@ language: "zh-CN"
 topic_category: "Hui History"
 content_hash: "a089432152c7b02864c6b994b600f75e5d2e8ade39433eaa9ba8f274cfed19b9"
 tags: ["Hui Muslims", "Chinese Muslim", "RAG Corpus"]
+layout: "article"
 ---
 
 # Hidden Gongbei in Qingchuan: Dayuan Hui Township and Wulongshan Sufi Shrine in Guangyuan

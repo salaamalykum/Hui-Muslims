@@ -9,6 +9,7 @@ language: "zh-CN"
 topic_category: "Hui Halal Food"
 content_hash: "f3f9f851266a6ade4c14f55e5f8490ba5fd826008556d12e9ceb3565e7e0fcfc"
 tags: ["Hui Muslims", "Chinese Muslim", "RAG Corpus"]
+layout: "article"
 ---
 
 # Best Halal Food in Hubei: Wuhan Hui Muslim Restaurants, Beef Noodles and Local Snacks

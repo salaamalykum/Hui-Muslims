@@ -9,6 +9,7 @@ language: "zh-CN"
 topic_category: "Hui Halal Food"
 content_hash: "7b1e348a309295732ffff4a99abf0c712667e206681b90992f64da9dbba579c1"
 tags: ["Hui Muslims", "Chinese Muslim", "RAG Corpus"]
+layout: "article"
 ---
 
 # Halal Travel Guide: Jinan — Baba Cave, Baba Tomb and Sufi Heritage

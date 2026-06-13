@@ -9,6 +9,7 @@ language: "zh-CN"
 topic_category: "Hui Halal Food"
 content_hash: "c16f6f9178910f14ffbd497c7d398a08b9512e7145e39edb746ed919d7f50b34"
 tags: ["Hui Muslims", "Chinese Muslim", "RAG Corpus"]
+layout: "article"
 ---
 
 # Halal Travel Guide: Hui Muslims on the Ulan Butong Grassland

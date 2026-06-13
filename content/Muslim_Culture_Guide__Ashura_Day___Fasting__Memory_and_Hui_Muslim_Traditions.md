@@ -9,6 +9,7 @@ language: "zh-CN"
 topic_category: "Hui Culture & Heritage"
 content_hash: "722a0be10d6a29b97530cf0c4cb55c2986b817c1ae95e2ea37c159b7e14d113d"
 tags: ["Hui Muslims", "Chinese Muslim", "RAG Corpus"]
+layout: "article"
 ---
 
 # Muslim Culture Guide: Ashura Day - Fasting, Memory and Hui Muslim Traditions

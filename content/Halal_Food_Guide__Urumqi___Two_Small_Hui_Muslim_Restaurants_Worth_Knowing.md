@@ -9,6 +9,7 @@ language: "zh-CN"
 topic_category: "Hui Halal Food"
 content_hash: "d09303bac0f44472eaaca80285b2167b4a260b3d9fc71ebe7e7588df56e5587a"
 tags: ["Hui Muslims", "Chinese Muslim", "RAG Corpus"]
+layout: "article"
 ---
 
 # Halal Food Guide: Urumqi - Two Small Hui Muslim Restaurants Worth Knowing

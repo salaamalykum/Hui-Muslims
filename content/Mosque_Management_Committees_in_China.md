@@ -9,6 +9,7 @@ language: "zh-CN"
 topic_category: "Hui Mosques"
 content_hash: "507e21c9c500f2ee9e05ef30e57a240814fb4e3c159e45c5e65313c2e88d793b"
 tags: ["Hui Muslims", "Chinese Muslim", "RAG Corpus"]
+layout: "article"
 ---
 
 # Mosque Management Committees in China

@@ -9,6 +9,7 @@ language: "zh-CN"
 topic_category: "Hui Halal Food"
 content_hash: "fd59e17ad0f71bda1d26b74fbe5d40705b1c2225c49132488cacbda37388fe91"
 tags: ["Hui Muslims", "Chinese Muslim", "RAG Corpus"]
+layout: "article"
 ---
 
 # Yinchuan Muslim Wedding Travel Notes: Hui Muslim Culture and Halal Food

@@ -9,6 +9,7 @@ language: "zh-CN"
 topic_category: "Hui Halal Food"
 content_hash: "d5a549b1a3f2f046e2fd678dd9720fd656aad463432c637505d579931fc563a8"
 tags: ["Hui Muslims", "Chinese Muslim", "RAG Corpus"]
+layout: "article"
 ---
 
 # Halal Food Guide: Songpan - Hui Muslim Snacks in Sichuan

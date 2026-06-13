@@ -9,6 +9,7 @@ language: "zh-CN"
 topic_category: "Hui Mosques"
 content_hash: "f85dd3c25b2eff4a6b5bf6427546534d297f250dbfee935e23c5084d8a41acb0"
 tags: ["Hui Muslims", "Chinese Muslim", "RAG Corpus"]
+layout: "article"
 ---
 
 # Beihai Park Huihuiying Mosque: A Beijing Muslim Heritage Travel Note

@@ -9,6 +9,7 @@ language: "zh-CN"
 topic_category: "Hui Mosques"
 content_hash: "335394334af9bdb1531f81540a007689f2ec328c5c0569f6678d6bb39f4f2ff9"
 tags: ["Hui Muslims", "Chinese Muslim", "RAG Corpus"]
+layout: "article"
 ---
 
 # Halal Travel Guide: Almaty — Hui Muslim Mosque and Community Visit

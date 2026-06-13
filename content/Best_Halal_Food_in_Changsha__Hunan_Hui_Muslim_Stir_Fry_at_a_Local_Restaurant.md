@@ -9,6 +9,7 @@ language: "zh-CN"
 topic_category: "Hui Halal Food"
 content_hash: "6460ba0b5077b4bcd69b128a112c76406406af7b14e8b04a97f94067131b421c"
 tags: ["Hui Muslims", "Chinese Muslim", "RAG Corpus"]
+layout: "article"
 ---
 
 # Best Halal Food in Changsha: Hunan Hui Muslim Stir-Fry at a Local Restaurant

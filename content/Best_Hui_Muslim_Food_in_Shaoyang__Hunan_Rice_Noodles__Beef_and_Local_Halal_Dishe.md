@@ -9,6 +9,7 @@ language: "zh-CN"
 topic_category: "Hui Halal Food"
 content_hash: "2c235bcde174015f6560f9c32517e4f3d03f92448effe898ef632ba0fda8d70b"
 tags: ["Hui Muslims", "Chinese Muslim", "RAG Corpus"]
+layout: "article"
 ---
 
 # Best Hui Muslim Food in Shaoyang: Hunan Rice Noodles, Beef and Local Halal Dishes

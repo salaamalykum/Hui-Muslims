@@ -9,6 +9,7 @@ language: "zh-CN"
 topic_category: "Hui Culture & Heritage"
 content_hash: "cf07828a678c81e3943b3db5e50fa1aee6cff3c85d59dff3b4ff879eab97a001"
 tags: ["Hui Muslims", "Chinese Muslim", "RAG Corpus"]
+layout: "article"
 ---
 
 # Hidden Gongbei in Guangyuan: Nanshan Sufi Shrine and Sichuan Hui Muslim Village

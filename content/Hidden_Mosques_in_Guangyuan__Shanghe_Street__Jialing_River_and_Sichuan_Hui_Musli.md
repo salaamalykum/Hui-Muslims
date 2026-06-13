@@ -9,6 +9,7 @@ language: "zh-CN"
 topic_category: "Hui Mosques"
 content_hash: "8898a08d4a552cb833ebabfce324a2be11734c7d231fb1e402e62f4c6c805783"
 tags: ["Hui Muslims", "Chinese Muslim", "RAG Corpus"]
+layout: "article"
 ---
 
 # Hidden Mosques in Guangyuan: Shanghe Street, Jialing River and Sichuan Hui Muslim History

@@ -9,6 +9,7 @@ language: "zh-CN"
 topic_category: "Hui Mosques"
 content_hash: "f87797bb7991fa03774182fefb1aeee42f88b44770f3871499b854ae1abec59c"
 tags: ["Hui Muslims", "Chinese Muslim", "RAG Corpus"]
+layout: "article"
 ---
 
 # Hidden Mosques in Guangyuan Qingchuan: Qingxi Ancient Town and Sichuan Hui Muslim History

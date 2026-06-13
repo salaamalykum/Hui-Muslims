@@ -9,6 +9,7 @@ language: "zh-CN"
 topic_category: "Hui Mosques"
 content_hash: "7a18eb2339e316a7eb8172f13c6c5ff77312a6fa3ac6878b21269473808ea74c"
 tags: ["Hui Muslims", "Chinese Muslim", "RAG Corpus"]
+layout: "article"
 ---
 
 # Hidden Muslim Food Near Beijing: Nanying Village Aqiqah Feast and Langfang Mosque

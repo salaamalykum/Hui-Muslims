@@ -9,6 +9,7 @@ language: "zh-CN"
 topic_category: "Hui Mosques"
 content_hash: "43e010b96e5f38c4696a3fc911dde6450c13068b7415389a75d3c28deb39b6ea"
 tags: ["Hui Muslims", "Chinese Muslim", "RAG Corpus"]
+layout: "article"
 ---
 
 # Halal Travel Guide: Chengde - Three Historic Mosques and Hui Muslim Food

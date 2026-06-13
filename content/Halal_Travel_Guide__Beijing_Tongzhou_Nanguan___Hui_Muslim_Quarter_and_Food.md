@@ -9,6 +9,7 @@ language: "zh-CN"
 topic_category: "Hui Halal Food"
 content_hash: "96087524673ffb656904db5b7a6119f361c30ffec29c19f591d238a280bfd36a"
 tags: ["Hui Muslims", "Chinese Muslim", "RAG Corpus"]
+layout: "article"
 ---
 
 # Halal Travel Guide: Beijing Tongzhou Nanguan — Hui Muslim Quarter and Food

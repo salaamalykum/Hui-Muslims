@@ -9,6 +9,7 @@ language: "zh-CN"
 topic_category: "Hui Mosques"
 content_hash: "a5278fcfc43e1da4d2bea710a8c0cae8165dedd628943b43d1219cc375b28155"
 tags: ["Hui Muslims", "Chinese Muslim", "RAG Corpus"]
+layout: "article"
 ---
 
 # Halal Travel Guide: Beijing Changying — Hui Muslim Community, Mosques and Food

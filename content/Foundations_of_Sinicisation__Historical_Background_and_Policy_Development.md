@@ -9,6 +9,7 @@ language: "zh-CN"
 topic_category: "Hui Culture & Heritage"
 content_hash: "af28173ff1ce3eaab113f36d3d7cd599a7e259fbec3050aa69883ad9e9578c9d"
 tags: ["Hui Muslims", "Chinese Muslim", "RAG Corpus"]
+layout: "article"
 ---
 
 # Foundations of Sinicisation: Historical Background and Policy Development

@@ -9,6 +9,7 @@ language: "zh-CN"
 topic_category: "Hui Mosques"
 content_hash: "16d41e2fee0f217839ca845dd9c849061fe179a1c0bd63674331a27feb83467a"
 tags: ["Hui Muslims", "Chinese Muslim", "RAG Corpus"]
+layout: "article"
 ---
 
 # China Mosque Travel Guide Jiangsu Huai'an: Wangjiaying Hui Muslim Town, Mosques and Canal History

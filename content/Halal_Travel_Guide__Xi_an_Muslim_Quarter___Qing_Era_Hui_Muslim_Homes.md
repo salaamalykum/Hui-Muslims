@@ -9,6 +9,7 @@ language: "zh-CN"
 topic_category: "Hui Halal Food"
 content_hash: "54dbc2c3023170451eae47a2bb708b7b1c856d2d22eccc4a59083782a8d5fddc"
 tags: ["Hui Muslims", "Chinese Muslim", "RAG Corpus"]
+layout: "article"
 ---
 
 # Halal Travel Guide: Xi'an Muslim Quarter — Qing-Era Hui Muslim Homes

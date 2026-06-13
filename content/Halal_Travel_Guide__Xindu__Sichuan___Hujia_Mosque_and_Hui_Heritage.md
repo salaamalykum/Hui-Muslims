@@ -9,6 +9,7 @@ language: "zh-CN"
 topic_category: "Hui Mosques"
 content_hash: "97ee4b06d842cde1abc566d61c15ab4104077aae09aee33225d60fab92dfcfdd"
 tags: ["Hui Muslims", "Chinese Muslim", "RAG Corpus"]
+layout: "article"
 ---
 
 # Halal Travel Guide: Xindu, Sichuan - Hujia Mosque and Hui Heritage

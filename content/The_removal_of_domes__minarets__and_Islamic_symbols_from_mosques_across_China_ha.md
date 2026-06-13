@@ -9,6 +9,7 @@ language: "zh-CN"
 topic_category: "Hui Mosques"
 content_hash: "6932decbd9594d6930b92d08ea211c98989a0eb033dfb93cc4ded064b85a15d4"
 tags: ["Hui Muslims", "Chinese Muslim", "RAG Corpus"]
+layout: "article"
 ---
 
 # The removal of domes, minarets, and Islamic symbols from mosques across China has been the single most visible and widely reported aspect of the Sinicization of Islam. 

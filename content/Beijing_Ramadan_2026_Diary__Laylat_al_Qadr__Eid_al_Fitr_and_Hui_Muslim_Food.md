@@ -9,6 +9,7 @@ language: "zh-CN"
 topic_category: "Hui Halal Food"
 content_hash: "7967f4f5774b6130a29458f6ed52e45c2ceb287fe50abb46fc4b79ee81e8b4d9"
 tags: ["Hui Muslims", "Chinese Muslim", "RAG Corpus"]
+layout: "article"
 ---
 
 # Beijing Ramadan 2026 Diary: Laylat al-Qadr, Eid al-Fitr and Hui Muslim Food

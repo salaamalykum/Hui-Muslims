@@ -9,6 +9,7 @@ language: "zh-CN"
 topic_category: "Hui Halal Food"
 content_hash: "79d36376aee3eed47f3498bd33312576e4e2b9023da4c5cb903acd4f5836d18a"
 tags: ["Hui Muslims", "Chinese Muslim", "RAG Corpus"]
+layout: "article"
 ---
 
 # Halal Travel Guide: Urumqi — Twenty-Three Hui Muslim Neighborhoods &amp; Local History

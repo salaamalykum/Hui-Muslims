@@ -9,6 +9,7 @@ language: "zh-CN"
 topic_category: "Hui Mosques"
 content_hash: "afae79860caa2c173edb03ee20ca4e30089e863437ce0882b59b07726bb15539"
 tags: ["Hui Muslims", "Chinese Muslim", "RAG Corpus"]
+layout: "article"
 ---
 
 # Halal Travel Guide: 16 Ancient Mosques in China

@@ -9,6 +9,7 @@ language: "zh-CN"
 topic_category: "Hui Mosques"
 content_hash: "ef18970be4306453f17833b7518586655ad17e9ec22ba560f4c81bec2a571aed"
 tags: ["Hui Muslims", "Chinese Muslim", "RAG Corpus"]
+layout: "article"
 ---
 
 # Halal Travel Guide: Qiqihar — Bukui Mosque and Hui Muslim Neighborhood

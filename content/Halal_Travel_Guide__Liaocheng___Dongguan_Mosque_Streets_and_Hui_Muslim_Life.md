@@ -9,6 +9,7 @@ language: "zh-CN"
 topic_category: "Hui Mosques"
 content_hash: "f6fd0695a431def4c6328a08d7fa80903ed01afd50493f99b7c23633bc02828c"
 tags: ["Hui Muslims", "Chinese Muslim", "RAG Corpus"]
+layout: "article"
 ---
 
 # Halal Travel Guide: Liaocheng - Dongguan Mosque Streets and Hui Muslim Life

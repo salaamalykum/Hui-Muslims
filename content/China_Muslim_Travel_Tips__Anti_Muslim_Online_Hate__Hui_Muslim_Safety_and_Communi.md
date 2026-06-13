@@ -9,6 +9,7 @@ language: "zh-CN"
 topic_category: "Hui Culture & Heritage"
 content_hash: "bce40aff3c54d25a80fb2cb1de930f01880c270b2b55de9b65143c6a0ee1763f"
 tags: ["Hui Muslims", "Chinese Muslim", "RAG Corpus"]
+layout: "article"
 ---
 
 # China Muslim Travel Tips: Anti-Muslim Online Hate, Hui Muslim Safety and Community Awareness

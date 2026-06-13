@@ -9,6 +9,7 @@ language: "zh-CN"
 topic_category: "Hui Culture & Heritage"
 content_hash: "716a75dbe00167779c094709fd746e3767d148da929f46759c7d928002281dec"
 tags: ["Hui Muslims", "Chinese Muslim", "RAG Corpus"]
+layout: "article"
 ---
 
 # Xishuangbanna Paxi Dai: Hui Muslims Who Speak Dai and Their Muslim Heritage

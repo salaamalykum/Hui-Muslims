@@ -9,6 +9,7 @@ language: "zh-CN"
 topic_category: "Hui Halal Food"
 content_hash: "2e732127097a3025773615c66f585a7359808085ce21ecd18902fa995547b8cb"
 tags: ["Hui Muslims", "Chinese Muslim", "RAG Corpus"]
+layout: "article"
 ---
 
 # Hidden Halal Food in China: Chongqing Maodu Hotpot, Hui Muslims and Real Local Restaurants

@@ -9,6 +9,7 @@ language: "zh-CN"
 topic_category: "Hui Mosques"
 content_hash: "6f203f9036f33ac6ad6f7ea3a434986aad0dbff3daa289c468961e266a30f9cc"
 tags: ["Hui Muslims", "Chinese Muslim", "RAG Corpus"]
+layout: "article"
 ---
 
 # Halal Travel Guide: Shadian, Yunnan — Hui Muslims, Mosques and Local History

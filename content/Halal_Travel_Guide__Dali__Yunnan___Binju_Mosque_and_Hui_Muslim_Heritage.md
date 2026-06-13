@@ -9,6 +9,7 @@ language: "zh-CN"
 topic_category: "Hui Mosques"
 content_hash: "cf7f855e6437477341bd6d16e6cbbf80c82ec77aff8ad145aa657b3c491df93f"
 tags: ["Hui Muslims", "Chinese Muslim", "RAG Corpus"]
+layout: "article"
 ---
 
 # Halal Travel Guide: Dali, Yunnan — Binju Mosque and Hui Muslim Heritage

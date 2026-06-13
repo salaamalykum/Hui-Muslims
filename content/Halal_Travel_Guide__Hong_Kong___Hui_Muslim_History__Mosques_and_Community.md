@@ -9,6 +9,7 @@ language: "zh-CN"
 topic_category: "Hui Mosques"
 content_hash: "44d26bdac5638ad1d18057aa8774963457e640bd976aa2163135d967ec8325a1"
 tags: ["Hui Muslims", "Chinese Muslim", "RAG Corpus"]
+layout: "article"
 ---
 
 # Halal Travel Guide: Hong Kong — Hui Muslim History, Mosques and Community

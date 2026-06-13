@@ -9,6 +9,7 @@ language: "zh-CN"
 topic_category: "Hui Culture & Heritage"
 content_hash: "cfacf698b6046d43a78a3dfde59a8f2381a75b7a351f5883c96ba47d9b6ade66"
 tags: ["Hui Muslims", "Chinese Muslim", "RAG Corpus"]
+layout: "article"
 ---
 
 # Muslim Knowledge Guide China: Qur'an, Ancestor Worship, Hui Muslim Tradition and Faith Reform

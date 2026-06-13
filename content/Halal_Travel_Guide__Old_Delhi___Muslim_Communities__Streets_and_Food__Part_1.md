@@ -9,6 +9,7 @@ language: "zh-CN"
 topic_category: "Hui Halal Food"
 content_hash: "229366628ed152c95c17b3e8e28c59eb8df3afc967e10b5aaa00f94e410747fd"
 tags: ["Hui Muslims", "Chinese Muslim", "RAG Corpus"]
+layout: "article"
 ---
 
 # Halal Travel Guide: Old Delhi — Muslim Communities, Streets and Food (Part 1)

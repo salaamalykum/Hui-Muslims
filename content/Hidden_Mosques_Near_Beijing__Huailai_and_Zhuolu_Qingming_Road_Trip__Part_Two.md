@@ -9,6 +9,7 @@ language: "zh-CN"
 topic_category: "Hui Mosques"
 content_hash: "173750db35e01c3bf35b612680388f2e6db9619c7b03f72bbf6fbd590182f36a"
 tags: ["Hui Muslims", "Chinese Muslim", "RAG Corpus"]
+layout: "article"
 ---
 
 # Hidden Mosques Near Beijing: Huailai and Zhuolu Qingming Road Trip, Part Two

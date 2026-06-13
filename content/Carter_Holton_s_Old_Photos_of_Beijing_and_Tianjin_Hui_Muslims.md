@@ -9,6 +9,7 @@ language: "zh-CN"
 topic_category: "Hui Culture & Heritage"
 content_hash: "183bcc48d04c5615c1073afa7e39033dc1ded00fc47d4f97e2b38a066d586b6c"
 tags: ["Hui Muslims", "Chinese Muslim", "RAG Corpus"]
+layout: "article"
 ---
 
 # Carter Holton's Old Photos of Beijing and Tianjin Hui Muslims

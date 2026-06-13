@@ -9,6 +9,7 @@ language: "zh-CN"
 topic_category: "Hui Halal Food"
 content_hash: "7c1b917a647c95b790f3fea5d40c16c9d0689943583c373be963e6098c8a324a"
 tags: ["Hui Muslims", "Chinese Muslim", "RAG Corpus"]
+layout: "article"
 ---
 
 # Urumqi During Sha'ban, Part Two: Hui Muslim Food and Community Photo Notes

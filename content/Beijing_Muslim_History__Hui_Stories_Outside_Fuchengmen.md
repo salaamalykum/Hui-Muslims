@@ -9,6 +9,7 @@ language: "zh-CN"
 topic_category: "Hui History"
 content_hash: "c94a453966eb07442e7b44df04bd233a0325895191a2d454eb02851b1695ebff"
 tags: ["Hui Muslims", "Chinese Muslim", "RAG Corpus"]
+layout: "article"
 ---
 
 # Beijing Muslim History: Hui Stories Outside Fuchengmen

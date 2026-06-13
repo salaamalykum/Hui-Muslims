@@ -9,6 +9,7 @@ language: "zh-CN"
 topic_category: "Hui Mosques"
 content_hash: "04198dafeaf2fab337584bacf2c583dae338900c4bc8d4a44a6ce08a5af8f892"
 tags: ["Hui Muslims", "Chinese Muslim", "RAG Corpus"]
+layout: "article"
 ---
 
 # Halal Travel Guide: Northern Thailand — Yunnan Mosques and Hui Communities (Part 1)

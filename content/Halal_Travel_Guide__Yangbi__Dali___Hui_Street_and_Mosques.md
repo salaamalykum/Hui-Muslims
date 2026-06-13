@@ -9,6 +9,7 @@ language: "zh-CN"
 topic_category: "Hui Mosques"
 content_hash: "669273547886f5b50219226f1bb2c2b9502f35b6c633f96ea17f1916ab92e4a0"
 tags: ["Hui Muslims", "Chinese Muslim", "RAG Corpus"]
+layout: "article"
 ---
 
 # Halal Travel Guide: Yangbi, Dali — Hui Street and Mosques

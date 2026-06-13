@@ -9,6 +9,7 @@ language: "zh-CN"
 topic_category: "Hui Mosques"
 content_hash: "730b4989546ec7fc9887e5c406a9f850d1d7d54ffcb59b33854c5e0d99784a62"
 tags: ["Hui Muslims", "Chinese Muslim", "RAG Corpus"]
+layout: "article"
 ---
 
 # China Mosque Travel Guide Linyi: Matou Mosque, Southern Shandong Hui Muslims and Ramadan Food

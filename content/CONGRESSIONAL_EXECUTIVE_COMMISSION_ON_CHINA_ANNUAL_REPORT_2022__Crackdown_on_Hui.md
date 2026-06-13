@@ -9,6 +9,7 @@ language: "zh-CN"
 topic_category: "Hui Culture & Heritage"
 content_hash: "11243be3a1b8922b318133005ca8962fca906a390b10f5a1be57c3ed0aca8b08"
 tags: ["Hui Muslims", "Chinese Muslim", "RAG Corpus"]
+layout: "article"
 ---
 
 # CONGRESSIONAL-EXECUTIVE COMMISSION ON CHINA ANNUAL REPORT 2022: Crackdown on Hui Religion and Culture

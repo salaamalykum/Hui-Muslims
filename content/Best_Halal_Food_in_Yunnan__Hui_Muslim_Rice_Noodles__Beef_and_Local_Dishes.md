@@ -9,6 +9,7 @@ language: "zh-CN"
 topic_category: "Hui Halal Food"
 content_hash: "03cff6a7e9127ea6046d3f756671b37649d0346ce0ff26514311fb613725ad8c"
 tags: ["Hui Muslims", "Chinese Muslim", "RAG Corpus"]
+layout: "article"
 ---
 
 # Best Halal Food in Yunnan: Hui Muslim Rice Noodles, Beef and Local Dishes

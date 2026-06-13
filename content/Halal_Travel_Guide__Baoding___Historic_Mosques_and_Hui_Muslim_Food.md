@@ -9,6 +9,7 @@ language: "zh-CN"
 topic_category: "Hui Mosques"
 content_hash: "fd5546fcadf5fd4b9630b67747f632ade563c0fa4cfe6d0e5cafa525a150b578"
 tags: ["Hui Muslims", "Chinese Muslim", "RAG Corpus"]
+layout: "article"
 ---
 
 # Halal Travel Guide: Baoding — Historic Mosques and Hui Muslim Food

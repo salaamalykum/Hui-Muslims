@@ -9,6 +9,7 @@ language: "zh-CN"
 topic_category: "Hui Halal Food"
 content_hash: "55e3f4999c74788ce29c8c94d46a2a653a4a76718503432334828aee1c0d2fff"
 tags: ["Hui Muslims", "Chinese Muslim", "RAG Corpus"]
+layout: "article"
 ---
 
 # Best Halal Food in Henan: Hui Muslim Beef Soup, Noodles and Local Snacks

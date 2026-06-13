@@ -9,6 +9,7 @@ language: "zh-CN"
 topic_category: "Hui Mosques"
 content_hash: "3643c48545947e8064937d5f74bd420c3a0b04a85f9cf82e1cb69710b457a781"
 tags: ["Hui Muslims", "Chinese Muslim", "RAG Corpus"]
+layout: "article"
 ---
 
 # Halal Travel Guide: Dali Fengyi — Fengming Mosque and Clay Pot Rice Noodles

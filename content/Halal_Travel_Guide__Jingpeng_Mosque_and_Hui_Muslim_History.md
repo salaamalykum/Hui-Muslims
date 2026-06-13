@@ -9,6 +9,7 @@ language: "zh-CN"
 topic_category: "Hui Mosques"
 content_hash: "ebae84e34a289856de1f7bc30c28167f0e793df75fa524acddc33672b5f1c30a"
 tags: ["Hui Muslims", "Chinese Muslim", "RAG Corpus"]
+layout: "article"
 ---
 
 # Halal Travel Guide: Jingpeng Mosque and Hui Muslim History

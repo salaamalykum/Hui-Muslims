@@ -9,6 +9,7 @@ language: "zh-CN"
 topic_category: "Hui Halal Food"
 content_hash: "3a11b6408283e6163a3b017644c4d598a6df2da73de8e494b6a608bdc41df9ab"
 tags: ["Hui Muslims", "Chinese Muslim", "RAG Corpus"]
+layout: "article"
 ---
 
 # Halal Travel Guide: Urumqi Dawan — Hui Muslim Streets and Halal Food

@@ -9,6 +9,7 @@ language: "zh-CN"
 topic_category: "Hui Halal Food"
 content_hash: "a72d723230f5fce7dacc5a6ffce21a83020dc1f01c72a17bc9d6362f2b5947ba"
 tags: ["Hui Muslims", "Chinese Muslim", "RAG Corpus"]
+layout: "article"
 ---
 
 # Beijing Halal History: Muslim Shops West of Caishikou Road

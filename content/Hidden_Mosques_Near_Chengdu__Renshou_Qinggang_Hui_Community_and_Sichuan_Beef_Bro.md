@@ -9,6 +9,7 @@ language: "zh-CN"
 topic_category: "Hui Mosques"
 content_hash: "ffb776dc12178f210b5387564059307eed7df7d66ce9a00ba13c7ee3776696f1"
 tags: ["Hui Muslims", "Chinese Muslim", "RAG Corpus"]
+layout: "article"
 ---
 
 # Hidden Mosques Near Chengdu: Renshou Qinggang Hui Community and Sichuan Beef Broth

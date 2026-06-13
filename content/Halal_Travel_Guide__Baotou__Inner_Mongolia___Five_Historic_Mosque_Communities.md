@@ -9,6 +9,7 @@ language: "zh-CN"
 topic_category: "Hui Mosques"
 content_hash: "7e0c523c557b85c58bd75ddcaebbf424e7ebd70139a3e3ba1576af6970f3f8cf"
 tags: ["Hui Muslims", "Chinese Muslim", "RAG Corpus"]
+layout: "article"
 ---
 
 # Halal Travel Guide: Baotou, Inner Mongolia - Five Historic Mosque Communities

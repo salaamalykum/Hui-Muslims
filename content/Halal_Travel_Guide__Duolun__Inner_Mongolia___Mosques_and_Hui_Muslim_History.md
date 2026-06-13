@@ -9,6 +9,7 @@ language: "zh-CN"
 topic_category: "Hui Mosques"
 content_hash: "cb5a31ef01120853ae57defcbbbbf75ec3afea4d16c8fb419db994720c6140ff"
 tags: ["Hui Muslims", "Chinese Muslim", "RAG Corpus"]
+layout: "article"
 ---
 
 # Halal Travel Guide: Duolun, Inner Mongolia - Mosques and Hui Muslim History

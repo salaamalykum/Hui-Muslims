@@ -9,6 +9,7 @@ language: "zh-CN"
 topic_category: "Hui Halal Food"
 content_hash: "5f328c1255551fe1eef918f00b4386715b9e84b8907933b4fffb8a817809f75a"
 tags: ["Hui Muslims", "Chinese Muslim", "RAG Corpus"]
+layout: "article"
 ---
 
 # Hedda Morrison's Old Beijing Photos: Kaorouwan, Muslim Barbecue and Hui Food

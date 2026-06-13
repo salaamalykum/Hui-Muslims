@@ -9,6 +9,7 @@ language: "zh-CN"
 topic_category: "Hui Mosques"
 content_hash: "131c757d61028e24d47d1cb888c53fba9e6a5d76cc2ad2c446313977a0c67f0b"
 tags: ["Hui Muslims", "Chinese Muslim", "RAG Corpus"]
+layout: "article"
 ---
 
 # Halal Travel Guide: Chasuqi, Inner Mongolia - Great Mosque and Tumed Plain

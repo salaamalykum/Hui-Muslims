@@ -9,6 +9,7 @@ language: "zh-CN"
 topic_category: "Hui Halal Food"
 content_hash: "74dfed9957a60b6f4323936808f6086627c31bc4e518866ea38bbae132d31293"
 tags: ["Hui Muslims", "Chinese Muslim", "RAG Corpus"]
+layout: "article"
 ---
 
 # Halal Food Guide Urumqi: Hui Muslim Home Cooking and 15 Traditional Dishes (Part 1)

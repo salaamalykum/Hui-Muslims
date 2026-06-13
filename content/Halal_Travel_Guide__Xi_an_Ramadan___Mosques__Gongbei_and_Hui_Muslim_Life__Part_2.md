@@ -9,6 +9,7 @@ language: "zh-CN"
 topic_category: "Hui Mosques"
 content_hash: "9463634267cedded3e29fea8054d180e6fbde07276f02f45bd7fabb631024b4f"
 tags: ["Hui Muslims", "Chinese Muslim", "RAG Corpus"]
+layout: "article"
 ---
 
 # Halal Travel Guide: Xi'an Ramadan - Mosques, Gongbei and Hui Muslim Life (Part 2)

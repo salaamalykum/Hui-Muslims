@@ -9,6 +9,7 @@ language: "zh-CN"
 topic_category: "Hui Halal Food"
 content_hash: "f5578ded16253e34802cf6c03350bb5f04bbb284a29f67c771970e632c77c2f8"
 tags: ["Hui Muslims", "Chinese Muslim", "RAG Corpus"]
+layout: "article"
 ---
 
 # Urumqi Hui Muslim Home Cooking Guide: Everyday Halal Food in Xinjiang (Part 1)

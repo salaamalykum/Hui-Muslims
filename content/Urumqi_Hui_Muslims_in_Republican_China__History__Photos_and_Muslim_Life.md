@@ -9,6 +9,7 @@ language: "zh-CN"
 topic_category: "Hui History"
 content_hash: "701fcad8bde4d3111b1d371b6e15e758b3a1884e31ff68de971c8e106219eeba"
 tags: ["Hui Muslims", "Chinese Muslim", "RAG Corpus"]
+layout: "article"
 ---
 
 # Urumqi Hui Muslims in Republican China: History, Photos and Muslim Life

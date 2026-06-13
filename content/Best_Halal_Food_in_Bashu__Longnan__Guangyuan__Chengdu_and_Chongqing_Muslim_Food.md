@@ -9,6 +9,7 @@ language: "zh-CN"
 topic_category: "Hui Halal Food"
 content_hash: "3ecf7e539de3fbdb254e6681788b0463b72cb5e265ea38daba9b40347313fadf"
 tags: ["Hui Muslims", "Chinese Muslim", "RAG Corpus"]
+layout: "article"
 ---
 
 # Best Halal Food in Bashu: Longnan, Guangyuan, Chengdu and Chongqing Muslim Food Map

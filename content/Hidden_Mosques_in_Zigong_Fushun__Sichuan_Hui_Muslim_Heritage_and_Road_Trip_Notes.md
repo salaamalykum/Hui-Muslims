@@ -9,6 +9,7 @@ language: "zh-CN"
 topic_category: "Hui Mosques"
 content_hash: "fdd1a1926dfbcc120741257a4cc40a2b684f097b695af5eaccb710db0304a846"
 tags: ["Hui Muslims", "Chinese Muslim", "RAG Corpus"]
+layout: "article"
 ---
 
 # Hidden Mosques in Zigong Fushun: Sichuan Hui Muslim Heritage and Road Trip Notes

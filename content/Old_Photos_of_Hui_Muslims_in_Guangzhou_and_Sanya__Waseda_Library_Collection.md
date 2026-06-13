@@ -9,6 +9,7 @@ language: "zh-CN"
 topic_category: "Hui Culture & Heritage"
 content_hash: "a35296f89740dac97bd92530e3891e35bf5a5dc9c0c777854babe750ee906ce7"
 tags: ["Hui Muslims", "Chinese Muslim", "RAG Corpus"]
+layout: "article"
 ---
 
 # Old Photos of Hui Muslims in Guangzhou and Sanya: Waseda Library Collection

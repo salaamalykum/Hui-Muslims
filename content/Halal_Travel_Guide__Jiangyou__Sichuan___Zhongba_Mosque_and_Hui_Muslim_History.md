@@ -9,6 +9,7 @@ language: "zh-CN"
 topic_category: "Hui Mosques"
 content_hash: "2853719fb8dd09a63ab846fcb527eef3f8ecf609d37aabb073c3c2f291c0a29c"
 tags: ["Hui Muslims", "Chinese Muslim", "RAG Corpus"]
+layout: "article"
 ---
 
 # Halal Travel Guide: Jiangyou, Sichuan — Zhongba Mosque and Hui Muslim History

@@ -9,6 +9,7 @@ language: "zh-CN"
 topic_category: "Hui Halal Food"
 content_hash: "41266b4ea0bd361353714127d625419e888b8c025afbc5ab888713b840618e63"
 tags: ["Hui Muslims", "Chinese Muslim", "RAG Corpus"]
+layout: "article"
 ---
 
 # Best Halal Food in Tibet: Lhasa Muslim Restaurants, Noodles and Local Hui Food
