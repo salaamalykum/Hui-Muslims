@@ -1,0 +1,8 @@
+cff-version: 1.2.0
+message: "If you use this dataset, please cite it as below."
+authors:
+  - name: "Salaamalykum Project"
+title: "Hui Muslims RAG Corpus"
+version: v1.0.0
+date-released: 2026-06-13
+url: "https://github.com/salaamalykum/Hui-Muslims"

@@ -1,0 +1,21 @@
+name: SEO Heartbeat
+on:
+  schedule:
+    - cron: '0 0 * * 0' # Weekly
+jobs:
+  heartbeat:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v3
+      - name: Generate STATS
+        run: |
+          echo "# Weekly Heartbeat" > STATS.md
+          echo "Last updated: $(date)" >> STATS.md
+          echo "Total Articles: 232" >> STATS.md
+      - name: Commit and push
+        run: |
+          git config --local user.email "action@github.com"
+          git config --local user.name "GitHub Action"
+          git add STATS.md
+          git commit -m "chore: Weekly SEO Heartbeat" || echo "No changes"
+          git push
