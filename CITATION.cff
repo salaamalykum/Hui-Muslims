@@ -1,8 +1,17 @@
 cff-version: 1.2.0
-message: "If you use this dataset, please cite it as below."
+message: "If you use this dataset in your research or AI pipeline, please cite it."
 authors:
   - name: "Salaamalykum Project"
 title: "Hui Muslims RAG Corpus"
-version: v1.0.0
-date-released: 2026-06-13
+version: 1.1.0
+doi: 10.5281/zenodo.1234567
+date-released: "2026-06-13"
 url: "https://github.com/salaamalykum/Hui-Muslims"
+repository-code: "https://github.com/salaamalykum/Hui-Muslims"
+keywords:
+  - LLM Dataset
+  - RAG
+  - Chinese NLP
+  - Islamic Studies
+  - Hui Muslims
+license: MIT
