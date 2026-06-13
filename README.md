@@ -1,51 +1,300 @@
-# ☪ Hui-Muslims RAG Corpus & Knowledge Base
+# Hui Muslims Knowledge Base & RAG Dataset
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
-[![Hugging Face Dataset](https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-Dataset-blue)](https://huggingface.co/datasets/qurancn/Hui-Muslims)
-[![Hugging Face Space](https://img.shields.io/badge/%F0%9F%A4%97%20Space-Demo-orange)](https://huggingface.co/spaces/qurancn/Hui-Muslims-Search)
+[![Hugging Face](https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-Dataset-blue)](https://huggingface.co/datasets/qurancn/Hui-Muslims)
 
-## 📌 Benchmark Position
-**This dataset is currently the largest open-source, human-curated Chinese RAG knowledge base specifically focused on Hui Muslim culture, history, and halal lifestyle.**
+Dual-track Islamic Knowledge Base curated for human readers and AI crawlers. Features 232 articles covering Hui Muslim culture, travel, mosques, and halal food.
 
-## 📊 Dataset Statistics
-| Metric | Value |
-|--------|-------|
-| **Total Articles** | 232 |
-| **Language** | Chinese (Simplified, `zh-CN`) |
-| **Format** | Markdown (GitHub) / Parquet (HF) |
-| **Primary Sources** | salaamalykum.com |
+<div align="center">
 
-## 🧬 Data Schema (Hugging Face Parquet)
-| Column Name | Type | Description |
+# ﷽
+**In the name of Allah ﷻ, the Most Gracious, the Most Merciful**
+
+All praise belongs to Allah. May Allah show mercy and help all those who love truth and justice. May Allah grant peace, safety, and blessings to our brothers and sisters.
+
+</div>
+
+Salaamalykum (ٱلسَّلَامُ عَلَيْكُمْ) peace be upon you, dear brothers and sisters, friends who care about Islam and Muslims, and everyone reading this message. Below is an introduction to this website and the story behind its start.
+
+### What is Salaamalykum.com?
+Salaamalykum.com is a software platform built by Muslims to tell their real stories using their own voices and languages. It collects news, articles, and first-hand info about religious freedom, Islamic life, marriage matching, Halal food, and various Muslim communities. This allows the global Muslim community (Ummah) and the rest of the world to see what is actually happening on the ground. 
+
+From detailed translations by local Muslims about their mosques and communities to reflections on history, education, and human rights, this site tries to practice sincere invitation to Islam (Dawah) through honest witnessing rather than political propaganda.
+
+### What we are doing now: 
+salaamalykum website is an online community for global muslims. 
+ 
+### Who are we? Who are creators of this website?
+Alhamdulillah, we are muslims, we are trying to build more decentralized, 100% open-sourced websites and softwares for our muslim community, the ummah which we deserve. And this website is non-profit. 
+
+### What we believe：
+Follow Allah, Do good thing.
+> By Time. The human being is in loss. Except those who believe, and do good works, and encourage truth, and recommend patience. (Quran 103)
+
+### Community Rules: 
+- **No harmful stuffs for users**: criminals, racism, and spam etc. we cannot allow these in this website. we also cannot allow fake media news, fake Ads, spam infos in the front of user eyes. So, No Evil, No Racism, No Blablabla...
+- **No barrier for business**: Try to build a free trade association and system between muslim communities, who speak different language. 
+
+### 🌐 English, Simplified Chinese, and Traditional Chinese
+To serve people around the world, the website currently offers:
+- **An English website** for English speakers, which includes reports, long essays, and translated documents about policies affecting Chinese mosques (masajid), Halal food, Islamic education, and publishing.
+  English URL: [https://salaamalykum.com](https://salaamalykum.com)
+- **A Simplified Chinese section** for readers in Mainland China and overseas who read Simplified Chinese, focusing on the daily lives, cultural independence, and religious life of Hui and Uyghur Muslims under pressure.
+  Simplified Chinese URL: [https://salaamalykum.com/cn](https://salaamalykum.com/cn)
+- **A Traditional Chinese section** for users in Hong Kong, Taiwan, and around the world who read Traditional Chinese and want to follow the current situation of Chinese Muslims.
+  Traditional Chinese URL: [https://salaamalykum.com/tw](https://salaamalykum.com/tw)
+
+### 🕊️ Focus on Current Muslim Human Rights
+A focus on the current human rights situation of Muslims runs through these articles and documents:
+- Increased control over mosques (masajid) across Mainland China, including campaigns to "rectify" Arabic script, the Quran, and other Islamic architecture.
+- Persecution policies from Beijing and other local governments, including removing "Halal" labels from school cafeterias, renaming Muslim dining areas, and pushing "mixed dining" in the name of assimilation (tahawwul).
+- The struggle of Hui Muslims to keep their independent religious education (Jingtang education) and the right of senior teachers to certify Imams (Ahongs) without state interference.
+- Testimonies about Muslims being arrested and sentenced for printing and sharing Islamic books, as well as the broader impact on religious publishing and community memory.
+- The gathering and exposure of reports and evidence regarding concentration camps in Xinjiang.
+- The genocide in Palestine and Gaza.
+- Exposing and reporting on human rights abuses against Muslims happening all over the world.
+
+Sharing these materials is not meant to spread despair. Instead, it is to remind the global Muslim community (Ummah) that patience (sabr), gratitude (shukr), and unity are all parts of our faith (Deen), and that protecting cultural and religious freedom is a trust (amanah).
+
+### 📖 Chinese Quran (Five Translations)
+For Chinese-speaking Muslims and seekers, the project also has a mobile-friendly Chinese Quran section featuring translations by five different translators. This allows readers to compare wording, deepen their reflection (tadabbur), and choose the style that touches their heart the most.
+
+
+---
+
+## 📚 Article Index
+
+| Title | Markdown | Original URL |
 |---|---|---|
-| `id` | `string` | Unique article identifier |
-| `title` | `string` | Native Chinese title |
-| `text` | `string` | Complete article body with Markdown formatting |
-| `topic_category` | `string` | Categorization (e.g., Mosques, Halal Food) |
-| `source_url` | `string` | Original Canonical URL |
-
-## 🚀 Quick Start for LLM Pipelines (RAG)
-```python
-from datasets import load_dataset
-# Load the pre-chunked dataset from Hugging Face
-ds = load_dataset("qurancn/Hui-Muslims")
-print(ds['train'][0]['title'])
-```
-
-## 📜 Academic Citation (Zenodo & arXiv)
-If you use this corpus for instruction-tuning or evaluating LLMs, please cite our technical report:
-```bibtex
-@dataset{hui_muslims_2026,
-  title={Hui-Muslims: A Curated RAG Dataset of 232 Articles},
-  author={Salaamalykum Project},
-  year={2026},
-  url={https://github.com/salaamalykum/Hui-Muslims}
-}
-```
-
-## 🛠️ Project Iqra Pipeline
-This repository uses the automated Project Iqra pipeline:
-- `lastmod` timestamps strictly synced
-- Dual-track publishing (GH + HF)
-- Schema.org Dataset metadata injected
-- Automated Weekly SEO Heartbeat
+| Authentic Muslim Community in Jiaxing: Zhejiang Hui Mosques, Food and Canal History | [Markdown](content/Authentic_Muslim_Community_in_Jiaxing__Zhejiang_Hui_Mosques__Food_and_Canal_Hist.md) | [Original URL](https://salaamalykum.com/article/2639) |
+| Beihai Park Huihuiying Mosque: A Beijing Muslim Heritage Travel Note | [Markdown](content/Beihai_Park_Huihuiying_Mosque__A_Beijing_Muslim_Heritage_Travel_Note.md) | [Original URL](https://salaamalykum.com/article/1910) |
+| Beijing Halal History: Muslim Shops West of Caishikou Road | [Markdown](content/Beijing_Halal_History__Muslim_Shops_West_of_Caishikou_Road.md) | [Original URL](https://salaamalykum.com/article/2065) |
+| Beijing Muslim History: Hui Stories Outside Fuchengmen | [Markdown](content/Beijing_Muslim_History__Hui_Stories_Outside_Fuchengmen.md) | [Original URL](https://salaamalykum.com/article/2073) |
+| Beijing Muslim History: Ma Fuxiang's Former Residence | [Markdown](content/Beijing_Muslim_History__Ma_Fuxiang_s_Former_Residence.md) | [Original URL](https://salaamalykum.com/article/2050) |
+| Beijing Muslim History: Old Halal Notes from the Northern City | [Markdown](content/Beijing_Muslim_History__Old_Halal_Notes_from_the_Northern_City.md) | [Original URL](https://salaamalykum.com/article/2092) |
+| Beijing Muslim History: Old Halal Notes from the Northern City (Part 1 of 6) | [Markdown](content/Beijing_Muslim_History__Old_Halal_Notes_from_the_Northern_City__Part_1_of_6.md) | [Original URL](https://salaamalykum.com/article/2097) |
+| Beijing Muslim History: Old Halal Notes from the Northern City (Part 2 of 6) | [Markdown](content/Beijing_Muslim_History__Old_Halal_Notes_from_the_Northern_City__Part_2_of_6.md) | [Original URL](https://salaamalykum.com/article/2098) |
+| Beijing Muslim History: Old Halal Notes from the Northern City (Part 3 of 6) | [Markdown](content/Beijing_Muslim_History__Old_Halal_Notes_from_the_Northern_City__Part_3_of_6.md) | [Original URL](https://salaamalykum.com/article/2099) |
+| Beijing Muslim History: Old Halal Notes from the Northern City (Part 4 of 6) | [Markdown](content/Beijing_Muslim_History__Old_Halal_Notes_from_the_Northern_City__Part_4_of_6.md) | [Original URL](https://salaamalykum.com/article/2118) |
+| Beijing Muslim History: Old Halal Notes from the Northern City (Part 4 of 6) — Section 1 of 2 | [Markdown](content/Beijing_Muslim_History__Old_Halal_Notes_from_the_Northern_City__Part_4_of_6____S.md) | [Original URL](https://salaamalykum.com/article/2105) |
+| Beijing Muslim History: Old Halal Notes from the Northern City (Part 4 of 6) — Section 2 of 2 | [Markdown](content/Beijing_Muslim_History__Old_Halal_Notes_from_the_Northern_City__Part_4_of_6____S.md) | [Original URL](https://salaamalykum.com/article/2124) |
+| Beijing Muslim History: Old Halal Notes from the Northern City (Part 4 of 6) — Section 2 of 2 — Block 1 of 2 | [Markdown](content/Beijing_Muslim_History__Old_Halal_Notes_from_the_Northern_City__Part_4_of_6____S.md) | [Original URL](https://salaamalykum.com/article/2113) |
+| Beijing Muslim History: Old Halal Notes from the Northern City (Part 4 of 6) — Section 2 of 2 — Block 2 of 2 | [Markdown](content/Beijing_Muslim_History__Old_Halal_Notes_from_the_Northern_City__Part_4_of_6____S.md) | [Original URL](https://salaamalykum.com/article/2130) |
+| Beijing Muslim History: Old Halal Notes from the Northern City (Part 5 of 6) | [Markdown](content/Beijing_Muslim_History__Old_Halal_Notes_from_the_Northern_City__Part_5_of_6.md) | [Original URL](https://salaamalykum.com/article/2100) |
+| Beijing Muslim History: Old Halal Notes from the Northern City (Part 6 of 6) | [Markdown](content/Beijing_Muslim_History__Old_Halal_Notes_from_the_Northern_City__Part_6_of_6.md) | [Original URL](https://salaamalykum.com/article/2101) |
+| Beijing Muslim History: Old Halal Notes from the Southern City | [Markdown](content/Beijing_Muslim_History__Old_Halal_Notes_from_the_Southern_City.md) | [Original URL](https://salaamalykum.com/article/2091) |
+| Beijing Muslim History: Old Halal Notes from the Southern City (Part 1 of 5) | [Markdown](content/Beijing_Muslim_History__Old_Halal_Notes_from_the_Southern_City__Part_1_of_5.md) | [Original URL](https://salaamalykum.com/article/2115) |
+| Beijing Muslim History: Old Halal Notes from the Southern City (Part 1 of 5) — Section 1 of 2 | [Markdown](content/Beijing_Muslim_History__Old_Halal_Notes_from_the_Southern_City__Part_1_of_5____S.md) | [Original URL](https://salaamalykum.com/article/2103) |
+| Beijing Muslim History: Old Halal Notes from the Southern City (Part 1 of 5) — Section 2 of 2 | [Markdown](content/Beijing_Muslim_History__Old_Halal_Notes_from_the_Southern_City__Part_1_of_5____S.md) | [Original URL](https://salaamalykum.com/article/2120) |
+| Beijing Muslim History: Old Halal Notes from the Southern City (Part 1 of 5) — Section 2 of 2 — Block 1 of 3 | [Markdown](content/Beijing_Muslim_History__Old_Halal_Notes_from_the_Southern_City__Part_1_of_5____S.md) | [Original URL](https://salaamalykum.com/article/2107) |
+| Beijing Muslim History: Old Halal Notes from the Southern City (Part 1 of 5) — Section 2 of 2 — Block 2 of 3 | [Markdown](content/Beijing_Muslim_History__Old_Halal_Notes_from_the_Southern_City__Part_1_of_5____S.md) | [Original URL](https://salaamalykum.com/article/2126) |
+| Beijing Muslim History: Old Halal Notes from the Southern City (Part 1 of 5) — Section 2 of 2 — Block 3 of 3 | [Markdown](content/Beijing_Muslim_History__Old_Halal_Notes_from_the_Southern_City__Part_1_of_5____S.md) | [Original URL](https://salaamalykum.com/article/2108) |
+| Beijing Muslim History: Old Halal Notes from the Southern City (Part 2 of 5) | [Markdown](content/Beijing_Muslim_History__Old_Halal_Notes_from_the_Southern_City__Part_2_of_5.md) | [Original URL](https://salaamalykum.com/article/2116) |
+| Beijing Muslim History: Old Halal Notes from the Southern City (Part 2 of 5) — Section 1 of 2 | [Markdown](content/Beijing_Muslim_History__Old_Halal_Notes_from_the_Southern_City__Part_2_of_5____S.md) | [Original URL](https://salaamalykum.com/article/2104) |
+| Beijing Muslim History: Old Halal Notes from the Southern City (Part 2 of 5) — Section 2 of 2 | [Markdown](content/Beijing_Muslim_History__Old_Halal_Notes_from_the_Southern_City__Part_2_of_5____S.md) | [Original URL](https://salaamalykum.com/article/2121) |
+| Beijing Muslim History: Old Halal Notes from the Southern City (Part 2 of 5) — Section 2 of 2 — Block 1 of 3 | [Markdown](content/Beijing_Muslim_History__Old_Halal_Notes_from_the_Southern_City__Part_2_of_5____S.md) | [Original URL](https://salaamalykum.com/article/2109) |
+| Beijing Muslim History: Old Halal Notes from the Southern City (Part 2 of 5) — Section 2 of 2 — Block 2 of 3 | [Markdown](content/Beijing_Muslim_History__Old_Halal_Notes_from_the_Southern_City__Part_2_of_5____S.md) | [Original URL](https://salaamalykum.com/article/2110) |
+| Beijing Muslim History: Old Halal Notes from the Southern City (Part 2 of 5) — Section 2 of 2 — Block 3 of 3 | [Markdown](content/Beijing_Muslim_History__Old_Halal_Notes_from_the_Southern_City__Part_2_of_5____S.md) | [Original URL](https://salaamalykum.com/article/2127) |
+| Beijing Muslim History: Old Halal Notes from the Southern City (Part 3 of 5) | [Markdown](content/Beijing_Muslim_History__Old_Halal_Notes_from_the_Southern_City__Part_3_of_5.md) | [Original URL](https://salaamalykum.com/article/2095) |
+| Beijing Muslim History: Old Halal Notes from the Southern City (Part 4 of 5) | [Markdown](content/Beijing_Muslim_History__Old_Halal_Notes_from_the_Southern_City__Part_4_of_5.md) | [Original URL](https://salaamalykum.com/article/2117) |
+| Beijing Muslim History: Old Halal Notes from the Southern City (Part 4 of 5) — Section 1 of 2 | [Markdown](content/Beijing_Muslim_History__Old_Halal_Notes_from_the_Southern_City__Part_4_of_5____S.md) | [Original URL](https://salaamalykum.com/article/2122) |
+| Beijing Muslim History: Old Halal Notes from the Southern City (Part 4 of 5) — Section 1 of 2 — Block 1 of 2 | [Markdown](content/Beijing_Muslim_History__Old_Halal_Notes_from_the_Southern_City__Part_4_of_5____S.md) | [Original URL](https://salaamalykum.com/article/2111) |
+| Beijing Muslim History: Old Halal Notes from the Southern City (Part 4 of 5) — Section 1 of 2 — Block 2 of 2 | [Markdown](content/Beijing_Muslim_History__Old_Halal_Notes_from_the_Southern_City__Part_4_of_5____S.md) | [Original URL](https://salaamalykum.com/article/2128) |
+| Beijing Muslim History: Old Halal Notes from the Southern City (Part 4 of 5) — Section 2 of 2 | [Markdown](content/Beijing_Muslim_History__Old_Halal_Notes_from_the_Southern_City__Part_4_of_5____S.md) | [Original URL](https://salaamalykum.com/article/2123) |
+| Beijing Muslim History: Old Halal Notes from the Southern City (Part 4 of 5) — Section 2 of 2 — Block 1 of 2 | [Markdown](content/Beijing_Muslim_History__Old_Halal_Notes_from_the_Southern_City__Part_4_of_5____S.md) | [Original URL](https://salaamalykum.com/article/2129) |
+| Beijing Muslim History: Old Halal Notes from the Southern City (Part 4 of 5) — Section 2 of 2 — Block 2 of 2 | [Markdown](content/Beijing_Muslim_History__Old_Halal_Notes_from_the_Southern_City__Part_4_of_5____S.md) | [Original URL](https://salaamalykum.com/article/2112) |
+| Beijing Muslim History: Old Halal Notes from the Southern City (Part 5 of 5) | [Markdown](content/Beijing_Muslim_History__Old_Halal_Notes_from_the_Southern_City__Part_5_of_5.md) | [Original URL](https://salaamalykum.com/article/2096) |
+| Beijing Northern Muslim Notes — Part 6 | [Markdown](content/Beijing_Northern_Muslim_Notes___Part_6.md) | [Original URL](https://salaamalykum.com/article/2136) |
+| Beijing Ramadan 2026 Diary: Laylat al-Qadr, Eid al-Fitr and Hui Muslim Food | [Markdown](content/Beijing_Ramadan_2026_Diary__Laylat_al_Qadr__Eid_al_Fitr_and_Hui_Muslim_Food.md) | [Original URL](https://salaamalykum.com/article/2654) |
+| Beijing Southern Muslim Notes — Part 2 | [Markdown](content/Beijing_Southern_Muslim_Notes___Part_2.md) | [Original URL](https://salaamalykum.com/article/2132) |
+| Beijing Southern Muslim Notes — Part 3 | [Markdown](content/Beijing_Southern_Muslim_Notes___Part_3.md) | [Original URL](https://salaamalykum.com/article/2133) |
+| Beijing Southern Muslim Notes — Part 4 | [Markdown](content/Beijing_Southern_Muslim_Notes___Part_4.md) | [Original URL](https://salaamalykum.com/article/2134) |
+| Beijing Southern Muslim Notes — Part 5 | [Markdown](content/Beijing_Southern_Muslim_Notes___Part_5.md) | [Original URL](https://salaamalykum.com/article/2135) |
+| Best Halal Food Urumqi: Hui Muslim Street, Beiliang Mosque and Xinjiang Meals During Sha'ban | [Markdown](content/Best_Halal_Food_Urumqi__Hui_Muslim_Street__Beiliang_Mosque_and_Xinjiang_Meals_Du.md) | [Original URL](https://salaamalykum.com/article/3024) |
+| Best Halal Food in Bashu: Longnan, Guangyuan, Chengdu and Chongqing Muslim Food Map | [Markdown](content/Best_Halal_Food_in_Bashu__Longnan__Guangyuan__Chengdu_and_Chongqing_Muslim_Food.md) | [Original URL](https://salaamalykum.com/article/2680) |
+| Best Halal Food in Changsha: Hunan Hui Muslim Stir-Fry at a Local Restaurant | [Markdown](content/Best_Halal_Food_in_Changsha__Hunan_Hui_Muslim_Stir_Fry_at_a_Local_Restaurant.md) | [Original URL](https://salaamalykum.com/article/2669) |
+| Best Halal Food in Hebei: Hui Muslim Restaurants, Beef Dishes and Local Snacks | [Markdown](content/Best_Halal_Food_in_Hebei__Hui_Muslim_Restaurants__Beef_Dishes_and_Local_Snacks.md) | [Original URL](https://salaamalykum.com/article/2679) |
+| Best Halal Food in Henan: Hui Muslim Beef Soup, Noodles and Local Snacks | [Markdown](content/Best_Halal_Food_in_Henan__Hui_Muslim_Beef_Soup__Noodles_and_Local_Snacks.md) | [Original URL](https://salaamalykum.com/article/2681) |
+| Best Halal Food in Hubei: Wuhan Hui Muslim Restaurants, Beef Noodles and Local Snacks | [Markdown](content/Best_Halal_Food_in_Hubei__Wuhan_Hui_Muslim_Restaurants__Beef_Noodles_and_Local_S.md) | [Original URL](https://salaamalykum.com/article/2689) |
+| Best Halal Food in Jiangsu, Zhejiang and Shanghai: Hui Muslim Snacks and Local Restaurants | [Markdown](content/Best_Halal_Food_in_Jiangsu__Zhejiang_and_Shanghai__Hui_Muslim_Snacks_and_Local_R.md) | [Original URL](https://salaamalykum.com/article/2690) |
+| Best Halal Food in Lanzhou: Beef Noodles, Hui Muslim Snacks and Local Restaurants | [Markdown](content/Best_Halal_Food_in_Lanzhou__Beef_Noodles__Hui_Muslim_Snacks_and_Local_Restaurant.md) | [Original URL](https://salaamalykum.com/article/2684) |
+| Best Halal Food in Northeast China: Changchun, Harbin and Shenyang Muslim Food Map | [Markdown](content/Best_Halal_Food_in_Northeast_China__Changchun__Harbin_and_Shenyang_Muslim_Food_M.md) | [Original URL](https://salaamalykum.com/article/2692) |
+| Best Halal Food in Shandong: Jinan, Qingdao and Hui Muslim Local Dishes | [Markdown](content/Best_Halal_Food_in_Shandong__Jinan__Qingdao_and_Hui_Muslim_Local_Dishes.md) | [Original URL](https://salaamalykum.com/article/2696) |
+| Best Halal Food in Tianjin Part 2: Hui Muslim Restaurants, Local Snacks and Seafood | [Markdown](content/Best_Halal_Food_in_Tianjin_Part_2__Hui_Muslim_Restaurants__Local_Snacks_and_Seaf.md) | [Original URL](https://salaamalykum.com/article/2697) |
+| Best Halal Food in Tianjin: Hui Muslim Snacks, Seafood and Local Restaurants | [Markdown](content/Best_Halal_Food_in_Tianjin__Hui_Muslim_Snacks__Seafood_and_Local_Restaurants.md) | [Original URL](https://salaamalykum.com/article/2678) |
+| Best Halal Food in Tibet: Lhasa Muslim Restaurants, Noodles and Local Hui Food | [Markdown](content/Best_Halal_Food_in_Tibet__Lhasa_Muslim_Restaurants__Noodles_and_Local_Hui_Food.md) | [Original URL](https://salaamalykum.com/article/2682) |
+| Best Halal Food in Urumqi During Sha'ban: Hui Muslim Street, Beiliang Mosque and Xinjiang Meals | [Markdown](content/Best_Halal_Food_in_Urumqi_During_Sha_ban__Hui_Muslim_Street__Beiliang_Mosque_and.md) | [Original URL](https://salaamalykum.com/article/2647) |
+| Best Halal Food in Yunnan: Hui Muslim Rice Noodles, Beef and Local Dishes | [Markdown](content/Best_Halal_Food_in_Yunnan__Hui_Muslim_Rice_Noodles__Beef_and_Local_Dishes.md) | [Original URL](https://salaamalykum.com/article/2683) |
+| Best Hui Muslim Food in Shaoyang: Hunan Rice Noodles, Beef and Local Halal Dishes | [Markdown](content/Best_Hui_Muslim_Food_in_Shaoyang__Hunan_Rice_Noodles__Beef_and_Local_Halal_Dishe.md) | [Original URL](https://salaamalykum.com/article/2672) |
+| Book Notes on Hui Muslim Speech: Language, Identity and Muslim Culture in China | [Markdown](content/Book_Notes_on_Hui_Muslim_Speech__Language__Identity_and_Muslim_Culture_in_China.md) | [Original URL](https://salaamalykum.com/article/1927) |
+| CECC Annual Report 2022 | ETHNIC MINORITY RIGHTS | [Markdown](content/CECC_Annual_Report_2022___ETHNIC_MINORITY_RIGHTS.md) | [Original URL](https://salaamalykum.com/article/1540) |
+| CONGRESSIONAL-EXECUTIVE COMMISSION ON CHINA ANNUAL REPORT 2022: Crackdown on Hui Religion and Culture | [Markdown](content/CONGRESSIONAL_EXECUTIVE_COMMISSION_ON_CHINA_ANNUAL_REPORT_2022__Crackdown_on_Hui.md) | [Original URL](https://salaamalykum.com/article/1536) |
+| Carter Holton's Old Photos of Beijing and Tianjin Hui Muslims | [Markdown](content/Carter_Holton_s_Old_Photos_of_Beijing_and_Tianjin_Hui_Muslims.md) | [Original URL](https://salaamalykum.com/article/2015) |
+| China Mosque Travel Guide Jiangsu Huai'an: Hui Muslim Streets, Mosques and Local History | [Markdown](content/China_Mosque_Travel_Guide_Jiangsu_Huai_an__Hui_Muslim_Streets__Mosques_and_Local.md) | [Original URL](https://salaamalykum.com/article/2989) |
+| China Mosque Travel Guide Jiangsu Huai'an: Wangjiaying Hui Muslim Town, Mosques and Canal History | [Markdown](content/China_Mosque_Travel_Guide_Jiangsu_Huai_an__Wangjiaying_Hui_Muslim_Town__Mosques.md) | [Original URL](https://salaamalykum.com/article/3012) |
+| China Mosque Travel Guide Jiangsu: 25 Historic Mosques and Hui Muslim Heritage (Part 1) | [Markdown](content/China_Mosque_Travel_Guide_Jiangsu__25_Historic_Mosques_and_Hui_Muslim_Heritage.md) | [Original URL](https://salaamalykum.com/article/3018) |
+| China Mosque Travel Guide Jiangsu: 25 Historic Mosques and Hui Muslim Heritage (Part 4) | [Markdown](content/China_Mosque_Travel_Guide_Jiangsu__25_Historic_Mosques_and_Hui_Muslim_Heritage.md) | [Original URL](https://salaamalykum.com/article/3017) |
+| China Mosque Travel Guide Linyi: Matou Mosque, Southern Shandong Hui Muslims and Ramadan Food | [Markdown](content/China_Mosque_Travel_Guide_Linyi__Matou_Mosque__Southern_Shandong_Hui_Muslims_and.md) | [Original URL](https://salaamalykum.com/article/2908) |
+| China Mosque Travel Guide Linyi: Matou Mosque, Southern Shandong Hui Muslims and Ramadan Food | [Markdown](content/China_Mosque_Travel_Guide_Linyi__Matou_Mosque__Southern_Shandong_Hui_Muslims_and.md) | [Original URL](https://salaamalykum.com/article/3083) |
+| China Mosque Travel Guide Nanjing: Old South City, Liuhe and Zhuzhen Mosques (Part 1) | [Markdown](content/China_Mosque_Travel_Guide_Nanjing__Old_South_City__Liuhe_and_Zhuzhen_Mosques__Pa.md) | [Original URL](https://salaamalykum.com/article/3015) |
+| China Mosque Travel Guide Nanjing: Old South City, Liuhe and Zhuzhen Mosques (Part 2) | [Markdown](content/China_Mosque_Travel_Guide_Nanjing__Old_South_City__Liuhe_and_Zhuzhen_Mosques__Pa.md) | [Original URL](https://salaamalykum.com/article/3014) |
+| China Muslim Travel Tips: Anti-Muslim Online Hate, Hui Muslim Safety and Community Awareness | [Markdown](content/China_Muslim_Travel_Tips__Anti_Muslim_Online_Hate__Hui_Muslim_Safety_and_Communi.md) | [Original URL](https://salaamalykum.com/article/2935) |
+| China local authorities deployed a range of tactics to defuse muslim community opposition. | [Markdown](content/China_local_authorities_deployed_a_range_of_tactics_to_defuse_muslim_community_o.md) | [Original URL](https://salaamalykum.com/article/1676) |
+| Claude L. Pickens Jr. Collection: Republican-Era Hui Muslim Documents | [Markdown](content/Claude_L__Pickens_Jr__Collection__Republican_Era_Hui_Muslim_Documents.md) | [Original URL](https://salaamalykum.com/article/2025) |
+| Da Dao Wang Wu's Yuanshun Escort Agency: Beijing Hui Muslim History and Martial Arts | [Markdown](content/Da_Dao_Wang_Wu_s_Yuanshun_Escort_Agency__Beijing_Hui_Muslim_History_and_Martial.md) | [Original URL](https://salaamalykum.com/article/1918) |
+| Establishment of party-state supervision and control over recruitment of clergy and other personnel | [Markdown](content/Establishment_of_party_state_supervision_and_control_over_recruitment_of_clergy.md) | [Original URL](https://salaamalykum.com/article/1678) |
+| Fancheng Muslim Travel Guide: Hui Muslim History in Hubei | [Markdown](content/Fancheng_Muslim_Travel_Guide__Hui_Muslim_History_in_Hubei.md) | [Original URL](https://salaamalykum.com/article/1850) |
+| Foundations of Sinicisation: Historical Background and Policy Development | [Markdown](content/Foundations_of_Sinicisation__Historical_Background_and_Policy_Development.md) | [Original URL](https://salaamalykum.com/article/1659) |
+| Halal Food Guide Urumqi: Four Hui Muslim Banquet Restaurants and Local Dishes | [Markdown](content/Halal_Food_Guide_Urumqi__Four_Hui_Muslim_Banquet_Restaurants_and_Local_Dishes.md) | [Original URL](https://salaamalykum.com/article/3003) |
+| Halal Food Guide Urumqi: Hui Muslim Home Cooking and 15 Traditional Dishes (Part 1) | [Markdown](content/Halal_Food_Guide_Urumqi__Hui_Muslim_Home_Cooking_and_15_Traditional_Dishes__Part.md) | [Original URL](https://salaamalykum.com/article/2983) |
+| Halal Food Guide: Changying, Beijing - Fatimah Festival and Eight-Bowl Feast | [Markdown](content/Halal_Food_Guide__Changying__Beijing___Fatimah_Festival_and_Eight_Bowl_Feast.md) | [Original URL](https://salaamalykum.com/article/2329) |
+| Halal Food Guide: Guangzhou — Hui Youxiang and Yemeni Food | [Markdown](content/Halal_Food_Guide__Guangzhou___Hui_Youxiang_and_Yemeni_Food.md) | [Original URL](https://salaamalykum.com/article/2192) |
+| Halal Food Guide: Linxia Night Market — Hui Muslim Snacks and Street Food | [Markdown](content/Halal_Food_Guide__Linxia_Night_Market___Hui_Muslim_Snacks_and_Street_Food.md) | [Original URL](https://salaamalykum.com/article/1999) |
+| Halal Food Guide: Shanghai - Hui Muslim Snacks and Beef Pan-Fried Buns | [Markdown](content/Halal_Food_Guide__Shanghai___Hui_Muslim_Snacks_and_Beef_Pan_Fried_Buns.md) | [Original URL](https://salaamalykum.com/article/2637) |
+| Halal Food Guide: Songpan - Hui Muslim Snacks in Sichuan | [Markdown](content/Halal_Food_Guide__Songpan___Hui_Muslim_Snacks_in_Sichuan.md) | [Original URL](https://salaamalykum.com/article/2610) |
+| Halal Food Guide: Urumqi - Two Small Hui Muslim Restaurants Worth Knowing | [Markdown](content/Halal_Food_Guide__Urumqi___Two_Small_Hui_Muslim_Restaurants_Worth_Knowing.md) | [Original URL](https://salaamalykum.com/article/2346) |
+| Halal Food Guide: Urumqi — Four Hui Muslim Banquet Restaurants | [Markdown](content/Halal_Food_Guide__Urumqi___Four_Hui_Muslim_Banquet_Restaurants.md) | [Original URL](https://salaamalykum.com/article/2467) |
+| Halal Travel Guide to Zhaotong, Yunnan: Six Traditional Mosques | [Markdown](content/Halal_Travel_Guide_to_Zhaotong__Yunnan__Six_Traditional_Mosques.md) | [Original URL](https://salaamalykum.com/article/1840) |
+| Halal Travel Guide: 16 Ancient Mosques in China | [Markdown](content/Halal_Travel_Guide__16_Ancient_Mosques_in_China.md) | [Original URL](https://salaamalykum.com/article/2489) |
+| Halal Travel Guide: 2023 Mosque Visits Part 1 — 124 Historic Mosques and Hui Heritage | [Markdown](content/Halal_Travel_Guide__2023_Mosque_Visits_Part_1___124_Historic_Mosques_and_Hui_Her.md) | [Original URL](https://salaamalykum.com/article/2454) |
+| Halal Travel Guide: 2023 Mosque Visits Part 2 — 124 Historic Mosques and Hui Heritage | [Markdown](content/Halal_Travel_Guide__2023_Mosque_Visits_Part_2___124_Historic_Mosques_and_Hui_Her.md) | [Original URL](https://salaamalykum.com/article/2453) |
+| Halal Travel Guide: 25 Beijing Mosques — History, Architecture and Hui Muslim Heritage | [Markdown](content/Halal_Travel_Guide__25_Beijing_Mosques___History__Architecture_and_Hui_Muslim_He.md) | [Original URL](https://salaamalykum.com/article/2137) |
+| Halal Travel Guide: Acheng, Heilongjiang — Mosque Architecture and Hui Muslims | [Markdown](content/Halal_Travel_Guide__Acheng__Heilongjiang___Mosque_Architecture_and_Hui_Muslims.md) | [Original URL](https://salaamalykum.com/article/2300) |
+| Halal Travel Guide: Almaty — Hui Muslim Mosque and Community Visit | [Markdown](content/Halal_Travel_Guide__Almaty___Hui_Muslim_Mosque_and_Community_Visit.md) | [Original URL](https://salaamalykum.com/article/2306) |
+| Halal Travel Guide: Bangkok Chinatown - Hui Cemetery, Mosque and History | [Markdown](content/Halal_Travel_Guide__Bangkok_Chinatown___Hui_Cemetery__Mosque_and_History.md) | [Original URL](https://salaamalykum.com/article/2594) |
+| Halal Travel Guide: Baoding — Historic Mosques and Hui Muslim Food | [Markdown](content/Halal_Travel_Guide__Baoding___Historic_Mosques_and_Hui_Muslim_Food.md) | [Original URL](https://salaamalykum.com/article/2212) |
+| Halal Travel Guide: Baotou - Hui Muslim Food, Mosques and Local Snacks | [Markdown](content/Halal_Travel_Guide__Baotou___Hui_Muslim_Food__Mosques_and_Local_Snacks.md) | [Original URL](https://salaamalykum.com/article/2591) |
+| Halal Travel Guide: Baotou, Inner Mongolia - Five Historic Mosque Communities | [Markdown](content/Halal_Travel_Guide__Baotou__Inner_Mongolia___Five_Historic_Mosque_Communities.md) | [Original URL](https://salaamalykum.com/article/2568) |
+| Halal Travel Guide: Beijing Balizhuang Mosque — Ramadan and Community Life | [Markdown](content/Halal_Travel_Guide__Beijing_Balizhuang_Mosque___Ramadan_and_Community_Life.md) | [Original URL](https://salaamalykum.com/article/2219) |
+| Halal Travel Guide: Beijing Changying — Hui Muslim Community, Mosques and Food | [Markdown](content/Halal_Travel_Guide__Beijing_Changying___Hui_Muslim_Community__Mosques_and_Food.md) | [Original URL](https://salaamalykum.com/article/2187) |
+| Halal Travel Guide: Beijing Chaowai Guanxiang — Hui Muslim Quarter and Food | [Markdown](content/Halal_Travel_Guide__Beijing_Chaowai_Guanxiang___Hui_Muslim_Quarter_and_Food.md) | [Original URL](https://salaamalykum.com/article/2186) |
+| Halal Travel Guide: Beijing Tongzhou Nanguan — Hui Muslim Quarter and Food | [Markdown](content/Halal_Travel_Guide__Beijing_Tongzhou_Nanguan___Hui_Muslim_Quarter_and_Food.md) | [Original URL](https://salaamalykum.com/article/2163) |
+| Halal Travel Guide: Beijing — Sheng Hui Gathering and Hui Muslim Community | [Markdown](content/Halal_Travel_Guide__Beijing___Sheng_Hui_Gathering_and_Hui_Muslim_Community.md) | [Original URL](https://salaamalykum.com/article/2305) |
+| Halal Travel Guide: Beijing-Tianjin Canal — Mosques and Hui Muslim History | [Markdown](content/Halal_Travel_Guide__Beijing_Tianjin_Canal___Mosques_and_Hui_Muslim_History.md) | [Original URL](https://salaamalykum.com/article/2188) |
+| Halal Travel Guide: Changying Hui Township Market in Beijing | [Markdown](content/Halal_Travel_Guide__Changying_Hui_Township_Market_in_Beijing.md) | [Original URL](https://salaamalykum.com/article/2527) |
+| Halal Travel Guide: Chasuqi, Inner Mongolia - Great Mosque and Tumed Plain | [Markdown](content/Halal_Travel_Guide__Chasuqi__Inner_Mongolia___Great_Mosque_and_Tumed_Plain.md) | [Original URL](https://salaamalykum.com/article/2557) |
+| Halal Travel Guide: Chengde - Three Historic Mosques and Hui Muslim Food | [Markdown](content/Halal_Travel_Guide__Chengde___Three_Historic_Mosques_and_Hui_Muslim_Food.md) | [Original URL](https://salaamalykum.com/article/2535) |
+| Halal Travel Guide: Dali Fengyi — Fengming Mosque and Clay Pot Rice Noodles | [Markdown](content/Halal_Travel_Guide__Dali_Fengyi___Fengming_Mosque_and_Clay_Pot_Rice_Noodles.md) | [Original URL](https://salaamalykum.com/article/2287) |
+| Halal Travel Guide: Dali, Yunnan — Binju Mosque and Hui Muslim Heritage | [Markdown](content/Halal_Travel_Guide__Dali__Yunnan___Binju_Mosque_and_Hui_Muslim_Heritage.md) | [Original URL](https://salaamalykum.com/article/2288) |
+| Halal Travel Guide: Duolun, Inner Mongolia - Mosques and Hui Muslim History | [Markdown](content/Halal_Travel_Guide__Duolun__Inner_Mongolia___Mosques_and_Hui_Muslim_History.md) | [Original URL](https://salaamalykum.com/article/2529) |
+| Halal Travel Guide: Hexiwu, Tianjin - Family Travel, Mosques and Old Streets | [Markdown](content/Halal_Travel_Guide__Hexiwu__Tianjin___Family_Travel__Mosques_and_Old_Streets.md) | [Original URL](https://salaamalykum.com/article/2552) |
+| Halal Travel Guide: Hexiwu, Tianjin - Hometown Memories, Mosques and Hui Muslims | [Markdown](content/Halal_Travel_Guide__Hexiwu__Tianjin___Hometown_Memories__Mosques_and_Hui_Muslims.md) | [Original URL](https://salaamalykum.com/article/2361) |
+| Halal Travel Guide: Hong Kong — Hui Muslim History, Mosques and Community | [Markdown](content/Halal_Travel_Guide__Hong_Kong___Hui_Muslim_History__Mosques_and_Community.md) | [Original URL](https://salaamalykum.com/article/2281) |
+| Halal Travel Guide: Huai an, Jiangsu - Mosques, Hui Muslims and Local History | [Markdown](content/Halal_Travel_Guide__Huai_an__Jiangsu___Mosques__Hui_Muslims_and_Local_History.md) | [Original URL](https://salaamalykum.com/article/2347) |
+| Halal Travel Guide: Hui Muslims on the Ulan Butong Grassland | [Markdown](content/Halal_Travel_Guide__Hui_Muslims_on_the_Ulan_Butong_Grassland.md) | [Original URL](https://salaamalykum.com/article/2522) |
+| Halal Travel Guide: Inner Mongolia - 12 Historic Mosques, Part 1 | [Markdown](content/Halal_Travel_Guide__Inner_Mongolia___12_Historic_Mosques__Part_1.md) | [Original URL](https://salaamalykum.com/article/2571) |
+| Halal Travel Guide: Inner Mongolia - 12 Historic Mosques, Part 2 | [Markdown](content/Halal_Travel_Guide__Inner_Mongolia___12_Historic_Mosques__Part_2.md) | [Original URL](https://salaamalykum.com/article/2570) |
+| Halal Travel Guide: Inner Mongolia - 12 Historic Mosques, Part 3 | [Markdown](content/Halal_Travel_Guide__Inner_Mongolia___12_Historic_Mosques__Part_3.md) | [Original URL](https://salaamalykum.com/article/2569) |
+| Halal Travel Guide: Jiangsu - 25 Historic Mosques, Part 1 | [Markdown](content/Halal_Travel_Guide__Jiangsu___25_Historic_Mosques__Part_1.md) | [Original URL](https://salaamalykum.com/article/2588) |
+| Halal Travel Guide: Jiangsu - 25 Historic Mosques, Part 2 | [Markdown](content/Halal_Travel_Guide__Jiangsu___25_Historic_Mosques__Part_2.md) | [Original URL](https://salaamalykum.com/article/2577) |
+| Halal Travel Guide: Jiangsu - 25 Historic Mosques, Part 3 | [Markdown](content/Halal_Travel_Guide__Jiangsu___25_Historic_Mosques__Part_3.md) | [Original URL](https://salaamalykum.com/article/2576) |
+| Halal Travel Guide: Jiangsu - 25 Historic Mosques, Part 4 | [Markdown](content/Halal_Travel_Guide__Jiangsu___25_Historic_Mosques__Part_4.md) | [Original URL](https://salaamalykum.com/article/2578) |
+| Halal Travel Guide: Jiangsu - 25 Historic Mosques, Part 4 | [Markdown](content/Halal_Travel_Guide__Jiangsu___25_Historic_Mosques__Part_4.md) | [Original URL](https://salaamalykum.com/article/2579) |
+| Halal Travel Guide: Jiangsu - 25 Historic Mosques, Part 5 | [Markdown](content/Halal_Travel_Guide__Jiangsu___25_Historic_Mosques__Part_5.md) | [Original URL](https://salaamalykum.com/article/2575) |
+| Halal Travel Guide: Jiangyou, Sichuan — Zhongba Mosque and Hui Muslim History | [Markdown](content/Halal_Travel_Guide__Jiangyou__Sichuan___Zhongba_Mosque_and_Hui_Muslim_History.md) | [Original URL](https://salaamalykum.com/article/2481) |
+| Halal Travel Guide: Jinan — Baba Cave, Baba Tomb and Sufi Heritage | [Markdown](content/Halal_Travel_Guide__Jinan___Baba_Cave__Baba_Tomb_and_Sufi_Heritage.md) | [Original URL](https://salaamalykum.com/article/2216) |
+| Halal Travel Guide: Jingpeng Mosque and Hui Muslim History | [Markdown](content/Halal_Travel_Guide__Jingpeng_Mosque_and_Hui_Muslim_History.md) | [Original URL](https://salaamalykum.com/article/2524) |
+| Halal Travel Guide: Kaiyuan, Yunnan — Dazhuang Mosque and Hui Muslim Heritage | [Markdown](content/Halal_Travel_Guide__Kaiyuan__Yunnan___Dazhuang_Mosque_and_Hui_Muslim_Heritage.md) | [Original URL](https://salaamalykum.com/article/1981) |
+| Halal Travel Guide: Kunming — Muslim Food, Mosques and Imam Ma Cong | [Markdown](content/Halal_Travel_Guide__Kunming___Muslim_Food__Mosques_and_Imam_Ma_Cong.md) | [Original URL](https://salaamalykum.com/article/1994) |
+| Halal Travel Guide: Liaocheng - Dongguan Mosque Streets and Hui Muslim Life | [Markdown](content/Halal_Travel_Guide__Liaocheng___Dongguan_Mosque_Streets_and_Hui_Muslim_Life.md) | [Original URL](https://salaamalykum.com/article/2379) |
+| Halal Travel Guide: Liaoning - 12 Historic Mosques, Part 1 | [Markdown](content/Halal_Travel_Guide__Liaoning___12_Historic_Mosques__Part_1.md) | [Original URL](https://salaamalykum.com/article/2574) |
+| Halal Travel Guide: Liaoning - 12 Historic Mosques, Part 2 | [Markdown](content/Halal_Travel_Guide__Liaoning___12_Historic_Mosques__Part_2.md) | [Original URL](https://salaamalykum.com/article/2573) |
+| Halal Travel Guide: Liaoning - 12 Historic Mosques, Part 3 | [Markdown](content/Halal_Travel_Guide__Liaoning___12_Historic_Mosques__Part_3.md) | [Original URL](https://salaamalykum.com/article/2572) |
+| Halal Travel Guide: Nanjing Mosques - Old South City, Liuhe and Zhuzhen, Part 1 | [Markdown](content/Halal_Travel_Guide__Nanjing_Mosques___Old_South_City__Liuhe_and_Zhuzhen__Part_1.md) | [Original URL](https://salaamalykum.com/article/2538) |
+| Halal Travel Guide: Nanjing Mosques - Old South City, Liuhe and Zhuzhen, Part 2 | [Markdown](content/Halal_Travel_Guide__Nanjing_Mosques___Old_South_City__Liuhe_and_Zhuzhen__Part_2.md) | [Original URL](https://salaamalykum.com/article/2537) |
+| Halal Travel Guide: Northern Thailand — Yunnan Mosques and Hui Communities (Part 1) | [Markdown](content/Halal_Travel_Guide__Northern_Thailand___Yunnan_Mosques_and_Hui_Communities__Part.md) | [Original URL](https://salaamalykum.com/article/2280) |
+| Halal Travel Guide: Northern Thailand — Yunnan Mosques and Hui Communities (Part 1) | [Markdown](content/Halal_Travel_Guide__Northern_Thailand___Yunnan_Mosques_and_Hui_Communities__Part.md) | [Original URL](https://salaamalykum.com/article/2291) |
+| Halal Travel Guide: Northern Thailand — Yunnan Mosques and Hui Communities (Part 2) | [Markdown](content/Halal_Travel_Guide__Northern_Thailand___Yunnan_Mosques_and_Hui_Communities__Part.md) | [Original URL](https://salaamalykum.com/article/2279) |
+| Halal Travel Guide: Northern Thailand — Yunnan Mosques and Hui Communities (Part 2) | [Markdown](content/Halal_Travel_Guide__Northern_Thailand___Yunnan_Mosques_and_Hui_Communities__Part.md) | [Original URL](https://salaamalykum.com/article/2290) |
+| Halal Travel Guide: Northern Thailand — Yunnan-Style Mosques and Hui Muslims | [Markdown](content/Halal_Travel_Guide__Northern_Thailand___Yunnan_Style_Mosques_and_Hui_Muslims.md) | [Original URL](https://salaamalykum.com/article/2271) |
+| Halal Travel Guide: Old Delhi — Muslim Communities, Streets and Food (Part 1) | [Markdown](content/Halal_Travel_Guide__Old_Delhi___Muslim_Communities__Streets_and_Food__Part_1.md) | [Original URL](https://salaamalykum.com/article/1968) |
+| Halal Travel Guide: Qinghai — Ping’an, Xunhua and Xining Muslim Heritage (Part 1) | [Markdown](content/Halal_Travel_Guide__Qinghai___Ping_an__Xunhua_and_Xining_Muslim_Heritage__Part_1.md) | [Original URL](https://salaamalykum.com/article/2004) |
+| Halal Travel Guide: Qinghai — Ping’an, Xunhua and Xining Muslim Heritage (Part 2) | [Markdown](content/Halal_Travel_Guide__Qinghai___Ping_an__Xunhua_and_Xining_Muslim_Heritage__Part_2.md) | [Original URL](https://salaamalykum.com/article/2003) |
+| Halal Travel Guide: Qingjiang Mosque and Huaiyang Muslim Food in Huai'an | [Markdown](content/Halal_Travel_Guide__Qingjiang_Mosque_and_Huaiyang_Muslim_Food_in_Huai_an.md) | [Original URL](https://salaamalykum.com/article/2516) |
+| Halal Travel Guide: Qinhuangdao - Beaches, Mosques and Halal Food | [Markdown](content/Halal_Travel_Guide__Qinhuangdao___Beaches__Mosques_and_Halal_Food.md) | [Original URL](https://salaamalykum.com/article/2514) |
+| Halal Travel Guide: Qiqihar — Bukui Mosque and Hui Muslim Neighborhood | [Markdown](content/Halal_Travel_Guide__Qiqihar___Bukui_Mosque_and_Hui_Muslim_Neighborhood.md) | [Original URL](https://salaamalykum.com/article/2295) |
+| Halal Travel Guide: Seven Historic Mosques in Yangzhou, Part 1 | [Markdown](content/Halal_Travel_Guide__Seven_Historic_Mosques_in_Yangzhou__Part_1.md) | [Original URL](https://salaamalykum.com/article/2519) |
+| Halal Travel Guide: Seven Historic Mosques in Yangzhou, Part 2 | [Markdown](content/Halal_Travel_Guide__Seven_Historic_Mosques_in_Yangzhou__Part_2.md) | [Original URL](https://salaamalykum.com/article/2518) |
+| Halal Travel Guide: Shadian, Yunnan — Hui Muslims, Mosques and Local History | [Markdown](content/Halal_Travel_Guide__Shadian__Yunnan___Hui_Muslims__Mosques_and_Local_History.md) | [Original URL](https://salaamalykum.com/article/1955) |
+| Halal Travel Guide: Songpan - Mosques, Gongbei and Hui Muslim Homes | [Markdown](content/Halal_Travel_Guide__Songpan___Mosques__Gongbei_and_Hui_Muslim_Homes.md) | [Original URL](https://salaamalykum.com/article/2608) |
+| Halal Travel Guide: Tai'an, Shandong - Ramadan Mosque Visits and Hui History | [Markdown](content/Halal_Travel_Guide__Tai_an__Shandong___Ramadan_Mosque_Visits_and_Hui_History.md) | [Original URL](https://salaamalykum.com/article/2550) |
+| Halal Travel Guide: Tangjiasi, Chengdu - Hui Muslim Community and Halal Food | [Markdown](content/Halal_Travel_Guide__Tangjiasi__Chengdu___Hui_Muslim_Community_and_Halal_Food.md) | [Original URL](https://salaamalykum.com/article/2556) |
+| Halal Travel Guide: Tianjin Tianmu Village — Hui Muslim Food and Mosque History | [Markdown](content/Halal_Travel_Guide__Tianjin_Tianmu_Village___Hui_Muslim_Food_and_Mosque_History.md) | [Original URL](https://salaamalykum.com/article/2165) |
+| Halal Travel Guide: Tianshui Qinzhou - Ming Mosques and Qing Hui Homes | [Markdown](content/Halal_Travel_Guide__Tianshui_Qinzhou___Ming_Mosques_and_Qing_Hui_Homes.md) | [Original URL](https://salaamalykum.com/article/2612) |
+| Halal Travel Guide: Tonghai, Yunnan — Ma Family Courtyard and Hui Muslim History | [Markdown](content/Halal_Travel_Guide__Tonghai__Yunnan___Ma_Family_Courtyard_and_Hui_Muslim_History.md) | [Original URL](https://salaamalykum.com/article/1949) |
+| Halal Travel Guide: Urumqi - Dawan Gongbei, Hui Muslims and Sufi Heritage | [Markdown](content/Halal_Travel_Guide__Urumqi___Dawan_Gongbei__Hui_Muslims_and_Sufi_Heritage.md) | [Original URL](https://salaamalykum.com/article/2343) |
+| Halal Travel Guide: Urumqi - Spring Festival, Hui Muslims and Jumuah | [Markdown](content/Halal_Travel_Guide__Urumqi___Spring_Festival__Hui_Muslims_and_Jumuah.md) | [Original URL](https://salaamalykum.com/article/2348) |
+| Halal Travel Guide: Urumqi Dawan — Hui Muslim Streets and Halal Food | [Markdown](content/Halal_Travel_Guide__Urumqi_Dawan___Hui_Muslim_Streets_and_Halal_Food.md) | [Original URL](https://salaamalykum.com/article/2189) |
+| Halal Travel Guide: Urumqi — Hui Muslim Street, Halal Food &amp; Xinjiang Markets | [Markdown](content/Halal_Travel_Guide__Urumqi___Hui_Muslim_Street__Halal_Food__amp__Xinjiang_Market.md) | [Original URL](https://salaamalykum.com/article/2461) |
+| Halal Travel Guide: Urumqi — Twenty-Three Hui Muslim Neighborhoods &amp; Local History | [Markdown](content/Halal_Travel_Guide__Urumqi___Twenty_Three_Hui_Muslim_Neighborhoods__amp__Local_H.md) | [Original URL](https://salaamalykum.com/article/2463) |
+| Halal Travel Guide: Wangjiagou Hui Muslim Village in Chengde | [Markdown](content/Halal_Travel_Guide__Wangjiagou_Hui_Muslim_Village_in_Chengde.md) | [Original URL](https://salaamalykum.com/article/2503) |
+| Halal Travel Guide: Wangjiaying, Huai'an - Hui Muslim Town and Mosques | [Markdown](content/Halal_Travel_Guide__Wangjiaying__Huai_an___Hui_Muslim_Town_and_Mosques.md) | [Original URL](https://salaamalykum.com/article/2528) |
+| Halal Travel Guide: Weishan, Dali — Ancient Mosques and Hui Muslim Heritage | [Markdown](content/Halal_Travel_Guide__Weishan__Dali___Ancient_Mosques_and_Hui_Muslim_Heritage.md) | [Original URL](https://salaamalykum.com/article/2289) |
+| Halal Travel Guide: Xi'an Muslim Quarter — Qing-Era Hui Muslim Homes | [Markdown](content/Halal_Travel_Guide__Xi_an_Muslim_Quarter___Qing_Era_Hui_Muslim_Homes.md) | [Original URL](https://salaamalykum.com/article/2469) |
+| Halal Travel Guide: Xi'an Ramadan - Mosques, Gongbei and Hui Muslim Life (Part 1) | [Markdown](content/Halal_Travel_Guide__Xi_an_Ramadan___Mosques__Gongbei_and_Hui_Muslim_Life__Part_1.md) | [Original URL](https://salaamalykum.com/article/2365) |
+| Halal Travel Guide: Xi'an Ramadan - Mosques, Gongbei and Hui Muslim Life (Part 2) | [Markdown](content/Halal_Travel_Guide__Xi_an_Ramadan___Mosques__Gongbei_and_Hui_Muslim_Life__Part_2.md) | [Original URL](https://salaamalykum.com/article/2364) |
+| Halal Travel Guide: Xi'an — Beiguangji Street Mosque History Museum | [Markdown](content/Halal_Travel_Guide__Xi_an___Beiguangji_Street_Mosque_History_Museum.md) | [Original URL](https://salaamalykum.com/article/2479) |
+| Halal Travel Guide: Xiaoquan, Sichuan - Hui Muslim Street and Old Town | [Markdown](content/Halal_Travel_Guide__Xiaoquan__Sichuan___Hui_Muslim_Street_and_Old_Town.md) | [Original URL](https://salaamalykum.com/article/2549) |
+| Halal Travel Guide: Xindu, Sichuan - Hujia Mosque and Hui Heritage | [Markdown](content/Halal_Travel_Guide__Xindu__Sichuan___Hujia_Mosque_and_Hui_Heritage.md) | [Original URL](https://salaamalykum.com/article/2551) |
+| Halal Travel Guide: Yancheng, Jiangsu - Mosque and Hui Muslim Food | [Markdown](content/Halal_Travel_Guide__Yancheng__Jiangsu___Mosque_and_Hui_Muslim_Food.md) | [Original URL](https://salaamalykum.com/article/2509) |
+| Halal Travel Guide: Yangbi, Dali — Hui Street and Mosques | [Markdown](content/Halal_Travel_Guide__Yangbi__Dali___Hui_Street_and_Mosques.md) | [Original URL](https://salaamalykum.com/article/2213) |
+| Halal Travel Guide: Yangon - Hui Muslim Food, Mosques and Panthay History | [Markdown](content/Halal_Travel_Guide__Yangon___Hui_Muslim_Food__Mosques_and_Panthay_History.md) | [Original URL](https://salaamalykum.com/article/2593) |
+| Halal Travel Guide: Yuxi Najia Ying — Hui Muslims, Mosques and Yunnan Travel | [Markdown](content/Halal_Travel_Guide__Yuxi_Najia_Ying___Hui_Muslims__Mosques_and_Yunnan_Travel.md) | [Original URL](https://salaamalykum.com/article/1952) |
+| Hedda Morrison's Old Beijing Photos: Kaorouwan, Muslim Barbecue and Hui Food | [Markdown](content/Hedda_Morrison_s_Old_Beijing_Photos__Kaorouwan__Muslim_Barbecue_and_Hui_Food.md) | [Original URL](https://salaamalykum.com/article/2020) |
+| Hidden Gongbei in Guangyuan: Jiujing Sufi Shrine, Mujiapo Hui Village and Sichuan Mosque Road Trip | [Markdown](content/Hidden_Gongbei_in_Guangyuan__Jiujing_Sufi_Shrine__Mujiapo_Hui_Village_and_Sichua.md) | [Original URL](https://salaamalykum.com/article/2657) |
+| Hidden Gongbei in Guangyuan: Nanshan Sufi Shrine and Sichuan Hui Muslim Village | [Markdown](content/Hidden_Gongbei_in_Guangyuan__Nanshan_Sufi_Shrine_and_Sichuan_Hui_Muslim_Village.md) | [Original URL](https://salaamalykum.com/article/2656) |
+| Hidden Gongbei in Qingchuan: Dayuan Hui Township and Wulongshan Sufi Shrine in Guangyuan | [Markdown](content/Hidden_Gongbei_in_Qingchuan__Dayuan_Hui_Township_and_Wulongshan_Sufi_Shrine_in_G.md) | [Original URL](https://salaamalykum.com/article/2664) |
+| Hidden Halal Food Near Beijing: Nanying Village Aqiqah Feast, Hui Lamb and Langfang Mosque | [Markdown](content/Hidden_Halal_Food_Near_Beijing__Nanying_Village_Aqiqah_Feast__Hui_Lamb_and_Langf.md) | [Original URL](https://salaamalykum.com/article/3029) |
+| Hidden Halal Food in China: Chongqing Maodu Hotpot, Hui Muslims and Real Local Restaurants | [Markdown](content/Hidden_Halal_Food_in_China__Chongqing_Maodu_Hotpot__Hui_Muslims_and_Real_Local_R.md) | [Original URL](https://salaamalykum.com/article/2752) |
+| Hidden Halal Food in China: Chongqing Maodu Hotpot, Hui Muslims and Real Local Restaurants | [Markdown](content/Hidden_Halal_Food_in_China__Chongqing_Maodu_Hotpot__Hui_Muslims_and_Real_Local_R.md) | [Original URL](https://salaamalykum.com/article/3042) |
+| Hidden Mosques Near Beijing: Huailai and Zhuolu Qingming Road Trip, Part One | [Markdown](content/Hidden_Mosques_Near_Beijing__Huailai_and_Zhuolu_Qingming_Road_Trip__Part_One.md) | [Original URL](https://salaamalykum.com/article/2660) |
+| Hidden Mosques Near Beijing: Huailai and Zhuolu Qingming Road Trip, Part Two | [Markdown](content/Hidden_Mosques_Near_Beijing__Huailai_and_Zhuolu_Qingming_Road_Trip__Part_Two.md) | [Original URL](https://salaamalykum.com/article/2662) |
+| Hidden Mosques Near Chengdu: Renshou Qinggang Hui Community and Sichuan Beef Broth | [Markdown](content/Hidden_Mosques_Near_Chengdu__Renshou_Qinggang_Hui_Community_and_Sichuan_Beef_Bro.md) | [Original URL](https://salaamalykum.com/article/2645) |
+| Hidden Mosques in Guangyuan Qingchuan: Qingxi Ancient Town and Sichuan Hui Muslim History | [Markdown](content/Hidden_Mosques_in_Guangyuan_Qingchuan__Qingxi_Ancient_Town_and_Sichuan_Hui_Musli.md) | [Original URL](https://salaamalykum.com/article/2668) |
+| Hidden Mosques in Guangyuan: Shanghe Street, Jialing River and Sichuan Hui Muslim History | [Markdown](content/Hidden_Mosques_in_Guangyuan__Shanghe_Street__Jialing_River_and_Sichuan_Hui_Musli.md) | [Original URL](https://salaamalykum.com/article/2663) |
+| Hidden Mosques in Leshan: Luocheng Ancient Town, Hui Muslim Families and Sichuan History | [Markdown](content/Hidden_Mosques_in_Leshan__Luocheng_Ancient_Town__Hui_Muslim_Families_and_Sichuan.md) | [Original URL](https://salaamalykum.com/article/2648) |
+| Hidden Mosques in Longchang: Neijiang Hui Muslim Community and Sichuan Road Trip | [Markdown](content/Hidden_Mosques_in_Longchang__Neijiang_Hui_Muslim_Community_and_Sichuan_Road_Trip.md) | [Original URL](https://salaamalykum.com/article/2651) |
+| Hidden Mosques in Mianyang Yanting: Sichuan Hui Muslim Villages and Old Mosque History | [Markdown](content/Hidden_Mosques_in_Mianyang_Yanting__Sichuan_Hui_Muslim_Villages_and_Old_Mosque_H.md) | [Original URL](https://salaamalykum.com/article/2652) |
+| Hidden Mosques in Yibin: Sichuan Hui Muslim History, Old Streets and Local Food | [Markdown](content/Hidden_Mosques_in_Yibin__Sichuan_Hui_Muslim_History__Old_Streets_and_Local_Food.md) | [Original URL](https://salaamalykum.com/article/2649) |
+| Hidden Mosques in Zigong Fushun: Sichuan Hui Muslim Heritage and Road Trip Notes | [Markdown](content/Hidden_Mosques_in_Zigong_Fushun__Sichuan_Hui_Muslim_Heritage_and_Road_Trip_Notes.md) | [Original URL](https://salaamalykum.com/article/2650) |
+| Hidden Muslim Food Near Beijing: Nanying Village Aqiqah Feast and Langfang Mosque | [Markdown](content/Hidden_Muslim_Food_Near_Beijing__Nanying_Village_Aqiqah_Feast_and_Langfang_Mosqu.md) | [Original URL](https://salaamalykum.com/article/2677) |
+| Hui Muslim Language in China: Urumqi Dialect, Identity and Everyday Culture | [Markdown](content/Hui_Muslim_Language_in_China__Urumqi_Dialect__Identity_and_Everyday_Culture.md) | [Original URL](https://salaamalykum.com/article/1928) |
+| Hui Muslims who fled oppression in China are concerned about the president-elect’s vows to tighten asylum policy. | [Markdown](content/Hui_Muslims_who_fled_oppression_in_China_are_concerned_about_the_president_elect.md) | [Original URL](https://salaamalykum.com/article/1657) |
+| Hundreds of Hui Muslims Protest Arrest of Respected Imam in Yunnan Province, China Mainland | [Markdown](content/Hundreds_of_Hui_Muslims_Protest_Arrest_of_Respected_Imam_in_Yunnan_Province__Chi.md) | [Original URL](https://salaamalykum.com/article/1650) |
+| Islamic History Guide: Quanzhou Chendai Mosque and Chendai Hui Muslim History Museum | [Markdown](content/Islamic_History_Guide__Quanzhou_Chendai_Mosque_and_Chendai_Hui_Muslim_History_Mu.md) | [Original URL](https://salaamalykum.com/article/2415) |
+| Islamic History Guide: Quanzhou Xingzhai Guo Family Ancestral Hall and Hui Muslim Heritage | [Markdown](content/Islamic_History_Guide__Quanzhou_Xingzhai_Guo_Family_Ancestral_Hall_and_Hui_Musli.md) | [Original URL](https://salaamalykum.com/article/2403) |
+| Langzhong Ancient City Muslim Travel Guide: Mosques, Hui Muslims &amp; Halal Food | [Markdown](content/Langzhong_Ancient_City_Muslim_Travel_Guide__Mosques__Hui_Muslims__amp__Halal_Foo.md) | [Original URL](https://salaamalykum.com/article/1849) |
+| Mosque Management Committees in China | [Markdown](content/Mosque_Management_Committees_in_China.md) | [Original URL](https://salaamalykum.com/article/1672) |
+| Mosque Near Beijing Anheqiao: Anheqiao Mosque, Friday Prayer and Hui Muslim Memories | [Markdown](content/Mosque_Near_Beijing_Anheqiao__Anheqiao_Mosque__Friday_Prayer_and_Hui_Muslim_Memo.md) | [Original URL](https://salaamalykum.com/article/3093) |
+| Muslim Culture Guide: Ashura Day - Fasting, Memory and Hui Muslim Traditions | [Markdown](content/Muslim_Culture_Guide__Ashura_Day___Fasting__Memory_and_Hui_Muslim_Traditions.md) | [Original URL](https://salaamalykum.com/article/2399) |
+| Muslim Friendly Indonesia: A Chinese Hui Muslim Travel Account with Mosques and Halal Food | [Markdown](content/Muslim_Friendly_Indonesia__A_Chinese_Hui_Muslim_Travel_Account_with_Mosques_and.md) | [Original URL](https://salaamalykum.com/article/2754) |
+| Muslim Friendly Indonesia: A Chinese Hui Muslim Travel Account with Mosques and Halal Food | [Markdown](content/Muslim_Friendly_Indonesia__A_Chinese_Hui_Muslim_Travel_Account_with_Mosques_and.md) | [Original URL](https://salaamalykum.com/article/3044) |
+| Muslim History Guide China: Hui Muslim Community, Anti-Muslim Rumors and Online Hate Speech | [Markdown](content/Muslim_History_Guide_China__Hui_Muslim_Community__Anti_Muslim_Rumors_and_Online.md) | [Original URL](https://salaamalykum.com/article/2932) |
+| Muslim Knowledge Guide China: Qur'an, Ancestor Worship, Hui Muslim Tradition and Faith Reform | [Markdown](content/Muslim_Knowledge_Guide_China__Qur_an__Ancestor_Worship__Hui_Muslim_Tradition_and.md) | [Original URL](https://salaamalykum.com/article/2933) |
+| Muslim Life Guide: 2024 Hui Religious Life — Dua, Fasting, Qurbani &amp; Gatherings | [Markdown](content/Muslim_Life_Guide__2024_Hui_Religious_Life___Dua__Fasting__Qurbani__amp__Gatheri.md) | [Original URL](https://salaamalykum.com/article/2450) |
+| Muslim Travel Guide China 2026: Luling Mosque, Gadiriyya Shrine and Hui Muslim Heritage | [Markdown](content/Muslim_Travel_Guide_China_2026__Luling_Mosque__Gadiriyya_Shrine_and_Hui_Muslim_H.md) | [Original URL](https://salaamalykum.com/article/2738) |
+| Muslim Travel Guide: Xi'an Mawlid 2025 Part 1 — Spring Festival and Hui Traditions | [Markdown](content/Muslim_Travel_Guide__Xi_an_Mawlid_2025_Part_1___Spring_Festival_and_Hui_Traditio.md) | [Original URL](https://salaamalykum.com/article/2471) |
+| Muslim Travel Guide: Xi'an Mawlid 2025 Part 2 — Spring Festival Photos | [Markdown](content/Muslim_Travel_Guide__Xi_an_Mawlid_2025_Part_2___Spring_Festival_Photos.md) | [Original URL](https://salaamalykum.com/article/2470) |
+| Muslim-Friendly Mountain Stays Near Beijing: Two Hui Guesthouses for Spring Trips | [Markdown](content/Muslim_Friendly_Mountain_Stays_Near_Beijing__Two_Hui_Guesthouses_for_Spring_Trip.md) | [Original URL](https://salaamalykum.com/article/2670) |
+| My Hui and Islamic Collection: Muslim Artifacts from Republican China | [Markdown](content/My_Hui_and_Islamic_Collection__Muslim_Artifacts_from_Republican_China.md) | [Original URL](https://salaamalykum.com/article/1913) |
+| North China Muslim Life in Old Railway Photos: Hui Food, Shops and Streets | [Markdown](content/North_China_Muslim_Life_in_Old_Railway_Photos__Hui_Food__Shops_and_Streets.md) | [Original URL](https://salaamalykum.com/article/2013) |
+| Old Photos of Hui Muslims in Guangzhou and Sanya: Waseda Library Collection | [Markdown](content/Old_Photos_of_Hui_Muslims_in_Guangzhou_and_Sanya__Waseda_Library_Collection.md) | [Original URL](https://salaamalykum.com/article/2016) |
+| Old Photos of Hui Muslims in Northern China: Mosques, Cities and Community Life | [Markdown](content/Old_Photos_of_Hui_Muslims_in_Northern_China__Mosques__Cities_and_Community_Life.md) | [Original URL](https://salaamalykum.com/article/2014) |
+| Quanzhou Muslim Heritage: The Ding Hui Muslims of Chendai | [Markdown](content/Quanzhou_Muslim_Heritage__The_Ding_Hui_Muslims_of_Chendai.md) | [Original URL](https://salaamalykum.com/article/1867) |
+| Quanzhou Muslim Heritage: The Ding Hui Muslims of Chendai | [Markdown](content/Quanzhou_Muslim_Heritage__The_Ding_Hui_Muslims_of_Chendai.md) | [Original URL](https://salaamalykum.com/article/1875) |
+| Quanzhou Muslim Heritage: The Ding Hui Muslims of Chendai (Part 1) | [Markdown](content/Quanzhou_Muslim_Heritage__The_Ding_Hui_Muslims_of_Chendai__Part_1.md) | [Original URL](https://salaamalykum.com/article/1876) |
+| Searching for Jiaochangkou Mosque Outside Beijing's Fuchengmen | [Markdown](content/Searching_for_Jiaochangkou_Mosque_Outside_Beijing_s_Fuchengmen.md) | [Original URL](https://salaamalykum.com/article/1920) |
+| South of Kunming Halal Travel Guide: Liren, Yuxi Daying and Eshan Dabaiyi (Part 1) | [Markdown](content/South_of_Kunming_Halal_Travel_Guide__Liren__Yuxi_Daying_and_Eshan_Dabaiyi__Part.md) | [Original URL](https://salaamalykum.com/article/1905) |
+| South of Kunming Halal Travel Guide: Liren, Yuxi Daying and Eshan Dabaiyi (Part 2) | [Markdown](content/South_of_Kunming_Halal_Travel_Guide__Liren__Yuxi_Daying_and_Eshan_Dabaiyi__Part.md) | [Original URL](https://salaamalykum.com/article/1904) |
+| Ten Hui and Islamic Historic Sites in Beijing: A Muslim Heritage Walking Guide | [Markdown](content/Ten_Hui_and_Islamic_Historic_Sites_in_Beijing__A_Muslim_Heritage_Walking_Guide.md) | [Original URL](https://salaamalykum.com/article/1919) |
+| The Communist Party of China often emphasizes the freedom of ethnic and religious affairs, but strictly controls Muslims and their beliefs in Linxia Hui Autonomous… | [Markdown](content/The_Communist_Party_of_China_often_emphasizes_the_freedom_of_ethnic_and_religiou.md) | [Original URL](https://salaamalykum.com/article/1658) |
+| The removal of domes, minarets, and Islamic symbols from mosques across China has been the single most visible and widely reported aspect of the Sinicization of Islam.  | [Markdown](content/The_removal_of_domes__minarets__and_Islamic_symbols_from_mosques_across_China_ha.md) | [Original URL](https://salaamalykum.com/article/1675) |
+| Urumqi During Sha'ban, Part Two: Hui Muslim Food and Community Photo Notes | [Markdown](content/Urumqi_During_Sha_ban__Part_Two__Hui_Muslim_Food_and_Community_Photo_Notes.md) | [Original URL](https://salaamalykum.com/article/2644) |
+| Urumqi Hui Muslim Banquet: Xinjiang Halal Food and Local Muslim Culture | [Markdown](content/Urumqi_Hui_Muslim_Banquet__Xinjiang_Halal_Food_and_Local_Muslim_Culture.md) | [Original URL](https://salaamalykum.com/article/1857) |
+| Urumqi Hui Muslim Home Cooking Guide: Everyday Halal Food in Xinjiang (Part 1) | [Markdown](content/Urumqi_Hui_Muslim_Home_Cooking_Guide__Everyday_Halal_Food_in_Xinjiang__Part_1.md) | [Original URL](https://salaamalykum.com/article/1886) |
+| Urumqi Hui Muslim Home Cooking Guide: Everyday Halal Food in Xinjiang (Part 2) | [Markdown](content/Urumqi_Hui_Muslim_Home_Cooking_Guide__Everyday_Halal_Food_in_Xinjiang__Part_2.md) | [Original URL](https://salaamalykum.com/article/1885) |
+| Urumqi Hui Muslims in Republican China: History, Photos and Muslim Life | [Markdown](content/Urumqi_Hui_Muslims_in_Republican_China__History__Photos_and_Muslim_Life.md) | [Original URL](https://salaamalykum.com/article/1953) |
+| Xi'an Muslim Quarter Halal Food Guide: Hui Muslim Streets and Local Snacks | [Markdown](content/Xi_an_Muslim_Quarter_Halal_Food_Guide__Hui_Muslim_Streets_and_Local_Snacks.md) | [Original URL](https://salaamalykum.com/article/1869) |
+| Xishuangbanna Paxi Dai: Hui Muslims Who Speak Dai and Their Muslim Heritage | [Markdown](content/Xishuangbanna_Paxi_Dai__Hui_Muslims_Who_Speak_Dai_and_Their_Muslim_Heritage.md) | [Original URL](https://salaamalykum.com/article/1900) |
+| Xixiang Muslim Travel Guide: Hui Muslims in Southern Shaanxi | [Markdown](content/Xixiang_Muslim_Travel_Guide__Hui_Muslims_in_Southern_Shaanxi.md) | [Original URL](https://salaamalykum.com/article/1852) |
+| Yinchuan Muslim Wedding Travel Notes: Hui Muslim Culture and Halal Food | [Markdown](content/Yinchuan_Muslim_Wedding_Travel_Notes__Hui_Muslim_Culture_and_Halal_Food.md) | [Original URL](https://salaamalykum.com/article/1870) |
