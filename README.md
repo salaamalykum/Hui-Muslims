@@ -3,7 +3,7 @@
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![Hugging Face](https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-Dataset-blue)](https://huggingface.co/datasets/qurancn/Hui-Muslims)
 
-Dual-track Islamic Knowledge Base curated for human readers and AI crawlers. Features 232 articles covering Hui Muslim culture, travel, mosques, and halal food.
+Dual-track Islamic Knowledge Base curated for human readers. Features 232 articles covering Hui Muslim culture, travel, mosques, and halal food.
 
 <div align="center">
 
