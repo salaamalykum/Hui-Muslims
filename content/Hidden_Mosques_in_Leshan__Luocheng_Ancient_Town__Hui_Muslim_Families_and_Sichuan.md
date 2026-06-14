@@ -14,4 +14,98 @@ layout: "article"
 
 # Hidden Mosques in Leshan: Luocheng Ancient Town, Hui Muslim Families and Sichuan History
 
-**Reposted from the web**\n\n**Summary:** This Sichuan mosque road trip reaches Luocheng Ancient Town in Leshan, where Luocheng Mosque, local Hui Muslim family histories, and old-town streets show a deeper side of Muslim life in southwest China.\n\nIt takes an hour to drive south from Renshou Mosque to reach Luocheng Ancient Town in Qianwei County, Leshan. The ancient town was first built in 1628 (the first year of the Chongzhen reign of the Ming Dynasty) and gradually took its final shape during the Qing Dynasty. It served as a land port and a frontier military hub for Sichuan, Yunnan, and Guizhou.\n\nThe town's parking lot is at the West Gate. Once you park and enter the town, you can see Luocheng Mosque (Luocheng Si) on the far west side. The first time I visited, the imam was away, so I had to go back a second time to get inside. Imam Su at Luocheng Mosque is a local Hui Muslim. During the Spring Festival, the mosque is crowded with visitors. Imam Su patiently explains things to everyone, answering questions about the faith and Hui Muslim customs. It is very rare to see someone so dedicated to helping more people understand the faith. According to Imam Su, there were still a few Hui Muslim restaurants in Luocheng Ancient Town a few years ago, but they have all closed down. The mosque now hosts a grand Mawlid (Shengji) celebration every year, which is the best time to taste local Hui Muslim food in Luocheng.\n\nThe Hui Muslims in Luocheng are mainly from the Su, Cai, Zhang, Ma, Hai, Chen, and Li families. The Su and Cai families moved here from Shaoyang, Hunan, in 1671 (the tenth year of the Kangxi reign) during the 'Huguang fills Sichuan' migration. The Zhang family moved from Qinggang Township in Renshou during the Jiaqing reign, and the Ma family moved from Hunan during the same period, with another branch arriving from Neijiang and Rong County. The Hai family moved from Yinjia Ba in Longchang during the Guangxu reign, the Chen family moved from Xichengge in Yibin during the Guangxu reign, and the Li family moved from Longchang during the Republic of China era.\n\nLuocheng Ancient Town once had four ancient mosques. In 1744 (the ninth year of the Qianlong reign), Su Tianshi, Su Tianming, and Cai Hongshan led a fundraising effort to build the Luocheng North Mosque at Xiajiapo, north of Luocheng. It was the first mosque in the town. In 1807 (the twelfth year of the Jiaqing reign), as the economic situation of the Hui Muslims in Luocheng improved and the North Mosque was relatively far from the town, the mosque was moved to Ganjiyuan on the east side of Luocheng, becoming known as the Luocheng East Mosque. In 1808 (the thirteenth year of the Jiaqing reign), Hui Muslim families living on the south side of Luocheng—the Ma, Su, Zhang, and Luo families—led by Su Hengtai, raised funds together to build the Luocheng South Mosque at Daping in the south of the town.\n\nThe current Luocheng Mosque, also called the West Mosque, was actually the last of the four mosques to be built. In 1876 (the second year of the Guangxu reign), Cai Chunfang, Cai Mingde, Hai Fengwan, Cai Yunxiang, Cai Yunlian, Cai Yunchang, Ma Youzhen, Su Minghai, Ma Chaokai, Ma Shenglu, and others funded the construction of the Luocheng West Mosque on the west side of the town entrance. The West Mosque is a small blue-tiled courtyard structure with a three-bay main hall. In 1995, the entrance hall was converted into a two-story building, resulting in its current form.\n\nIn modern times, Luocheng produced two famous local imams: Su Dexun and Zhang Xueqing. Su Dexun served as the imam at Luocheng Mosque for 40 years, from 1949 to 1952 and from 1960 to 1997. In 1954, he attended a Sichuan minority delegation to study in various places. He was very open-minded and held in high regard by the Hui Muslims in Luocheng. In his later years, he insisted on serving as the imam at his local mosque until he passed away (gui zhen) in 1997 at the age of 86. Zhang Xueqing served as the imam at Luocheng Mosque from 1941 to 1949, then moved to Kangding Mosque to serve as imam until he passed away (gui zhen) in 1984. He studied Arabic, Persian, and Chinese. During the War of Resistance Against Japan, he founded the Hui Muslim Anti-Japanese National Salvation Association. He was deeply respected by the people in Kangding and made great contributions to maintaining ethnic unity and social stability.\n\n![image](https://files.catbox.moe/7d6196.jpg)\n\n![image](https://files.catbox.moe/z48ohy.jpg)\n\n![image](https://files.catbox.moe/41c93f.jpg)\n\n![image](https://files.catbox.moe/5dkz47.jpg)\n\n![image](https://files.catbox.moe/fhsoky.jpg)\n\n![image](https://files.catbox.moe/pj5xb4.jpg)\n\n![image](https://files.catbox.moe/hllr1u.jpg)\n\n![image](https://files.catbox.moe/ghbwzx.jpg)\n\n![image](https://files.catbox.moe/2ra2lz.jpg)\n\nExquisite wood carvings on the front porch of the main hall.\n\n![image](https://files.catbox.moe/nkt9s4.jpg)\n\n![image](https://files.catbox.moe/mkj01l.jpg)\n\n![image](https://files.catbox.moe/qtf1ew.jpg)\n\n![image](https://files.catbox.moe/p626n4.jpg)\n\nIn the mosque's exhibition hall, you can see various handwritten scriptures: 'Su Yushui and Zhang Shaonan of the South Mosque invited Liang'an Ma Ahong to respectfully copy the entire Heavenly Scripture, bound in the 33rd year of Guangxu' and 'Respectfully invited Diannan Shaoxuan Sa Ahong to copy this in the auspicious mid-spring of the Wuxu year of Guangxu, noted by the owner of Jiuxian Hall.'\n\n![image](https://files.catbox.moe/36e9e3.jpg)\n\n![image](https://files.catbox.moe/sktzjf.jpg)\n\n![image](https://files.catbox.moe/r2qs4i.jpg)\n\n![image](https://files.catbox.moe/zwalyb.jpg)\n\n![image](https://files.catbox.moe/fsqovw.jpg)\n\nThe only plaque at Luocheng Mosque with a specific date is the 'Ti Yong Hun Ran' plaque at the South Mosque. It is inscribed: 'In celebration of the completion of the South Mosque, respectfully presented by the fellow believers of Ganziyuan, on a lucky day in the second month of summer, in the year of Xinsi, the seventh year of the Guangxu reign.' There are four other plaques—'Zui Chu Wu Cheng,' 'Wu Sheng Wu Chou,' 'Shi Shou Liang Gui,' and 'You Jiao Wu Lei'—that were likely inscribed during the Qing Dynasty. However, their inscriptions were cut off during a turbulent period, so the specific details are unknown.\n\n![image](https://files.catbox.moe/rut6mq.jpg)\n\n![image](https://files.catbox.moe/n8bqd3.jpg)\n\n![image](https://files.catbox.moe/kt243i.jpg)\n\n![image](https://files.catbox.moe/nu0lu4.jpg)\n\n![image](https://files.catbox.moe/sr8wia.jpg)\n\n![image](https://files.catbox.moe/rwaagy.jpg)\n\n![image](https://files.catbox.moe/xusmi7.jpg)\n\n![image](https://files.catbox.moe/n6cdj3.jpg)\n\n![image](https://files.catbox.moe/r3nvmx.jpg)\n\nThe front courtyard of Luocheng Mosque has 58 nanmu trees (zhennan), and the back courtyard has 36 pine trees. They are so lush and green that it feels like being in a forest. In 1969, Luocheng Mosque donated 32 century-old nanmu trees to help build the Chengdu Mao Zedong Thought Exhibition Hall. In 1984, the mosque management committee bought new nanmu saplings from the Forestry Bureau. The Su Zunyao family raised the seedlings, and Zhang Zemin carried water to irrigate them. In 1985, Su Dekui and others replanted them in the mosque, restoring the grounds to a thriving scene full of lush leaves, flowers, birdsong, and butterflies.\n\n![image](https://files.catbox.moe/rf7ivs.jpg)\n\n![image](https://files.catbox.moe/lon9w2.jpg)\n\n![image](https://files.catbox.moe/kuzoqa.jpg)\n\n![image](https://files.catbox.moe/3gq2w9.jpg)\n\n![image](https://files.catbox.moe/lmv3ib.jpg)\n\n![image](https://files.catbox.moe/o5dhnf.jpg)\n\n![image](https://files.catbox.moe/kqzw2v.jpg)\n\n![image](https://files.catbox.moe/muyh8n.jpg)\n\n![image](https://files.catbox.moe/n5yhhz.jpg)
+**Reposted from the web**
+
+**Summary:** This Sichuan mosque road trip reaches Luocheng Ancient Town in Leshan, where Luocheng Mosque, local Hui Muslim family histories, and old-town streets show a deeper side of Muslim life in southwest China.
+
+It takes an hour to drive south from Renshou Mosque to reach Luocheng Ancient Town in Qianwei County, Leshan. The ancient town was first built in 1628 (the first year of the Chongzhen reign of the Ming Dynasty) and gradually took its final shape during the Qing Dynasty. It served as a land port and a frontier military hub for Sichuan, Yunnan, and Guizhou.
+
+The town's parking lot is at the West Gate. Once you park and enter the town, you can see Luocheng Mosque (Luocheng Si) on the far west side. The first time I visited, the imam was away, so I had to go back a second time to get inside. Imam Su at Luocheng Mosque is a local Hui Muslim. During the Spring Festival, the mosque is crowded with visitors. Imam Su patiently explains things to everyone, answering questions about the faith and Hui Muslim customs. It is very rare to see someone so dedicated to helping more people understand the faith. According to Imam Su, there were still a few Hui Muslim restaurants in Luocheng Ancient Town a few years ago, but they have all closed down. The mosque now hosts a grand Mawlid (Shengji) celebration every year, which is the best time to taste local Hui Muslim food in Luocheng.
+
+The Hui Muslims in Luocheng are mainly from the Su, Cai, Zhang, Ma, Hai, Chen, and Li families. The Su and Cai families moved here from Shaoyang, Hunan, in 1671 (the tenth year of the Kangxi reign) during the 'Huguang fills Sichuan' migration. The Zhang family moved from Qinggang Township in Renshou during the Jiaqing reign, and the Ma family moved from Hunan during the same period, with another branch arriving from Neijiang and Rong County. The Hai family moved from Yinjia Ba in Longchang during the Guangxu reign, the Chen family moved from Xichengge in Yibin during the Guangxu reign, and the Li family moved from Longchang during the Republic of China era.
+
+Luocheng Ancient Town once had four ancient mosques. In 1744 (the ninth year of the Qianlong reign), Su Tianshi, Su Tianming, and Cai Hongshan led a fundraising effort to build the Luocheng North Mosque at Xiajiapo, north of Luocheng. It was the first mosque in the town. In 1807 (the twelfth year of the Jiaqing reign), as the economic situation of the Hui Muslims in Luocheng improved and the North Mosque was relatively far from the town, the mosque was moved to Ganjiyuan on the east side of Luocheng, becoming known as the Luocheng East Mosque. In 1808 (the thirteenth year of the Jiaqing reign), Hui Muslim families living on the south side of Luocheng—the Ma, Su, Zhang, and Luo families—led by Su Hengtai, raised funds together to build the Luocheng South Mosque at Daping in the south of the town.
+
+The current Luocheng Mosque, also called the West Mosque, was actually the last of the four mosques to be built. In 1876 (the second year of the Guangxu reign), Cai Chunfang, Cai Mingde, Hai Fengwan, Cai Yunxiang, Cai Yunlian, Cai Yunchang, Ma Youzhen, Su Minghai, Ma Chaokai, Ma Shenglu, and others funded the construction of the Luocheng West Mosque on the west side of the town entrance. The West Mosque is a small blue-tiled courtyard structure with a three-bay main hall. In 1995, the entrance hall was converted into a two-story building, resulting in its current form.
+
+In modern times, Luocheng produced two famous local imams: Su Dexun and Zhang Xueqing. Su Dexun served as the imam at Luocheng Mosque for 40 years, from 1949 to 1952 and from 1960 to 1997. In 1954, he attended a Sichuan minority delegation to study in various places. He was very open-minded and held in high regard by the Hui Muslims in Luocheng. In his later years, he insisted on serving as the imam at his local mosque until he passed away (gui zhen) in 1997 at the age of 86. Zhang Xueqing served as the imam at Luocheng Mosque from 1941 to 1949, then moved to Kangding Mosque to serve as imam until he passed away (gui zhen) in 1984. He studied Arabic, Persian, and Chinese. During the War of Resistance Against Japan, he founded the Hui Muslim Anti-Japanese National Salvation Association. He was deeply respected by the people in Kangding and made great contributions to maintaining ethnic unity and social stability.
+
+![image](https://files.catbox.moe/7d6196.jpg)
+
+![image](https://files.catbox.moe/z48ohy.jpg)
+
+![image](https://files.catbox.moe/41c93f.jpg)
+
+![image](https://files.catbox.moe/5dkz47.jpg)
+
+![image](https://files.catbox.moe/fhsoky.jpg)
+
+![image](https://files.catbox.moe/pj5xb4.jpg)
+
+![image](https://files.catbox.moe/hllr1u.jpg)
+
+![image](https://files.catbox.moe/ghbwzx.jpg)
+
+![image](https://files.catbox.moe/2ra2lz.jpg)
+
+Exquisite wood carvings on the front porch of the main hall.
+
+![image](https://files.catbox.moe/nkt9s4.jpg)
+
+![image](https://files.catbox.moe/mkj01l.jpg)
+
+![image](https://files.catbox.moe/qtf1ew.jpg)
+
+![image](https://files.catbox.moe/p626n4.jpg)
+
+In the mosque's exhibition hall, you can see various handwritten scriptures: 'Su Yushui and Zhang Shaonan of the South Mosque invited Liang'an Ma Ahong to respectfully copy the entire Heavenly Scripture, bound in the 33rd year of Guangxu' and 'Respectfully invited Diannan Shaoxuan Sa Ahong to copy this in the auspicious mid-spring of the Wuxu year of Guangxu, noted by the owner of Jiuxian Hall.'
+
+![image](https://files.catbox.moe/36e9e3.jpg)
+
+![image](https://files.catbox.moe/sktzjf.jpg)
+
+![image](https://files.catbox.moe/r2qs4i.jpg)
+
+![image](https://files.catbox.moe/zwalyb.jpg)
+
+![image](https://files.catbox.moe/fsqovw.jpg)
+
+The only plaque at Luocheng Mosque with a specific date is the 'Ti Yong Hun Ran' plaque at the South Mosque. It is inscribed: 'In celebration of the completion of the South Mosque, respectfully presented by the fellow believers of Ganziyuan, on a lucky day in the second month of summer, in the year of Xinsi, the seventh year of the Guangxu reign.' There are four other plaques—'Zui Chu Wu Cheng,' 'Wu Sheng Wu Chou,' 'Shi Shou Liang Gui,' and 'You Jiao Wu Lei'—that were likely inscribed during the Qing Dynasty. However, their inscriptions were cut off during a turbulent period, so the specific details are unknown.
+
+![image](https://files.catbox.moe/rut6mq.jpg)
+
+![image](https://files.catbox.moe/n8bqd3.jpg)
+
+![image](https://files.catbox.moe/kt243i.jpg)
+
+![image](https://files.catbox.moe/nu0lu4.jpg)
+
+![image](https://files.catbox.moe/sr8wia.jpg)
+
+![image](https://files.catbox.moe/rwaagy.jpg)
+
+![image](https://files.catbox.moe/xusmi7.jpg)
+
+![image](https://files.catbox.moe/n6cdj3.jpg)
+
+![image](https://files.catbox.moe/r3nvmx.jpg)
+
+The front courtyard of Luocheng Mosque has 58 nanmu trees (zhennan), and the back courtyard has 36 pine trees. They are so lush and green that it feels like being in a forest. In 1969, Luocheng Mosque donated 32 century-old nanmu trees to help build the Chengdu Mao Zedong Thought Exhibition Hall. In 1984, the mosque management committee bought new nanmu saplings from the Forestry Bureau. The Su Zunyao family raised the seedlings, and Zhang Zemin carried water to irrigate them. In 1985, Su Dekui and others replanted them in the mosque, restoring the grounds to a thriving scene full of lush leaves, flowers, birdsong, and butterflies.
+
+![image](https://files.catbox.moe/rf7ivs.jpg)
+
+![image](https://files.catbox.moe/lon9w2.jpg)
+
+![image](https://files.catbox.moe/kuzoqa.jpg)
+
+![image](https://files.catbox.moe/3gq2w9.jpg)
+
+![image](https://files.catbox.moe/lmv3ib.jpg)
+
+![image](https://files.catbox.moe/o5dhnf.jpg)
+
+![image](https://files.catbox.moe/kqzw2v.jpg)
+
+![image](https://files.catbox.moe/muyh8n.jpg)
+
+![image](https://files.catbox.moe/n5yhhz.jpg)

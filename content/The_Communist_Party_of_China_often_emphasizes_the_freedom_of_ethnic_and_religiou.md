@@ -14,4 +14,10 @@ layout: "article"
 
 # The Communist Party of China often emphasizes the freedom of ethnic and religious affairs, but strictly controls Muslims and their beliefs in Linxia Hui Autonomous…
 
-The Communist Party of China often emphasizes the freedom of ethnic and religious affairs, but strictly controls Muslims and their beliefs in Linxia Hui Autonomous…\n \n\n[attach]764[/attach]\n\n[attach]765[/attach]\n 
+The Communist Party of China often emphasizes the freedom of ethnic and religious affairs, but strictly controls Muslims and their beliefs in Linxia Hui Autonomous…
+ 
+
+
+
+
+ 

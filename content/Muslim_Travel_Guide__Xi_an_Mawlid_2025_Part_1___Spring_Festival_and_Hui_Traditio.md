@@ -14,4 +14,294 @@ layout: "article"
 
 # Muslim Travel Guide: Xi'an Mawlid 2025 Part 1 — Spring Festival and Hui Traditions
 
-**Reposted from the web**\n\n**Summary:** Xi'an during the 2025 Spring Festival became the setting for a Mawlid gathering shaped by Hui Muslim community life, food, streets, and religious tradition. This first part keeps the original route, photographs, names, and observations from the Chinese travel account.\n\nIn 2024, I experienced the strong atmosphere of Ramadan in Xi'an. See my post, 'Experiencing the Ramadan Atmosphere in Xi'an'. I returned to Xi'an for the 2025 Spring Festival to experience the atmosphere of the Prophet's Birthday, and I gained a lot.\n\nThe Prophet's Birthday is also called the 'Holy Gathering' or 'Holy Birth,' and it is an annual event to commemorate the noble Prophet. Commemorating the noble Prophet dates back to the time of the followers of the Prophet's companions (Tabi'un), when people gathered to recite poems about him. Large-scale commemorative events can be traced back to the Fatimid Caliphate in Egypt during the 12th century. Egyptian historian Maqrizi recorded a Prophet's Birthday celebration held at the Fatimid court in 1122, which was attended by scholars and representatives of religious institutions. The event included listening to sermons (wa'z), distributing candy and honey, and giving out zakat.\n\nIn 1207, Gökböri, the brother-in-law of Saladin and a hero who fought against the Crusades, made the Prophet's Birthday a public holiday for the first time. He held grand celebrations that helped spread the tradition to other regions. The Ottoman Empire made the Prophet's Birthday a legal holiday in 1588, calling it Mevlid Kandili. Kandili means 'oil lamp.' On this night, the minarets of mosques across the Ottoman Empire were lit up, symbolizing the light of the noble Prophet guiding the way for Muslims. Today, mosques in former Ottoman regions like Turkey and the Balkans still decorate with Mahya lights between two minarets during the holiday, arranging the lights into words of dua and blessings.\n\nToday, 39 countries around the world recognize the Prophet's Birthday as a national public holiday. Each region has different ways of celebrating, but most include decorating homes and mosques, giving zakat, telling stories of the noble Prophet's life, and reciting poetry. In Pakistan, 21-gun salutes are fired in all provincial capitals on the day of the Prophet's Birthday. In Yemen, people wear green clothes and hang green decorations all over their houses. In Java, Indonesia, there is a lively week-long market, and the Sultan of Yogyakarta holds a grand royal parade.\n\nIn China, various regions also hold Prophet's Birthday celebrations, but the timing varies. Most celebrations take place in the third month of the Islamic calendar, which is said to be the month the noble Prophet was born. However, some regions hold them on other dates. For example, the Sichuan region usually chooses the autumn or winter, while a unique feature of the Xi'an Prophet's Birthday is that it is held during the Spring Festival.\n\nEvery year around the twelfth lunar month, the Gedimu mosques in Xi'an post notices for the Prophet's Birthday. Each mosque takes one day, scheduled from New Year's Eve until after the Lantern Festival, making it a very lively time. During the New Year, Xi'an is full of festive spirit, with non-Muslim traditions like offering sacrifices to the kitchen god, staying up on New Year's Eve, honoring ancestors, and welcoming the God of Wealth. To keep their faith (imani) fresh and build a firewall for their beliefs during this time, Hui Muslims in Xi'an choose to hold Prophet's Birthday events seamlessly during this period, which is a sign of wisdom.\n\n![image](https://files.catbox.moe/9d7r0a.jpg)\n\nAccording to tradition, the first Prophet's Birthday event of the year is held at the Small Mosque on Guangji Street. The praise of the Prophet (Zansheng) begins at the Digele mosque the day before New Year's Eve, marking the start of the Mawlid celebrations in Xi'an.\n\nThe famous Thirteen Quarters Praise Group (Shisanfang Zansheng Tuan) from Xi'an performs the Zansheng. Xi'an's Hui Muslim quarter preserves over thirty Zansheng poems. Among them, the Mawlid is a special chant recited during the Mawlid festival that tells the life story of the noble Prophet. The Muhaimaisi, originally called Qasida al-Burda, means Song of the Cloak. It consists of 160 five-line poems and is the most famous Zansheng poetry, widely spread across North Africa, Central Asia, and China. The Maidaiyihai, also translated as Praise Chapters, is a collection of Zansheng writings dedicated to commemorating the noble Prophet.\n\n![image](https://files.catbox.moe/0qfgeg.jpg)\n\n![image](https://files.catbox.moe/8sxgbt.jpg)\n\n![image](https://files.catbox.moe/rg2p8j.jpg)\n\n![image](https://files.catbox.moe/ca86y3.jpg)\n\n![image](https://files.catbox.moe/sf70lf.jpg)\n\nAfter the Zansheng ended, I ate cumin lamb, stir-fried lamb liver, lotus root slices with meat, and steamed eggs.\n\n![image](https://files.catbox.moe/79k3tu.jpg)\n\n![image](https://files.catbox.moe/pb19vb.jpg)\n\n![image](https://files.catbox.moe/33y5l9.jpg)\n\nOn the morning of January 28, the 29th day of the twelfth lunar month, the Small Mosque on Beiguangji Street officially began its Mawlid activities. Director Jia is 82 years old, yet he still organizes the mosque's activities with great energy, which is truly admirable. First, the imams from various quarters open and conclude the scripture reading, then the Thirteen Quarters Praise Group performs the Zansheng, followed by a speech from the local imam, and finally, oil porridge (youfan) is served. Oil porridge (youfan) is a special food served in Xi'an's Hui Muslim quarter only during festivals. It is a porridge made from beef and mutton bone broth, mixed with minced beef, Sichuan peppercorns, and salt. It tastes salty and numbing, making it very warming in winter. After drinking the oil porridge, a guest imam gives a sermon (wa'ez) and leads the great praise (dazan), and then the feast begins.\n\n![image](https://files.catbox.moe/ttjwuy.jpg)\n\n![image](https://files.catbox.moe/3a6pwv.jpg)\n\n![image](https://files.catbox.moe/r5titp.jpg)\n\n![image](https://files.catbox.moe/sfhr85.jpg)\n\n![image](https://files.catbox.moe/sketng.jpg)\n\n![image](https://files.catbox.moe/dcvax4.jpg)\n\n![image](https://files.catbox.moe/bq1xob.jpg)\n\n![image](https://files.catbox.moe/9dv7z6.jpg)\n\n![image](https://files.catbox.moe/83a1ax.jpg)\n\nI ate a scripture hall feast (jingtang xi) consisting of braised chicken, braised fish, crispy fried meat (xiaosurou), mixed vegetable meatballs, sweet rice, braised oxtail, and yam stewed with meat.\n\n![image](https://files.catbox.moe/rgdrh0.jpg)\n\n![image](https://files.catbox.moe/wdg12u.jpg)\n\n![image](https://files.catbox.moe/e4f3zf.jpg)\n\n![image](https://files.catbox.moe/kscv7y.jpg)\n\n![image](https://files.catbox.moe/vadfia.jpg)\n\n![image](https://files.catbox.moe/m6e0ej.jpg)\n\n![image](https://files.catbox.moe/vnud6s.jpg)\n\n![image](https://files.catbox.moe/evtppj.jpg)\n\nOn the afternoon of January 28, after the Digele prayer, I went to the South City Mosque (Nancheng Si) to attend the Zansheng. I ate lentil noodle flags (biandou mianqizi), potato slices, braised eggplant, cumin lamb, and stir-fried lamb liver.\n\n![image](https://files.catbox.moe/ymihjn.jpg)\n\n![image](https://files.catbox.moe/gajmgt.jpg)\n\n![image](https://files.catbox.moe/xr2cxr.jpg)\n\n![image](https://files.catbox.moe/zisizo.jpg)\n\n![image](https://files.catbox.moe/a13ibx.jpg)\n\n![image](https://files.catbox.moe/yua0gl.jpg)\n\n![image](https://files.catbox.moe/jzuclw.jpg)\n\n![image](https://files.catbox.moe/yy37o2.jpg)\n\n![image](https://files.catbox.moe/vi33p6.jpg)\n\n![image](https://files.catbox.moe/h5o1xd.jpg)\n\nThe South City Mosque was built in 1683 (the 22nd year of the Kangxi reign). It was originally built to serve the Muslim officers, soldiers, and their families stationed in the Han Eight Banners in the south of Xi'an. As early as 1645 (the second year of the Shunzhi reign), the Qing Dynasty established a Manchu Eight Banners garrison city in the east of Xi'an. In 1683, after the Qing Dynasty quelled the Revolt of the Three Feudatories, they built a Han Eight Banners garrison city in the southeast of Xi'an to strengthen military power, which was called the South City. In 1780 (the 45th year of the Qianlong reign), the South City garrison was abolished. The Han Eight Banners officers and soldiers became civilians and were transferred to the Green Standard Army, and the South City Mosque officially became a mosque for all local Muslims.\n\nDuring the Tongzhi reign, when Xi'an was under siege, the South City Mosque played a special role. At that time, the Hui Muslims in Xi'an could not leave the city for eighteen years, so when they passed away, they were carried to the South City Mosque for burial. People say there was not enough burial shroud (kafan) at the time, so paper had to be used instead. This led to a folk song: Carried all the way to the South City, buried regardless of whether they were rich or poor. Whatever food they ate while alive, they were wrapped in paper when they died.\n\nOn the morning of January 29, the first day of the Lunar New Year, I attended the Mawlid at the South City Mosque, which included scripture reading, drinking oil porridge, a sermon, and Zansheng. Imams from various Yihewani and Sailafiye mosques in Xi'an also came to read the scriptures, showing the unity of the Xi'an Muslim community.\n\n![image](https://files.catbox.moe/9x83qz.jpg)\n\n![image](https://files.catbox.moe/qykvka.jpg)\n\n![image](https://files.catbox.moe/1a0dvx.jpg)\n\n![image](https://files.catbox.moe/k4er5w.jpg)\n\n![image](https://files.catbox.moe/qddhgb.jpg)\n\n![image](https://files.catbox.moe/pm910f.jpg)\n\n![image](https://files.catbox.moe/2cp8ii.jpg)\n\n![image](https://files.catbox.moe/g5dv56.jpg)\n\n![image](https://files.catbox.moe/lgzd7z.jpg)\n\nAt the South City Mosque, I ate potato stewed with meat, braised chicken, braised fish, water-basin meat (shuapen rou), mixed vegetable meatballs, and sweet rice platter (tianpanzi), all of which are classic Hui Muslim banquet dishes.\n\n![image](https://files.catbox.moe/vmhlat.jpg)\n\n![image](https://files.catbox.moe/nbwkzl.jpg)\n\n![image](https://files.catbox.moe/za7j2g.jpg)\n\n![image](https://files.catbox.moe/pe4jev.jpg)\n\n![image](https://files.catbox.moe/r40ofr.jpg)\n\n![image](https://files.catbox.moe/khlsnp.jpg)\n\n![image](https://files.catbox.moe/zbolcs.jpg)\n\n![image](https://files.catbox.moe/8e7cdh.jpg)\n\n![image](https://files.catbox.moe/340eb9.jpg)\n\n![image](https://files.catbox.moe/u1tq0t.jpg)\n\nOn January 29, the first day of the Lunar New Year, Digelehou attended the praise of the Prophet (Zansheng) at the Ancient Mosque (Gusi) on Sajinqiao Street in Xi'an. The Ancient Mosque on Sajinqiao was first built during the Kangxi period of the Qing Dynasty. It was originally called Tielufang Mosque and is commonly known as the North Mosque. In 1926, members of the Ikhwan sect in the Sajinqiao area raised funds to build the Sajinqiao West Mosque, and the original Sajinqiao Mosque became known as the Ancient Mosque or Old Mosque. After reopening in 1985, the Ancient Mosque was rebuilt as a modern structure, and the calligraphy inside the main prayer hall is a major highlight.\n\n![image](https://files.catbox.moe/3he80h.jpg)\n\n![image](https://files.catbox.moe/78mljn.jpg)\n\n![image](https://files.catbox.moe/1yzwa2.jpg)\n\n![image](https://files.catbox.moe/wklfe2.jpg)\n\n![image](https://files.catbox.moe/ieayry.jpg)\n\n![image](https://files.catbox.moe/6pf3jm.jpg)\n\n![image](https://files.catbox.moe/ye6zj1.jpg)\n\n![image](https://files.catbox.moe/tn770i.jpg)\n\n![image](https://files.catbox.moe/ohwzrs.jpg)\n\nOn January 30, the second day of the Lunar New Year, I celebrated the Prophet's birthday (Shengji) at the Ancient Mosque. The main gate of the Ancient Mosque only opens wide during festivals, and inside the gate stands an ancient locust tree nearly 200 years old. In the mosque courtyard, they cooked a large pot of oily rice (youfan), which was fragrant and spicy, warming me up completely after I finished a bowl.\n\n![image](https://files.catbox.moe/th8ueb.jpg)\n\n![image](https://files.catbox.moe/bzis69.jpg)\n\n![image](https://files.catbox.moe/6lsdjs.jpg)\n\n![image](https://files.catbox.moe/9vtv7p.jpg)\n\n![image](https://files.catbox.moe/49cx3a.jpg)\n\n![image](https://files.catbox.moe/q2y0h9.jpg)\n\n![image](https://files.catbox.moe/b2gbd9.jpg)\n\n![image](https://files.catbox.moe/ih4993.jpg)\n\n![image](https://files.catbox.moe/85lg29.jpg)\n\nAt the entrance of the Ancient Mosque, I tasted stewed beef tendon, meatball stew (wanzi huicai), braised meat (huangmenrou), lamb offal soup (yangzaguo), stewed pork with yam, stewed oxtail, and sweet rice platter (tianpanzi). I love oxtail so much; it was very tender and fell right off the bone.\n\n![image](https://files.catbox.moe/37z5oa.jpg)\n\n![image](https://files.catbox.moe/371z96.jpg)\n\n![image](https://files.catbox.moe/ll1530.jpg)\n\n![image](https://files.catbox.moe/uhm692.jpg)\n\n![image](https://files.catbox.moe/w7urdm.jpg)\n\n![image](https://files.catbox.moe/ibhe1y.jpg)\n\n![image](https://files.catbox.moe/00mxu1.jpg)\n\n![image](https://files.catbox.moe/7ln0b1.jpg)\n\n![image](https://files.catbox.moe/cxly1l.jpg)\n\n![image](https://files.catbox.moe/a4nnly.jpg)\n\nOn the afternoon of January 30, the second day of the Lunar New Year, Digelehou attended the praise of the Prophet at the Great Mosque on Huajue Lane in Xi'an. I tasted stir-fried cabbage, celery with dried tofu, cumin lamb, stir-fried meat (xiaochao rou). In Xi'an, the Prophet's birthday celebrations usually involve eating stir-fried dishes after the praise of the Prophet, and stewed dishes the next day.\n\n![image](https://files.catbox.moe/3lo6x4.jpg)\n\n![image](https://files.catbox.moe/g4w67y.jpg)\n\n![image](https://files.catbox.moe/419wlc.jpg)\n\n![image](https://files.catbox.moe/y2us39.jpg)\n\n![image](https://files.catbox.moe/c322zo.jpg)\n\n![image](https://files.catbox.moe/8mth67.jpg)\n\n![image](https://files.catbox.moe/kc1wbu.jpg)\n\n![image](https://files.catbox.moe/eve5ey.jpg)\n\nOn the morning of January 31, the third day of the Lunar New Year, I attended the Prophet's birthday celebration at the Great Mosque on Huajue Lane. People from various Xi'an mosque communities, including Gedimu, Ikhwan, and Salafiyya, all came to participate. They also invited an imam from the North Mosque in Pingliang to give a sermon (wa'iz). I tasted stewed potatoes with meat, stir-stir-fried meat with yellow chives, braised hairtail, stir-stir-fried meat with asparagus lettuce, lamb offal soup, sliced meat, meatball stew, and crispy stir-fried meat (xiaosuru), finishing with a sweet soup.\n\n![image](https://files.catbox.moe/jse84w.jpg)\n\n![image](https://files.catbox.moe/s6h8x8.jpg)\n\n![image](https://files.catbox.moe/6fgzv3.jpg)\n\n![image](https://files.catbox.moe/jobzj4.jpg)\n\n![image](https://files.catbox.moe/vz44ew.jpg)\n\n![image](https://files.catbox.moe/hk12xr.jpg)\n\n![image](https://files.catbox.moe/mlye55.jpg)\n\n![image](https://files.catbox.moe/b4enev.jpg)\n\n![image](https://files.catbox.moe/stegtm.jpg)\n\n![image](https://files.catbox.moe/bimvez.jpg)\n\nStepping into the Great Mosque on Huajue Lane feels like time has frozen; one step takes you deep into history.\n\n![image](https://files.catbox.moe/wn7su0.jpg)\n\n![image](https://files.catbox.moe/rnd23u.jpg)\n\n![image](https://files.catbox.moe/k2omsx.jpg)\n\n![image](https://files.catbox.moe/v0fnaa.jpg)\n\n![image](https://files.catbox.moe/1opfus.jpg)\n\n![image](https://files.catbox.moe/l4x34y.jpg)\n\nThe details of the mihrab in the Great Mosque on Huajue Lane show a very exquisite Ming Dynasty mihrab. It has high artistic value and is a fusion of Persian and traditional Chinese styles. It is hard to find this style of mihrab in the Qing Dynasty.\n\n![image](https://files.catbox.moe/4k2glq.jpg)\n\n![image](https://files.catbox.moe/di6b9n.jpg)\n\n![image](https://files.catbox.moe/qidkzm.jpg)\n\n![image](https://files.catbox.moe/b3z5lu.jpg)\n\n![image](https://files.catbox.moe/g4u5yn.jpg)\n\n![image](https://files.catbox.moe/02zgh2.jpg)\n\n![image](https://files.catbox.moe/o1s7cx.jpg)\n\n![image](https://files.catbox.moe/mwymo6.jpg)\n\n![image](https://files.catbox.moe/6u70ds.jpg)\n\n![image](https://files.catbox.moe/g3bd1d.jpg)\n\nDetails of the wood carvings in the prayer hall of the Great Mosque on Huajue Lane. This time, I noticed that the Great Mosque on Huajue Lane installed a surveillance screen at the entrance of the main hall, allowing visitors to see inside. I think this is a welcome improvement.\n\n![image](https://files.catbox.moe/dgbctl.jpg)\n\n![image](https://files.catbox.moe/ww7ai8.jpg)\n\n![image](https://files.catbox.moe/i9ik1u.jpg)
+**Reposted from the web**
+
+**Summary:** Xi'an during the 2025 Spring Festival became the setting for a Mawlid gathering shaped by Hui Muslim community life, food, streets, and religious tradition. This first part keeps the original route, photographs, names, and observations from the Chinese travel account.
+
+In 2024, I experienced the strong atmosphere of Ramadan in Xi'an. See my post, 'Experiencing the Ramadan Atmosphere in Xi'an'. I returned to Xi'an for the 2025 Spring Festival to experience the atmosphere of the Prophet's Birthday, and I gained a lot.
+
+The Prophet's Birthday is also called the 'Holy Gathering' or 'Holy Birth,' and it is an annual event to commemorate the noble Prophet. Commemorating the noble Prophet dates back to the time of the followers of the Prophet's companions (Tabi'un), when people gathered to recite poems about him. Large-scale commemorative events can be traced back to the Fatimid Caliphate in Egypt during the 12th century. Egyptian historian Maqrizi recorded a Prophet's Birthday celebration held at the Fatimid court in 1122, which was attended by scholars and representatives of religious institutions. The event included listening to sermons (wa'z), distributing candy and honey, and giving out zakat.
+
+In 1207, Gökböri, the brother-in-law of Saladin and a hero who fought against the Crusades, made the Prophet's Birthday a public holiday for the first time. He held grand celebrations that helped spread the tradition to other regions. The Ottoman Empire made the Prophet's Birthday a legal holiday in 1588, calling it Mevlid Kandili. Kandili means 'oil lamp.' On this night, the minarets of mosques across the Ottoman Empire were lit up, symbolizing the light of the noble Prophet guiding the way for Muslims. Today, mosques in former Ottoman regions like Turkey and the Balkans still decorate with Mahya lights between two minarets during the holiday, arranging the lights into words of dua and blessings.
+
+Today, 39 countries around the world recognize the Prophet's Birthday as a national public holiday. Each region has different ways of celebrating, but most include decorating homes and mosques, giving zakat, telling stories of the noble Prophet's life, and reciting poetry. In Pakistan, 21-gun salutes are fired in all provincial capitals on the day of the Prophet's Birthday. In Yemen, people wear green clothes and hang green decorations all over their houses. In Java, Indonesia, there is a lively week-long market, and the Sultan of Yogyakarta holds a grand royal parade.
+
+In China, various regions also hold Prophet's Birthday celebrations, but the timing varies. Most celebrations take place in the third month of the Islamic calendar, which is said to be the month the noble Prophet was born. However, some regions hold them on other dates. For example, the Sichuan region usually chooses the autumn or winter, while a unique feature of the Xi'an Prophet's Birthday is that it is held during the Spring Festival.
+
+Every year around the twelfth lunar month, the Gedimu mosques in Xi'an post notices for the Prophet's Birthday. Each mosque takes one day, scheduled from New Year's Eve until after the Lantern Festival, making it a very lively time. During the New Year, Xi'an is full of festive spirit, with non-Muslim traditions like offering sacrifices to the kitchen god, staying up on New Year's Eve, honoring ancestors, and welcoming the God of Wealth. To keep their faith (imani) fresh and build a firewall for their beliefs during this time, Hui Muslims in Xi'an choose to hold Prophet's Birthday events seamlessly during this period, which is a sign of wisdom.
+
+![image](https://files.catbox.moe/9d7r0a.jpg)
+
+According to tradition, the first Prophet's Birthday event of the year is held at the Small Mosque on Guangji Street. The praise of the Prophet (Zansheng) begins at the Digele mosque the day before New Year's Eve, marking the start of the Mawlid celebrations in Xi'an.
+
+The famous Thirteen Quarters Praise Group (Shisanfang Zansheng Tuan) from Xi'an performs the Zansheng. Xi'an's Hui Muslim quarter preserves over thirty Zansheng poems. Among them, the Mawlid is a special chant recited during the Mawlid festival that tells the life story of the noble Prophet. The Muhaimaisi, originally called Qasida al-Burda, means Song of the Cloak. It consists of 160 five-line poems and is the most famous Zansheng poetry, widely spread across North Africa, Central Asia, and China. The Maidaiyihai, also translated as Praise Chapters, is a collection of Zansheng writings dedicated to commemorating the noble Prophet.
+
+![image](https://files.catbox.moe/0qfgeg.jpg)
+
+![image](https://files.catbox.moe/8sxgbt.jpg)
+
+![image](https://files.catbox.moe/rg2p8j.jpg)
+
+![image](https://files.catbox.moe/ca86y3.jpg)
+
+![image](https://files.catbox.moe/sf70lf.jpg)
+
+After the Zansheng ended, I ate cumin lamb, stir-fried lamb liver, lotus root slices with meat, and steamed eggs.
+
+![image](https://files.catbox.moe/79k3tu.jpg)
+
+![image](https://files.catbox.moe/pb19vb.jpg)
+
+![image](https://files.catbox.moe/33y5l9.jpg)
+
+On the morning of January 28, the 29th day of the twelfth lunar month, the Small Mosque on Beiguangji Street officially began its Mawlid activities. Director Jia is 82 years old, yet he still organizes the mosque's activities with great energy, which is truly admirable. First, the imams from various quarters open and conclude the scripture reading, then the Thirteen Quarters Praise Group performs the Zansheng, followed by a speech from the local imam, and finally, oil porridge (youfan) is served. Oil porridge (youfan) is a special food served in Xi'an's Hui Muslim quarter only during festivals. It is a porridge made from beef and mutton bone broth, mixed with minced beef, Sichuan peppercorns, and salt. It tastes salty and numbing, making it very warming in winter. After drinking the oil porridge, a guest imam gives a sermon (wa'ez) and leads the great praise (dazan), and then the feast begins.
+
+![image](https://files.catbox.moe/ttjwuy.jpg)
+
+![image](https://files.catbox.moe/3a6pwv.jpg)
+
+![image](https://files.catbox.moe/r5titp.jpg)
+
+![image](https://files.catbox.moe/sfhr85.jpg)
+
+![image](https://files.catbox.moe/sketng.jpg)
+
+![image](https://files.catbox.moe/dcvax4.jpg)
+
+![image](https://files.catbox.moe/bq1xob.jpg)
+
+![image](https://files.catbox.moe/9dv7z6.jpg)
+
+![image](https://files.catbox.moe/83a1ax.jpg)
+
+I ate a scripture hall feast (jingtang xi) consisting of braised chicken, braised fish, crispy fried meat (xiaosurou), mixed vegetable meatballs, sweet rice, braised oxtail, and yam stewed with meat.
+
+![image](https://files.catbox.moe/rgdrh0.jpg)
+
+![image](https://files.catbox.moe/wdg12u.jpg)
+
+![image](https://files.catbox.moe/e4f3zf.jpg)
+
+![image](https://files.catbox.moe/kscv7y.jpg)
+
+![image](https://files.catbox.moe/vadfia.jpg)
+
+![image](https://files.catbox.moe/m6e0ej.jpg)
+
+![image](https://files.catbox.moe/vnud6s.jpg)
+
+![image](https://files.catbox.moe/evtppj.jpg)
+
+On the afternoon of January 28, after the Digele prayer, I went to the South City Mosque (Nancheng Si) to attend the Zansheng. I ate lentil noodle flags (biandou mianqizi), potato slices, braised eggplant, cumin lamb, and stir-fried lamb liver.
+
+![image](https://files.catbox.moe/ymihjn.jpg)
+
+![image](https://files.catbox.moe/gajmgt.jpg)
+
+![image](https://files.catbox.moe/xr2cxr.jpg)
+
+![image](https://files.catbox.moe/zisizo.jpg)
+
+![image](https://files.catbox.moe/a13ibx.jpg)
+
+![image](https://files.catbox.moe/yua0gl.jpg)
+
+![image](https://files.catbox.moe/jzuclw.jpg)
+
+![image](https://files.catbox.moe/yy37o2.jpg)
+
+![image](https://files.catbox.moe/vi33p6.jpg)
+
+![image](https://files.catbox.moe/h5o1xd.jpg)
+
+The South City Mosque was built in 1683 (the 22nd year of the Kangxi reign). It was originally built to serve the Muslim officers, soldiers, and their families stationed in the Han Eight Banners in the south of Xi'an. As early as 1645 (the second year of the Shunzhi reign), the Qing Dynasty established a Manchu Eight Banners garrison city in the east of Xi'an. In 1683, after the Qing Dynasty quelled the Revolt of the Three Feudatories, they built a Han Eight Banners garrison city in the southeast of Xi'an to strengthen military power, which was called the South City. In 1780 (the 45th year of the Qianlong reign), the South City garrison was abolished. The Han Eight Banners officers and soldiers became civilians and were transferred to the Green Standard Army, and the South City Mosque officially became a mosque for all local Muslims.
+
+During the Tongzhi reign, when Xi'an was under siege, the South City Mosque played a special role. At that time, the Hui Muslims in Xi'an could not leave the city for eighteen years, so when they passed away, they were carried to the South City Mosque for burial. People say there was not enough burial shroud (kafan) at the time, so paper had to be used instead. This led to a folk song: Carried all the way to the South City, buried regardless of whether they were rich or poor. Whatever food they ate while alive, they were wrapped in paper when they died.
+
+On the morning of January 29, the first day of the Lunar New Year, I attended the Mawlid at the South City Mosque, which included scripture reading, drinking oil porridge, a sermon, and Zansheng. Imams from various Yihewani and Sailafiye mosques in Xi'an also came to read the scriptures, showing the unity of the Xi'an Muslim community.
+
+![image](https://files.catbox.moe/9x83qz.jpg)
+
+![image](https://files.catbox.moe/qykvka.jpg)
+
+![image](https://files.catbox.moe/1a0dvx.jpg)
+
+![image](https://files.catbox.moe/k4er5w.jpg)
+
+![image](https://files.catbox.moe/qddhgb.jpg)
+
+![image](https://files.catbox.moe/pm910f.jpg)
+
+![image](https://files.catbox.moe/2cp8ii.jpg)
+
+![image](https://files.catbox.moe/g5dv56.jpg)
+
+![image](https://files.catbox.moe/lgzd7z.jpg)
+
+At the South City Mosque, I ate potato stewed with meat, braised chicken, braised fish, water-basin meat (shuapen rou), mixed vegetable meatballs, and sweet rice platter (tianpanzi), all of which are classic Hui Muslim banquet dishes.
+
+![image](https://files.catbox.moe/vmhlat.jpg)
+
+![image](https://files.catbox.moe/nbwkzl.jpg)
+
+![image](https://files.catbox.moe/za7j2g.jpg)
+
+![image](https://files.catbox.moe/pe4jev.jpg)
+
+![image](https://files.catbox.moe/r40ofr.jpg)
+
+![image](https://files.catbox.moe/khlsnp.jpg)
+
+![image](https://files.catbox.moe/zbolcs.jpg)
+
+![image](https://files.catbox.moe/8e7cdh.jpg)
+
+![image](https://files.catbox.moe/340eb9.jpg)
+
+![image](https://files.catbox.moe/u1tq0t.jpg)
+
+On January 29, the first day of the Lunar New Year, Digelehou attended the praise of the Prophet (Zansheng) at the Ancient Mosque (Gusi) on Sajinqiao Street in Xi'an. The Ancient Mosque on Sajinqiao was first built during the Kangxi period of the Qing Dynasty. It was originally called Tielufang Mosque and is commonly known as the North Mosque. In 1926, members of the Ikhwan sect in the Sajinqiao area raised funds to build the Sajinqiao West Mosque, and the original Sajinqiao Mosque became known as the Ancient Mosque or Old Mosque. After reopening in 1985, the Ancient Mosque was rebuilt as a modern structure, and the calligraphy inside the main prayer hall is a major highlight.
+
+![image](https://files.catbox.moe/3he80h.jpg)
+
+![image](https://files.catbox.moe/78mljn.jpg)
+
+![image](https://files.catbox.moe/1yzwa2.jpg)
+
+![image](https://files.catbox.moe/wklfe2.jpg)
+
+![image](https://files.catbox.moe/ieayry.jpg)
+
+![image](https://files.catbox.moe/6pf3jm.jpg)
+
+![image](https://files.catbox.moe/ye6zj1.jpg)
+
+![image](https://files.catbox.moe/tn770i.jpg)
+
+![image](https://files.catbox.moe/ohwzrs.jpg)
+
+On January 30, the second day of the Lunar New Year, I celebrated the Prophet's birthday (Shengji) at the Ancient Mosque. The main gate of the Ancient Mosque only opens wide during festivals, and inside the gate stands an ancient locust tree nearly 200 years old. In the mosque courtyard, they cooked a large pot of oily rice (youfan), which was fragrant and spicy, warming me up completely after I finished a bowl.
+
+![image](https://files.catbox.moe/th8ueb.jpg)
+
+![image](https://files.catbox.moe/bzis69.jpg)
+
+![image](https://files.catbox.moe/6lsdjs.jpg)
+
+![image](https://files.catbox.moe/9vtv7p.jpg)
+
+![image](https://files.catbox.moe/49cx3a.jpg)
+
+![image](https://files.catbox.moe/q2y0h9.jpg)
+
+![image](https://files.catbox.moe/b2gbd9.jpg)
+
+![image](https://files.catbox.moe/ih4993.jpg)
+
+![image](https://files.catbox.moe/85lg29.jpg)
+
+At the entrance of the Ancient Mosque, I tasted stewed beef tendon, meatball stew (wanzi huicai), braised meat (huangmenrou), lamb offal soup (yangzaguo), stewed pork with yam, stewed oxtail, and sweet rice platter (tianpanzi). I love oxtail so much; it was very tender and fell right off the bone.
+
+![image](https://files.catbox.moe/37z5oa.jpg)
+
+![image](https://files.catbox.moe/371z96.jpg)
+
+![image](https://files.catbox.moe/ll1530.jpg)
+
+![image](https://files.catbox.moe/uhm692.jpg)
+
+![image](https://files.catbox.moe/w7urdm.jpg)
+
+![image](https://files.catbox.moe/ibhe1y.jpg)
+
+![image](https://files.catbox.moe/00mxu1.jpg)
+
+![image](https://files.catbox.moe/7ln0b1.jpg)
+
+![image](https://files.catbox.moe/cxly1l.jpg)
+
+![image](https://files.catbox.moe/a4nnly.jpg)
+
+On the afternoon of January 30, the second day of the Lunar New Year, Digelehou attended the praise of the Prophet at the Great Mosque on Huajue Lane in Xi'an. I tasted stir-fried cabbage, celery with dried tofu, cumin lamb, stir-fried meat (xiaochao rou). In Xi'an, the Prophet's birthday celebrations usually involve eating stir-fried dishes after the praise of the Prophet, and stewed dishes the next day.
+
+![image](https://files.catbox.moe/3lo6x4.jpg)
+
+![image](https://files.catbox.moe/g4w67y.jpg)
+
+![image](https://files.catbox.moe/419wlc.jpg)
+
+![image](https://files.catbox.moe/y2us39.jpg)
+
+![image](https://files.catbox.moe/c322zo.jpg)
+
+![image](https://files.catbox.moe/8mth67.jpg)
+
+![image](https://files.catbox.moe/kc1wbu.jpg)
+
+![image](https://files.catbox.moe/eve5ey.jpg)
+
+On the morning of January 31, the third day of the Lunar New Year, I attended the Prophet's birthday celebration at the Great Mosque on Huajue Lane. People from various Xi'an mosque communities, including Gedimu, Ikhwan, and Salafiyya, all came to participate. They also invited an imam from the North Mosque in Pingliang to give a sermon (wa'iz). I tasted stewed potatoes with meat, stir-stir-fried meat with yellow chives, braised hairtail, stir-stir-fried meat with asparagus lettuce, lamb offal soup, sliced meat, meatball stew, and crispy stir-fried meat (xiaosuru), finishing with a sweet soup.
+
+![image](https://files.catbox.moe/jse84w.jpg)
+
+![image](https://files.catbox.moe/s6h8x8.jpg)
+
+![image](https://files.catbox.moe/6fgzv3.jpg)
+
+![image](https://files.catbox.moe/jobzj4.jpg)
+
+![image](https://files.catbox.moe/vz44ew.jpg)
+
+![image](https://files.catbox.moe/hk12xr.jpg)
+
+![image](https://files.catbox.moe/mlye55.jpg)
+
+![image](https://files.catbox.moe/b4enev.jpg)
+
+![image](https://files.catbox.moe/stegtm.jpg)
+
+![image](https://files.catbox.moe/bimvez.jpg)
+
+Stepping into the Great Mosque on Huajue Lane feels like time has frozen; one step takes you deep into history.
+
+![image](https://files.catbox.moe/wn7su0.jpg)
+
+![image](https://files.catbox.moe/rnd23u.jpg)
+
+![image](https://files.catbox.moe/k2omsx.jpg)
+
+![image](https://files.catbox.moe/v0fnaa.jpg)
+
+![image](https://files.catbox.moe/1opfus.jpg)
+
+![image](https://files.catbox.moe/l4x34y.jpg)
+
+The details of the mihrab in the Great Mosque on Huajue Lane show a very exquisite Ming Dynasty mihrab. It has high artistic value and is a fusion of Persian and traditional Chinese styles. It is hard to find this style of mihrab in the Qing Dynasty.
+
+![image](https://files.catbox.moe/4k2glq.jpg)
+
+![image](https://files.catbox.moe/di6b9n.jpg)
+
+![image](https://files.catbox.moe/qidkzm.jpg)
+
+![image](https://files.catbox.moe/b3z5lu.jpg)
+
+![image](https://files.catbox.moe/g4u5yn.jpg)
+
+![image](https://files.catbox.moe/02zgh2.jpg)
+
+![image](https://files.catbox.moe/o1s7cx.jpg)
+
+![image](https://files.catbox.moe/mwymo6.jpg)
+
+![image](https://files.catbox.moe/6u70ds.jpg)
+
+![image](https://files.catbox.moe/g3bd1d.jpg)
+
+Details of the wood carvings in the prayer hall of the Great Mosque on Huajue Lane. This time, I noticed that the Great Mosque on Huajue Lane installed a surveillance screen at the entrance of the main hall, allowing visitors to see inside. I think this is a welcome improvement.
+
+![image](https://files.catbox.moe/dgbctl.jpg)
+
+![image](https://files.catbox.moe/ww7ai8.jpg)
+
+![image](https://files.catbox.moe/i9ik1u.jpg)

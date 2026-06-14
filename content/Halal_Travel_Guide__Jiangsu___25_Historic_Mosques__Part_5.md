@@ -14,4 +14,28 @@ layout: "article"
 
 # Halal Travel Guide: Jiangsu - 25 Historic Mosques, Part 5
 
-**Reposted from the web**\n\n**Summary:** The fifth Jiangsu mosque entry is a short photo record in a larger series on the province's historic Hui Muslim mosque heritage. It preserves the original image order while keeping the focus on Jiangsu mosque sites, community memory, and remaining architectural traces.\n\n![image](https://files.catbox.moe/wapbu4.jpg)\n\n![image](https://files.catbox.moe/5mv2b7.jpg)\n\n![image](https://files.catbox.moe/35hvpc.jpg)\n\n![image](https://files.catbox.moe/ti2jx6.jpg)\n\n![image](https://files.catbox.moe/7oopsh.jpg)\n\n![image](https://files.catbox.moe/mndi2l.jpg)\n\nNext to the mosque is a square that introduces famous Hui Muslims from Liuhe.\n\n![image](https://files.catbox.moe/9jgnvy.jpg)\n\n![image](https://files.catbox.moe/bqtj9h.jpg)\n\n![image](https://files.catbox.moe/45oufe.jpg)\n\n![image](https://files.catbox.moe/9q4r2k.jpg)
+**Reposted from the web**
+
+**Summary:** The fifth Jiangsu mosque entry is a short photo record in a larger series on the province's historic Hui Muslim mosque heritage. It preserves the original image order while keeping the focus on Jiangsu mosque sites, community memory, and remaining architectural traces.
+
+![image](https://files.catbox.moe/wapbu4.jpg)
+
+![image](https://files.catbox.moe/5mv2b7.jpg)
+
+![image](https://files.catbox.moe/35hvpc.jpg)
+
+![image](https://files.catbox.moe/ti2jx6.jpg)
+
+![image](https://files.catbox.moe/7oopsh.jpg)
+
+![image](https://files.catbox.moe/mndi2l.jpg)
+
+Next to the mosque is a square that introduces famous Hui Muslims from Liuhe.
+
+![image](https://files.catbox.moe/9jgnvy.jpg)
+
+![image](https://files.catbox.moe/bqtj9h.jpg)
+
+![image](https://files.catbox.moe/45oufe.jpg)
+
+![image](https://files.catbox.moe/9q4r2k.jpg)

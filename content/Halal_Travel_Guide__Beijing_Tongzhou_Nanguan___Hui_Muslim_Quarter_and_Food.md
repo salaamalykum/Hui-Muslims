@@ -14,4 +14,238 @@ layout: "article"
 
 # Halal Travel Guide: Beijing Tongzhou Nanguan — Hui Muslim Quarter and Food
 
-**Reposted from the web**\n\n**Summary:** Beijing Tongzhou Nanguan — Hui Muslim Quarter and Food is presented here as a firsthand travel account in clear English, beginning with this scene: I visited Nanguan in Tongzhou twice in January and November 2016 to eat and explore, and I recorded what the area looked like back then. The account keeps its focus on Tongzhou Nanguan, Hui Muslims, Beijing Halal Food while preserving the names, places, food, and historical details from the Chinese source.\n\nI visited Nanguan in Tongzhou twice in January and November 2016 to eat and explore, and I recorded what the area looked like back then. Later, Nanguan went through renovations, and it looks completely different from the photos I took at the time.\n\n**The formation of the Hui Muslim district in Tongzhou Nanguan**\n\nIn 1292 (the 29th year of the Zhiyuan era of the Yuan Dynasty), Guo Shoujing oversaw the digging of the Tonghui Canal, which ran directly from Jishuitan in Dadu to the Luhe River in Tongzhou, making Tongzhou an important hub for grain transport. As canal transport flourished, many Hui Muslims moved to Tongzhou and began forming a community in Nanguan.\n\nIn 1368 (the first year of the Hongwu era), the Ming Dynasty built the Tongzhou city wall, expanding it nearly twice as far south as the Yuan Dynasty city and including the Hui Muslim community of Nanguan within it. The Ming Dynasty Tongzhou city had four gates, including the south gate called Yingxun Gate, and the South Main Street inside the gate and the Eighteen and a Half Alleys (Shiba Jieban Hutong) on the east side were officially formed.\n\nBecause South Main Street was the main road for transporting grain from the Grand Canal wharf outside the north gate to the two major granaries in the east and center of Tongzhou, it was very busy during the Ming and Qing dynasties and was filled with all kinds of shops. According to the "Essentials of Tong County Annals" from the 30th year of the Republic of China, there were eight major Hui Muslim surnames in Tongzhou: Jin, Ju, Bao, Wan, Du, Min, Kang, and Lan, with a population of seven hundred households.\n\n![image](https://files.catbox.moe/zlkkyz.jpg)\n\n![image](https://files.catbox.moe/o55eqx.jpg)\n\n**This intersection is where the old Tongzhou South Gate used to be.**\n\n![image](https://files.catbox.moe/cyk7wd.jpg)\n\n![image](https://files.catbox.moe/y89h2n.jpg)\n\n**South Gate Main Street still keeps its historical width.**\n\n![image](https://files.catbox.moe/l5kv7e.jpg)\n\n**Street view of Tongzhou South Main Street.**\n\nTongzhou South Main Street is full of halal snacks.\n\n![image](https://files.catbox.moe/1t1py9.jpg)\n\n![image](https://files.catbox.moe/6aufd8.jpg)\n\nCrispy fried dough squares (gezhihe) are a specialty of eastern Beijing, and we have loved eating them since we were kids.\n\n![image](https://files.catbox.moe/0zecs2.jpg)\n\n![image](https://files.catbox.moe/zlegqh.jpg)\n\n![image](https://files.catbox.moe/ramhpx.jpg)\n\n![image](https://files.catbox.moe/wi8kao.jpg)\n\n![image](https://files.catbox.moe/lib2tb.jpg)\n\n![image](https://files.catbox.moe/0ncp05.jpg)\n\n![image](https://files.catbox.moe/m8a2zs.jpg)\n\n![image](https://files.catbox.moe/il9cl8.jpg)\n\n![image](https://files.catbox.moe/lnae87.jpg)\n\n![image](https://files.catbox.moe/zohk51.jpg)\n\n![image](https://files.catbox.moe/jet4pl.jpg)\n\n**Guishunzhai**\n\nI wandered over to Guishunzhai to buy brown sugar sesame cakes (tanghuoshao). Guishunzhai was opened by Master Li Chen, the former deputy factory manager of the original Dashunzhai, after he retired. It keeps the old Dashunzhai techniques and is the most authentic halal pastry shop in Tongzhou. Their small round cakes (dun'er bobo) are also especially delicious.\n\n![image](https://files.catbox.moe/fm3yfi.jpg)\n\n![image](https://files.catbox.moe/03bx0l.jpg)\n\n![image](https://files.catbox.moe/d2mfjl.jpg)\n\n![image](https://files.catbox.moe/9h2upr.jpg)\n\n![image](https://files.catbox.moe/cdftk2.jpg)\n\n![image](https://files.catbox.moe/kb48jn.jpg)\n\n**Dashunzhai**\n\nThe current state-run Dashunzhai food store still exists, with its main shop on Xinhua East Street, and it is also sold on Niujie and in major supermarkets.\n\n![image](https://files.catbox.moe/ccbkvn.jpg)\n\n![image](https://files.catbox.moe/q8148p.jpg)\n\nRegarding Tongzhou Dashunzhai, Mr. Zhang Zhongxing once recalled it in his book "Fragments of Passing Years":\n\nThere was a halal pastry shop at Niushikou called Dashunzhai. They had two types of pastries, dun'er bobo and tanghuoshao, which, to use today's advertising language, were world-famous. Without bragging, they were at least famous far and wide. There is proof from travelers' ears: when I was a student, the long-distance bus would stop outside the South Gate of the new city, and a group of vendors would always surround it, shouting, "Dun'er bobo and tanghuoshao, from Dashunzhai!" encouraging passengers to buy them to take to other places. There is also proof from our own cravings; we really wanted to eat them often, but unfortunately, our pockets were empty, so we mostly just drooled and rarely got to eat them. More than half a century has passed, and the Dashunzhai brand still exists. I assume it changed from a small handicraft business to a large factory, and there are even many places in Beijing that sell their products on consignment. It is a pity that they stopped walking on two legs and now only walk on one, as they no longer produce dun'er bobo. As for the tanghuoshao, they have gone from exquisite to ordinary, so it does not really matter if you eat them or not.\n\nAdditionally, the famous Beijing scholar Wang Yongbin wrote about Liu Dashun, the founder of Dashunzhai, in his book "Beijing's Suburban Towns and Old Brands":\n\nAfter Liu Dashun settled in Tongzhou, his whole family worked together to start their family pastry business. Liu Dashun bought the raw materials, his family made the pastries, and every morning he went to the fish market north of the lock bridge to sell them to vendors, while he sold the rest along the street in the afternoon. The tanghuoshao and savory sesame cakes (xianhuoshao) made by Liu Dashun were especially popular. He could sell as many as he made every day, and the tanghuoshao in particular were always in short supply.\n\nThe raw materials for making tanghuoshao include white flour, vegetable oil, brown sugar, sesame paste, osmanthus, and alkaline water. Liu Dashun was not afraid to spend more money to use good white flour, small-mill sesame oil, and good brown sugar. Moreover, the ingredients had to be added in specific proportions. The finished tanghuoshao had to be a deep brown color and have just the right sweetness. When placed on a porcelain plate, a layer of oil would soon float on the plate.\n\n**Eighteen and a Half Alleys (Shiba Jieban Hutong)**\n\nTurn off South Street into the last historic neighborhood of Tongzhou.\n\n![image](https://files.catbox.moe/91jc7y.jpg)\n\n![image](https://files.catbox.moe/rsudl1.jpg)\n\n![image](https://files.catbox.moe/suw4bn.jpg)\n\n![image](https://files.catbox.moe/1o6psd.jpg)\n\n![image](https://files.catbox.moe/4bhmyh.jpg)\n\n![image](https://files.catbox.moe/iba2wv.jpg)\n\n![image](https://files.catbox.moe/asaije.jpg)\n\n![image](https://files.catbox.moe/rr07lr.jpg)\n\n![image](https://files.catbox.moe/9jp0uv.jpg)\n\n![image](https://files.catbox.moe/ecfns3.jpg)\n\n![image](https://files.catbox.moe/15rfdn.jpg)\n\n**Tongzhou Mosque**\n\nTongzhou Mosque was built during the Yanyou era of the Yuan Dynasty (1314–1320) and was originally named Chaozhen Mosque. It was renovated in 1516 (the 11th year of the Zhengde era of the Ming Dynasty) and expanded in 1593 (the 21st year of the Wanli era), when it was renamed the Mosque.\n\nTongzhou Mosque opened a charity school during the Daoguang era, a mosque university in 1933, and the Muguang Primary School in the 1940s, which was renamed Hui Muslims Primary School after 1949. In 1963, the movie "Fighting in the Ancient City in the Wildfire and Spring Breeze" was filmed here, at which time the mosque's layout was still complete.\n\nDuring the 1960s and 1970s, the mosque was occupied by the Civil Affairs Bureau's welfare factory for the disabled and suffered severe damage. The archway, screen wall, hanging flower gate, minaret (bangkelou), side gate, the fourth section of the prayer hall, and the moon-viewing platform were all demolished. The south lecture hall and south water room were torn down to build a two-story red brick building, and machines were installed inside the prayer hall.\n\nThe factory moved out in 1982. The Beijing Ethnic Affairs Committee began repairs without reporting to the cultural relics department, building a gate that ruined the original style and tearing off the well-mouth ceiling to replace it with wax-paper decorations. The cultural relics department later discovered this and stopped it, preserving the original well-mouth antique paintings in the south porch of the third section.\n\nIn 1998, a replica ancient women's mosque was built in the south courtyard of the main courtyard, and the screen wall, hanging flower gate, and minaret were rebuilt in 2006.\n\n![image](https://files.catbox.moe/ajeo4c.jpg)\n\n![image](https://files.catbox.moe/affhjf.jpg)\n\n![image](https://files.catbox.moe/dm8go3.jpg)\n\n**The gate of Tongzhou Mosque in "Fighting in the Ancient City in the Wildfire and Spring Breeze".**\n\n![image](https://files.catbox.moe/2ewiba.jpg)\n\n**The gate of Tongzhou Mosque in "Fighting in the Ancient City in the Wildfire and Spring Breeze".**\n\n![image](https://files.catbox.moe/6prsk6.jpg)\n\n**The gate of Tongzhou Mosque in "Fighting in the Ancient City in the Wildfire and Spring Breeze".**\n\n![image](https://files.catbox.moe/kg5uro.jpg)\n\n![image](https://files.catbox.moe/95u7mu.jpg)\n\n![image](https://files.catbox.moe/c3ip1f.jpg)\n\n![image](https://files.catbox.moe/xr23ap.jpg)\n\n![image](https://files.catbox.moe/bgz920.jpg)\n\n![image](https://files.catbox.moe/b8vnjs.jpg)\n\n![image](https://files.catbox.moe/si0ojl.jpg)\n\n![image](https://files.catbox.moe/opjk3x.jpg)\n\n![image](https://files.catbox.moe/0qk9wc.jpg)\n\n![image](https://files.catbox.moe/68oti7.jpg)\n\n**Here are some photos I recently took of Tongzhou Mosque.**\n\n![image](https://files.catbox.moe/2otsty.jpg)\n\n![image](https://files.catbox.moe/p54gx7.jpg)\n\n![image](https://files.catbox.moe/x1el08.jpg)\n\nThis is a rare example of an early mosque building that uses the corbeling technique to construct a kiln-style dome; most kiln-style roofs after the Qing Dynasty were converted into wooden pavilion-style structures.\n\n![image](https://files.catbox.moe/y25ckt.jpg)\n\n![image](https://files.catbox.moe/085hed.jpg)\n\n**The brick carvings of Arabic calligraphy are beautiful and rare.**\n\n![image](https://files.catbox.moe/a9muj0.jpg)\n\n![image](https://files.catbox.moe/b4fckv.jpg)\n\n**These early stone carvings have been preserved with great difficulty.**\n\n![image](https://files.catbox.moe/xeb4px.jpg)\n\n![image](https://files.catbox.moe/2wkusg.jpg)\n\n**Xiaolou Restaurant**\n\nXiaolou Restaurant is at the north entrance of Tongzhou South Street. It is likely the most famous halal restaurant in Tongzhou, best known for its braised catfish (shaonianyu) caught in the Grand Canal.\n\nXiaolou was originally named Yihexuan and was founded by the Li brothers in 1900. It started with one storefront for production and one for sales, with two connected sections. Because customers crowded the doors, the shop expanded to two storefronts and the dining area to six rooms, with an extra room built on the roof. Because it was smaller than the Qing'anlou Restaurant to the south, it was called Xiaolou (Small Building).\n\nDuring the Republic of China era, the Li family created a famous dish called braised catfish. They took catfish from the canal, removed the head and tail, coated them in a thin layer of mung bean starch, fried them in pure sesame oil, and then braised them with seasonings, making them crispy on the outside and tender on the inside.\n\nIn 1921, taking advantage of the bankruptcy of Qing'anlou to the south, the Li family rebuilt the shop into a two-story building and named it Xiaolou. After the public-private partnership in 1956, the roof was renovated. Xiaolou was demolished in 1985, and the current Xiaolou Restaurant was built to the southeast of the original site.\n\n![image](https://files.catbox.moe/g84e13.jpg)\n\nXiaolou Restaurant before its demolition in 1985.\n\n![image](https://files.catbox.moe/yuy3h7.jpg)\n\nZhang Zhongxing wrote about Xiaolou Restaurant in "Fragments of Passing Years":\n\nBesides the sugar-filled sesame cakes (tanghuoshao), there was another dish famous at least in the local area: Xiaolou's braised catfish, or braised catfish and beef pie. Xiaolou is the common name; the official name was Yihexuan. It was located east of the road at the south entrance of the cattle market. Because the shop had two floors, it was commonly called Xiaolou. The catfish came from the canal. After being braised, the meat was white and the outside was crispy, which was very delicious. Beef pie was a common food, but the ingredients and craftsmanship were refined. Back then, it was a treat that people loved but could not eat often. I must also mention a regret: in the 1960s and later, I ate both the beef pie and the braised catfish there. The fish changed from canal-caught to farm-raised, and perhaps the cooking skills changed too. In short, the color, aroma, and taste all declined significantly. The beef pancake (niurou bing) is the same, rough and not very tasty. In short, it is not what it used to be.\n\nMr. Wang Yongbin introduces the Xiaolou Restaurant in his book, Beijing's Suburbs and Old Brands.\n\nXiaolou is a halal restaurant serving everyday food, including rice, steamed buns (mantou), twisted rolls (huajuan), stir-fried lamb (pao yangrou), stir-fried trio (pao sanyang), beef stew (dun niurou), white lamb head meat (bai yangtou rou), lamb offal soup (yangzasui), fried meat strips (zha songrou), fried date and fruit rolls (zha zaojuanguo), roasted lamb (shao yangrou), hot pot lamb (shuan yangrou), braised catfish (shao nianyu), and beef pancakes. The braised catfish and beef pancakes are the most famous, especially the braised catfish, which is one of the Three Treasures of Tongzhou.\n\nCatfish (nianyu) has a lot of meat and few bones, and it tastes great, especially when it is fresh. This type of catfish breeds in the North Canal of Tongzhou, and Xiaolou Restaurant buys live catfish from the fish market to keep in large basins for later use. When a customer orders braised catfish, they take it from the basin and cook it immediately to keep the dish fresh and tasty. The freshness of the catfish combined with the skill of the Xiaolou chefs ensures the fish is cleaned well, with the head and tail removed, using only the middle section. They coat the catfish in starch and fry it in a pan of sesame oil, turning it over and over to fry it three times. They pour out the oil, add a little water to the pan, then add chopped green onion, ginger, garlic, salt, and other seasonings to stew the fish briefly so it absorbs the flavor before placing it on a porcelain plate. They thicken the sauce and pour it over the catfish. The delicious braised catfish is ready. The braised catfish at Xiaolou Restaurant is golden on the outside, crispy on the outside and tender on the inside, with great shape, color, and taste, making it a signature dish in Tongzhou.\n\nAlthough the beef pancake at Xiaolou Restaurant is not as famous as the catfish, it cannot be matched by other restaurants in Tongzhou. The beef pancake at Xiaolou Restaurant has a thin crust, a large filling, is cooked through with oil, and is served with high-quality rice vinegar, which really brings out the flavor. It is also cheap and very popular with regular customers.\n\n![image](https://files.catbox.moe/p2skv5.jpg)\n\n**Braised catfish today.**\n\n![image](https://files.catbox.moe/c8hccz.jpg)\n\n![image](https://files.catbox.moe/epnt97.jpg)\n\nCultural relics collected by Xiaolou Restaurant, the Old Hui Muslim (lao huihui) plaque and the water pitcher (tangping) plaque.\n\n![image](https://files.catbox.moe/19eb08.jpg)\n\n![image](https://files.catbox.moe/x5tsha.jpg)
+**Reposted from the web**
+
+**Summary:** Beijing Tongzhou Nanguan — Hui Muslim Quarter and Food is presented here as a firsthand travel account in clear English, beginning with this scene: I visited Nanguan in Tongzhou twice in January and November 2016 to eat and explore, and I recorded what the area looked like back then. The account keeps its focus on Tongzhou Nanguan, Hui Muslims, Beijing Halal Food while preserving the names, places, food, and historical details from the Chinese source.
+
+I visited Nanguan in Tongzhou twice in January and November 2016 to eat and explore, and I recorded what the area looked like back then. Later, Nanguan went through renovations, and it looks completely different from the photos I took at the time.
+
+**The formation of the Hui Muslim district in Tongzhou Nanguan**
+
+In 1292 (the 29th year of the Zhiyuan era of the Yuan Dynasty), Guo Shoujing oversaw the digging of the Tonghui Canal, which ran directly from Jishuitan in Dadu to the Luhe River in Tongzhou, making Tongzhou an important hub for grain transport. As canal transport flourished, many Hui Muslims moved to Tongzhou and began forming a community in Nanguan.
+
+In 1368 (the first year of the Hongwu era), the Ming Dynasty built the Tongzhou city wall, expanding it nearly twice as far south as the Yuan Dynasty city and including the Hui Muslim community of Nanguan within it. The Ming Dynasty Tongzhou city had four gates, including the south gate called Yingxun Gate, and the South Main Street inside the gate and the Eighteen and a Half Alleys (Shiba Jieban Hutong) on the east side were officially formed.
+
+Because South Main Street was the main road for transporting grain from the Grand Canal wharf outside the north gate to the two major granaries in the east and center of Tongzhou, it was very busy during the Ming and Qing dynasties and was filled with all kinds of shops. According to the "Essentials of Tong County Annals" from the 30th year of the Republic of China, there were eight major Hui Muslim surnames in Tongzhou: Jin, Ju, Bao, Wan, Du, Min, Kang, and Lan, with a population of seven hundred households.
+
+![image](https://files.catbox.moe/zlkkyz.jpg)
+
+![image](https://files.catbox.moe/o55eqx.jpg)
+
+**This intersection is where the old Tongzhou South Gate used to be.**
+
+![image](https://files.catbox.moe/cyk7wd.jpg)
+
+![image](https://files.catbox.moe/y89h2n.jpg)
+
+**South Gate Main Street still keeps its historical width.**
+
+![image](https://files.catbox.moe/l5kv7e.jpg)
+
+**Street view of Tongzhou South Main Street.**
+
+Tongzhou South Main Street is full of halal snacks.
+
+![image](https://files.catbox.moe/1t1py9.jpg)
+
+![image](https://files.catbox.moe/6aufd8.jpg)
+
+Crispy fried dough squares (gezhihe) are a specialty of eastern Beijing, and we have loved eating them since we were kids.
+
+![image](https://files.catbox.moe/0zecs2.jpg)
+
+![image](https://files.catbox.moe/zlegqh.jpg)
+
+![image](https://files.catbox.moe/ramhpx.jpg)
+
+![image](https://files.catbox.moe/wi8kao.jpg)
+
+![image](https://files.catbox.moe/lib2tb.jpg)
+
+![image](https://files.catbox.moe/0ncp05.jpg)
+
+![image](https://files.catbox.moe/m8a2zs.jpg)
+
+![image](https://files.catbox.moe/il9cl8.jpg)
+
+![image](https://files.catbox.moe/lnae87.jpg)
+
+![image](https://files.catbox.moe/zohk51.jpg)
+
+![image](https://files.catbox.moe/jet4pl.jpg)
+
+**Guishunzhai**
+
+I wandered over to Guishunzhai to buy brown sugar sesame cakes (tanghuoshao). Guishunzhai was opened by Master Li Chen, the former deputy factory manager of the original Dashunzhai, after he retired. It keeps the old Dashunzhai techniques and is the most authentic halal pastry shop in Tongzhou. Their small round cakes (dun'er bobo) are also especially delicious.
+
+![image](https://files.catbox.moe/fm3yfi.jpg)
+
+![image](https://files.catbox.moe/03bx0l.jpg)
+
+![image](https://files.catbox.moe/d2mfjl.jpg)
+
+![image](https://files.catbox.moe/9h2upr.jpg)
+
+![image](https://files.catbox.moe/cdftk2.jpg)
+
+![image](https://files.catbox.moe/kb48jn.jpg)
+
+**Dashunzhai**
+
+The current state-run Dashunzhai food store still exists, with its main shop on Xinhua East Street, and it is also sold on Niujie and in major supermarkets.
+
+![image](https://files.catbox.moe/ccbkvn.jpg)
+
+![image](https://files.catbox.moe/q8148p.jpg)
+
+Regarding Tongzhou Dashunzhai, Mr. Zhang Zhongxing once recalled it in his book "Fragments of Passing Years":
+
+There was a halal pastry shop at Niushikou called Dashunzhai. They had two types of pastries, dun'er bobo and tanghuoshao, which, to use today's advertising language, were world-famous. Without bragging, they were at least famous far and wide. There is proof from travelers' ears: when I was a student, the long-distance bus would stop outside the South Gate of the new city, and a group of vendors would always surround it, shouting, "Dun'er bobo and tanghuoshao, from Dashunzhai!" encouraging passengers to buy them to take to other places. There is also proof from our own cravings; we really wanted to eat them often, but unfortunately, our pockets were empty, so we mostly just drooled and rarely got to eat them. More than half a century has passed, and the Dashunzhai brand still exists. I assume it changed from a small handicraft business to a large factory, and there are even many places in Beijing that sell their products on consignment. It is a pity that they stopped walking on two legs and now only walk on one, as they no longer produce dun'er bobo. As for the tanghuoshao, they have gone from exquisite to ordinary, so it does not really matter if you eat them or not.
+
+Additionally, the famous Beijing scholar Wang Yongbin wrote about Liu Dashun, the founder of Dashunzhai, in his book "Beijing's Suburban Towns and Old Brands":
+
+After Liu Dashun settled in Tongzhou, his whole family worked together to start their family pastry business. Liu Dashun bought the raw materials, his family made the pastries, and every morning he went to the fish market north of the lock bridge to sell them to vendors, while he sold the rest along the street in the afternoon. The tanghuoshao and savory sesame cakes (xianhuoshao) made by Liu Dashun were especially popular. He could sell as many as he made every day, and the tanghuoshao in particular were always in short supply.
+
+The raw materials for making tanghuoshao include white flour, vegetable oil, brown sugar, sesame paste, osmanthus, and alkaline water. Liu Dashun was not afraid to spend more money to use good white flour, small-mill sesame oil, and good brown sugar. Moreover, the ingredients had to be added in specific proportions. The finished tanghuoshao had to be a deep brown color and have just the right sweetness. When placed on a porcelain plate, a layer of oil would soon float on the plate.
+
+**Eighteen and a Half Alleys (Shiba Jieban Hutong)**
+
+Turn off South Street into the last historic neighborhood of Tongzhou.
+
+![image](https://files.catbox.moe/91jc7y.jpg)
+
+![image](https://files.catbox.moe/rsudl1.jpg)
+
+![image](https://files.catbox.moe/suw4bn.jpg)
+
+![image](https://files.catbox.moe/1o6psd.jpg)
+
+![image](https://files.catbox.moe/4bhmyh.jpg)
+
+![image](https://files.catbox.moe/iba2wv.jpg)
+
+![image](https://files.catbox.moe/asaije.jpg)
+
+![image](https://files.catbox.moe/rr07lr.jpg)
+
+![image](https://files.catbox.moe/9jp0uv.jpg)
+
+![image](https://files.catbox.moe/ecfns3.jpg)
+
+![image](https://files.catbox.moe/15rfdn.jpg)
+
+**Tongzhou Mosque**
+
+Tongzhou Mosque was built during the Yanyou era of the Yuan Dynasty (1314–1320) and was originally named Chaozhen Mosque. It was renovated in 1516 (the 11th year of the Zhengde era of the Ming Dynasty) and expanded in 1593 (the 21st year of the Wanli era), when it was renamed the Mosque.
+
+Tongzhou Mosque opened a charity school during the Daoguang era, a mosque university in 1933, and the Muguang Primary School in the 1940s, which was renamed Hui Muslims Primary School after 1949. In 1963, the movie "Fighting in the Ancient City in the Wildfire and Spring Breeze" was filmed here, at which time the mosque's layout was still complete.
+
+During the 1960s and 1970s, the mosque was occupied by the Civil Affairs Bureau's welfare factory for the disabled and suffered severe damage. The archway, screen wall, hanging flower gate, minaret (bangkelou), side gate, the fourth section of the prayer hall, and the moon-viewing platform were all demolished. The south lecture hall and south water room were torn down to build a two-story red brick building, and machines were installed inside the prayer hall.
+
+The factory moved out in 1982. The Beijing Ethnic Affairs Committee began repairs without reporting to the cultural relics department, building a gate that ruined the original style and tearing off the well-mouth ceiling to replace it with wax-paper decorations. The cultural relics department later discovered this and stopped it, preserving the original well-mouth antique paintings in the south porch of the third section.
+
+In 1998, a replica ancient women's mosque was built in the south courtyard of the main courtyard, and the screen wall, hanging flower gate, and minaret were rebuilt in 2006.
+
+![image](https://files.catbox.moe/ajeo4c.jpg)
+
+![image](https://files.catbox.moe/affhjf.jpg)
+
+![image](https://files.catbox.moe/dm8go3.jpg)
+
+**The gate of Tongzhou Mosque in "Fighting in the Ancient City in the Wildfire and Spring Breeze".**
+
+![image](https://files.catbox.moe/2ewiba.jpg)
+
+**The gate of Tongzhou Mosque in "Fighting in the Ancient City in the Wildfire and Spring Breeze".**
+
+![image](https://files.catbox.moe/6prsk6.jpg)
+
+**The gate of Tongzhou Mosque in "Fighting in the Ancient City in the Wildfire and Spring Breeze".**
+
+![image](https://files.catbox.moe/kg5uro.jpg)
+
+![image](https://files.catbox.moe/95u7mu.jpg)
+
+![image](https://files.catbox.moe/c3ip1f.jpg)
+
+![image](https://files.catbox.moe/xr23ap.jpg)
+
+![image](https://files.catbox.moe/bgz920.jpg)
+
+![image](https://files.catbox.moe/b8vnjs.jpg)
+
+![image](https://files.catbox.moe/si0ojl.jpg)
+
+![image](https://files.catbox.moe/opjk3x.jpg)
+
+![image](https://files.catbox.moe/0qk9wc.jpg)
+
+![image](https://files.catbox.moe/68oti7.jpg)
+
+**Here are some photos I recently took of Tongzhou Mosque.**
+
+![image](https://files.catbox.moe/2otsty.jpg)
+
+![image](https://files.catbox.moe/p54gx7.jpg)
+
+![image](https://files.catbox.moe/x1el08.jpg)
+
+This is a rare example of an early mosque building that uses the corbeling technique to construct a kiln-style dome; most kiln-style roofs after the Qing Dynasty were converted into wooden pavilion-style structures.
+
+![image](https://files.catbox.moe/y25ckt.jpg)
+
+![image](https://files.catbox.moe/085hed.jpg)
+
+**The brick carvings of Arabic calligraphy are beautiful and rare.**
+
+![image](https://files.catbox.moe/a9muj0.jpg)
+
+![image](https://files.catbox.moe/b4fckv.jpg)
+
+**These early stone carvings have been preserved with great difficulty.**
+
+![image](https://files.catbox.moe/xeb4px.jpg)
+
+![image](https://files.catbox.moe/2wkusg.jpg)
+
+**Xiaolou Restaurant**
+
+Xiaolou Restaurant is at the north entrance of Tongzhou South Street. It is likely the most famous halal restaurant in Tongzhou, best known for its braised catfish (shaonianyu) caught in the Grand Canal.
+
+Xiaolou was originally named Yihexuan and was founded by the Li brothers in 1900. It started with one storefront for production and one for sales, with two connected sections. Because customers crowded the doors, the shop expanded to two storefronts and the dining area to six rooms, with an extra room built on the roof. Because it was smaller than the Qing'anlou Restaurant to the south, it was called Xiaolou (Small Building).
+
+During the Republic of China era, the Li family created a famous dish called braised catfish. They took catfish from the canal, removed the head and tail, coated them in a thin layer of mung bean starch, fried them in pure sesame oil, and then braised them with seasonings, making them crispy on the outside and tender on the inside.
+
+In 1921, taking advantage of the bankruptcy of Qing'anlou to the south, the Li family rebuilt the shop into a two-story building and named it Xiaolou. After the public-private partnership in 1956, the roof was renovated. Xiaolou was demolished in 1985, and the current Xiaolou Restaurant was built to the southeast of the original site.
+
+![image](https://files.catbox.moe/g84e13.jpg)
+
+Xiaolou Restaurant before its demolition in 1985.
+
+![image](https://files.catbox.moe/yuy3h7.jpg)
+
+Zhang Zhongxing wrote about Xiaolou Restaurant in "Fragments of Passing Years":
+
+Besides the sugar-filled sesame cakes (tanghuoshao), there was another dish famous at least in the local area: Xiaolou's braised catfish, or braised catfish and beef pie. Xiaolou is the common name; the official name was Yihexuan. It was located east of the road at the south entrance of the cattle market. Because the shop had two floors, it was commonly called Xiaolou. The catfish came from the canal. After being braised, the meat was white and the outside was crispy, which was very delicious. Beef pie was a common food, but the ingredients and craftsmanship were refined. Back then, it was a treat that people loved but could not eat often. I must also mention a regret: in the 1960s and later, I ate both the beef pie and the braised catfish there. The fish changed from canal-caught to farm-raised, and perhaps the cooking skills changed too. In short, the color, aroma, and taste all declined significantly. The beef pancake (niurou bing) is the same, rough and not very tasty. In short, it is not what it used to be.
+
+Mr. Wang Yongbin introduces the Xiaolou Restaurant in his book, Beijing's Suburbs and Old Brands.
+
+Xiaolou is a halal restaurant serving everyday food, including rice, steamed buns (mantou), twisted rolls (huajuan), stir-fried lamb (pao yangrou), stir-fried trio (pao sanyang), beef stew (dun niurou), white lamb head meat (bai yangtou rou), lamb offal soup (yangzasui), fried meat strips (zha songrou), fried date and fruit rolls (zha zaojuanguo), roasted lamb (shao yangrou), hot pot lamb (shuan yangrou), braised catfish (shao nianyu), and beef pancakes. The braised catfish and beef pancakes are the most famous, especially the braised catfish, which is one of the Three Treasures of Tongzhou.
+
+Catfish (nianyu) has a lot of meat and few bones, and it tastes great, especially when it is fresh. This type of catfish breeds in the North Canal of Tongzhou, and Xiaolou Restaurant buys live catfish from the fish market to keep in large basins for later use. When a customer orders braised catfish, they take it from the basin and cook it immediately to keep the dish fresh and tasty. The freshness of the catfish combined with the skill of the Xiaolou chefs ensures the fish is cleaned well, with the head and tail removed, using only the middle section. They coat the catfish in starch and fry it in a pan of sesame oil, turning it over and over to fry it three times. They pour out the oil, add a little water to the pan, then add chopped green onion, ginger, garlic, salt, and other seasonings to stew the fish briefly so it absorbs the flavor before placing it on a porcelain plate. They thicken the sauce and pour it over the catfish. The delicious braised catfish is ready. The braised catfish at Xiaolou Restaurant is golden on the outside, crispy on the outside and tender on the inside, with great shape, color, and taste, making it a signature dish in Tongzhou.
+
+Although the beef pancake at Xiaolou Restaurant is not as famous as the catfish, it cannot be matched by other restaurants in Tongzhou. The beef pancake at Xiaolou Restaurant has a thin crust, a large filling, is cooked through with oil, and is served with high-quality rice vinegar, which really brings out the flavor. It is also cheap and very popular with regular customers.
+
+![image](https://files.catbox.moe/p2skv5.jpg)
+
+**Braised catfish today.**
+
+![image](https://files.catbox.moe/c8hccz.jpg)
+
+![image](https://files.catbox.moe/epnt97.jpg)
+
+Cultural relics collected by Xiaolou Restaurant, the Old Hui Muslim (lao huihui) plaque and the water pitcher (tangping) plaque.
+
+![image](https://files.catbox.moe/19eb08.jpg)
+
+![image](https://files.catbox.moe/x5tsha.jpg)

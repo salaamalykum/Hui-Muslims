@@ -14,4 +14,160 @@ layout: "article"
 
 # Halal Travel Guide: Qiqihar — Bukui Mosque and Hui Muslim Neighborhood
 
-**Reposted from the web**\n\n**Summary:** Qiqihar in Heilongjiang is home to Bukui Mosque and a Hui Muslim neighborhood with deep local history. This article follows the mosque, nearby streets, and community details while preserving all source facts, names, and images.\n\nI took a high-speed train from Changchun to Qiqihar in the morning and performed the afternoon prayer (peshin) at the Bukui West Mosque in Qiqihar at noon. Bukui Mosque is divided into an east and west mosque; the East Mosque belongs to the Gedimu tradition, and the West Mosque belongs to the Jahriyya order. In 1817 (the 22nd year of the Jiaqing reign), Ma Datian, the third-generation leader (murshid) of the Jahriyya, was sentenced to exile in Qiqihar, Heilongjiang. Twelve families led by Master Niu volunteered to take the blame and follow him into exile. Ma Datian passed away while passing through the Jilin Shipyard, earning him the title of Shipyard Master (Chuanchang Taiye), but the twelve families continued their exile to Qiqihar. After arriving in Qiqihar, the twelve families were welcomed by the local Gedimu community. In 1852 (the second year of the Xianfeng reign), they built the Bukui West Mosque next to the Bukui Mosque, making it the only Jahriyya mosque in Heilongjiang.\n\nI received a warm welcome from Baba Ma inside the mosque, and he shared many stories about the Jahriyya with me. Most of the local Jahriyya community members are now working away from home, so not many people come to the mosque on regular days. The West Mosque has just finished renovations, but the main prayer hall is not yet in use, so the north room is being used as the prayer hall. Because many old mosques in Northeast China lack floor heating or radiators in their main halls, people usually choose to perform their worship in heated rooms during the cold winter.\n\n![image](https://files.catbox.moe/tgdy1x.jpg)\n\n![image](https://files.catbox.moe/ldp5bi.jpg)\n\n![image](https://files.catbox.moe/xwrrdk.jpg)\n\n![image](https://files.catbox.moe/hb0dlc.jpg)\n\n![image](https://files.catbox.moe/i3oftx.jpg)\n\n![image](https://files.catbox.moe/b2jdxg.jpg)\n\n![image](https://files.catbox.moe/s5qldf.jpg)\n\n![image](https://files.catbox.moe/g8jlmk.jpg)\n\n![image](https://files.catbox.moe/u2gcvv.jpg)\n\nBukui West Mosque preserves a banner inscribed with the words 'Benevolence, Loyalty, and Harmony.' It reads: 'In memory of the late Imam Niu Chenggong on the 50th anniversary of his passing, respectfully offered by his junior friends Ma Yongcai and Ma Yongzhi on the 13th day of the eighth lunar month in the 14th year of the Guangxu reign.' Imam Niu Chenggong is the same Master Niu who volunteered to take the blame and follow the Shipyard Master to Qiqihar. Master Niu was originally an imam from the Lingwu area of Wuzhong. Many stories of his miracles during the journey to Qiqihar are widely circulated within the Jahriyya menhuan. Every year, Jahriyya followers from Ningxia, Gansu, and other places travel thousands of miles to Qiqihar to visit Master Niu's grave, showing that he is still highly respected more than a century later.\n\n![image](https://files.catbox.moe/jvc43v.jpg)\n\n![image](https://files.catbox.moe/8w3put.jpg)\n\n![image](https://files.catbox.moe/44yehk.jpg)\n\n![image](https://files.catbox.moe/tfb11e.jpg)\n\n![image](https://files.catbox.moe/hpjqen.jpg)\n\n![image](https://files.catbox.moe/zuljc4.jpg)\n\n![image](https://files.catbox.moe/k82je4.jpg)\n\n![image](https://files.catbox.moe/xr6gxy.jpg)\n\n![image](https://files.catbox.moe/cwhkib.jpg)\n\nAfter finishing the peshin prayer, I went to Qihan Yangjia across from the Bukui Mosque for barbecue. I ordered original seasoned meat, sirloin strips, Argentine red shrimp, a squid heart tube platter, Korean cold noodles (lengmian), a mixed vinegar appetizer, and perilla leaves for wrapping the meat. The prices there are quite affordable, the location is great, you can see the old mosque from the window, and the interior is very nice. I really liked the cold noodles and the heart tubes, but the meat felt a bit tough. Also, the grill plate tends to hold oil, so it kept splashing on me while I was cooking. The most popular halal barbecue spots in Qiqihar are Mijia and Majia. We didn't have enough time to eat there this trip, but we will try them next time.\n\n![image](https://files.catbox.moe/wvwyzd.jpg)\n\n![image](https://files.catbox.moe/ab4uwf.jpg)\n\n![image](https://files.catbox.moe/jqjeo1.jpg)\n\n![image](https://files.catbox.moe/twa35p.jpg)\n\n![image](https://files.catbox.moe/qr07h9.jpg)\n\n![image](https://files.catbox.moe/hop0yg.jpg)\n\n![image](https://files.catbox.moe/fumsr1.jpg)\n\n![image](https://files.catbox.moe/sfly48.jpg)\n\n![image](https://files.catbox.moe/2py6m8.jpg)\n\nAfter our meal, we visited the Qiqihar Bukui East Mosque, which is the oldest mosque in Heilongjiang. Regarding when the Bukui Mosque was built, the most common story is that it was built in 1676 (the 15th year of the Kangxi reign) by over 40 Hui Muslim families who moved to Bukui Village from Shandong and Hebei. The 1939 record 'The History of the Relocation of the Qiqihar Muslim Cemetery,' published by the Qiqihar Muslim Board, mentions that the government enforced a relocation policy, recruiting good citizens from the Yan and Lu regions. The government paid for their daily food and travel expenses as they moved to Longcheng to serve in the banners. At that time, Muslims arrived one after another, their population grew, and they raised funds to build the mosque in the 23rd year of the Kangxi reign.\n\nAnother theory suggests that the Bukui East Mosque was first built in 1700 (the 39th year of the Kangxi reign). Elders in Bukui often say, 'First came the Naval Battalion, then came the mosque.' To prepare for the Battle of Albazin, some Hui Muslims were drafted into the Heilongjiang Naval Battalion to fight. In 1699 (the 38th year of the Kangxi reign), the Heilongjiang Naval Battalion headquarters moved to Qiqihar city. Hui Muslims with the surnames Wang and Xia from Jinan, Shandong, followed the battalion to settle in Qiqihar and built the first Bukui Mosque the following year. The book 'The Current Situation of Qiqihar,' published in 1937, mentions that the Bukui Mosque was built in 1700.\n\nThe original Bukui Mosque was just a grass hut. It was rebuilt many times during the Jiaqing and Guangxu reigns, eventually reaching its current size. The most unique feature of the East Mosque is the Moon-Sighting Tower (wangyuelou) on top of the rear prayer hall (yaodian). The prayer hall has a three-story, four-cornered pointed roof with complex and beautiful brick carvings, and a plaque on the east side that reads 'Heavenly Shortcut' (tianfangjiejing). The copper lotus-base gourd finial on top of the prayer hall was added during the major renovation of the Bukui East Mosque in 1893 (the 19th year of the Guangxu reign). People say Ma Wanliang bought it from a Tibetan Buddhist mosque near Zhangjiakou. Local legend says it could only be installed after the Republic of China era because the top of the prayer hall was taller than the nearby Yikeming'an Eight Banners Mansion.\n\nAfter 1958, the East Mosque was occupied by several factories and residents, including a riveting and welding factory, a shell carving factory, an urn factory, and a cloth shoe factory. The blacksmith's furnace of the riveting and welding factory was placed inside the prayer hall, which burned the pillars and caused the hall to tilt. It wasn't until 1980 that it was renovated. It was listed as a provincial cultural heritage site in 1981 and became a national cultural heritage site in 2006.\n\n![image](https://files.catbox.moe/279f6u.jpg)\n\n![image](https://files.catbox.moe/dvpmhi.jpg)\n\n![image](https://files.catbox.moe/y34tah.jpg)\n\n![image](https://files.catbox.moe/xbkikp.jpg)\n\n![image](https://files.catbox.moe/2n3p96.jpg)\n\n![image](https://files.catbox.moe/zt30ye.jpg)\n\n![image](https://files.catbox.moe/t6pi55.jpg)\n\n![image](https://files.catbox.moe/px1cuu.jpg)\n\n![image](https://files.catbox.moe/s16gds.jpg)\n\nThe mihrab at the Bukui East Mosque is exquisite, featuring a mix of decorative script (miaohuiti), broad-pen script, and square Kufic script.\n\nDuring the Ming and Qing dynasties, as Hui Muslims integrated into Chinese society, Islamic art became increasingly localized. A key example is the decorative Arabic script, which blends Kufic calligraphy with traditional Chinese painting. In the early Qing dynasty, Chang Zhimei, known as Chang Baba, founded the Shandong school of mosque-based education (jingtang jiaoyu) in Jining, Shandong, training many famous scholars. These scholars (alim) mastered various Chinese-style Arabic scripts, including broad-pen, brush, and manuscript styles. The most unique is the decorative script, often called the Shandong style or simply floral script (huati).\n\nAfter the Shandong school of mosque-based education was founded, it spread to North China and later reached Northeast China with Hui Muslims migrating during the 'Chuang Guandong' period. Decorative script combines both brush calligraphy and meticulous brushwork painting (gongbi) in a single piece. To create it, artists first design the layout, write the text with a brush, and then use meticulous painting techniques to add traditional Chinese patterns like cloud heads, scrolling vines, and corner flowers. Unlike broad-pen or brush scripts, decorative script does not need to be written in one go; it can be carefully crafted to achieve the perfect shape.\n\n![image](https://files.catbox.moe/52xo8u.jpg)\n\n![image](https://files.catbox.moe/pqv4n4.jpg)\n\n![image](https://files.catbox.moe/tfdtfl.jpg)\n\n![image](https://files.catbox.moe/enf8kl.jpg)\n\n![image](https://files.catbox.moe/5v0kkh.jpg)\n\n![image](https://files.catbox.moe/gp2hum.jpg)\n\n![image](https://files.catbox.moe/z8ztsl.jpg)\n\n![image](https://files.catbox.moe/uiilcv.jpg)\n\n![image](https://files.catbox.moe/9qp8a9.jpg)\n\nThe exquisite brick carving art at the Bukui East Mosque.\n\n![image](https://files.catbox.moe/u6kzlv.jpg)\n\n![image](https://files.catbox.moe/zfumvo.jpg)\n\n![image](https://files.catbox.moe/ahluv8.jpg)\n\n![image](https://files.catbox.moe/efbvny.jpg)\n\n![image](https://files.catbox.moe/9seke1.jpg)\n\n![image](https://files.catbox.moe/hrl64q.jpg)\n\n![image](https://files.catbox.moe/mm93an.jpg)\n\n![image](https://files.catbox.moe/vjreoc.jpg)\n\n![image](https://files.catbox.moe/utvjw5.jpg)\n\nAfter leaving the Bukui East Mosque, I walked through the Hui Muslim community to the east. There were carts selling ground cherries (guniang) that were sweet and refreshing; I couldn't stop eating them. There are many snack shops on Chaoyang Road, north of the Hui Muslim neighborhood. We bought pure beef sausage at a Sun family deli; it was very meaty and contained no starch.\n\nHui Muslims in Qiqihar mainly live in the Xizhan area, southwest of the old city. Xizhan refers to the Bukui post station established by the Qing government in 1685 (the 24th year of the Kangxi reign) on the east bank of the Nen River. After Qiqihar was built, Hui Muslims from Shandong, Hebei, and other places moved in to trade cattle and horses or run halal food businesses. People say a restaurant owner from Beijing moved here with over 20 people and 3,000 silver coins, eventually leading to the formation of the Bukui mosque neighborhood.\n\n![image](https://files.catbox.moe/wvctne.jpg)\n\n![image](https://files.catbox.moe/trlvey.jpg)\n\n![image](https://files.catbox.moe/z9bnso.jpg)\n\n![image](https://files.catbox.moe/kx07e2.jpg)\n\n![image](https://files.catbox.moe/c2vkst.jpg)\n\n![image](https://files.catbox.moe/plbirv.jpg)\n\n![image](https://files.catbox.moe/wficqr.jpg)\n\n![image](https://files.catbox.moe/h6h4qx.jpg)\n\n![image](https://files.catbox.moe/todwyb.jpg)
+**Reposted from the web**
+
+**Summary:** Qiqihar in Heilongjiang is home to Bukui Mosque and a Hui Muslim neighborhood with deep local history. This article follows the mosque, nearby streets, and community details while preserving all source facts, names, and images.
+
+I took a high-speed train from Changchun to Qiqihar in the morning and performed the afternoon prayer (peshin) at the Bukui West Mosque in Qiqihar at noon. Bukui Mosque is divided into an east and west mosque; the East Mosque belongs to the Gedimu tradition, and the West Mosque belongs to the Jahriyya order. In 1817 (the 22nd year of the Jiaqing reign), Ma Datian, the third-generation leader (murshid) of the Jahriyya, was sentenced to exile in Qiqihar, Heilongjiang. Twelve families led by Master Niu volunteered to take the blame and follow him into exile. Ma Datian passed away while passing through the Jilin Shipyard, earning him the title of Shipyard Master (Chuanchang Taiye), but the twelve families continued their exile to Qiqihar. After arriving in Qiqihar, the twelve families were welcomed by the local Gedimu community. In 1852 (the second year of the Xianfeng reign), they built the Bukui West Mosque next to the Bukui Mosque, making it the only Jahriyya mosque in Heilongjiang.
+
+I received a warm welcome from Baba Ma inside the mosque, and he shared many stories about the Jahriyya with me. Most of the local Jahriyya community members are now working away from home, so not many people come to the mosque on regular days. The West Mosque has just finished renovations, but the main prayer hall is not yet in use, so the north room is being used as the prayer hall. Because many old mosques in Northeast China lack floor heating or radiators in their main halls, people usually choose to perform their worship in heated rooms during the cold winter.
+
+![image](https://files.catbox.moe/tgdy1x.jpg)
+
+![image](https://files.catbox.moe/ldp5bi.jpg)
+
+![image](https://files.catbox.moe/xwrrdk.jpg)
+
+![image](https://files.catbox.moe/hb0dlc.jpg)
+
+![image](https://files.catbox.moe/i3oftx.jpg)
+
+![image](https://files.catbox.moe/b2jdxg.jpg)
+
+![image](https://files.catbox.moe/s5qldf.jpg)
+
+![image](https://files.catbox.moe/g8jlmk.jpg)
+
+![image](https://files.catbox.moe/u2gcvv.jpg)
+
+Bukui West Mosque preserves a banner inscribed with the words 'Benevolence, Loyalty, and Harmony.' It reads: 'In memory of the late Imam Niu Chenggong on the 50th anniversary of his passing, respectfully offered by his junior friends Ma Yongcai and Ma Yongzhi on the 13th day of the eighth lunar month in the 14th year of the Guangxu reign.' Imam Niu Chenggong is the same Master Niu who volunteered to take the blame and follow the Shipyard Master to Qiqihar. Master Niu was originally an imam from the Lingwu area of Wuzhong. Many stories of his miracles during the journey to Qiqihar are widely circulated within the Jahriyya menhuan. Every year, Jahriyya followers from Ningxia, Gansu, and other places travel thousands of miles to Qiqihar to visit Master Niu's grave, showing that he is still highly respected more than a century later.
+
+![image](https://files.catbox.moe/jvc43v.jpg)
+
+![image](https://files.catbox.moe/8w3put.jpg)
+
+![image](https://files.catbox.moe/44yehk.jpg)
+
+![image](https://files.catbox.moe/tfb11e.jpg)
+
+![image](https://files.catbox.moe/hpjqen.jpg)
+
+![image](https://files.catbox.moe/zuljc4.jpg)
+
+![image](https://files.catbox.moe/k82je4.jpg)
+
+![image](https://files.catbox.moe/xr6gxy.jpg)
+
+![image](https://files.catbox.moe/cwhkib.jpg)
+
+After finishing the peshin prayer, I went to Qihan Yangjia across from the Bukui Mosque for barbecue. I ordered original seasoned meat, sirloin strips, Argentine red shrimp, a squid heart tube platter, Korean cold noodles (lengmian), a mixed vinegar appetizer, and perilla leaves for wrapping the meat. The prices there are quite affordable, the location is great, you can see the old mosque from the window, and the interior is very nice. I really liked the cold noodles and the heart tubes, but the meat felt a bit tough. Also, the grill plate tends to hold oil, so it kept splashing on me while I was cooking. The most popular halal barbecue spots in Qiqihar are Mijia and Majia. We didn't have enough time to eat there this trip, but we will try them next time.
+
+![image](https://files.catbox.moe/wvwyzd.jpg)
+
+![image](https://files.catbox.moe/ab4uwf.jpg)
+
+![image](https://files.catbox.moe/jqjeo1.jpg)
+
+![image](https://files.catbox.moe/twa35p.jpg)
+
+![image](https://files.catbox.moe/qr07h9.jpg)
+
+![image](https://files.catbox.moe/hop0yg.jpg)
+
+![image](https://files.catbox.moe/fumsr1.jpg)
+
+![image](https://files.catbox.moe/sfly48.jpg)
+
+![image](https://files.catbox.moe/2py6m8.jpg)
+
+After our meal, we visited the Qiqihar Bukui East Mosque, which is the oldest mosque in Heilongjiang. Regarding when the Bukui Mosque was built, the most common story is that it was built in 1676 (the 15th year of the Kangxi reign) by over 40 Hui Muslim families who moved to Bukui Village from Shandong and Hebei. The 1939 record 'The History of the Relocation of the Qiqihar Muslim Cemetery,' published by the Qiqihar Muslim Board, mentions that the government enforced a relocation policy, recruiting good citizens from the Yan and Lu regions. The government paid for their daily food and travel expenses as they moved to Longcheng to serve in the banners. At that time, Muslims arrived one after another, their population grew, and they raised funds to build the mosque in the 23rd year of the Kangxi reign.
+
+Another theory suggests that the Bukui East Mosque was first built in 1700 (the 39th year of the Kangxi reign). Elders in Bukui often say, 'First came the Naval Battalion, then came the mosque.' To prepare for the Battle of Albazin, some Hui Muslims were drafted into the Heilongjiang Naval Battalion to fight. In 1699 (the 38th year of the Kangxi reign), the Heilongjiang Naval Battalion headquarters moved to Qiqihar city. Hui Muslims with the surnames Wang and Xia from Jinan, Shandong, followed the battalion to settle in Qiqihar and built the first Bukui Mosque the following year. The book 'The Current Situation of Qiqihar,' published in 1937, mentions that the Bukui Mosque was built in 1700.
+
+The original Bukui Mosque was just a grass hut. It was rebuilt many times during the Jiaqing and Guangxu reigns, eventually reaching its current size. The most unique feature of the East Mosque is the Moon-Sighting Tower (wangyuelou) on top of the rear prayer hall (yaodian). The prayer hall has a three-story, four-cornered pointed roof with complex and beautiful brick carvings, and a plaque on the east side that reads 'Heavenly Shortcut' (tianfangjiejing). The copper lotus-base gourd finial on top of the prayer hall was added during the major renovation of the Bukui East Mosque in 1893 (the 19th year of the Guangxu reign). People say Ma Wanliang bought it from a Tibetan Buddhist mosque near Zhangjiakou. Local legend says it could only be installed after the Republic of China era because the top of the prayer hall was taller than the nearby Yikeming'an Eight Banners Mansion.
+
+After 1958, the East Mosque was occupied by several factories and residents, including a riveting and welding factory, a shell carving factory, an urn factory, and a cloth shoe factory. The blacksmith's furnace of the riveting and welding factory was placed inside the prayer hall, which burned the pillars and caused the hall to tilt. It wasn't until 1980 that it was renovated. It was listed as a provincial cultural heritage site in 1981 and became a national cultural heritage site in 2006.
+
+![image](https://files.catbox.moe/279f6u.jpg)
+
+![image](https://files.catbox.moe/dvpmhi.jpg)
+
+![image](https://files.catbox.moe/y34tah.jpg)
+
+![image](https://files.catbox.moe/xbkikp.jpg)
+
+![image](https://files.catbox.moe/2n3p96.jpg)
+
+![image](https://files.catbox.moe/zt30ye.jpg)
+
+![image](https://files.catbox.moe/t6pi55.jpg)
+
+![image](https://files.catbox.moe/px1cuu.jpg)
+
+![image](https://files.catbox.moe/s16gds.jpg)
+
+The mihrab at the Bukui East Mosque is exquisite, featuring a mix of decorative script (miaohuiti), broad-pen script, and square Kufic script.
+
+During the Ming and Qing dynasties, as Hui Muslims integrated into Chinese society, Islamic art became increasingly localized. A key example is the decorative Arabic script, which blends Kufic calligraphy with traditional Chinese painting. In the early Qing dynasty, Chang Zhimei, known as Chang Baba, founded the Shandong school of mosque-based education (jingtang jiaoyu) in Jining, Shandong, training many famous scholars. These scholars (alim) mastered various Chinese-style Arabic scripts, including broad-pen, brush, and manuscript styles. The most unique is the decorative script, often called the Shandong style or simply floral script (huati).
+
+After the Shandong school of mosque-based education was founded, it spread to North China and later reached Northeast China with Hui Muslims migrating during the 'Chuang Guandong' period. Decorative script combines both brush calligraphy and meticulous brushwork painting (gongbi) in a single piece. To create it, artists first design the layout, write the text with a brush, and then use meticulous painting techniques to add traditional Chinese patterns like cloud heads, scrolling vines, and corner flowers. Unlike broad-pen or brush scripts, decorative script does not need to be written in one go; it can be carefully crafted to achieve the perfect shape.
+
+![image](https://files.catbox.moe/52xo8u.jpg)
+
+![image](https://files.catbox.moe/pqv4n4.jpg)
+
+![image](https://files.catbox.moe/tfdtfl.jpg)
+
+![image](https://files.catbox.moe/enf8kl.jpg)
+
+![image](https://files.catbox.moe/5v0kkh.jpg)
+
+![image](https://files.catbox.moe/gp2hum.jpg)
+
+![image](https://files.catbox.moe/z8ztsl.jpg)
+
+![image](https://files.catbox.moe/uiilcv.jpg)
+
+![image](https://files.catbox.moe/9qp8a9.jpg)
+
+The exquisite brick carving art at the Bukui East Mosque.
+
+![image](https://files.catbox.moe/u6kzlv.jpg)
+
+![image](https://files.catbox.moe/zfumvo.jpg)
+
+![image](https://files.catbox.moe/ahluv8.jpg)
+
+![image](https://files.catbox.moe/efbvny.jpg)
+
+![image](https://files.catbox.moe/9seke1.jpg)
+
+![image](https://files.catbox.moe/hrl64q.jpg)
+
+![image](https://files.catbox.moe/mm93an.jpg)
+
+![image](https://files.catbox.moe/vjreoc.jpg)
+
+![image](https://files.catbox.moe/utvjw5.jpg)
+
+After leaving the Bukui East Mosque, I walked through the Hui Muslim community to the east. There were carts selling ground cherries (guniang) that were sweet and refreshing; I couldn't stop eating them. There are many snack shops on Chaoyang Road, north of the Hui Muslim neighborhood. We bought pure beef sausage at a Sun family deli; it was very meaty and contained no starch.
+
+Hui Muslims in Qiqihar mainly live in the Xizhan area, southwest of the old city. Xizhan refers to the Bukui post station established by the Qing government in 1685 (the 24th year of the Kangxi reign) on the east bank of the Nen River. After Qiqihar was built, Hui Muslims from Shandong, Hebei, and other places moved in to trade cattle and horses or run halal food businesses. People say a restaurant owner from Beijing moved here with over 20 people and 3,000 silver coins, eventually leading to the formation of the Bukui mosque neighborhood.
+
+![image](https://files.catbox.moe/wvctne.jpg)
+
+![image](https://files.catbox.moe/trlvey.jpg)
+
+![image](https://files.catbox.moe/z9bnso.jpg)
+
+![image](https://files.catbox.moe/kx07e2.jpg)
+
+![image](https://files.catbox.moe/c2vkst.jpg)
+
+![image](https://files.catbox.moe/plbirv.jpg)
+
+![image](https://files.catbox.moe/wficqr.jpg)
+
+![image](https://files.catbox.moe/h6h4qx.jpg)
+
+![image](https://files.catbox.moe/todwyb.jpg)

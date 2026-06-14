@@ -14,4 +14,133 @@ layout: "article"
 
 # Halal Travel Guide: Baotou - Hui Muslim Food, Mosques and Local Snacks
 
-**Reposted from the web**\n\n**Summary:** Baotou has a lively Hui Muslim food scene around its mosques, with breakfast stalls, milk tea, shaomai, lamb racks, fried cakes, and old-style local dishes. This travel account follows the food streets near Shengli Road and Wayao Gou Mosque while keeping the original restaurant names, dishes, and street details.\n\nThere is a row of Hui Muslim food stalls outside the mosque on Shengli Road in Baotou (Gansu-Qinghai-Ningxia style), and it is very lively in the morning. We first ate steamed dumplings (shaomai) with clear tea at Yipinge. They only sell beef and lamb shaomai, served six to a portion, with four free side dishes and brick tea. The place was full of local uncles and aunties. Their shaomai wrappers are truly as thin as paper. It is the best Inner Mongolian shaomai I have ever had!\n\n![image](https://files.catbox.moe/qc3qad.jpg)\n\n![image](https://files.catbox.moe/rtd577.jpg)\n\n![image](https://files.catbox.moe/rmju1u.jpg)\n\n![image](https://files.catbox.moe/qdxyqa.jpg)\n\n![image](https://files.catbox.moe/jua8oe.jpg)\n\n![image](https://files.catbox.moe/ny59pw.jpg)\n\n![image](https://files.catbox.moe/34kypm.jpg)\n\n![image](https://files.catbox.moe/u221sp.jpg)\n\n![image](https://files.catbox.moe/evil8i.jpg)\n\nThe most popular breakfast spot outside the Shengli Road mosque is Lao Da Soy Milk. They specialize in soy milk and deep-fried dough sticks (youtiao), along with Baotou-style starch noodle soup (fentang). The dough sticks come in two sizes, and everyone loves them fresh from the fryer. The starch noodle soup is made with starch noodles and dried tofu, and the noodles have a great texture.\n\n![image](https://files.catbox.moe/l0qcb8.jpg)\n\n![image](https://files.catbox.moe/h68k8l.jpg)\n\n![image](https://files.catbox.moe/erpzda.jpg)\n\n![image](https://files.catbox.moe/9wv28u.jpg)\n\n![image](https://files.catbox.moe/qbq5ey.jpg)\n\n![image](https://files.catbox.moe/e918hc.jpg)\n\n![image](https://files.catbox.moe/cg2o4v.jpg)\n\nBesides shaomai and starch noodle soup, baked flatbread with fillings (beizi jiacai) is another common breakfast for people in Baotou. Many people buy from Lao Niu Beizi near the Shengli Road mosque. to the flatbread with fillings or eggs, many people also buy ox tongue pastries, brown sugar crispy triangles, spiral flatbreads (youxuan), and thick griddle cakes (guokui).\n\n![image](https://files.catbox.moe/okm0e9.jpg)\n\n![image](https://files.catbox.moe/wnbyi6.jpg)\n\n![image](https://files.catbox.moe/39rtg2.jpg)\n\n![image](https://files.catbox.moe/pmrqrn.jpg)\n\n![image](https://files.catbox.moe/west79.jpg)\n\n![image](https://files.catbox.moe/w1zy6c.jpg)\n\n![image](https://files.catbox.moe/3zoiei.jpg)\n\nThere is a shop called Huixiang Food outside the Shengli Road mosque. It is a famous Hui Muslim pastry shop in Baotou, and everyone comes here to buy treats during the holidays. Beyond the traditional pastries on display, their cheese cakes, yogurt mooncakes, and milk skin mooncakes are worth trying. The yogurt mooncakes have a very rich milky flavor.\n\n![image](https://files.catbox.moe/7ngbjl.jpg)\n\n![image](https://files.catbox.moe/he77re.jpg)\n\n![image](https://files.catbox.moe/6k07gx.jpg)\n\n![image](https://files.catbox.moe/gr9umi.jpg)\n\n![image](https://files.catbox.moe/xscokq.jpg)\n\n![image](https://files.catbox.moe/ptsutb.jpg)\n\n![image](https://files.catbox.moe/yy8hjl.jpg)\n\n![image](https://files.catbox.moe/mr85pc.jpg)\n\n![image](https://files.catbox.moe/nv036c.jpg)\n\nThe most popular Hui Muslim restaurant in Baotou right now is Ma Shoujiang. They have opened several branches, and we went to the Jiuyuan branch. It was still crowded even after eight o'clock. The owner, Zhou Xuezhu, is a Hui Muslim from Ningxia. He opened the restaurant in 2018, naming it after Ma Shoujiang, a famous Hui Muslim chef from Baotou during the Republic of China era. It focuses on traditional Baotou flavors and is very popular.\n\nWe ordered milk tea (guocha), hot-water dough fried cakes (tangmian youxiang), chive pockets (jiucai hezi), and a beef mixed stew (niurou shijinhui). Everything was delicious and the portions were huge. The milk tea pot was very deep, and the milk flavor was incredibly fragrant. You cannot find milk this rich and mellow in Beijing. The chive pockets were crispy and fragrant, making them very appetizing. The mixed stew contains beef, fried tofu, meatballs, chicken, corn, and wood ear mushrooms. It is stewed until very tender, perfect for cold weather. I really liked the fried tofu; it had a wonderful bean aroma.\n\n![image](https://files.catbox.moe/vzeaku.jpg)\n\n![image](https://files.catbox.moe/2vdmch.jpg)\n\n![image](https://files.catbox.moe/7iltxi.jpg)\n\n![image](https://files.catbox.moe/tpijjp.jpg)\n\n![image](https://files.catbox.moe/vno09t.jpg)\n\n![image](https://files.catbox.moe/a93uzp.jpg)\n\n![image](https://files.catbox.moe/i3wcef.jpg)\n\n![image](https://files.catbox.moe/n9oz68.jpg)\n\n![image](https://files.catbox.moe/a0vapo.jpg)\n\nWayao Gou Road, in front of the Wayao Gou Mosque in Baotou, is also a street for Hui Muslim food. Both sides of the street are lined with Hui Muslim restaurants, specializing in snacks like starch noodle soup, shaomai, buckwheat noodles, lamb racks, fried cakes (zha gao), pan-fried buns (youjian bao), and meat pies.\n\n![image](https://files.catbox.moe/d2rjis.jpg)\n\n![image](https://files.catbox.moe/3rc8h5.jpg)\n\n![image](https://files.catbox.moe/df6coy.jpg)\n\n![image](https://files.catbox.moe/yhyafi.jpg)\n\n![image](https://files.catbox.moe/n247f1.jpg)\n\n![image](https://files.catbox.moe/m5eb8u.jpg)\n\nAfter leaving the Baotou Northern Weapons City, we went to a nearby shop called Master Ma's Lamb Rack. For two adults, a small pot is enough, and it comes with a side dish and a staple food. Clear-broth lamb racks are rare in Beijing. You can really taste the freshness of the lamb only when you eat it at the source. Gnawing on the delicious lamb bones is really satisfying; I couldn't stop.\n\nAt their place, we also drank a beverage made from Shanxi-style crabapple fruit (haihongguo). I wonder if anyone else has tried it.\n\n![image](https://files.catbox.moe/bowkhd.jpg)\n\n![image](https://files.catbox.moe/n4y5ld.jpg)\n\n![image](https://files.catbox.moe/fl3xj9.jpg)\n\n![image](https://files.catbox.moe/9jppob.jpg)\n\n![image](https://files.catbox.moe/ybtbte.jpg)\n\n![image](https://files.catbox.moe/7tm6d0.jpg)\n\n![image](https://files.catbox.moe/0aetjt.jpg)\n
+**Reposted from the web**
+
+**Summary:** Baotou has a lively Hui Muslim food scene around its mosques, with breakfast stalls, milk tea, shaomai, lamb racks, fried cakes, and old-style local dishes. This travel account follows the food streets near Shengli Road and Wayao Gou Mosque while keeping the original restaurant names, dishes, and street details.
+
+There is a row of Hui Muslim food stalls outside the mosque on Shengli Road in Baotou (Gansu-Qinghai-Ningxia style), and it is very lively in the morning. We first ate steamed dumplings (shaomai) with clear tea at Yipinge. They only sell beef and lamb shaomai, served six to a portion, with four free side dishes and brick tea. The place was full of local uncles and aunties. Their shaomai wrappers are truly as thin as paper. It is the best Inner Mongolian shaomai I have ever had!
+
+![image](https://files.catbox.moe/qc3qad.jpg)
+
+![image](https://files.catbox.moe/rtd577.jpg)
+
+![image](https://files.catbox.moe/rmju1u.jpg)
+
+![image](https://files.catbox.moe/qdxyqa.jpg)
+
+![image](https://files.catbox.moe/jua8oe.jpg)
+
+![image](https://files.catbox.moe/ny59pw.jpg)
+
+![image](https://files.catbox.moe/34kypm.jpg)
+
+![image](https://files.catbox.moe/u221sp.jpg)
+
+![image](https://files.catbox.moe/evil8i.jpg)
+
+The most popular breakfast spot outside the Shengli Road mosque is Lao Da Soy Milk. They specialize in soy milk and deep-fried dough sticks (youtiao), along with Baotou-style starch noodle soup (fentang). The dough sticks come in two sizes, and everyone loves them fresh from the fryer. The starch noodle soup is made with starch noodles and dried tofu, and the noodles have a great texture.
+
+![image](https://files.catbox.moe/l0qcb8.jpg)
+
+![image](https://files.catbox.moe/h68k8l.jpg)
+
+![image](https://files.catbox.moe/erpzda.jpg)
+
+![image](https://files.catbox.moe/9wv28u.jpg)
+
+![image](https://files.catbox.moe/qbq5ey.jpg)
+
+![image](https://files.catbox.moe/e918hc.jpg)
+
+![image](https://files.catbox.moe/cg2o4v.jpg)
+
+Besides shaomai and starch noodle soup, baked flatbread with fillings (beizi jiacai) is another common breakfast for people in Baotou. Many people buy from Lao Niu Beizi near the Shengli Road mosque. to the flatbread with fillings or eggs, many people also buy ox tongue pastries, brown sugar crispy triangles, spiral flatbreads (youxuan), and thick griddle cakes (guokui).
+
+![image](https://files.catbox.moe/okm0e9.jpg)
+
+![image](https://files.catbox.moe/wnbyi6.jpg)
+
+![image](https://files.catbox.moe/39rtg2.jpg)
+
+![image](https://files.catbox.moe/pmrqrn.jpg)
+
+![image](https://files.catbox.moe/west79.jpg)
+
+![image](https://files.catbox.moe/w1zy6c.jpg)
+
+![image](https://files.catbox.moe/3zoiei.jpg)
+
+There is a shop called Huixiang Food outside the Shengli Road mosque. It is a famous Hui Muslim pastry shop in Baotou, and everyone comes here to buy treats during the holidays. Beyond the traditional pastries on display, their cheese cakes, yogurt mooncakes, and milk skin mooncakes are worth trying. The yogurt mooncakes have a very rich milky flavor.
+
+![image](https://files.catbox.moe/7ngbjl.jpg)
+
+![image](https://files.catbox.moe/he77re.jpg)
+
+![image](https://files.catbox.moe/6k07gx.jpg)
+
+![image](https://files.catbox.moe/gr9umi.jpg)
+
+![image](https://files.catbox.moe/xscokq.jpg)
+
+![image](https://files.catbox.moe/ptsutb.jpg)
+
+![image](https://files.catbox.moe/yy8hjl.jpg)
+
+![image](https://files.catbox.moe/mr85pc.jpg)
+
+![image](https://files.catbox.moe/nv036c.jpg)
+
+The most popular Hui Muslim restaurant in Baotou right now is Ma Shoujiang. They have opened several branches, and we went to the Jiuyuan branch. It was still crowded even after eight o'clock. The owner, Zhou Xuezhu, is a Hui Muslim from Ningxia. He opened the restaurant in 2018, naming it after Ma Shoujiang, a famous Hui Muslim chef from Baotou during the Republic of China era. It focuses on traditional Baotou flavors and is very popular.
+
+We ordered milk tea (guocha), hot-water dough fried cakes (tangmian youxiang), chive pockets (jiucai hezi), and a beef mixed stew (niurou shijinhui). Everything was delicious and the portions were huge. The milk tea pot was very deep, and the milk flavor was incredibly fragrant. You cannot find milk this rich and mellow in Beijing. The chive pockets were crispy and fragrant, making them very appetizing. The mixed stew contains beef, fried tofu, meatballs, chicken, corn, and wood ear mushrooms. It is stewed until very tender, perfect for cold weather. I really liked the fried tofu; it had a wonderful bean aroma.
+
+![image](https://files.catbox.moe/vzeaku.jpg)
+
+![image](https://files.catbox.moe/2vdmch.jpg)
+
+![image](https://files.catbox.moe/7iltxi.jpg)
+
+![image](https://files.catbox.moe/tpijjp.jpg)
+
+![image](https://files.catbox.moe/vno09t.jpg)
+
+![image](https://files.catbox.moe/a93uzp.jpg)
+
+![image](https://files.catbox.moe/i3wcef.jpg)
+
+![image](https://files.catbox.moe/n9oz68.jpg)
+
+![image](https://files.catbox.moe/a0vapo.jpg)
+
+Wayao Gou Road, in front of the Wayao Gou Mosque in Baotou, is also a street for Hui Muslim food. Both sides of the street are lined with Hui Muslim restaurants, specializing in snacks like starch noodle soup, shaomai, buckwheat noodles, lamb racks, fried cakes (zha gao), pan-fried buns (youjian bao), and meat pies.
+
+![image](https://files.catbox.moe/d2rjis.jpg)
+
+![image](https://files.catbox.moe/3rc8h5.jpg)
+
+![image](https://files.catbox.moe/df6coy.jpg)
+
+![image](https://files.catbox.moe/yhyafi.jpg)
+
+![image](https://files.catbox.moe/n247f1.jpg)
+
+![image](https://files.catbox.moe/m5eb8u.jpg)
+
+After leaving the Baotou Northern Weapons City, we went to a nearby shop called Master Ma's Lamb Rack. For two adults, a small pot is enough, and it comes with a side dish and a staple food. Clear-broth lamb racks are rare in Beijing. You can really taste the freshness of the lamb only when you eat it at the source. Gnawing on the delicious lamb bones is really satisfying; I couldn't stop.
+
+At their place, we also drank a beverage made from Shanxi-style crabapple fruit (haihongguo). I wonder if anyone else has tried it.
+
+![image](https://files.catbox.moe/bowkhd.jpg)
+
+![image](https://files.catbox.moe/n4y5ld.jpg)
+
+![image](https://files.catbox.moe/fl3xj9.jpg)
+
+![image](https://files.catbox.moe/9jppob.jpg)
+
+![image](https://files.catbox.moe/ybtbte.jpg)
+
+![image](https://files.catbox.moe/7tm6d0.jpg)
+
+![image](https://files.catbox.moe/0aetjt.jpg)
+

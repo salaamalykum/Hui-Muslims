@@ -14,4 +14,52 @@ layout: "article"
 
 # Hidden Mosques in Longchang: Neijiang Hui Muslim Community and Sichuan Road Trip
 
-**Reposted from the web**\n\n**Summary:** This Longchang stop near Neijiang follows the author into a local mosque and Hui Muslim community, keeping the route, dates, places, and road trip details from the Chinese original.\n\nOn February 18, I drove 50 minutes from Fushun to Longchang City, which is almost at the border of Chongqing. There are five mosques (si-fang) for Hui Muslims spread across Longchang City and Rongchang District, right on the border of Sichuan and Chongqing. This area has the strongest religious community in the region. The Hui Muslims in Longchang and Rongchang mainly have the surnames Su, Ma, Cai, Yang, and Hai. Most of their ancestors moved here from Macheng in Hubei and Shaoyang in Hunan during the Kangxi reign of the Qing Dynasty as part of the 'Huguang fills Sichuan' migration. They first settled in Yinjia Dam in Longchang, then gradually spread to Longchang's city center, Jieshi Town, Shunhe Town in the Dongxing District of Neijiang City, and Qingliu Town in the Rongchang District of Chongqing.\n\nLongchang Mosque is located at the south end of the bridge in Jine Town in the city center. It was built in 1878 (the fourth year of the Guangxu reign) after Yang Dachang and Ye Shaosheng raised funds to buy the land. The main hall was expanded in 1957, and it was rebuilt into the current building between 1995 and 1996. The imam (ahong) at the mosque is from Xichang. It turns out he is a relative of the imam at Qinggang Mosque in Renshou, whom I visited just two days ago. The imams from Xichang play a vital role in keeping the faith alive in Sichuan.\n\nI prayed my first Tarawih of Ramadan at Longchang Mosque. This was the first time I had met so many local elders since I started visiting mosques in southern Sichuan. The names of the elders who will provide the iftar meals each day are already listed on the blackboard in the mosque, which shows that the community spirit here is quite good.\n\n![image](https://files.catbox.moe/x7a9qw.jpg)\n\n![image](https://files.catbox.moe/fq6mpv.jpg)\n\n![image](https://files.catbox.moe/x3kmwx.jpg)\n\n![image](https://files.catbox.moe/jr8udp.jpg)\n\n![image](https://files.catbox.moe/tg63o2.jpg)\n\n![image](https://files.catbox.moe/ewckap.jpg)\n\n![image](https://files.catbox.moe/0af62x.jpg)\n\n![image](https://files.catbox.moe/4we7rn.jpg)\n\n![image](https://files.catbox.moe/ylhc32.jpg)\n\nOn February 19, the imam at Longchang Mosque in Sichuan invited me to have my first suhoor of Ramadan. We had pressed duck (banya), sour soup fish, stir-fried beef with two types of peppers, pea shoots, and baby bok choy. It was a delicious mix of meat and vegetables. The skin of the pressed duck was fragrant and the meat was firm. It was salty, flavorful, and tasted better the more you chewed. The sour soup fish was clean and refreshing. The stir-fried beef with two types of peppers was a classic Sichuan-style dish, and the shredded beef was very tender. Pea shoots are a seasonal vegetable in Sichuan during winter, and they were sweet and crisp. I chatted with the imam's family at the time. After I got back, I found out that the imam's daughter and I had actually known each other on Douban a long time ago. It really is a small world.\n\n![image](https://files.catbox.moe/kxpoo0.jpg)\n\n![image](https://files.catbox.moe/12zquo.jpg)\n\n![image](https://files.catbox.moe/qa04uw.jpg)\n\n![image](https://files.catbox.moe/7p9b2i.jpg)\n\n![image](https://files.catbox.moe/ozbe9r.jpg)\n\nThere are several Hui Muslim restaurants next to Longchang Mosque that serve stir-fried dishes, beef offal hot pot, and beef soup. I will definitely try them if I come back.\n\n![image](https://files.catbox.moe/2p2622.jpg)\n\n![image](https://files.catbox.moe/43bz4o.jpg)\n\n![image](https://files.catbox.moe/aqelxh.jpg)\n\n![image](https://files.catbox.moe/1ex2hb.jpg)
+**Reposted from the web**
+
+**Summary:** This Longchang stop near Neijiang follows the author into a local mosque and Hui Muslim community, keeping the route, dates, places, and road trip details from the Chinese original.
+
+On February 18, I drove 50 minutes from Fushun to Longchang City, which is almost at the border of Chongqing. There are five mosques (si-fang) for Hui Muslims spread across Longchang City and Rongchang District, right on the border of Sichuan and Chongqing. This area has the strongest religious community in the region. The Hui Muslims in Longchang and Rongchang mainly have the surnames Su, Ma, Cai, Yang, and Hai. Most of their ancestors moved here from Macheng in Hubei and Shaoyang in Hunan during the Kangxi reign of the Qing Dynasty as part of the 'Huguang fills Sichuan' migration. They first settled in Yinjia Dam in Longchang, then gradually spread to Longchang's city center, Jieshi Town, Shunhe Town in the Dongxing District of Neijiang City, and Qingliu Town in the Rongchang District of Chongqing.
+
+Longchang Mosque is located at the south end of the bridge in Jine Town in the city center. It was built in 1878 (the fourth year of the Guangxu reign) after Yang Dachang and Ye Shaosheng raised funds to buy the land. The main hall was expanded in 1957, and it was rebuilt into the current building between 1995 and 1996. The imam (ahong) at the mosque is from Xichang. It turns out he is a relative of the imam at Qinggang Mosque in Renshou, whom I visited just two days ago. The imams from Xichang play a vital role in keeping the faith alive in Sichuan.
+
+I prayed my first Tarawih of Ramadan at Longchang Mosque. This was the first time I had met so many local elders since I started visiting mosques in southern Sichuan. The names of the elders who will provide the iftar meals each day are already listed on the blackboard in the mosque, which shows that the community spirit here is quite good.
+
+![image](https://files.catbox.moe/x7a9qw.jpg)
+
+![image](https://files.catbox.moe/fq6mpv.jpg)
+
+![image](https://files.catbox.moe/x3kmwx.jpg)
+
+![image](https://files.catbox.moe/jr8udp.jpg)
+
+![image](https://files.catbox.moe/tg63o2.jpg)
+
+![image](https://files.catbox.moe/ewckap.jpg)
+
+![image](https://files.catbox.moe/0af62x.jpg)
+
+![image](https://files.catbox.moe/4we7rn.jpg)
+
+![image](https://files.catbox.moe/ylhc32.jpg)
+
+On February 19, the imam at Longchang Mosque in Sichuan invited me to have my first suhoor of Ramadan. We had pressed duck (banya), sour soup fish, stir-fried beef with two types of peppers, pea shoots, and baby bok choy. It was a delicious mix of meat and vegetables. The skin of the pressed duck was fragrant and the meat was firm. It was salty, flavorful, and tasted better the more you chewed. The sour soup fish was clean and refreshing. The stir-fried beef with two types of peppers was a classic Sichuan-style dish, and the shredded beef was very tender. Pea shoots are a seasonal vegetable in Sichuan during winter, and they were sweet and crisp. I chatted with the imam's family at the time. After I got back, I found out that the imam's daughter and I had actually known each other on Douban a long time ago. It really is a small world.
+
+![image](https://files.catbox.moe/kxpoo0.jpg)
+
+![image](https://files.catbox.moe/12zquo.jpg)
+
+![image](https://files.catbox.moe/qa04uw.jpg)
+
+![image](https://files.catbox.moe/7p9b2i.jpg)
+
+![image](https://files.catbox.moe/ozbe9r.jpg)
+
+There are several Hui Muslim restaurants next to Longchang Mosque that serve stir-fried dishes, beef offal hot pot, and beef soup. I will definitely try them if I come back.
+
+![image](https://files.catbox.moe/2p2622.jpg)
+
+![image](https://files.catbox.moe/43bz4o.jpg)
+
+![image](https://files.catbox.moe/aqelxh.jpg)
+
+![image](https://files.catbox.moe/1ex2hb.jpg)

@@ -14,4 +14,50 @@ layout: "article"
 
 # Muslim Culture Guide: Ashura Day - Fasting, Memory and Hui Muslim Traditions
 
-**Reposted from the web**\n\n**Summary:** Ashura Day - Fasting, Memory and Hui Muslim Traditions is presented as a clear English travel account for readers interested in Muslim life, halal food, mosques, and local history. The article keeps the original place names, food details, photographs, and cultural context while focusing on Ashura, Muslim Culture, Hui Muslims.\n\nThis Tuesday was the 10th of Muharram, the Day of Ashura. As usual, we made the Urumqi Hui Muslim version of Ashura bean rice (dou dou fan).\n\nAfter work, I went to the supermarket to buy beans. This time I used seven kinds: soybeans, black beans, mung beans, red beans, chickpeas, white kidney beans, and lotus beans. First, I cooked the seven types of beans in a pressure cooker until soft. Then, I diced some Qurbani lamb and chopped green onions. I stir-fried the meat with the green onions, adding salt and Sichuan peppercorn powder. I added rice and sticky rice to the cooked beans, then mixed in the stir-fried meat. I set the pressure cooker to the rice cooking mode to finish it.\n\nSince our pressure cooker wasn't big enough, the water boiled away a bit too much. After taking it out, we added more water to thin it out. Actually, the traditional way is to simmer it in a large pot for a long time.\n\n![image](https://files.catbox.moe/ebt1z2.jpg)\n\n![image](https://files.catbox.moe/t34o1m.jpg)\n\n![image](https://files.catbox.moe/xdqvyw.jpg)\n\n![image](https://files.catbox.moe/1p10a8.jpg)\n\n![image](https://files.catbox.moe/eofgq4.jpg)\n\n![image](https://files.catbox.moe/1r6u7m.jpg)\n\n![image](https://files.catbox.moe/cna5lo.jpg)\n\n![image](https://files.catbox.moe/xon0it.jpg)\n\n![image](https://files.catbox.moe/ql8wqs.jpg)\n\nLegend says that when the Great Flood receded and Prophet Nuh's ship reached land, he and his followers used the seven types of beans on the ship to make the first meal for humanity after the disaster. Across a vast region from Bosnia and Turkey in the west to China in the east, many friends (dostani) make Ashura bean porridge today to remember the landing of Noah's Ark.\n\nYou can actually find Ashura bean porridge at the Sultan Turkish Restaurant in Beijing, but the Turkish version is more like a dessert and tastes quite different from the Chinese one.\n\nThe Ottoman-style Ashure does not have a fixed recipe, as it changes based on the region and the habits of each family. Tradition says you should use at least seven ingredients, though some believe you should use ten to match the theme of the tenth day, while the Alevis always use twelve ingredients. Common ingredients include wheat, barley, rice, white kidney beans, chickpeas, grape molasses (pekmez), pomegranate molasses, beet juice, dates, raisins, currants, apricots, figs, apples, pistachios, almonds, hazelnuts, walnuts, pine nuts, and sesame seeds. You can decorate the finished Ashure with fennel seeds, black cumin seeds, plums, pomegranate, cardamom, cinnamon, cloves, and nutmeg.\n\nToday, you can buy Ashure in dessert shops all year round in Turkey and the Balkans. However, on the Day of Ashura, people still prefer to make Ashure themselves and share it with the poor, relatives, neighbors, and friends.\n\n![image](https://files.catbox.moe/tmu3g6.jpg)\n\n![image](https://files.catbox.moe/h6vw4b.jpg)\n\n![image](https://files.catbox.moe/rhsykf.jpg)\n\n![image](https://files.catbox.moe/e9nnzx.jpg)\n\n![image](https://files.catbox.moe/ef2wz0.jpg)\n\n![image](https://files.catbox.moe/65ztvq.jpg)
+**Reposted from the web**
+
+**Summary:** Ashura Day - Fasting, Memory and Hui Muslim Traditions is presented as a clear English travel account for readers interested in Muslim life, halal food, mosques, and local history. The article keeps the original place names, food details, photographs, and cultural context while focusing on Ashura, Muslim Culture, Hui Muslims.
+
+This Tuesday was the 10th of Muharram, the Day of Ashura. As usual, we made the Urumqi Hui Muslim version of Ashura bean rice (dou dou fan).
+
+After work, I went to the supermarket to buy beans. This time I used seven kinds: soybeans, black beans, mung beans, red beans, chickpeas, white kidney beans, and lotus beans. First, I cooked the seven types of beans in a pressure cooker until soft. Then, I diced some Qurbani lamb and chopped green onions. I stir-fried the meat with the green onions, adding salt and Sichuan peppercorn powder. I added rice and sticky rice to the cooked beans, then mixed in the stir-fried meat. I set the pressure cooker to the rice cooking mode to finish it.
+
+Since our pressure cooker wasn't big enough, the water boiled away a bit too much. After taking it out, we added more water to thin it out. Actually, the traditional way is to simmer it in a large pot for a long time.
+
+![image](https://files.catbox.moe/ebt1z2.jpg)
+
+![image](https://files.catbox.moe/t34o1m.jpg)
+
+![image](https://files.catbox.moe/xdqvyw.jpg)
+
+![image](https://files.catbox.moe/1p10a8.jpg)
+
+![image](https://files.catbox.moe/eofgq4.jpg)
+
+![image](https://files.catbox.moe/1r6u7m.jpg)
+
+![image](https://files.catbox.moe/cna5lo.jpg)
+
+![image](https://files.catbox.moe/xon0it.jpg)
+
+![image](https://files.catbox.moe/ql8wqs.jpg)
+
+Legend says that when the Great Flood receded and Prophet Nuh's ship reached land, he and his followers used the seven types of beans on the ship to make the first meal for humanity after the disaster. Across a vast region from Bosnia and Turkey in the west to China in the east, many friends (dostani) make Ashura bean porridge today to remember the landing of Noah's Ark.
+
+You can actually find Ashura bean porridge at the Sultan Turkish Restaurant in Beijing, but the Turkish version is more like a dessert and tastes quite different from the Chinese one.
+
+The Ottoman-style Ashure does not have a fixed recipe, as it changes based on the region and the habits of each family. Tradition says you should use at least seven ingredients, though some believe you should use ten to match the theme of the tenth day, while the Alevis always use twelve ingredients. Common ingredients include wheat, barley, rice, white kidney beans, chickpeas, grape molasses (pekmez), pomegranate molasses, beet juice, dates, raisins, currants, apricots, figs, apples, pistachios, almonds, hazelnuts, walnuts, pine nuts, and sesame seeds. You can decorate the finished Ashure with fennel seeds, black cumin seeds, plums, pomegranate, cardamom, cinnamon, cloves, and nutmeg.
+
+Today, you can buy Ashure in dessert shops all year round in Turkey and the Balkans. However, on the Day of Ashura, people still prefer to make Ashure themselves and share it with the poor, relatives, neighbors, and friends.
+
+![image](https://files.catbox.moe/tmu3g6.jpg)
+
+![image](https://files.catbox.moe/h6vw4b.jpg)
+
+![image](https://files.catbox.moe/rhsykf.jpg)
+
+![image](https://files.catbox.moe/e9nnzx.jpg)
+
+![image](https://files.catbox.moe/ef2wz0.jpg)
+
+![image](https://files.catbox.moe/65ztvq.jpg)

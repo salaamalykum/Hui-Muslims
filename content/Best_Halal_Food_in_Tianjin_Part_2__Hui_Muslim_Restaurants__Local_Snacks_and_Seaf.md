@@ -14,4 +14,176 @@ layout: "article"
 
 # Best Halal Food in Tianjin Part 2: Hui Muslim Restaurants, Local Snacks and Seafood
 
-**Reposted from the web**\n\n**Summary:** This second Tianjin halal food map adds more Hui Muslim restaurants, local snacks, seafood, and practical dining notes, continuing the original Tianjin halal food guide.\n\nFollowing my previous map of halal food in Tianjin, here are a few more unique halal restaurants.\n\n**Heitaojiu Halal Japanese Cuisine.**\n\n![image](https://files.catbox.moe/ljh0zl.jpg)\n\nTianjin had halal Japanese restaurants before Beijing, and there is more than one.\n\n![image](https://files.catbox.moe/l2kywj.jpg)\n\nHeitaojiu is a fairly famous Japanese restaurant in Tianjin.\n\n![image](https://files.catbox.moe/em98h4.jpg)\n\nThe decor is Japanese style.\n\n![image](https://files.catbox.moe/ow6nmo.jpg)\n\nJapanese marble soda (bobo qishui).\n\n![image](https://files.catbox.moe/iagcn9.jpg)\n\nThis is live octopus. When it is served, the tentacles are still moving. The suction cups stick to the soy sauce dish so hard you can barely pull them off. When you put it in your mouth, it sticks to your tongue, which feels very strange.\n\n![image](https://files.catbox.moe/y4c8n2.jpg)\n\n**Udon noodles.**\n\n![image](https://files.catbox.moe/bosk36.jpg)\n\n**Arctic surf clam (beijibei) sashimi.**\n\n![image](https://files.catbox.moe/z9fyhu.jpg)\n\nThe image above shows the address. This place is a great value, costing about 100 yuan per person, which is very cheap for Japanese food.\n\n**Hongyuxiang Restaurant.**\n\n![image](https://files.catbox.moe/mzt4i1.jpg)\n\nThis is a long-standing shop well-known among locals in Tianjin, commonly called the Yellow Facade (huangmenlian).\n\n![image](https://files.catbox.moe/1cteaw.jpg)\n\nThey sell pan-fried meat pies (huitou). I have only eaten these in Shenyang; they are a snack with filling similar to potstickers.\n\n![image](https://files.catbox.moe/okcszk.jpg)\n\nPan-fried steamed dumplings (shaomai). There are two ways to eat shaomai: steamed or pan-fried.\n\n![image](https://files.catbox.moe/s7cwx4.jpg)\n\nThe shop is small but very popular and has high ratings online.\n\n![image](https://files.catbox.moe/tvvwse.jpg)\n\nThe owners are a couple who perform namaz and fast, and the shop's decor reflects their faith.\n\nAddress: No. 30 Xiangyang Road, Heping District, Tianjin (at the Liuzhou Road intersection).\n\n**1618 Halal Mansion.**\n\n![image](https://files.catbox.moe/2qi6zf.jpg)\n\n1618 Halal Mansion is arguably the best halal restaurant in Tianjin. The building was originally the home of Wu Taixun, the son of Fengtian clique warlord Wu Junsheng. Wu Taixun was a sworn brother of Zhang Xueliang.\n\n![image](https://files.catbox.moe/ndl4zq.jpg)\n\n![image](https://files.catbox.moe/20uff3.jpg)\n\nThe atmosphere is excellent.\n\n![image](https://files.catbox.moe/ean99c.jpg)\n\n![image](https://files.catbox.moe/4bti5x.jpg)\n\nRoast duck is also a Tianjin dish. This is half a duck.\n\n![image](https://files.catbox.moe/90xa06.jpg)\n\nStir-fried trio (laobao san) is a famous Tianjin dish made with lamb heart, lamb liver, and lamb kidney.\n\n![image](https://files.catbox.moe/z7e9rg.jpg)\n\nTianjin is a great place to eat seafood.\n\n![image](https://files.catbox.moe/356gx4.jpg)\n\nPapaya yogurt.\n\nAddress: 16-18 Machang Road, Heping District, Tianjin (near Munan Road)\n\n**Yuquan Restaurant**\n\n![image](https://files.catbox.moe/yvfbxo.jpg)\n\nA Tianjin-style restaurant that has been open for many years.\n\n![image](https://files.catbox.moe/iaah8s.jpg)\n\n![image](https://files.catbox.moe/odgdr3.jpg)\n\nBraised beef tongue and tail.\n\n![image](https://files.catbox.moe/gefuqx.jpg)\n\nVegetarian steamed dumplings (shaomai).\n\nAddress: 5 Yuquan Road\n\n**Renyi Min Halal Restaurant**\n\n![image](https://files.catbox.moe/g49zyp.jpg)\n\nA long-standing restaurant for Hui Muslims that serves all kinds of dishes.\n\n![image](https://files.catbox.moe/a0x18v.jpg)\n\nThey also have snacks for takeout.\n\n![image](https://files.catbox.moe/jhv2oi.jpg)\n\nThe sign outside the shop is written very well.\n\n![image](https://files.catbox.moe/4bhvxj.jpg)\n\nSilver thread rolls (yinsijuan), a type of wheat-based food.\n\n![image](https://files.catbox.moe/s37pne.jpg)\n\n**Cashews with shrimp, squid, and diced chicken.**\n\nAddress: Liaoning Road, Heping District, Tianjin\n\n**Eryanyuan Halal Cuisine**\n\n![image](https://files.catbox.moe/jjsqnm.jpg)\n\nEryanyuan is a famous restaurant in Tianjin with a long history. Their fried rice cakes (zhagao) are one of the three famous snacks in Tianjin, along with Eighteen Street fried dough twists (mahua) and Goubuli steamed buns (baozi).\n\n![image](https://files.catbox.moe/iuhvvv.jpg)\n\nEryanyuan started out by selling fried rice cakes, but it has now grown into a chain brand and launched high-end dining clubs.\n\n![image](https://files.catbox.moe/wnubnr.jpg)\n\nThese are the complimentary snacks and desserts from the restaurant, which are beautifully made.\n\n![image](https://files.catbox.moe/zww41u.jpg)\n\n**A serving of roasted chicken.**\n\n![image](https://files.catbox.moe/djg9d3.jpg)\n\nStir-fried trio (baosanyang).\n\n![image](https://files.catbox.moe/1u2o47.jpg)\n\nOily flour tea (youmiancha), which tastes similar to the version in Beijing.\n\n![image](https://files.catbox.moe/t1yati.jpg)\n\nSignature Eryanyuan fried rice cakes with red bean paste filling.\n\n![image](https://files.catbox.moe/rq6zsp.jpg)\n\nAddress: 2nd Floor, Friendship Hotel, 94 Nanjing Road, Heping District, Tianjin (Friendship Hotel Branch)\n\nTo see the previous post on Tianjin halal food, please click: Tianjin Halal Food Map (Part 1)
+**Reposted from the web**
+
+**Summary:** This second Tianjin halal food map adds more Hui Muslim restaurants, local snacks, seafood, and practical dining notes, continuing the original Tianjin halal food guide.
+
+Following my previous map of halal food in Tianjin, here are a few more unique halal restaurants.
+
+**Heitaojiu Halal Japanese Cuisine.**
+
+![image](https://files.catbox.moe/ljh0zl.jpg)
+
+Tianjin had halal Japanese restaurants before Beijing, and there is more than one.
+
+![image](https://files.catbox.moe/l2kywj.jpg)
+
+Heitaojiu is a fairly famous Japanese restaurant in Tianjin.
+
+![image](https://files.catbox.moe/em98h4.jpg)
+
+The decor is Japanese style.
+
+![image](https://files.catbox.moe/ow6nmo.jpg)
+
+Japanese marble soda (bobo qishui).
+
+![image](https://files.catbox.moe/iagcn9.jpg)
+
+This is live octopus. When it is served, the tentacles are still moving. The suction cups stick to the soy sauce dish so hard you can barely pull them off. When you put it in your mouth, it sticks to your tongue, which feels very strange.
+
+![image](https://files.catbox.moe/y4c8n2.jpg)
+
+**Udon noodles.**
+
+![image](https://files.catbox.moe/bosk36.jpg)
+
+**Arctic surf clam (beijibei) sashimi.**
+
+![image](https://files.catbox.moe/z9fyhu.jpg)
+
+The image above shows the address. This place is a great value, costing about 100 yuan per person, which is very cheap for Japanese food.
+
+**Hongyuxiang Restaurant.**
+
+![image](https://files.catbox.moe/mzt4i1.jpg)
+
+This is a long-standing shop well-known among locals in Tianjin, commonly called the Yellow Facade (huangmenlian).
+
+![image](https://files.catbox.moe/1cteaw.jpg)
+
+They sell pan-fried meat pies (huitou). I have only eaten these in Shenyang; they are a snack with filling similar to potstickers.
+
+![image](https://files.catbox.moe/okcszk.jpg)
+
+Pan-fried steamed dumplings (shaomai). There are two ways to eat shaomai: steamed or pan-fried.
+
+![image](https://files.catbox.moe/s7cwx4.jpg)
+
+The shop is small but very popular and has high ratings online.
+
+![image](https://files.catbox.moe/tvvwse.jpg)
+
+The owners are a couple who perform namaz and fast, and the shop's decor reflects their faith.
+
+Address: No. 30 Xiangyang Road, Heping District, Tianjin (at the Liuzhou Road intersection).
+
+**1618 Halal Mansion.**
+
+![image](https://files.catbox.moe/2qi6zf.jpg)
+
+1618 Halal Mansion is arguably the best halal restaurant in Tianjin. The building was originally the home of Wu Taixun, the son of Fengtian clique warlord Wu Junsheng. Wu Taixun was a sworn brother of Zhang Xueliang.
+
+![image](https://files.catbox.moe/ndl4zq.jpg)
+
+![image](https://files.catbox.moe/20uff3.jpg)
+
+The atmosphere is excellent.
+
+![image](https://files.catbox.moe/ean99c.jpg)
+
+![image](https://files.catbox.moe/4bti5x.jpg)
+
+Roast duck is also a Tianjin dish. This is half a duck.
+
+![image](https://files.catbox.moe/90xa06.jpg)
+
+Stir-fried trio (laobao san) is a famous Tianjin dish made with lamb heart, lamb liver, and lamb kidney.
+
+![image](https://files.catbox.moe/z7e9rg.jpg)
+
+Tianjin is a great place to eat seafood.
+
+![image](https://files.catbox.moe/356gx4.jpg)
+
+Papaya yogurt.
+
+Address: 16-18 Machang Road, Heping District, Tianjin (near Munan Road)
+
+**Yuquan Restaurant**
+
+![image](https://files.catbox.moe/yvfbxo.jpg)
+
+A Tianjin-style restaurant that has been open for many years.
+
+![image](https://files.catbox.moe/iaah8s.jpg)
+
+![image](https://files.catbox.moe/odgdr3.jpg)
+
+Braised beef tongue and tail.
+
+![image](https://files.catbox.moe/gefuqx.jpg)
+
+Vegetarian steamed dumplings (shaomai).
+
+Address: 5 Yuquan Road
+
+**Renyi Min Halal Restaurant**
+
+![image](https://files.catbox.moe/g49zyp.jpg)
+
+A long-standing restaurant for Hui Muslims that serves all kinds of dishes.
+
+![image](https://files.catbox.moe/a0x18v.jpg)
+
+They also have snacks for takeout.
+
+![image](https://files.catbox.moe/jhv2oi.jpg)
+
+The sign outside the shop is written very well.
+
+![image](https://files.catbox.moe/4bhvxj.jpg)
+
+Silver thread rolls (yinsijuan), a type of wheat-based food.
+
+![image](https://files.catbox.moe/s37pne.jpg)
+
+**Cashews with shrimp, squid, and diced chicken.**
+
+Address: Liaoning Road, Heping District, Tianjin
+
+**Eryanyuan Halal Cuisine**
+
+![image](https://files.catbox.moe/jjsqnm.jpg)
+
+Eryanyuan is a famous restaurant in Tianjin with a long history. Their fried rice cakes (zhagao) are one of the three famous snacks in Tianjin, along with Eighteen Street fried dough twists (mahua) and Goubuli steamed buns (baozi).
+
+![image](https://files.catbox.moe/iuhvvv.jpg)
+
+Eryanyuan started out by selling fried rice cakes, but it has now grown into a chain brand and launched high-end dining clubs.
+
+![image](https://files.catbox.moe/wnubnr.jpg)
+
+These are the complimentary snacks and desserts from the restaurant, which are beautifully made.
+
+![image](https://files.catbox.moe/zww41u.jpg)
+
+**A serving of roasted chicken.**
+
+![image](https://files.catbox.moe/djg9d3.jpg)
+
+Stir-fried trio (baosanyang).
+
+![image](https://files.catbox.moe/1u2o47.jpg)
+
+Oily flour tea (youmiancha), which tastes similar to the version in Beijing.
+
+![image](https://files.catbox.moe/t1yati.jpg)
+
+Signature Eryanyuan fried rice cakes with red bean paste filling.
+
+![image](https://files.catbox.moe/rq6zsp.jpg)
+
+Address: 2nd Floor, Friendship Hotel, 94 Nanjing Road, Heping District, Tianjin (Friendship Hotel Branch)
+
+To see the previous post on Tianjin halal food, please click: Tianjin Halal Food Map (Part 1)

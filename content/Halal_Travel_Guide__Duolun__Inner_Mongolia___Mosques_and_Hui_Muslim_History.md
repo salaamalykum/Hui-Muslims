@@ -14,4 +14,208 @@ layout: "article"
 
 # Halal Travel Guide: Duolun, Inner Mongolia - Mosques and Hui Muslim History
 
-**Reposted from the web**\n\n**Summary:** Duolun County sits on the southeastern edge of Inner Mongolia and has long been an important Hui Muslim town on the grassland route. This account keeps the original notes on mosques, local history, food, streets, and photographs from the visit.\n\nDuolun County sits at the southeast edge of Xilin Gol League. During the Qing Dynasty, it served as the political and economic hub of the Mongolian grasslands. In 1691 (the 30th year of the Kangxi reign), Emperor Kangxi held the Dolon Nor Alliance here with nobles from the three Outer Mongolian tribes and the forty-eight banners of Inner Mongolia, officially bringing Outer Mongolia into the Qing Dynasty territory. Later, at the request of Mongolian nobles, Kangxi allowed merchants from the interior to use Duolun as a base to open trade routes across the Mongolian grasslands. He granted these merchants official titles and generous benefits, which drew crowds of traders from Beijing, Tianjin, Hebei, Shanxi, Shandong, and Shaanxi. This quickly turned Duolun into a major commercial city for trade with Mongolia. In 1710 (the 49th year of the Kangxi reign), Xinghua Town was officially established in Duolun. In 1741 (the 6th year of the Qianlong reign), Xinshengying was built north of Xinghua Town, eventually forming the layout of the old city of Duolun.\n\nAfter the city of Duolun was built, Hui Muslims from Hebei, Shandong, Shanxi, and Henan traveled through Zhangjiakou to reach Duolun to trade on the grasslands, moving back and forth between the Mongolian plains and the interior. In his book Records of Dolon Nor published in 1908, the late Qing Japanese scholar Jian Hongsheng noted that the Hui Muslim population in Duolun had already reached 3,000 at that time.\n\nHui Muslims in Duolun built six mosque communities (fang), which were the South Mosque, North Mosque, East Mosque, West Mosque, Central Mosque, and Da'erhao Mosque. Later, the Da'erhao Mosque was transferred to Guyuan County in 1950, and the East Mosque was demolished in the 1960s. Today, the old city still preserves four ancient mosque buildings: the South Mosque, North Mosque, East Mosque, and West Mosque. In 2006, they were collectively listed as a national-level cultural heritage site under the name Nuo'er Ancient Architectural Complex.\n\nThe South Mosque is the oldest in Duolun. It is located on Taiping Street in the old city and was first built during the Yongzheng reign. In 1761 (the 26th year of the Qianlong reign), Hui Muslim merchants Mo Tianming and Ma Guifang led an expansion to create the current structure. In July 1933, after the anti-Japanese hero General Ji Hongchang recaptured Duolun, the local Hui Muslims hosted a banquet for him at the South Mosque. The South Mosque is currently closed and not open for visitors.\n\n![image](https://files.catbox.moe/99icno.jpg)\n\n![image](https://files.catbox.moe/nlfgxu.jpg)\n\n![image](https://files.catbox.moe/4mc85h.jpg)\n\n![image](https://files.catbox.moe/s8x3vg.jpg)\n\n![image](https://files.catbox.moe/ud8zvd.jpg)\n\n![image](https://files.catbox.moe/gmv9il.jpg)\n\n![image](https://files.catbox.moe/7jp6t0.jpg)\n\n![image](https://files.catbox.moe/z301ft.jpg)\n\n![image](https://files.catbox.moe/9tjd8q.jpg)\n\nThe North Mosque is located on Erdao Street in the old city. It was built in 1798 (the 3rd year of the Jiaqing reign) with donations from Hui Muslim merchants who ran cattle, horse, and camel transport businesses. It later became the largest mosque (masjid) in the city. In July 1933, after the anti-Japanese hero General Ji Hongchang recaptured Duolun, he stayed briefly at the North Mosque. Today, the North Mosque is active and holds regular services.\n\n![image](https://files.catbox.moe/e02xqn.jpg)\n\n![image](https://files.catbox.moe/nn78q4.jpg)\n\n![image](https://files.catbox.moe/9aexzp.jpg)\n\n![image](https://files.catbox.moe/k7793i.jpg)\n\n![image](https://files.catbox.moe/llxoo4.jpg)\n\n![image](https://files.catbox.moe/bdhm5j.jpg)\n\n![image](https://files.catbox.moe/0inszw.jpg)\n\n![image](https://files.catbox.moe/p9cyt8.jpg)\n\n![image](https://files.catbox.moe/dzxk52.jpg)\n\n![image](https://files.catbox.moe/a4vbxe.jpg)\n\n![image](https://files.catbox.moe/ruu8c9.jpg)\n\n![image](https://files.catbox.moe/4jc3by.jpg)\n\n![image](https://files.catbox.moe/xsemaj.jpg)\n\n![image](https://files.catbox.moe/s4ehrb.jpg)\n\n![image](https://files.catbox.moe/5zi0tn.jpg)\n\n![image](https://files.catbox.moe/ppyw1a.jpg)\n\nDuring the Tongzhi reign, some Hui Muslims from Shaanxi, Ningxia, and Gansu moved to Duolun to settle down. After that, Hui Muslims from North China were called Kouli people, while those from the Northwest were called Westerners.\n\nThe East Mosque is located outside the Nanjin Fortress in the old city. It was started in 1869 (the eighth year of the Tongzhi reign) by Hui Muslims Xiu Mingliang and Liu Changfu from Shaanxi, and finished in 1878 (the first year of the Guangxu reign). The West Mosque is on Daxi Street in the ancient city. It was built in 1880 (the fifth year of the Guangxu reign) by camel caravan merchants Li Xianyu and Wang Jichen, who were from Ningxia and Gansu. After the 1960s, the East Mosque was completely torn down, and the West Mosque's main gate and the north and south lecture halls were also demolished. Today, only the main hall of the West Mosque remains, and it is open to the public as a historical site.\n\n![image](https://files.catbox.moe/cg7rt9.jpg)\n\n![image](https://files.catbox.moe/fnhjxz.jpg)\n\n![image](https://files.catbox.moe/hmo9r9.jpg)\n\n![image](https://files.catbox.moe/kdx152.jpg)\n\n![image](https://files.catbox.moe/6ds8dl.jpg)\n\n![image](https://files.catbox.moe/rdqok6.jpg)\n\n![image](https://files.catbox.moe/r9he85.jpg)\n\n![image](https://files.catbox.moe/1ei1lp.jpg)\n\n![image](https://files.catbox.moe/c5mj57.jpg)\n\n![image](https://files.catbox.moe/cq1uuz.jpg)\n\n![image](https://files.catbox.moe/70pag6.jpg)\n\n![image](https://files.catbox.moe/edatd6.jpg)\n\n![image](https://files.catbox.moe/nc6znp.jpg)\n\n![image](https://files.catbox.moe/wnugjs.jpg)\n\n![image](https://files.catbox.moe/xirtmc.jpg)\n\nThe Middle Mosque is on Nanqiangfeng Street in the ancient city. It was built in 1908 (the 34th year of the Guangxu reign) by Wang Guofu and Shan Yunxing. In 1930, He Xingzhou, Cong Dianqing, and others started rebuilding the main hall, which was finished in 1935. The Middle Mosque is currently open as usual.\n\n![image](https://files.catbox.moe/dyx7pm.jpg)\n\n![image](https://files.catbox.moe/p9bm6f.jpg)\n\n![image](https://files.catbox.moe/5tv7zx.jpg)\n\n![image](https://files.catbox.moe/opw4fe.jpg)\n\n![image](https://files.catbox.moe/m4bzxs.jpg)\n\n![image](https://files.catbox.moe/89zzgi.jpg)\n\n![image](https://files.catbox.moe/kw5z17.jpg)\n\n![image](https://files.catbox.moe/6yax27.jpg)\n\n![image](https://files.catbox.moe/0idbw0.jpg)\n\n![image](https://files.catbox.moe/7nzi89.jpg)\n\n![image](https://files.catbox.moe/kpaq4o.jpg)\n\nPlaques and couplets inside the Duolun Middle Mosque:\n\nDo not be greedy for this life, only for the afterlife; follow the heavenly and human way to return to the true faith. Carefully keep to the right path, avoid what is improper, and find joy and peace in recognizing the One: Respectfully presented in the eighth month of the 24th year of the Jiaqing reign.\n\n![image](https://files.catbox.moe/c56350.jpg)\n\nHeaven's command clearly explains the pure and unique truth, recognized since ancient times; the Prophet's practice spreads the one true faith, returning to the belief in the five daily namaz.\n\n![image](https://files.catbox.moe/cfgpsa.jpg)\n\nBlessings of the One True God: Presented on an auspicious day in the fifth month of the ninth year of the Xianfeng reign of the Great Qing Dynasty by Zheng Kuishi, Imperial Commissioner overseeing Ningguo military affairs, Commander-in-Chief of Zhejiang Province, in charge of all land and water forces, and titled General Jianwei, Shalamagai Baturu.\n\nZheng Kuishi was a famous general in the late Qing Dynasty and a Hui Muslim from Wanquan, Zhangjiakou, Hebei. He fought against the Taiping Rebellion and the Nian Army for many years. He was the first to break through the defenses of Luzhou and was wounded over twenty times in Huaiyuan, nearly losing his life, which earned him high praise from the imperial court. When Zheng Kuishi wrote the plaque for Duolun in the ninth year of the Xianfeng reign, he was serving as the Commander-in-Chief of Zhejiang and overseeing military affairs in Ningguo, the highest rank he reached in his life. In a memorial to the throne, Li Hongzhang highly praised Zheng Kuishi, saying he was 'hardworking, resolute, and exceptionally brave... he was the first to face the enemy's sharp edge, risking his life repeatedly. He suffered serious wounds eight or nine times, his body covered in scars. Among all the famous generals north and south of the Yangtze River, everyone considered Kuishi the best.'\n\n![image](https://files.catbox.moe/sr9wcq.jpg)\n\nThe Ancient Pure Faith: Respectfully presented by Song Rui, specially appointed Commander of the Duolun Battalion and recipient of the imperial peacock feather, in the first year of the Guangxu reign of the Great Qing Dynasty, in the month of the lotus.\n\n![image](https://files.catbox.moe/br5xba.jpg)\n\nBenevolent Influence Spreads Everywhere: Presented by the acting Duolun Nuoer Magistrate, Lord Zhu Dezheng, who holds a fourth-rank title and wears a peacock feather. Respectfully presented by Hui Muslim leaders Shan Yunxing, village elder Ma Wanxing, and others in the first month of summer in the 31st year of the Guangxu reign of the Great Qing Dynasty.\n\n![image](https://files.catbox.moe/lr1j4t.jpg)\n\nMerciful in this life, uniquely merciful in the hereafter: established in the eighth year of the Republic of China, in the seventh lunar month.\n\n![image](https://files.catbox.moe/leb36n.jpg)\n\n![image](https://files.catbox.moe/7tm58e.jpg)\n\nThe stretch of Longzehu Road to Huimeng Street in Duolun County is full of restaurants, with over a dozen being halal. The night market features all kinds of barbecue, and the restaurants offer both Mongolian food and traditional Hui Muslim dishes, providing a wide variety.\n\n![image](https://files.catbox.moe/i5xugq.jpg)\n\n![image](https://files.catbox.moe/qb1nmd.jpg)\n\n![image](https://files.catbox.moe/r9urxu.jpg)\n\n![image](https://files.catbox.moe/g77etn.jpg)\n\n![image](https://files.catbox.moe/8cjjtw.jpg)\n\n![image](https://files.catbox.moe/66hzkh.jpg)\n\n![image](https://files.catbox.moe/dinuzb.jpg)\n\n![image](https://files.catbox.moe/kxdj6x.jpg)\n\n![image](https://files.catbox.moe/yanaag.jpg)\n\n![image](https://files.catbox.moe/erh47b.jpg)\n\n![image](https://files.catbox.moe/12b0jv.jpg)\n\n![image](https://files.catbox.moe/gd856b.jpg)\n\n![image](https://files.catbox.moe/1g19l8.jpg)\n\n![image](https://files.catbox.moe/j8megg.jpg)\n\n![image](https://files.catbox.moe/8oz81y.jpg)\n\nIn the evening, we ate a mix of lamb leg bones, lamb spine (yangxiezi), and lamb tail tips at Laojia Banggu in Duolun, Inner Mongolia. They were stewed in a traditional broth (laotang), keeping the flavors very authentic. The lamb tail tips were very tender and tasted better than the long strips of lamb tail I have had in Beijing. Besides dipping vegetables, you can also dip dry flatbread (baiganbing). Once it is in the pot, the texture is very similar to Baoding covered flatbread (zhaobing), which I thought was quite good.\n\n![image](https://files.catbox.moe/uxegrr.jpg)\n\n![image](https://files.catbox.moe/ccaxsk.jpg)\n\n![image](https://files.catbox.moe/vi9om4.jpg)\n\n![image](https://files.catbox.moe/7hlg7v.jpg)\n\n![image](https://files.catbox.moe/741td3.jpg)\n\nWe stayed at the Duolun Hotel in the city center. The family room is great for a large group, parking at the entrance is convenient, and the Duolun night market is right behind it. The food street is just around the corner. They also serve a halal breakfast where you can get vegetables, oily milk tea, and roasted millet (chaomi).\n\n![image](https://files.catbox.moe/sm9y09.jpg)\n\n![image](https://files.catbox.moe/yi2zcv.jpg)\n\n![image](https://files.catbox.moe/1dicff.jpg)\n\n![image](https://files.catbox.moe/l02x3n.jpg)
+**Reposted from the web**
+
+**Summary:** Duolun County sits on the southeastern edge of Inner Mongolia and has long been an important Hui Muslim town on the grassland route. This account keeps the original notes on mosques, local history, food, streets, and photographs from the visit.
+
+Duolun County sits at the southeast edge of Xilin Gol League. During the Qing Dynasty, it served as the political and economic hub of the Mongolian grasslands. In 1691 (the 30th year of the Kangxi reign), Emperor Kangxi held the Dolon Nor Alliance here with nobles from the three Outer Mongolian tribes and the forty-eight banners of Inner Mongolia, officially bringing Outer Mongolia into the Qing Dynasty territory. Later, at the request of Mongolian nobles, Kangxi allowed merchants from the interior to use Duolun as a base to open trade routes across the Mongolian grasslands. He granted these merchants official titles and generous benefits, which drew crowds of traders from Beijing, Tianjin, Hebei, Shanxi, Shandong, and Shaanxi. This quickly turned Duolun into a major commercial city for trade with Mongolia. In 1710 (the 49th year of the Kangxi reign), Xinghua Town was officially established in Duolun. In 1741 (the 6th year of the Qianlong reign), Xinshengying was built north of Xinghua Town, eventually forming the layout of the old city of Duolun.
+
+After the city of Duolun was built, Hui Muslims from Hebei, Shandong, Shanxi, and Henan traveled through Zhangjiakou to reach Duolun to trade on the grasslands, moving back and forth between the Mongolian plains and the interior. In his book Records of Dolon Nor published in 1908, the late Qing Japanese scholar Jian Hongsheng noted that the Hui Muslim population in Duolun had already reached 3,000 at that time.
+
+Hui Muslims in Duolun built six mosque communities (fang), which were the South Mosque, North Mosque, East Mosque, West Mosque, Central Mosque, and Da'erhao Mosque. Later, the Da'erhao Mosque was transferred to Guyuan County in 1950, and the East Mosque was demolished in the 1960s. Today, the old city still preserves four ancient mosque buildings: the South Mosque, North Mosque, East Mosque, and West Mosque. In 2006, they were collectively listed as a national-level cultural heritage site under the name Nuo'er Ancient Architectural Complex.
+
+The South Mosque is the oldest in Duolun. It is located on Taiping Street in the old city and was first built during the Yongzheng reign. In 1761 (the 26th year of the Qianlong reign), Hui Muslim merchants Mo Tianming and Ma Guifang led an expansion to create the current structure. In July 1933, after the anti-Japanese hero General Ji Hongchang recaptured Duolun, the local Hui Muslims hosted a banquet for him at the South Mosque. The South Mosque is currently closed and not open for visitors.
+
+![image](https://files.catbox.moe/99icno.jpg)
+
+![image](https://files.catbox.moe/nlfgxu.jpg)
+
+![image](https://files.catbox.moe/4mc85h.jpg)
+
+![image](https://files.catbox.moe/s8x3vg.jpg)
+
+![image](https://files.catbox.moe/ud8zvd.jpg)
+
+![image](https://files.catbox.moe/gmv9il.jpg)
+
+![image](https://files.catbox.moe/7jp6t0.jpg)
+
+![image](https://files.catbox.moe/z301ft.jpg)
+
+![image](https://files.catbox.moe/9tjd8q.jpg)
+
+The North Mosque is located on Erdao Street in the old city. It was built in 1798 (the 3rd year of the Jiaqing reign) with donations from Hui Muslim merchants who ran cattle, horse, and camel transport businesses. It later became the largest mosque (masjid) in the city. In July 1933, after the anti-Japanese hero General Ji Hongchang recaptured Duolun, he stayed briefly at the North Mosque. Today, the North Mosque is active and holds regular services.
+
+![image](https://files.catbox.moe/e02xqn.jpg)
+
+![image](https://files.catbox.moe/nn78q4.jpg)
+
+![image](https://files.catbox.moe/9aexzp.jpg)
+
+![image](https://files.catbox.moe/k7793i.jpg)
+
+![image](https://files.catbox.moe/llxoo4.jpg)
+
+![image](https://files.catbox.moe/bdhm5j.jpg)
+
+![image](https://files.catbox.moe/0inszw.jpg)
+
+![image](https://files.catbox.moe/p9cyt8.jpg)
+
+![image](https://files.catbox.moe/dzxk52.jpg)
+
+![image](https://files.catbox.moe/a4vbxe.jpg)
+
+![image](https://files.catbox.moe/ruu8c9.jpg)
+
+![image](https://files.catbox.moe/4jc3by.jpg)
+
+![image](https://files.catbox.moe/xsemaj.jpg)
+
+![image](https://files.catbox.moe/s4ehrb.jpg)
+
+![image](https://files.catbox.moe/5zi0tn.jpg)
+
+![image](https://files.catbox.moe/ppyw1a.jpg)
+
+During the Tongzhi reign, some Hui Muslims from Shaanxi, Ningxia, and Gansu moved to Duolun to settle down. After that, Hui Muslims from North China were called Kouli people, while those from the Northwest were called Westerners.
+
+The East Mosque is located outside the Nanjin Fortress in the old city. It was started in 1869 (the eighth year of the Tongzhi reign) by Hui Muslims Xiu Mingliang and Liu Changfu from Shaanxi, and finished in 1878 (the first year of the Guangxu reign). The West Mosque is on Daxi Street in the ancient city. It was built in 1880 (the fifth year of the Guangxu reign) by camel caravan merchants Li Xianyu and Wang Jichen, who were from Ningxia and Gansu. After the 1960s, the East Mosque was completely torn down, and the West Mosque's main gate and the north and south lecture halls were also demolished. Today, only the main hall of the West Mosque remains, and it is open to the public as a historical site.
+
+![image](https://files.catbox.moe/cg7rt9.jpg)
+
+![image](https://files.catbox.moe/fnhjxz.jpg)
+
+![image](https://files.catbox.moe/hmo9r9.jpg)
+
+![image](https://files.catbox.moe/kdx152.jpg)
+
+![image](https://files.catbox.moe/6ds8dl.jpg)
+
+![image](https://files.catbox.moe/rdqok6.jpg)
+
+![image](https://files.catbox.moe/r9he85.jpg)
+
+![image](https://files.catbox.moe/1ei1lp.jpg)
+
+![image](https://files.catbox.moe/c5mj57.jpg)
+
+![image](https://files.catbox.moe/cq1uuz.jpg)
+
+![image](https://files.catbox.moe/70pag6.jpg)
+
+![image](https://files.catbox.moe/edatd6.jpg)
+
+![image](https://files.catbox.moe/nc6znp.jpg)
+
+![image](https://files.catbox.moe/wnugjs.jpg)
+
+![image](https://files.catbox.moe/xirtmc.jpg)
+
+The Middle Mosque is on Nanqiangfeng Street in the ancient city. It was built in 1908 (the 34th year of the Guangxu reign) by Wang Guofu and Shan Yunxing. In 1930, He Xingzhou, Cong Dianqing, and others started rebuilding the main hall, which was finished in 1935. The Middle Mosque is currently open as usual.
+
+![image](https://files.catbox.moe/dyx7pm.jpg)
+
+![image](https://files.catbox.moe/p9bm6f.jpg)
+
+![image](https://files.catbox.moe/5tv7zx.jpg)
+
+![image](https://files.catbox.moe/opw4fe.jpg)
+
+![image](https://files.catbox.moe/m4bzxs.jpg)
+
+![image](https://files.catbox.moe/89zzgi.jpg)
+
+![image](https://files.catbox.moe/kw5z17.jpg)
+
+![image](https://files.catbox.moe/6yax27.jpg)
+
+![image](https://files.catbox.moe/0idbw0.jpg)
+
+![image](https://files.catbox.moe/7nzi89.jpg)
+
+![image](https://files.catbox.moe/kpaq4o.jpg)
+
+Plaques and couplets inside the Duolun Middle Mosque:
+
+Do not be greedy for this life, only for the afterlife; follow the heavenly and human way to return to the true faith. Carefully keep to the right path, avoid what is improper, and find joy and peace in recognizing the One: Respectfully presented in the eighth month of the 24th year of the Jiaqing reign.
+
+![image](https://files.catbox.moe/c56350.jpg)
+
+Heaven's command clearly explains the pure and unique truth, recognized since ancient times; the Prophet's practice spreads the one true faith, returning to the belief in the five daily namaz.
+
+![image](https://files.catbox.moe/cfgpsa.jpg)
+
+Blessings of the One True God: Presented on an auspicious day in the fifth month of the ninth year of the Xianfeng reign of the Great Qing Dynasty by Zheng Kuishi, Imperial Commissioner overseeing Ningguo military affairs, Commander-in-Chief of Zhejiang Province, in charge of all land and water forces, and titled General Jianwei, Shalamagai Baturu.
+
+Zheng Kuishi was a famous general in the late Qing Dynasty and a Hui Muslim from Wanquan, Zhangjiakou, Hebei. He fought against the Taiping Rebellion and the Nian Army for many years. He was the first to break through the defenses of Luzhou and was wounded over twenty times in Huaiyuan, nearly losing his life, which earned him high praise from the imperial court. When Zheng Kuishi wrote the plaque for Duolun in the ninth year of the Xianfeng reign, he was serving as the Commander-in-Chief of Zhejiang and overseeing military affairs in Ningguo, the highest rank he reached in his life. In a memorial to the throne, Li Hongzhang highly praised Zheng Kuishi, saying he was 'hardworking, resolute, and exceptionally brave... he was the first to face the enemy's sharp edge, risking his life repeatedly. He suffered serious wounds eight or nine times, his body covered in scars. Among all the famous generals north and south of the Yangtze River, everyone considered Kuishi the best.'
+
+![image](https://files.catbox.moe/sr9wcq.jpg)
+
+The Ancient Pure Faith: Respectfully presented by Song Rui, specially appointed Commander of the Duolun Battalion and recipient of the imperial peacock feather, in the first year of the Guangxu reign of the Great Qing Dynasty, in the month of the lotus.
+
+![image](https://files.catbox.moe/br5xba.jpg)
+
+Benevolent Influence Spreads Everywhere: Presented by the acting Duolun Nuoer Magistrate, Lord Zhu Dezheng, who holds a fourth-rank title and wears a peacock feather. Respectfully presented by Hui Muslim leaders Shan Yunxing, village elder Ma Wanxing, and others in the first month of summer in the 31st year of the Guangxu reign of the Great Qing Dynasty.
+
+![image](https://files.catbox.moe/lr1j4t.jpg)
+
+Merciful in this life, uniquely merciful in the hereafter: established in the eighth year of the Republic of China, in the seventh lunar month.
+
+![image](https://files.catbox.moe/leb36n.jpg)
+
+![image](https://files.catbox.moe/7tm58e.jpg)
+
+The stretch of Longzehu Road to Huimeng Street in Duolun County is full of restaurants, with over a dozen being halal. The night market features all kinds of barbecue, and the restaurants offer both Mongolian food and traditional Hui Muslim dishes, providing a wide variety.
+
+![image](https://files.catbox.moe/i5xugq.jpg)
+
+![image](https://files.catbox.moe/qb1nmd.jpg)
+
+![image](https://files.catbox.moe/r9urxu.jpg)
+
+![image](https://files.catbox.moe/g77etn.jpg)
+
+![image](https://files.catbox.moe/8cjjtw.jpg)
+
+![image](https://files.catbox.moe/66hzkh.jpg)
+
+![image](https://files.catbox.moe/dinuzb.jpg)
+
+![image](https://files.catbox.moe/kxdj6x.jpg)
+
+![image](https://files.catbox.moe/yanaag.jpg)
+
+![image](https://files.catbox.moe/erh47b.jpg)
+
+![image](https://files.catbox.moe/12b0jv.jpg)
+
+![image](https://files.catbox.moe/gd856b.jpg)
+
+![image](https://files.catbox.moe/1g19l8.jpg)
+
+![image](https://files.catbox.moe/j8megg.jpg)
+
+![image](https://files.catbox.moe/8oz81y.jpg)
+
+In the evening, we ate a mix of lamb leg bones, lamb spine (yangxiezi), and lamb tail tips at Laojia Banggu in Duolun, Inner Mongolia. They were stewed in a traditional broth (laotang), keeping the flavors very authentic. The lamb tail tips were very tender and tasted better than the long strips of lamb tail I have had in Beijing. Besides dipping vegetables, you can also dip dry flatbread (baiganbing). Once it is in the pot, the texture is very similar to Baoding covered flatbread (zhaobing), which I thought was quite good.
+
+![image](https://files.catbox.moe/uxegrr.jpg)
+
+![image](https://files.catbox.moe/ccaxsk.jpg)
+
+![image](https://files.catbox.moe/vi9om4.jpg)
+
+![image](https://files.catbox.moe/7hlg7v.jpg)
+
+![image](https://files.catbox.moe/741td3.jpg)
+
+We stayed at the Duolun Hotel in the city center. The family room is great for a large group, parking at the entrance is convenient, and the Duolun night market is right behind it. The food street is just around the corner. They also serve a halal breakfast where you can get vegetables, oily milk tea, and roasted millet (chaomi).
+
+![image](https://files.catbox.moe/sm9y09.jpg)
+
+![image](https://files.catbox.moe/yi2zcv.jpg)
+
+![image](https://files.catbox.moe/1dicff.jpg)
+
+![image](https://files.catbox.moe/l02x3n.jpg)

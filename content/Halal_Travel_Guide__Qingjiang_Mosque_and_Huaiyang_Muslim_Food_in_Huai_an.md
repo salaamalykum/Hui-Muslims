@@ -14,4 +14,252 @@ layout: "article"
 
 # Halal Travel Guide: Qingjiang Mosque and Huaiyang Muslim Food in Huai'an
 
-**Reposted from the web**\n\n**Summary:** Qingjiangpu in Huai'an, Jiangsu, is linked to Grand Canal history, Qingjiang Mosque, and Huaiyang-style halal cooking. This account keeps the mosque, restaurant, dish names, street details, and photographs in the original order.\n\nQingjiangpu in Huai'an, Jiangsu, was dredged in 1415 (the 13th year of the Yongle reign of the Ming Dynasty). It served as the grain transport hub for the Grand Canal during the Ming and Qing dynasties, where grain transport ships from all provinces were built and repaired. Because navigating the Yellow River section of the canal was very dangerous and waiting times at locks in Shandong were too long, many merchants chose to leave their boats at Qingjiangpu. They would cross the Yellow River and switch to horse-drawn carriages to continue north, making Qingjiangpu a symbol of the saying 'boats in the south, horses in the north'.\n\nThe most important wharf in Qingjiangpu was next to Yue Zha. It was called the Imperial Wharf (Yu Matou) because the Kangxi and Qianlong emperors both landed there during their southern inspection tours. This place was once the busiest and most lively area in Qingjiangpu. Hui Muslims have been doing business on Yuehe Street in front of the Imperial Wharf since the Ming Dynasty, and the earliest Qingjiang Ancient Mosque (Qingjiang Gusi) was built during the Jiajing reign.\n\nIn 1677 (the 16th year of the Kangxi reign), the Director-General of Grain Transport moved to Qingjiangpu, making it the center of grain transport. Qing Dynasty writer Huang Junzai recorded in his notes 'Jinhu Qimo': 'Along the Qingjiang River for over ten miles, the markets were bustling, goods were abundant, people from all directions gathered, and the streets were so crowded with shoulders rubbing and wheel hubs touching that it was extremely prosperous.' In 1799 (the 57th year of the Qianlong reign), the Qingjiang Ancient Mosque underwent a large-scale expansion, which was the peak of its prosperity.\n\nIn 1860 (the 10th year of the Xianfeng reign), the Nian Army captured Qingjiangpu and the Qingjiang Ancient Mosque was destroyed. The imam, Ma Huanwen, sadly passed away from illness while preparing to raise funds (nietie) for the reconstruction. Fortunately, an elder from Nanjing named Jiang Hengqing took over, organized everyone to raise funds, and finally succeeded in rebuilding it in 1870 (the 9th year of the Tongzhi reign).\n\nIn 2006, the Grand Canal was listed as a Major Historical and Cultural Site Protected at the National Level. Three ancient mosques were included along the canal: the North Mosque in Linqing, the East Mosque in Linqing, and the Qingjiang Ancient Mosque in Huai'an. It can be said that the Muslim community in Huai'an grew because of the canal and is inseparable from the canal's grain transport history.\n\nLooking from the opposite bank of the Li Canal, you can see the gate of the Qingjiang Ancient Mosque right next to the ruins of the Imperial Wharf, which helps you imagine how it looked during the height of the grain transport era.\n\n![image](https://files.catbox.moe/sea334.jpg)\n\n![image](https://files.catbox.moe/n4j414.jpg)\n\n![image](https://files.catbox.moe/h5nrsp.jpg)\n\n![image](https://files.catbox.moe/czkb2i.jpg)\n\n![image](https://files.catbox.moe/xie1j8.jpg)\n\n![image](https://files.catbox.moe/hzx0e8.jpg)\n\n![image](https://files.catbox.moe/z7xtvi.jpg)\n\n![image](https://files.catbox.moe/day8dw.jpg)\n\nThe main hall and the Butterfly Hall (Hudieting) in the north wing of the courtyard are Qing Dynasty buildings. Beside the main hall stands a trumpet creeper (lingxiaomu) that is over 320 years old.\n\n![image](https://files.catbox.moe/2cuaiy.jpg)\n\nThe main hall is a Qing Dynasty structure made of two connected hard-mountain roofs, with a kiln hall (yaodian) at the back, representing the traditional architectural style of the Jianghuai region.\n\n![image](https://files.catbox.moe/ld9sot.jpg)\n\n![image](https://files.catbox.moe/n62wu4.jpg)\n\n![image](https://files.catbox.moe/6yl3xk.jpg)\n\n![image](https://files.catbox.moe/z4evsg.jpg)\n\n![image](https://files.catbox.moe/zyev2k.jpg)\n\n![image](https://files.catbox.moe/kwh1oi.jpg)\n\n![image](https://files.catbox.moe/fnelbg.jpg)\n\n![image](https://files.catbox.moe/vfhvhn.jpg)\n\n![image](https://files.catbox.moe/wi8iia.jpg)\n\n![image](https://files.catbox.moe/3ojv81.jpg)\n\nThe north wing of the Qingjiang Ancient Mosque is called the Butterfly Hall, a characteristic name for traditional garden architecture in the Jianghuai region, named because the corners of the hall look like the wings of a butterfly dancing.\n\n![image](https://files.catbox.moe/3v4j0m.jpg)\n\n![image](https://files.catbox.moe/cxlvlu.jpg)\n\n![image](https://files.catbox.moe/sfnr3o.jpg)\n\n![image](https://files.catbox.moe/pfw96i.jpg)\n\n![image](https://files.catbox.moe/ngf3l0.jpg)\n\n![image](https://files.catbox.moe/id089c.jpg)\n\n![image](https://files.catbox.moe/ge4225.jpg)\n\nTwo stone tablets stand inside the ancient Qingjiang Mosque.\n\nThe first is the 1792 Prohibition Edict tablet. The county magistrate Wu Li, who held a rank with five recorded merits, wrote and erected this tablet to strictly forbid corruption.\n\n![image](https://files.catbox.moe/ap5fcj.jpg)\n\n![image](https://files.catbox.moe/lgyw9b.jpg)\n\n![image](https://files.catbox.moe/9cwhyy.jpg)\n\nThe second is the 1870 tablet recording the renovation of the main prayer hall, which details the process of rebuilding the hall during the Tongzhi era. The inscription lists donors from nineteen places: Henan, Shandong, Jinling, Yunnan, Zhili, Chuanshan, Hexia, Lixiahe, Baoying, Gaoyou, Shaobo, Xiannumiao, Taizhou, Xinghua, Dongtai, Rugao, Shuyang, the Xinzi Cavalry, and Yuanpu. Donors from Henan, Shandong, Yunnan, Zhili, and Chuanshan were mostly traveling merchants, showing the prosperity of Qingjiangpu in the Qing Dynasty when it served as a hub for southern boats and northern horses. The others were local Jiangsu mosque communities. Some, like the one in Shaobo, have since been abandoned, offering a glimpse into the rise and fall of the faith in Jiangsu.\n\n![image](https://files.catbox.moe/nykvu5.jpg)\n\n![image](https://files.catbox.moe/fpxjkv.jpg)\n\n![image](https://files.catbox.moe/w0ouoz.jpg)\n\n**Ancient well.**\n\n![image](https://files.catbox.moe/8an8sf.jpg)\n\n**Column base.**\n\n![image](https://files.catbox.moe/sehnvi.jpg)\n\n**Tabut (coffin) burial box.**\n\n![image](https://files.catbox.moe/i68hjq.jpg)\n\n**The 1888 tombstone of Madam Yang, mother of the Ma family, and the tombstone of the Sai family, wife of the Ma family from Anhui.**\n\n![image](https://files.catbox.moe/de68ac.jpg)\n\n![image](https://files.catbox.moe/3gpsiy.jpg)\n\n**Tombstone of the Sai family, wife of the Ma family from Anhui.**\n\n![image](https://files.catbox.moe/km4cl1.jpg)\n\n**Stone railing.**\n\n![image](https://files.catbox.moe/emr9r7.jpg)\n\n**Drum-shaped stone base carved with a cypress and deer pattern.**\n\n![image](https://files.catbox.moe/wvo22z.jpg)\n\n![image](https://files.catbox.moe/x2p3go.jpg)\n\n![image](https://files.catbox.moe/pij5w5.jpg)\n\nOn Yuehe Road in front of the ancient Qingjiang Mosque, there is a row of storefronts with six restaurants. We tried every one of them this time.\n\nThe first one from west to east is Laowan. They serve various Huaiyang dishes and beef and lamb dishes prepared by Hui Muslims from Huai'an. The shop mostly has private rooms. If you are visiting Huai'an with your family and want to try Huaiyang-style halal food, I recommend this place.\n\nWe ordered white broth lamb (baitang yangrou), Huai'an mixed stew (dazahui), tea-scented quail, and stir-fried black fish with yellow garlic chives. I feel like Hui Muslims in Jiangsu all make white lamb soup (baitang yangrou), and Jiangsu people really love drinking it. Mixed stew (dazahui) is a specialty dish in Huai'an. It contains many ingredients like stir-fried meat skin (pidu), bok choy, wood ear mushrooms, quail eggs, fried tofu puffs (doupao), and mushrooms. The most unique part is definitely the stir-fried meat skin. To make it, you boil cow skin, cool it down, trim off the fat, dry it in the sun, and then deep-fry it before adding it to the stew. Tea-scented quail is very interesting. The quail is small, so you mostly chew it for the flavor, but I didn't expect Suleiman to like the oil-fried tea leaves so much; he kept eating them. I really like the stir-fried snakehead fish with yellow garlic chives. I have had snakehead fish soup before, but the texture of it stir-fried is also very good. Freshwater fish from the south is truly great.\n\n![image](https://files.catbox.moe/od5fc2.jpg)\n\n![image](https://files.catbox.moe/yim4km.jpg)\n\n![image](https://files.catbox.moe/sm4ohf.jpg)\n\n![image](https://files.catbox.moe/2s8xb9.jpg)\n\n![image](https://files.catbox.moe/9ka3hk.jpg)\n\n![image](https://files.catbox.moe/yxk56c.jpg)\n\n![image](https://files.catbox.moe/hezg4e.jpg)\n\n![image](https://files.catbox.moe/fkqi33.jpg)\n\n![image](https://files.catbox.moe/08o0wo.jpg)\n\nNext to the old bowl shop is Ding Si Wonton Noodle Restaurant. It is the most popular shop at the entrance of the Qingjiang Mosque, and you often have to wait for a table. They are very particular, as they prohibit smoking and alcohol. This shows that seeking blessings in this life and the afterlife does not conflict.\n\nWe ordered wonton noodles and braised beef noodles. The wonton noodles have a chicken broth and beef filling. The taste is very good, and Suleiman liked them a lot and ate happily. The broth for the braised beef noodles is thicker and has a stronger flavor. However, southern noodles are not nearly as chewy as those in the northwest; the main point is to drink the soup and eat the beef. Also, their shop and the Seman shop next door are connected. Many people buy kebabs at Seman to eat with their wonton noodles, which is a pretty good combination.\n\n![image](https://files.catbox.moe/dbqd6c.jpg)\n\n![image](https://files.catbox.moe/uu2743.jpg)\n\n![image](https://files.catbox.moe/g5w6ne.jpg)\n\n![image](https://files.catbox.moe/y08f07.jpg)\n\n![image](https://files.catbox.moe/jei3ns.jpg)\n\n![image](https://files.catbox.moe/6tih5p.jpg)\n\n![image](https://files.catbox.moe/5t855b.jpg)\n\n![image](https://files.catbox.moe/s4pdp4.jpg)\n\n![image](https://files.catbox.moe/2oi7s4.jpg)\n\nNext to Ding Si Wonton Noodle Restaurant is Lv's Sesame Flatbread and Beef and Lamb Soup. We ate beef bone soup and beef noodle soup there in the morning, along with sesame flatbread (shaobing). I really liked the beef bone soup because it had crunchy cartilage in it. The sesame flatbread is also their specialty; it is very fluffy inside and goes well with the meat soup. Since Ding Si Wonton Noodle Restaurant only opens in the morning and evening and is closed at noon, friends (dost) who come to the mosque entrance after ten o'clock are recommended to come here for beef soup and sesame flatbread.\n\n![image](https://files.catbox.moe/pb9ayo.jpg)\n\n![image](https://files.catbox.moe/oiz2tm.jpg)\n\n![image](https://files.catbox.moe/lcou8w.jpg)\n\n![image](https://files.catbox.moe/2czsc2.jpg)\n\n![image](https://files.catbox.moe/pw0p77.jpg)\n\n![image](https://files.catbox.moe/ab9bds.jpg)\n\n![image](https://files.catbox.moe/iap8zp.jpg)\n\nBasically, every shop in Huai'an provides several types of free side dishes, and pickled mustard greens (xuelihong) are always included. We happened to catch them pickling the mustard greens on-site at the shop, and I feel the mustard greens here are really delicious.\n\n![image](https://files.catbox.moe/59h0fg.jpg)\n\nNext to Lv's sesame flatbread (shaobing) and beef and lamb soup is Ayesha Chicken Noodle Shop. Their specialty is a mixed chicken noodle soup served with long fish, beef balls, fish balls, baby bok choy, bamboo shoot tips, wood ear mushrooms, and shredded chicken. The owner of Ayesha is Zhao Haifeng, and Ayesha is his daughter's name. Mr. Zhao says his family moved from Kaifeng, Henan to Huai'an during the Republic of China era. They have been making shredded chicken noodles since his great-grandfather's time. Every night, he simmers seven or eight old hens for three or four hours, then shreds the chicken meat. He then simmers the chicken frames for another four or five hours to make a rich broth.\n\n![image](https://files.catbox.moe/6u3nid.jpg)\n\n![image](https://files.catbox.moe/84sjik.jpg)\n\n![image](https://files.catbox.moe/ejxns6.jpg)\n\n![image](https://files.catbox.moe/6eg4gw.jpg)\n\n![image](https://files.catbox.moe/iqk9uj.jpg)\n\nNext to Ayesha Chicken Noodle Shop is Seman Cafe. I ate at this place when I came to Huai'an in 2017, and this time I brought my son to eat the shawarma wraps. The owner is very devout in his faith, and it is not easy to run a cafe like this in Huai'an. They have improved their shawarma wraps, and you can even add bird's eye chili and sesame paste. We also ordered date milkshakes, masala chai, and saffron tea. It is very pleasant to drink tea and chat by the Grand Canal on a summer evening. The only thing is that their servers seem to be foreigners who do not speak Chinese very well, so communication might be a bit difficult.\n\n![image](https://files.catbox.moe/jawnmu.jpg)\n\n![image](https://files.catbox.moe/kgig8f.jpg)\n\n![image](https://files.catbox.moe/5t44b0.jpg)\n\n![image](https://files.catbox.moe/ngrmq7.jpg)\n\n![image](https://files.catbox.moe/g5undw.jpg)\n\n![image](https://files.catbox.moe/15exva.jpg)\n\n![image](https://files.catbox.moe/vwsj2e.jpg)\n\n![image](https://files.catbox.moe/fbfur2.jpg)\n\n![image](https://files.catbox.moe/ehrwas.jpg)\n\nBesides the Qingjiang Ancient Mosque, there is also a Hui Muslim restaurant on Shanghai Road. The owner is the brother of the owner of the Old Bowl Restaurant at Qingjiang Ancient Mosque, and their family name is Chang. The Shanghai Road shop specializes in braised old goose and braised free-range chicken. We arrived at 2:30, but we called ahead and the owner waited for us.\n\nThey were very welcoming. When they knew we were fellow Muslims (dosti), they greeted us with salaam and invited us into the kitchen to see the ingredients. The owner recommended a two-year-old free-range chicken. We also ordered stir-fried beef with garlic sprouts, braised dried tofu, shiitake mushrooms with bok choy, and the Huai'an specialty, stir-fried cattail stems (pucai) with dried shrimp. Their braised free-range chicken was truly delicious. The meat was very flavorful, the chicken soup was fresh and tasty, and they even added beef wontons inside. The braised beef goes well with rice and is very flavorful. The dried tofu was braised by the owner that day and can be eaten as a cold dish.\n\n![image](https://files.catbox.moe/mg1c2l.jpg)\n\n![image](https://files.catbox.moe/cqknvo.jpg)\n\n![image](https://files.catbox.moe/7fq1cd.jpg)\n\n![image](https://files.catbox.moe/ti4a5r.jpg)\n\n![image](https://files.catbox.moe/onmd9y.jpg)\n\n![image](https://files.catbox.moe/cr4g6g.jpg)\n\n![image](https://files.catbox.moe/m7m8hb.jpg)\n\n![image](https://files.catbox.moe/2vyszx.jpg)\n\n![image](https://files.catbox.moe/l5bcr3.jpg)\n\nCattail stems (pucai) are the tender stalks of fresh cattails that grow in ponds by the river. The Book of Songs mentions, 'What are the vegetables? They are bamboo shoots and cattails,' which shows that people have been eating cattail stems for over two thousand years. In chapter 86 of Journey to the West, after Sun Wukong rescues Tang Seng and his companions at Yinyu Mountain, a woodcutter treats the four of them to a meal. The text mentions cattail shoots (pucai) and water bamboo shoots (jiaoercai), which is an important historical record of cattail shoots. After fresh cattail shoots are brought to the shore, only the root section is kept. You then peel away layer after layer, removing over a dozen skins to reveal the tender, white cattail shoot inside. Cattail shoots are in season from March to August. Because the cold winter weather makes harvesting them very difficult, the price of cattail shoots is quite high during that time.\n\n![image](https://files.catbox.moe/9390zr.jpg)
+**Reposted from the web**
+
+**Summary:** Qingjiangpu in Huai'an, Jiangsu, is linked to Grand Canal history, Qingjiang Mosque, and Huaiyang-style halal cooking. This account keeps the mosque, restaurant, dish names, street details, and photographs in the original order.
+
+Qingjiangpu in Huai'an, Jiangsu, was dredged in 1415 (the 13th year of the Yongle reign of the Ming Dynasty). It served as the grain transport hub for the Grand Canal during the Ming and Qing dynasties, where grain transport ships from all provinces were built and repaired. Because navigating the Yellow River section of the canal was very dangerous and waiting times at locks in Shandong were too long, many merchants chose to leave their boats at Qingjiangpu. They would cross the Yellow River and switch to horse-drawn carriages to continue north, making Qingjiangpu a symbol of the saying 'boats in the south, horses in the north'.
+
+The most important wharf in Qingjiangpu was next to Yue Zha. It was called the Imperial Wharf (Yu Matou) because the Kangxi and Qianlong emperors both landed there during their southern inspection tours. This place was once the busiest and most lively area in Qingjiangpu. Hui Muslims have been doing business on Yuehe Street in front of the Imperial Wharf since the Ming Dynasty, and the earliest Qingjiang Ancient Mosque (Qingjiang Gusi) was built during the Jiajing reign.
+
+In 1677 (the 16th year of the Kangxi reign), the Director-General of Grain Transport moved to Qingjiangpu, making it the center of grain transport. Qing Dynasty writer Huang Junzai recorded in his notes 'Jinhu Qimo': 'Along the Qingjiang River for over ten miles, the markets were bustling, goods were abundant, people from all directions gathered, and the streets were so crowded with shoulders rubbing and wheel hubs touching that it was extremely prosperous.' In 1799 (the 57th year of the Qianlong reign), the Qingjiang Ancient Mosque underwent a large-scale expansion, which was the peak of its prosperity.
+
+In 1860 (the 10th year of the Xianfeng reign), the Nian Army captured Qingjiangpu and the Qingjiang Ancient Mosque was destroyed. The imam, Ma Huanwen, sadly passed away from illness while preparing to raise funds (nietie) for the reconstruction. Fortunately, an elder from Nanjing named Jiang Hengqing took over, organized everyone to raise funds, and finally succeeded in rebuilding it in 1870 (the 9th year of the Tongzhi reign).
+
+In 2006, the Grand Canal was listed as a Major Historical and Cultural Site Protected at the National Level. Three ancient mosques were included along the canal: the North Mosque in Linqing, the East Mosque in Linqing, and the Qingjiang Ancient Mosque in Huai'an. It can be said that the Muslim community in Huai'an grew because of the canal and is inseparable from the canal's grain transport history.
+
+Looking from the opposite bank of the Li Canal, you can see the gate of the Qingjiang Ancient Mosque right next to the ruins of the Imperial Wharf, which helps you imagine how it looked during the height of the grain transport era.
+
+![image](https://files.catbox.moe/sea334.jpg)
+
+![image](https://files.catbox.moe/n4j414.jpg)
+
+![image](https://files.catbox.moe/h5nrsp.jpg)
+
+![image](https://files.catbox.moe/czkb2i.jpg)
+
+![image](https://files.catbox.moe/xie1j8.jpg)
+
+![image](https://files.catbox.moe/hzx0e8.jpg)
+
+![image](https://files.catbox.moe/z7xtvi.jpg)
+
+![image](https://files.catbox.moe/day8dw.jpg)
+
+The main hall and the Butterfly Hall (Hudieting) in the north wing of the courtyard are Qing Dynasty buildings. Beside the main hall stands a trumpet creeper (lingxiaomu) that is over 320 years old.
+
+![image](https://files.catbox.moe/2cuaiy.jpg)
+
+The main hall is a Qing Dynasty structure made of two connected hard-mountain roofs, with a kiln hall (yaodian) at the back, representing the traditional architectural style of the Jianghuai region.
+
+![image](https://files.catbox.moe/ld9sot.jpg)
+
+![image](https://files.catbox.moe/n62wu4.jpg)
+
+![image](https://files.catbox.moe/6yl3xk.jpg)
+
+![image](https://files.catbox.moe/z4evsg.jpg)
+
+![image](https://files.catbox.moe/zyev2k.jpg)
+
+![image](https://files.catbox.moe/kwh1oi.jpg)
+
+![image](https://files.catbox.moe/fnelbg.jpg)
+
+![image](https://files.catbox.moe/vfhvhn.jpg)
+
+![image](https://files.catbox.moe/wi8iia.jpg)
+
+![image](https://files.catbox.moe/3ojv81.jpg)
+
+The north wing of the Qingjiang Ancient Mosque is called the Butterfly Hall, a characteristic name for traditional garden architecture in the Jianghuai region, named because the corners of the hall look like the wings of a butterfly dancing.
+
+![image](https://files.catbox.moe/3v4j0m.jpg)
+
+![image](https://files.catbox.moe/cxlvlu.jpg)
+
+![image](https://files.catbox.moe/sfnr3o.jpg)
+
+![image](https://files.catbox.moe/pfw96i.jpg)
+
+![image](https://files.catbox.moe/ngf3l0.jpg)
+
+![image](https://files.catbox.moe/id089c.jpg)
+
+![image](https://files.catbox.moe/ge4225.jpg)
+
+Two stone tablets stand inside the ancient Qingjiang Mosque.
+
+The first is the 1792 Prohibition Edict tablet. The county magistrate Wu Li, who held a rank with five recorded merits, wrote and erected this tablet to strictly forbid corruption.
+
+![image](https://files.catbox.moe/ap5fcj.jpg)
+
+![image](https://files.catbox.moe/lgyw9b.jpg)
+
+![image](https://files.catbox.moe/9cwhyy.jpg)
+
+The second is the 1870 tablet recording the renovation of the main prayer hall, which details the process of rebuilding the hall during the Tongzhi era. The inscription lists donors from nineteen places: Henan, Shandong, Jinling, Yunnan, Zhili, Chuanshan, Hexia, Lixiahe, Baoying, Gaoyou, Shaobo, Xiannumiao, Taizhou, Xinghua, Dongtai, Rugao, Shuyang, the Xinzi Cavalry, and Yuanpu. Donors from Henan, Shandong, Yunnan, Zhili, and Chuanshan were mostly traveling merchants, showing the prosperity of Qingjiangpu in the Qing Dynasty when it served as a hub for southern boats and northern horses. The others were local Jiangsu mosque communities. Some, like the one in Shaobo, have since been abandoned, offering a glimpse into the rise and fall of the faith in Jiangsu.
+
+![image](https://files.catbox.moe/nykvu5.jpg)
+
+![image](https://files.catbox.moe/fpxjkv.jpg)
+
+![image](https://files.catbox.moe/w0ouoz.jpg)
+
+**Ancient well.**
+
+![image](https://files.catbox.moe/8an8sf.jpg)
+
+**Column base.**
+
+![image](https://files.catbox.moe/sehnvi.jpg)
+
+**Tabut (coffin) burial box.**
+
+![image](https://files.catbox.moe/i68hjq.jpg)
+
+**The 1888 tombstone of Madam Yang, mother of the Ma family, and the tombstone of the Sai family, wife of the Ma family from Anhui.**
+
+![image](https://files.catbox.moe/de68ac.jpg)
+
+![image](https://files.catbox.moe/3gpsiy.jpg)
+
+**Tombstone of the Sai family, wife of the Ma family from Anhui.**
+
+![image](https://files.catbox.moe/km4cl1.jpg)
+
+**Stone railing.**
+
+![image](https://files.catbox.moe/emr9r7.jpg)
+
+**Drum-shaped stone base carved with a cypress and deer pattern.**
+
+![image](https://files.catbox.moe/wvo22z.jpg)
+
+![image](https://files.catbox.moe/x2p3go.jpg)
+
+![image](https://files.catbox.moe/pij5w5.jpg)
+
+On Yuehe Road in front of the ancient Qingjiang Mosque, there is a row of storefronts with six restaurants. We tried every one of them this time.
+
+The first one from west to east is Laowan. They serve various Huaiyang dishes and beef and lamb dishes prepared by Hui Muslims from Huai'an. The shop mostly has private rooms. If you are visiting Huai'an with your family and want to try Huaiyang-style halal food, I recommend this place.
+
+We ordered white broth lamb (baitang yangrou), Huai'an mixed stew (dazahui), tea-scented quail, and stir-fried black fish with yellow garlic chives. I feel like Hui Muslims in Jiangsu all make white lamb soup (baitang yangrou), and Jiangsu people really love drinking it. Mixed stew (dazahui) is a specialty dish in Huai'an. It contains many ingredients like stir-fried meat skin (pidu), bok choy, wood ear mushrooms, quail eggs, fried tofu puffs (doupao), and mushrooms. The most unique part is definitely the stir-fried meat skin. To make it, you boil cow skin, cool it down, trim off the fat, dry it in the sun, and then deep-fry it before adding it to the stew. Tea-scented quail is very interesting. The quail is small, so you mostly chew it for the flavor, but I didn't expect Suleiman to like the oil-fried tea leaves so much; he kept eating them. I really like the stir-fried snakehead fish with yellow garlic chives. I have had snakehead fish soup before, but the texture of it stir-fried is also very good. Freshwater fish from the south is truly great.
+
+![image](https://files.catbox.moe/od5fc2.jpg)
+
+![image](https://files.catbox.moe/yim4km.jpg)
+
+![image](https://files.catbox.moe/sm4ohf.jpg)
+
+![image](https://files.catbox.moe/2s8xb9.jpg)
+
+![image](https://files.catbox.moe/9ka3hk.jpg)
+
+![image](https://files.catbox.moe/yxk56c.jpg)
+
+![image](https://files.catbox.moe/hezg4e.jpg)
+
+![image](https://files.catbox.moe/fkqi33.jpg)
+
+![image](https://files.catbox.moe/08o0wo.jpg)
+
+Next to the old bowl shop is Ding Si Wonton Noodle Restaurant. It is the most popular shop at the entrance of the Qingjiang Mosque, and you often have to wait for a table. They are very particular, as they prohibit smoking and alcohol. This shows that seeking blessings in this life and the afterlife does not conflict.
+
+We ordered wonton noodles and braised beef noodles. The wonton noodles have a chicken broth and beef filling. The taste is very good, and Suleiman liked them a lot and ate happily. The broth for the braised beef noodles is thicker and has a stronger flavor. However, southern noodles are not nearly as chewy as those in the northwest; the main point is to drink the soup and eat the beef. Also, their shop and the Seman shop next door are connected. Many people buy kebabs at Seman to eat with their wonton noodles, which is a pretty good combination.
+
+![image](https://files.catbox.moe/dbqd6c.jpg)
+
+![image](https://files.catbox.moe/uu2743.jpg)
+
+![image](https://files.catbox.moe/g5w6ne.jpg)
+
+![image](https://files.catbox.moe/y08f07.jpg)
+
+![image](https://files.catbox.moe/jei3ns.jpg)
+
+![image](https://files.catbox.moe/6tih5p.jpg)
+
+![image](https://files.catbox.moe/5t855b.jpg)
+
+![image](https://files.catbox.moe/s4pdp4.jpg)
+
+![image](https://files.catbox.moe/2oi7s4.jpg)
+
+Next to Ding Si Wonton Noodle Restaurant is Lv's Sesame Flatbread and Beef and Lamb Soup. We ate beef bone soup and beef noodle soup there in the morning, along with sesame flatbread (shaobing). I really liked the beef bone soup because it had crunchy cartilage in it. The sesame flatbread is also their specialty; it is very fluffy inside and goes well with the meat soup. Since Ding Si Wonton Noodle Restaurant only opens in the morning and evening and is closed at noon, friends (dost) who come to the mosque entrance after ten o'clock are recommended to come here for beef soup and sesame flatbread.
+
+![image](https://files.catbox.moe/pb9ayo.jpg)
+
+![image](https://files.catbox.moe/oiz2tm.jpg)
+
+![image](https://files.catbox.moe/lcou8w.jpg)
+
+![image](https://files.catbox.moe/2czsc2.jpg)
+
+![image](https://files.catbox.moe/pw0p77.jpg)
+
+![image](https://files.catbox.moe/ab9bds.jpg)
+
+![image](https://files.catbox.moe/iap8zp.jpg)
+
+Basically, every shop in Huai'an provides several types of free side dishes, and pickled mustard greens (xuelihong) are always included. We happened to catch them pickling the mustard greens on-site at the shop, and I feel the mustard greens here are really delicious.
+
+![image](https://files.catbox.moe/59h0fg.jpg)
+
+Next to Lv's sesame flatbread (shaobing) and beef and lamb soup is Ayesha Chicken Noodle Shop. Their specialty is a mixed chicken noodle soup served with long fish, beef balls, fish balls, baby bok choy, bamboo shoot tips, wood ear mushrooms, and shredded chicken. The owner of Ayesha is Zhao Haifeng, and Ayesha is his daughter's name. Mr. Zhao says his family moved from Kaifeng, Henan to Huai'an during the Republic of China era. They have been making shredded chicken noodles since his great-grandfather's time. Every night, he simmers seven or eight old hens for three or four hours, then shreds the chicken meat. He then simmers the chicken frames for another four or five hours to make a rich broth.
+
+![image](https://files.catbox.moe/6u3nid.jpg)
+
+![image](https://files.catbox.moe/84sjik.jpg)
+
+![image](https://files.catbox.moe/ejxns6.jpg)
+
+![image](https://files.catbox.moe/6eg4gw.jpg)
+
+![image](https://files.catbox.moe/iqk9uj.jpg)
+
+Next to Ayesha Chicken Noodle Shop is Seman Cafe. I ate at this place when I came to Huai'an in 2017, and this time I brought my son to eat the shawarma wraps. The owner is very devout in his faith, and it is not easy to run a cafe like this in Huai'an. They have improved their shawarma wraps, and you can even add bird's eye chili and sesame paste. We also ordered date milkshakes, masala chai, and saffron tea. It is very pleasant to drink tea and chat by the Grand Canal on a summer evening. The only thing is that their servers seem to be foreigners who do not speak Chinese very well, so communication might be a bit difficult.
+
+![image](https://files.catbox.moe/jawnmu.jpg)
+
+![image](https://files.catbox.moe/kgig8f.jpg)
+
+![image](https://files.catbox.moe/5t44b0.jpg)
+
+![image](https://files.catbox.moe/ngrmq7.jpg)
+
+![image](https://files.catbox.moe/g5undw.jpg)
+
+![image](https://files.catbox.moe/15exva.jpg)
+
+![image](https://files.catbox.moe/vwsj2e.jpg)
+
+![image](https://files.catbox.moe/fbfur2.jpg)
+
+![image](https://files.catbox.moe/ehrwas.jpg)
+
+Besides the Qingjiang Ancient Mosque, there is also a Hui Muslim restaurant on Shanghai Road. The owner is the brother of the owner of the Old Bowl Restaurant at Qingjiang Ancient Mosque, and their family name is Chang. The Shanghai Road shop specializes in braised old goose and braised free-range chicken. We arrived at 2:30, but we called ahead and the owner waited for us.
+
+They were very welcoming. When they knew we were fellow Muslims (dosti), they greeted us with salaam and invited us into the kitchen to see the ingredients. The owner recommended a two-year-old free-range chicken. We also ordered stir-fried beef with garlic sprouts, braised dried tofu, shiitake mushrooms with bok choy, and the Huai'an specialty, stir-fried cattail stems (pucai) with dried shrimp. Their braised free-range chicken was truly delicious. The meat was very flavorful, the chicken soup was fresh and tasty, and they even added beef wontons inside. The braised beef goes well with rice and is very flavorful. The dried tofu was braised by the owner that day and can be eaten as a cold dish.
+
+![image](https://files.catbox.moe/mg1c2l.jpg)
+
+![image](https://files.catbox.moe/cqknvo.jpg)
+
+![image](https://files.catbox.moe/7fq1cd.jpg)
+
+![image](https://files.catbox.moe/ti4a5r.jpg)
+
+![image](https://files.catbox.moe/onmd9y.jpg)
+
+![image](https://files.catbox.moe/cr4g6g.jpg)
+
+![image](https://files.catbox.moe/m7m8hb.jpg)
+
+![image](https://files.catbox.moe/2vyszx.jpg)
+
+![image](https://files.catbox.moe/l5bcr3.jpg)
+
+Cattail stems (pucai) are the tender stalks of fresh cattails that grow in ponds by the river. The Book of Songs mentions, 'What are the vegetables? They are bamboo shoots and cattails,' which shows that people have been eating cattail stems for over two thousand years. In chapter 86 of Journey to the West, after Sun Wukong rescues Tang Seng and his companions at Yinyu Mountain, a woodcutter treats the four of them to a meal. The text mentions cattail shoots (pucai) and water bamboo shoots (jiaoercai), which is an important historical record of cattail shoots. After fresh cattail shoots are brought to the shore, only the root section is kept. You then peel away layer after layer, removing over a dozen skins to reveal the tender, white cattail shoot inside. Cattail shoots are in season from March to August. Because the cold winter weather makes harvesting them very difficult, the price of cattail shoots is quite high during that time.
+
+![image](https://files.catbox.moe/9390zr.jpg)

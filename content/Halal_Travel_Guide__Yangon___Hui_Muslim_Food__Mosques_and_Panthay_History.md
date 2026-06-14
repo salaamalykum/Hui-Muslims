@@ -14,4 +14,135 @@ layout: "article"
 
 # Halal Travel Guide: Yangon - Hui Muslim Food, Mosques and Panthay History
 
-**Reposted from the web**\n\n**Summary:** Yangon has a small but important Yunnan Hui Muslim story linked to Panthay traders, the Yangon Hui Mosque, and Hui restaurants along Daw Thein Tin Street. This travel account follows the mosques, restaurants, family histories, and dishes the source recorded in Myanmar.\n\nDuring my trip to Yangon, Myanmar, over the October holiday, one word kept coming up: Panthay. Whenever a fellow Muslim (dosti) at the mosque learned I was Chinese, their first reaction was to say 'Panthay'. This made the word 'Panthay,' which I had only seen in articles before, feel real for the first time.\n\nIn fact, 'Panthay' is what the Burmese have called Hui Muslims from Yunnan since the 19th century, a term said to come from the Persian word 'Parsi'. During the Jiaqing and Daoguang reigns of the Qing Dynasty, trade routes opened from inland China through Kunming and Dali in Yunnan to Mandalay and Yangon in Myanmar, leading to India and Arabia. Many Hui Muslim caravan traders from Yunnan began traveling south to Myanmar for business. The famous Yunnan Islamic scholar Imam Ma Dexin recorded in his 'Travels to the Hajj' that he followed a caravan from Dali, Yunnan, through Menghai to Yangon in 1841 to catch a ship for the Hajj. This helped spread Islamic culture in the southwest.\n\nIn the 19th century, Hui Muslims from Yunnan in Myanmar mainly lived in the capital at the time, Mandalay. In 1868, the King of the Konbaung Dynasty, Mindon, personally granted land to the Yunnan Hui Muslims to build the first Mandalay Hui mosque and a caravan courtyard. After the Konbaung Dynasty fell in 1885, Yangon became the only capital of Myanmar, and many Yunnan Hui Muslims moved there to do business. Yunnan Hui Muslims in Yangon ran jewelry stores, shops, and hotels, while using caravans to transport European cotton cloth back to Yunnan.\n\nThe Yangon Hui Mosque is located in the northern part of the old city. Its full name is the 'Yangon Myanmar-Chinese Hui Mosque,' built in 1963, and it is one of several Yunnan Hui mosques in Myanmar. Currently, the congregation at the Yangon Hui Mosque is mostly of Indian descent, with few Yunnan Hui Muslims, but I still met some elderly Yunnan Hui Muslims there who spoke great Mandarin and were very welcoming.\n\n![image](https://files.catbox.moe/ennvmn.jpg)\n\n![image](https://files.catbox.moe/af3535.jpg)\n\n![image](https://files.catbox.moe/of53j2.jpg)\n\n![image](https://files.catbox.moe/dd5d69.jpg)\n\n![image](https://files.catbox.moe/vn0dc4.jpg)\n\n![image](https://files.catbox.moe/wal0bi.jpg)\n\n![image](https://files.catbox.moe/jq85mz.jpg)\n\n![image](https://files.catbox.moe/7eeci5.jpg)\n\n![image](https://files.catbox.moe/2xyh3a.jpg)\n\nNot far north of the Yangon Hui Mosque is Daw Thein Tin Street, a famous Hui Muslim food street in Yangon where most of the Hui restaurants are located. There are also several restaurants run by Indian and Burmese-speaking Muslims (dosti) on this street, and we ate here every day while in Yangon.\n\nOn our first night in Yangon, we ate roast duck, Mandalay-style sweet and sour fish, and mixed vegetables at the Mandalay Restaurant (Wacheng Canting) on that street. The restaurant owner's ancestral home was Weishan in Dali, Yunnan, before his family moved to Mandalay (Wacheng) and then to Yangon. The owner's family all spoke excellent Mandarin and were very enthusiastic about recommending dishes to us.\n\nRoast duck is a local Hui specialty here. You can order a quarter of a duck, and the texture is very similar to the lean ducks I eat in Yunnan. The Mandalay-style sweet and sour fish is fried first and then drizzled with sauce; it has no bones and goes perfectly with rice, and the mixed vegetables were light and delicious. They use long-grain fragrant rice here, but cooked in the Chinese style, which is very tasty. You don't need to order rice separately; a server comes to every table to ask if you need more, so you can add as you go without wasting any.\n\nMandalay (Wacheng) is Myanmar's second-largest city. During the Qing Dynasty, it was the center for Yunnan caravans heading south. Many Hui Muslim caravans from Weishan, Dali, went to Mandalay for business, and some settled there permanently. After the end of the 19th century, Yangon developed rapidly, and more Yunnan Hui Muslims moved from Mandalay to settle in Yangon.\n\n![image](https://files.catbox.moe/jh73bu.jpg)\n\n![image](https://files.catbox.moe/0bx7zz.jpg)\n\n![image](https://files.catbox.moe/py8g9q.jpg)\n\n![image](https://files.catbox.moe/cpride.jpg)\n\n![image](https://files.catbox.moe/in51eb.jpg)\n\n![image](https://files.catbox.moe/ovejgl.jpg)\n\n![image](https://files.catbox.moe/5abp50.jpg)\n\n**The service in Yangon's restaurants is excellent.**\n\n![image](https://files.catbox.moe/g5zobx.jpg)\n\n![image](https://files.catbox.moe/xizc6l.jpg)\n\nOn the second night, we went back to the Hui Muslim street in Yangon for Yunnan-style Hui food. We ate at Elegant Restaurant, where we had dried beef (niuganba), beef noodles, crown daisy with mushrooms, and chive pan-fried dumplings (jianjiao). Because Yangon has a large Indian population, many restaurants do not sell beef. You have to come to the Hui Muslim street for authentic beef dishes.\n\nThe owner is a third-generation Yunnan Hui Muslim immigrant in Myanmar, and he speaks excellent Mandarin. I asked the owner, and he said many Hui Muslims here attend Chinese schools from a young age, so they all speak the national language.\n\nThe owner cooks great Yunnan Hui food. His dried beef is especially delicious; it is chewy but not too hard, and it has no strange aftertaste. The skin of the pan-fried dumplings is thin and crispy, and the chive filling is very fragrant. It is a pity the beef noodles used dried noodles, but the beef was stewed perfectly. The soup was sour and spicy, which is perfect for a rainy day. They serve pickles before the main dishes, which is also very typical of Yunnan.\n\n![image](https://files.catbox.moe/dt2ipu.jpg)\n\n![image](https://files.catbox.moe/4rkbj7.jpg)\n\n![image](https://files.catbox.moe/f0u2sz.jpg)\n\n![image](https://files.catbox.moe/v1apet.jpg)\n\n![image](https://files.catbox.moe/og84qq.jpg)\n\n![image](https://files.catbox.moe/osnsn3.jpg)\n\n![image](https://files.catbox.moe/1x5srr.jpg)\n\n![image](https://files.catbox.moe/qqywy6.jpg)\n\n![image](https://files.catbox.moe/8795bb.jpg)\n\nWe had breakfast at the Hui Muslim street in Yangon. At Golden Star Noodle Shop, we had chickpea porridge (xidoufen) and beef stew rice noodles (niupahu mixian). The beef broth was very fresh and flavorful, and the chickpea porridge was very authentic. As a younger generation Myanmar Hui Muslim, the owner still speaks great Mandarin. He said he still has relatives in Yunnan.\n\n![image](https://files.catbox.moe/ro0288.jpg)\n\n![image](https://files.catbox.moe/108psp.jpg)\n\n![image](https://files.catbox.moe/qfdc48.jpg)\n\n![image](https://files.catbox.moe/prtfi9.jpg)\n\n![image](https://files.catbox.moe/u35btq.jpg)\n\n![image](https://files.catbox.moe/j1diz2.jpg)\n\n![image](https://files.catbox.moe/pd6su6.jpg)\n\n![image](https://files.catbox.moe/pdp02w.jpg)\n\n![image](https://files.catbox.moe/9n4w8h.jpg)\n\nOn the morning of our last day, we went to a Hui Muslim restaurant called Kyaing Tong Restaurant, which is not located on the Hui Muslim street, for breakfast. The owner is from Shadian, Yunnan. We met her younger brother at the shop; he was originally in Mae Sai, Thailand, and had flown to Yangon from Malaysia to visit his sister.\n\nThey open at seven in the morning and serve full meals, though most people just come to buy steamed buns (baozi). This is the only Hui Muslim restaurant I saw in Yangon with a Chinese menu. They can make various dishes from Yunnan, Myanmar, and Thailand. We ordered chicken steamed buns, Hui-style fried noodles, and mixed vegetable soup. The steamed buns were very soft. To attract Hindu customers, they do not use beef fillings, only chicken. The fried noodles were very fragrant and topped with sweet-style braised chicken wings. The mixed vegetable soup was very hearty and felt great to drink in the morning.\n\n![image](https://files.catbox.moe/khg50v.jpg)\n\n![image](https://files.catbox.moe/ewh231.jpg)\n\n![image](https://files.catbox.moe/95o6jn.jpg)\n\n![image](https://files.catbox.moe/jqq4ad.png)\n\n![image](https://files.catbox.moe/ia5vgj.jpg)\n\n![image](https://files.catbox.moe/4lvpos.jpg)\n\n![image](https://files.catbox.moe/59iex0.jpg)\n\n![image](https://files.catbox.moe/fnbl7p.jpg)\n\n![image](https://files.catbox.moe/un9h5j.jpg)\n\nThere were a few other Hui Muslim restaurants that were not open when I arrived, which was a real shame.\n\n![image](https://files.catbox.moe/kd0ox5.jpg)\n\n![image](https://files.catbox.moe/h9a7dc.jpg)\n\n![image](https://files.catbox.moe/ibp8lg.jpg)\n
+**Reposted from the web**
+
+**Summary:** Yangon has a small but important Yunnan Hui Muslim story linked to Panthay traders, the Yangon Hui Mosque, and Hui restaurants along Daw Thein Tin Street. This travel account follows the mosques, restaurants, family histories, and dishes the source recorded in Myanmar.
+
+During my trip to Yangon, Myanmar, over the October holiday, one word kept coming up: Panthay. Whenever a fellow Muslim (dosti) at the mosque learned I was Chinese, their first reaction was to say 'Panthay'. This made the word 'Panthay,' which I had only seen in articles before, feel real for the first time.
+
+In fact, 'Panthay' is what the Burmese have called Hui Muslims from Yunnan since the 19th century, a term said to come from the Persian word 'Parsi'. During the Jiaqing and Daoguang reigns of the Qing Dynasty, trade routes opened from inland China through Kunming and Dali in Yunnan to Mandalay and Yangon in Myanmar, leading to India and Arabia. Many Hui Muslim caravan traders from Yunnan began traveling south to Myanmar for business. The famous Yunnan Islamic scholar Imam Ma Dexin recorded in his 'Travels to the Hajj' that he followed a caravan from Dali, Yunnan, through Menghai to Yangon in 1841 to catch a ship for the Hajj. This helped spread Islamic culture in the southwest.
+
+In the 19th century, Hui Muslims from Yunnan in Myanmar mainly lived in the capital at the time, Mandalay. In 1868, the King of the Konbaung Dynasty, Mindon, personally granted land to the Yunnan Hui Muslims to build the first Mandalay Hui mosque and a caravan courtyard. After the Konbaung Dynasty fell in 1885, Yangon became the only capital of Myanmar, and many Yunnan Hui Muslims moved there to do business. Yunnan Hui Muslims in Yangon ran jewelry stores, shops, and hotels, while using caravans to transport European cotton cloth back to Yunnan.
+
+The Yangon Hui Mosque is located in the northern part of the old city. Its full name is the 'Yangon Myanmar-Chinese Hui Mosque,' built in 1963, and it is one of several Yunnan Hui mosques in Myanmar. Currently, the congregation at the Yangon Hui Mosque is mostly of Indian descent, with few Yunnan Hui Muslims, but I still met some elderly Yunnan Hui Muslims there who spoke great Mandarin and were very welcoming.
+
+![image](https://files.catbox.moe/ennvmn.jpg)
+
+![image](https://files.catbox.moe/af3535.jpg)
+
+![image](https://files.catbox.moe/of53j2.jpg)
+
+![image](https://files.catbox.moe/dd5d69.jpg)
+
+![image](https://files.catbox.moe/vn0dc4.jpg)
+
+![image](https://files.catbox.moe/wal0bi.jpg)
+
+![image](https://files.catbox.moe/jq85mz.jpg)
+
+![image](https://files.catbox.moe/7eeci5.jpg)
+
+![image](https://files.catbox.moe/2xyh3a.jpg)
+
+Not far north of the Yangon Hui Mosque is Daw Thein Tin Street, a famous Hui Muslim food street in Yangon where most of the Hui restaurants are located. There are also several restaurants run by Indian and Burmese-speaking Muslims (dosti) on this street, and we ate here every day while in Yangon.
+
+On our first night in Yangon, we ate roast duck, Mandalay-style sweet and sour fish, and mixed vegetables at the Mandalay Restaurant (Wacheng Canting) on that street. The restaurant owner's ancestral home was Weishan in Dali, Yunnan, before his family moved to Mandalay (Wacheng) and then to Yangon. The owner's family all spoke excellent Mandarin and were very enthusiastic about recommending dishes to us.
+
+Roast duck is a local Hui specialty here. You can order a quarter of a duck, and the texture is very similar to the lean ducks I eat in Yunnan. The Mandalay-style sweet and sour fish is fried first and then drizzled with sauce; it has no bones and goes perfectly with rice, and the mixed vegetables were light and delicious. They use long-grain fragrant rice here, but cooked in the Chinese style, which is very tasty. You don't need to order rice separately; a server comes to every table to ask if you need more, so you can add as you go without wasting any.
+
+Mandalay (Wacheng) is Myanmar's second-largest city. During the Qing Dynasty, it was the center for Yunnan caravans heading south. Many Hui Muslim caravans from Weishan, Dali, went to Mandalay for business, and some settled there permanently. After the end of the 19th century, Yangon developed rapidly, and more Yunnan Hui Muslims moved from Mandalay to settle in Yangon.
+
+![image](https://files.catbox.moe/jh73bu.jpg)
+
+![image](https://files.catbox.moe/0bx7zz.jpg)
+
+![image](https://files.catbox.moe/py8g9q.jpg)
+
+![image](https://files.catbox.moe/cpride.jpg)
+
+![image](https://files.catbox.moe/in51eb.jpg)
+
+![image](https://files.catbox.moe/ovejgl.jpg)
+
+![image](https://files.catbox.moe/5abp50.jpg)
+
+**The service in Yangon's restaurants is excellent.**
+
+![image](https://files.catbox.moe/g5zobx.jpg)
+
+![image](https://files.catbox.moe/xizc6l.jpg)
+
+On the second night, we went back to the Hui Muslim street in Yangon for Yunnan-style Hui food. We ate at Elegant Restaurant, where we had dried beef (niuganba), beef noodles, crown daisy with mushrooms, and chive pan-fried dumplings (jianjiao). Because Yangon has a large Indian population, many restaurants do not sell beef. You have to come to the Hui Muslim street for authentic beef dishes.
+
+The owner is a third-generation Yunnan Hui Muslim immigrant in Myanmar, and he speaks excellent Mandarin. I asked the owner, and he said many Hui Muslims here attend Chinese schools from a young age, so they all speak the national language.
+
+The owner cooks great Yunnan Hui food. His dried beef is especially delicious; it is chewy but not too hard, and it has no strange aftertaste. The skin of the pan-fried dumplings is thin and crispy, and the chive filling is very fragrant. It is a pity the beef noodles used dried noodles, but the beef was stewed perfectly. The soup was sour and spicy, which is perfect for a rainy day. They serve pickles before the main dishes, which is also very typical of Yunnan.
+
+![image](https://files.catbox.moe/dt2ipu.jpg)
+
+![image](https://files.catbox.moe/4rkbj7.jpg)
+
+![image](https://files.catbox.moe/f0u2sz.jpg)
+
+![image](https://files.catbox.moe/v1apet.jpg)
+
+![image](https://files.catbox.moe/og84qq.jpg)
+
+![image](https://files.catbox.moe/osnsn3.jpg)
+
+![image](https://files.catbox.moe/1x5srr.jpg)
+
+![image](https://files.catbox.moe/qqywy6.jpg)
+
+![image](https://files.catbox.moe/8795bb.jpg)
+
+We had breakfast at the Hui Muslim street in Yangon. At Golden Star Noodle Shop, we had chickpea porridge (xidoufen) and beef stew rice noodles (niupahu mixian). The beef broth was very fresh and flavorful, and the chickpea porridge was very authentic. As a younger generation Myanmar Hui Muslim, the owner still speaks great Mandarin. He said he still has relatives in Yunnan.
+
+![image](https://files.catbox.moe/ro0288.jpg)
+
+![image](https://files.catbox.moe/108psp.jpg)
+
+![image](https://files.catbox.moe/qfdc48.jpg)
+
+![image](https://files.catbox.moe/prtfi9.jpg)
+
+![image](https://files.catbox.moe/u35btq.jpg)
+
+![image](https://files.catbox.moe/j1diz2.jpg)
+
+![image](https://files.catbox.moe/pd6su6.jpg)
+
+![image](https://files.catbox.moe/pdp02w.jpg)
+
+![image](https://files.catbox.moe/9n4w8h.jpg)
+
+On the morning of our last day, we went to a Hui Muslim restaurant called Kyaing Tong Restaurant, which is not located on the Hui Muslim street, for breakfast. The owner is from Shadian, Yunnan. We met her younger brother at the shop; he was originally in Mae Sai, Thailand, and had flown to Yangon from Malaysia to visit his sister.
+
+They open at seven in the morning and serve full meals, though most people just come to buy steamed buns (baozi). This is the only Hui Muslim restaurant I saw in Yangon with a Chinese menu. They can make various dishes from Yunnan, Myanmar, and Thailand. We ordered chicken steamed buns, Hui-style fried noodles, and mixed vegetable soup. The steamed buns were very soft. To attract Hindu customers, they do not use beef fillings, only chicken. The fried noodles were very fragrant and topped with sweet-style braised chicken wings. The mixed vegetable soup was very hearty and felt great to drink in the morning.
+
+![image](https://files.catbox.moe/khg50v.jpg)
+
+![image](https://files.catbox.moe/ewh231.jpg)
+
+![image](https://files.catbox.moe/95o6jn.jpg)
+
+![image](https://files.catbox.moe/jqq4ad.png)
+
+![image](https://files.catbox.moe/ia5vgj.jpg)
+
+![image](https://files.catbox.moe/4lvpos.jpg)
+
+![image](https://files.catbox.moe/59iex0.jpg)
+
+![image](https://files.catbox.moe/fnbl7p.jpg)
+
+![image](https://files.catbox.moe/un9h5j.jpg)
+
+There were a few other Hui Muslim restaurants that were not open when I arrived, which was a real shame.
+
+![image](https://files.catbox.moe/kd0ox5.jpg)
+
+![image](https://files.catbox.moe/h9a7dc.jpg)
+
+![image](https://files.catbox.moe/ibp8lg.jpg)
+

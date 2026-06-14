@@ -14,4 +14,213 @@ layout: "article"
 
 # Halal Travel Guide: Bangkok Chinatown - Hui Cemetery, Mosque and History
 
-**Reposted from the web**\n\n**Summary:** Bangkok's Chinatown contains a Yunnan Hui Muslim cemetery inside Luang Kocha Itsahak Mosque on Song Wat Road. This account connects the Ma family of Tonghai, Yunnan, the old caravan trade, the mosque's royal translator history, and the Muslim life around Yaowarat.\n\nThis year, I unexpectedly found a graveyard for Hui Muslims from Yunnan in Bangkok's Chinatown, located inside the Luang Kocha Itsahak mosque on Song Wat Road. Some of these tombstones state that the people came from the Ma family in the Great Hui Village (Da Hui Cun) of Tonghai, Yunnan. The Great Hui Village was originally called Hexi Dadonggou and is home to thousands of Hui Muslims, with the Ma family being the largest clan. According to the Hexi County Annals, the Ma family was originally from Nanjing and moved to Yunnan with the army in the early Ming Dynasty. Tombstone records also state that the Ma family were from Liushuwan Gaoshikan in Nanjing Yingtian Prefecture and moved to Yunnan for business.\n\nThe head of the Ma family, Ma Yuanwu, originally made a living by farming. During the Guangxu reign of the Qing Dynasty, he sent his eldest son, Ma Tongzhu, to lead a horse caravan. After saving some money, he sent his eldest grandson, Ma Bingzhong, to open a soy sauce workshop. The Ma family used their horse caravan to transport brown sugar to Kunming for sale and brought salt back, gradually growing their business this way. In 1918, the Ma family sold the soy sauce workshop and opened the Yuanxinzhai trading firm in Mojiang. They switched to selling cotton yarn, cloth, silk, and satin, while also buying mountain goods and medicinal herbs like tea, shellac (zijie), cowhide, deerskin, and deer antler (lurong). Later, they also processed deer glue, expanding their reach from China to Thailand and Myanmar. In 1921, the Ma family renamed Yuanxinzhai to Yuanxinchang in Kunming. They mainly traded ivory, deer antler, tiger bone, otter and cat fur, tea, cloth, silk, and dyes. They also shipped Chinese medicinal herbs like saffron, sweet flag (cangchangpu), musk, and fritillaria (beimu) to Thailand.\n\nIn the 1930s, besides running their horse caravan business, the Ma family set up branches in central and southern Yunnan, Kengtung and Mong Hsat in Myanmar, and Lampang, Chiang Mai, and Bangkok in Thailand. Because they kept their word and managed their business well, the Ma family became very wealthy in southern Yunnan during the Republic of China era. During the middle and late Republic of China era, the Ma family built three large family compounds in their hometown of Great Hui Village, which still stand today.\n\nSee "Heading South from Kunming (Part 2): Witness to the Yunnan Horse Caravans—The Ma Family Compound in Tonghai."\n\n![image](https://files.catbox.moe/vntrw5.jpg)\n\n![image](https://files.catbox.moe/c1yxu5.jpg)\n\n![image](https://files.catbox.moe/y01tx4.jpg)\n\n![image](https://files.catbox.moe/ghcmaf.jpg)\n\n![image](https://files.catbox.moe/sqx8m0.jpg)\n\n![image](https://files.catbox.moe/fd0sze.jpg)\n\n![image](https://files.catbox.moe/yxyo2e.jpg)\n\n![image](https://files.catbox.moe/zg6l1s.jpg)\n\n![image](https://files.catbox.moe/syk798.jpg)\n\nLuang Kocha Itsahak Mosque is the only mosque in Bangkok's Chinatown area. It was built at the end of the 19th century with funds donated by the Siamese royal translator, Luang Kocha Itsahak.\n\nLuang Kocha Itsahak was of mixed Malay and Chinese descent. His father came to Bangkok from Kedah, Malaysia, to do business, served under King Rama III, and married a Chinese wife. Luang Kocha Itsahak himself worked in the Siamese Department of Western Trade (Krom Tha Khwa), serving as a translator for Malay rulers visiting the Siamese court and managing trade between Siam and various Malay states.\n\nAfter Siam made Bangkok its capital in 1782, it granted a piece of land between the Sam Peng Mosque canal and the Sam Peng canal to the Chinese. As trade between China and Thailand grew, the Sam Peng Chinatown gradually became an import and trade district dominated by Teochew merchants. Before Don Mueang Airport was built in 1914, people wanting to travel from Bangkok to India, the Middle East, or Europe had to take a steamship from the Gonghang Pier in Chinatown to Singapore or Penang, then transfer to a cruise ship to continue west. Because of this, the Gonghang Pier was crowded with merchants from all over the world in the 19th century, and many Indian, Malay, and Yunnanese Hui Muslims worked in nearby warehouses and trading companies.\n\nSince there was no mosque in the Chinatown area, the friends (dost) working nearby had to take a ferry to a mosque on the south bank of the Chao Phraya River for their prayers, which was very inconvenient. After discussing it, everyone decided to have the highest-ranking royal translator at the time, Luang Kocha Itsahak, lead the effort to buy land near Gonghang and build a mosque.\n\nIn 1892, a fire broke out in Chinatown, damaging many houses, so King Rama V decided to build a new main road, Song Wat Road, in Chinatown. Luang Kocha bought land along Songwat Road and had his children take apart the bricks and stones from a house he owned across the river in Thonburi to build this neoclassical-style mosque. Today, the Luang Kocha Mosque is still owned by his descendants and serves as a convenient place for fellow Muslims (dosti) working or visiting near Bangkok's Chinatown.\n\n![image](https://files.catbox.moe/rvhyuf.jpg)\n\n![image](https://files.catbox.moe/i6515l.jpg)\n\n![image](https://files.catbox.moe/5n3dm8.jpg)\n\n**The ablution room (shuifang) was built in 1949.**\n\n![image](https://files.catbox.moe/a2o1ng.jpg)\n\n![image](https://files.catbox.moe/yanf98.jpg)\n\nDaily prayers (namaz) are held on the first floor, with men in front and women in the back, separated by a curtain.\n\n![image](https://files.catbox.moe/16abz6.jpg)\n\nThe second floor only opens for Friday prayers (Jumu'ah), and the decoration of the mihrab features a distinct Thai style.\n\n![image](https://files.catbox.moe/c61tvn.jpg)\n\n![image](https://files.catbox.moe/pndqn6.jpg)\n\n![image](https://files.catbox.moe/8ilsvh.jpg)\n\nOn Yaowarat Road in Bangkok's Chinatown stands a century-old house that was once the stage for a Muslim version of Romeo and Juliet; it is now open as a hotel and cafe.\n\nThis house was first built in 1916 by a Shia merchant named Abdul Rahim who worked in Chinatown, and it was later sold to a Sunni merchant named Adam. Adam arrived in Bangkok's Chinatown by boat from India to work. He started with nothing and eventually bought this house. Since Adam had no children, after he passed away, his wife brought her brother's family to live with her, and her brother's son, Payoon, became the young master of the house.\n\nSurprisingly, Payoon fell in love with Sara, a descendant of the house's first owner, Abdul Rahim. Although they both came from wealthy Muslim families, one belonged to the Sunni sect and the other to the Shia sect, which was still not accepted by everyone a hundred years ago. This Muslim version of Romeo and Juliet had a happy ending. They married and had three sons, and the eldest son, Parpatipya, inherited the house.\n\nThe house was later rented by a Chinese printing factory and a newspaper office. After renovations in 2017, it became the Baan 2459 hotel and Chata cafe.\n\n![image](https://files.catbox.moe/jkxs4v.jpg)\n\n![image](https://files.catbox.moe/mv1db0.jpg)\n\n![image](https://files.catbox.moe/tcqq0f.jpg)\n\n![image](https://files.catbox.moe/f6buta.jpg)\n\n![image](https://files.catbox.moe/xq2m6o.jpg)\n\n![image](https://files.catbox.moe/zot71c.jpg)\n\n![image](https://files.catbox.moe/3cffbq.jpg)\n\n![image](https://files.catbox.moe/2afxoq.jpg)\n\n![image](https://files.catbox.moe/o26okn.jpg)\n\nAfter the great fire in Bangkok's Chinatown in 1892, King Rama V built a large number of shophouses along Sampeng Lane, the oldest road in Chinatown, which later became a bustling commercial market. Besides the Chinese, Indian and Malay Muslims (dosti) also opened shops on Sampeng Lane, with many working in the jewelry trade. 130 years later, many descendants of these Muslims (dosti) still operate jewelry businesses in the shophouses on Sampeng Lane, serving as a living historical memory of Bangkok's Chinatown.\n\n![image](https://files.catbox.moe/u088zi.jpg)\n\n![image](https://files.catbox.moe/kwcndf.jpg)\n\n![image](https://files.catbox.moe/g6h9iw.jpg)\n\n![image](https://files.catbox.moe/schb1w.jpg)\n\n![image](https://files.catbox.moe/m5s4dy.jpg)\n\nThis shop is marked as being from Pattani Province in southern Thailand, which is a Malay-populated area.\n\n![image](https://files.catbox.moe/k1xhb3.jpg)\n\n![image](https://files.catbox.moe/7rs3zz.jpg)\n\n![image](https://files.catbox.moe/79e8q9.jpg)\n\n![image](https://files.catbox.moe/g491gy.jpg)\n\n![image](https://files.catbox.moe/ax85tq.jpg)\n\n![image](https://files.catbox.moe/84xuoi.jpg)\n\n![image](https://files.catbox.moe/yxufly.jpg)\n\n![image](https://files.catbox.moe/i5j4x4.jpg)\n\nThere are relatively few halal restaurants in the Bangkok Chinatown area. I recommend Zara Restaurant on Yaowarat Road, a family-run place serving local Thai food and various coffees. We ordered Thai red milk tea, spicy minced chicken salad (Larb Gai), green papaya salad, and stir-fried rice noodles (Pad Thai). Overall, the taste was very authentic, and the stir-fried rice noodles were especially delicious. However, Thai food is the spiciest I have ever eaten in Southeast Asia. If you are a Muslim (dosti) who cannot handle spice, be sure to say so in advance, or your mouth will feel like it is burning for a long time.\n\n![image](https://files.catbox.moe/0big2q.jpg)\n\n![image](https://files.catbox.moe/4pc3jc.jpg)\n\n![image](https://files.catbox.moe/kt0tlx.jpg)\n\n![image](https://files.catbox.moe/rpyvlg.jpg)\n\n![image](https://files.catbox.moe/9rmncd.jpg)\n\n![image](https://files.catbox.moe/7lhf61.jpg)\n\n![image](https://files.catbox.moe/khpywp.jpg)\n\n![image](https://files.catbox.moe/oxchu0.jpg)\n\n![image](https://files.catbox.moe/lm4gzg.jpg)\n\nThe second floor of the Wat Traimit mosque in Bangkok's Chinatown houses the Yaowarat Chinatown Heritage Center. It offers a very intuitive introduction to Bangkok's Chinatown. At the ticket office, just say you only want to see the exhibition and buy a 100-baht ticket. The exhibition hall introduces how the Chinese came to Bangkok to make a living and displays the atmosphere of Chinatown during the Qing Dynasty.\n\n![image](https://files.catbox.moe/a9db66.jpg)\n\n![image](https://files.catbox.moe/rb38ok.jpg)\n\n![image](https://files.catbox.moe/e0pm98.jpg)\n\n![image](https://files.catbox.moe/1kbp8b.jpg)\n\n![image](https://files.catbox.moe/51e96k.jpg)\n\n![image](https://files.catbox.moe/egmrgo.jpg)\n\n![image](https://files.catbox.moe/ntn262.jpg)\n\n![image](https://files.catbox.moe/j5zqa7.jpg)\n\n![image](https://files.catbox.moe/4b3iek.jpg)\n\nLife scenes recreated inside the Yaowarat Chinatown Heritage Center in Bangkok:\n\nHaitianlou on Shipa Road was built in 1934, and its three-story banquet hall is a key place for Chinese community gatherings.\n\n![image](https://files.catbox.moe/ymfylw.jpg)\n\n**Longweiye Market sells a variety of dried goods, fruits, and ready-to-eat foods.**\n\n![image](https://files.catbox.moe/nomc12.jpg)\n\n**The theater performs the traditional Teochew opening play, 'Six Kingdoms Conferring the Prime Minister' (Liuguo Fengxiang).**\n\n![image](https://files.catbox.moe/0tflv0.jpg)\n\n**Remittance houses (piguan) handle the delivery of letters and money back to the home country.**\n\n![image](https://files.catbox.moe/m1ei6i.jpg)\n\n**Many shops gather in the square in front of Longlian Mosque.**\n\n![image](https://files.catbox.moe/vkqn8m.jpg)\n\nTea and snack shops sell crispy, sweet Chinese-style pastries, perfect for eating while drinking tea.\n\n![image](https://files.catbox.moe/2je8ms.jpg)\n\nGold and silver jewelry sold at gold shops is a major way for Chinese people to save money; they often buy gold to keep after receiving lucky money (yasuiqian) during the Lunar New Year.\n\n![image](https://files.catbox.moe/xz4n2m.jpg)\n\nSeveral Chinese-language newspaper offices in Yaowarat post their daily papers on the wall, so people can read the 'wall news' without having to buy a copy.\n\n![image](https://files.catbox.moe/33fjlf.jpg)\n\nTianhua Hospital opened in 1905; it uses various dialects to communicate with patients and provides free medical treatment to the poor.\n\n![image](https://files.catbox.moe/052vxl.jpg)\n\n**Bangkok's Chinatown in the rain.**\n\n![image](https://files.catbox.moe/57ox6i.jpg)\n\n![image](https://files.catbox.moe/gdelaj.jpg)\n\n![image](https://files.catbox.moe/t1913k.jpg)\n\n![image](https://files.catbox.moe/ypveu3.jpg)\n\n![image](https://files.catbox.moe/4bgnra.jpg)\n
+**Reposted from the web**
+
+**Summary:** Bangkok's Chinatown contains a Yunnan Hui Muslim cemetery inside Luang Kocha Itsahak Mosque on Song Wat Road. This account connects the Ma family of Tonghai, Yunnan, the old caravan trade, the mosque's royal translator history, and the Muslim life around Yaowarat.
+
+This year, I unexpectedly found a graveyard for Hui Muslims from Yunnan in Bangkok's Chinatown, located inside the Luang Kocha Itsahak mosque on Song Wat Road. Some of these tombstones state that the people came from the Ma family in the Great Hui Village (Da Hui Cun) of Tonghai, Yunnan. The Great Hui Village was originally called Hexi Dadonggou and is home to thousands of Hui Muslims, with the Ma family being the largest clan. According to the Hexi County Annals, the Ma family was originally from Nanjing and moved to Yunnan with the army in the early Ming Dynasty. Tombstone records also state that the Ma family were from Liushuwan Gaoshikan in Nanjing Yingtian Prefecture and moved to Yunnan for business.
+
+The head of the Ma family, Ma Yuanwu, originally made a living by farming. During the Guangxu reign of the Qing Dynasty, he sent his eldest son, Ma Tongzhu, to lead a horse caravan. After saving some money, he sent his eldest grandson, Ma Bingzhong, to open a soy sauce workshop. The Ma family used their horse caravan to transport brown sugar to Kunming for sale and brought salt back, gradually growing their business this way. In 1918, the Ma family sold the soy sauce workshop and opened the Yuanxinzhai trading firm in Mojiang. They switched to selling cotton yarn, cloth, silk, and satin, while also buying mountain goods and medicinal herbs like tea, shellac (zijie), cowhide, deerskin, and deer antler (lurong). Later, they also processed deer glue, expanding their reach from China to Thailand and Myanmar. In 1921, the Ma family renamed Yuanxinzhai to Yuanxinchang in Kunming. They mainly traded ivory, deer antler, tiger bone, otter and cat fur, tea, cloth, silk, and dyes. They also shipped Chinese medicinal herbs like saffron, sweet flag (cangchangpu), musk, and fritillaria (beimu) to Thailand.
+
+In the 1930s, besides running their horse caravan business, the Ma family set up branches in central and southern Yunnan, Kengtung and Mong Hsat in Myanmar, and Lampang, Chiang Mai, and Bangkok in Thailand. Because they kept their word and managed their business well, the Ma family became very wealthy in southern Yunnan during the Republic of China era. During the middle and late Republic of China era, the Ma family built three large family compounds in their hometown of Great Hui Village, which still stand today.
+
+See "Heading South from Kunming (Part 2): Witness to the Yunnan Horse Caravans—The Ma Family Compound in Tonghai."
+
+![image](https://files.catbox.moe/vntrw5.jpg)
+
+![image](https://files.catbox.moe/c1yxu5.jpg)
+
+![image](https://files.catbox.moe/y01tx4.jpg)
+
+![image](https://files.catbox.moe/ghcmaf.jpg)
+
+![image](https://files.catbox.moe/sqx8m0.jpg)
+
+![image](https://files.catbox.moe/fd0sze.jpg)
+
+![image](https://files.catbox.moe/yxyo2e.jpg)
+
+![image](https://files.catbox.moe/zg6l1s.jpg)
+
+![image](https://files.catbox.moe/syk798.jpg)
+
+Luang Kocha Itsahak Mosque is the only mosque in Bangkok's Chinatown area. It was built at the end of the 19th century with funds donated by the Siamese royal translator, Luang Kocha Itsahak.
+
+Luang Kocha Itsahak was of mixed Malay and Chinese descent. His father came to Bangkok from Kedah, Malaysia, to do business, served under King Rama III, and married a Chinese wife. Luang Kocha Itsahak himself worked in the Siamese Department of Western Trade (Krom Tha Khwa), serving as a translator for Malay rulers visiting the Siamese court and managing trade between Siam and various Malay states.
+
+After Siam made Bangkok its capital in 1782, it granted a piece of land between the Sam Peng Mosque canal and the Sam Peng canal to the Chinese. As trade between China and Thailand grew, the Sam Peng Chinatown gradually became an import and trade district dominated by Teochew merchants. Before Don Mueang Airport was built in 1914, people wanting to travel from Bangkok to India, the Middle East, or Europe had to take a steamship from the Gonghang Pier in Chinatown to Singapore or Penang, then transfer to a cruise ship to continue west. Because of this, the Gonghang Pier was crowded with merchants from all over the world in the 19th century, and many Indian, Malay, and Yunnanese Hui Muslims worked in nearby warehouses and trading companies.
+
+Since there was no mosque in the Chinatown area, the friends (dost) working nearby had to take a ferry to a mosque on the south bank of the Chao Phraya River for their prayers, which was very inconvenient. After discussing it, everyone decided to have the highest-ranking royal translator at the time, Luang Kocha Itsahak, lead the effort to buy land near Gonghang and build a mosque.
+
+In 1892, a fire broke out in Chinatown, damaging many houses, so King Rama V decided to build a new main road, Song Wat Road, in Chinatown. Luang Kocha bought land along Songwat Road and had his children take apart the bricks and stones from a house he owned across the river in Thonburi to build this neoclassical-style mosque. Today, the Luang Kocha Mosque is still owned by his descendants and serves as a convenient place for fellow Muslims (dosti) working or visiting near Bangkok's Chinatown.
+
+![image](https://files.catbox.moe/rvhyuf.jpg)
+
+![image](https://files.catbox.moe/i6515l.jpg)
+
+![image](https://files.catbox.moe/5n3dm8.jpg)
+
+**The ablution room (shuifang) was built in 1949.**
+
+![image](https://files.catbox.moe/a2o1ng.jpg)
+
+![image](https://files.catbox.moe/yanf98.jpg)
+
+Daily prayers (namaz) are held on the first floor, with men in front and women in the back, separated by a curtain.
+
+![image](https://files.catbox.moe/16abz6.jpg)
+
+The second floor only opens for Friday prayers (Jumu'ah), and the decoration of the mihrab features a distinct Thai style.
+
+![image](https://files.catbox.moe/c61tvn.jpg)
+
+![image](https://files.catbox.moe/pndqn6.jpg)
+
+![image](https://files.catbox.moe/8ilsvh.jpg)
+
+On Yaowarat Road in Bangkok's Chinatown stands a century-old house that was once the stage for a Muslim version of Romeo and Juliet; it is now open as a hotel and cafe.
+
+This house was first built in 1916 by a Shia merchant named Abdul Rahim who worked in Chinatown, and it was later sold to a Sunni merchant named Adam. Adam arrived in Bangkok's Chinatown by boat from India to work. He started with nothing and eventually bought this house. Since Adam had no children, after he passed away, his wife brought her brother's family to live with her, and her brother's son, Payoon, became the young master of the house.
+
+Surprisingly, Payoon fell in love with Sara, a descendant of the house's first owner, Abdul Rahim. Although they both came from wealthy Muslim families, one belonged to the Sunni sect and the other to the Shia sect, which was still not accepted by everyone a hundred years ago. This Muslim version of Romeo and Juliet had a happy ending. They married and had three sons, and the eldest son, Parpatipya, inherited the house.
+
+The house was later rented by a Chinese printing factory and a newspaper office. After renovations in 2017, it became the Baan 2459 hotel and Chata cafe.
+
+![image](https://files.catbox.moe/jkxs4v.jpg)
+
+![image](https://files.catbox.moe/mv1db0.jpg)
+
+![image](https://files.catbox.moe/tcqq0f.jpg)
+
+![image](https://files.catbox.moe/f6buta.jpg)
+
+![image](https://files.catbox.moe/xq2m6o.jpg)
+
+![image](https://files.catbox.moe/zot71c.jpg)
+
+![image](https://files.catbox.moe/3cffbq.jpg)
+
+![image](https://files.catbox.moe/2afxoq.jpg)
+
+![image](https://files.catbox.moe/o26okn.jpg)
+
+After the great fire in Bangkok's Chinatown in 1892, King Rama V built a large number of shophouses along Sampeng Lane, the oldest road in Chinatown, which later became a bustling commercial market. Besides the Chinese, Indian and Malay Muslims (dosti) also opened shops on Sampeng Lane, with many working in the jewelry trade. 130 years later, many descendants of these Muslims (dosti) still operate jewelry businesses in the shophouses on Sampeng Lane, serving as a living historical memory of Bangkok's Chinatown.
+
+![image](https://files.catbox.moe/u088zi.jpg)
+
+![image](https://files.catbox.moe/kwcndf.jpg)
+
+![image](https://files.catbox.moe/g6h9iw.jpg)
+
+![image](https://files.catbox.moe/schb1w.jpg)
+
+![image](https://files.catbox.moe/m5s4dy.jpg)
+
+This shop is marked as being from Pattani Province in southern Thailand, which is a Malay-populated area.
+
+![image](https://files.catbox.moe/k1xhb3.jpg)
+
+![image](https://files.catbox.moe/7rs3zz.jpg)
+
+![image](https://files.catbox.moe/79e8q9.jpg)
+
+![image](https://files.catbox.moe/g491gy.jpg)
+
+![image](https://files.catbox.moe/ax85tq.jpg)
+
+![image](https://files.catbox.moe/84xuoi.jpg)
+
+![image](https://files.catbox.moe/yxufly.jpg)
+
+![image](https://files.catbox.moe/i5j4x4.jpg)
+
+There are relatively few halal restaurants in the Bangkok Chinatown area. I recommend Zara Restaurant on Yaowarat Road, a family-run place serving local Thai food and various coffees. We ordered Thai red milk tea, spicy minced chicken salad (Larb Gai), green papaya salad, and stir-fried rice noodles (Pad Thai). Overall, the taste was very authentic, and the stir-fried rice noodles were especially delicious. However, Thai food is the spiciest I have ever eaten in Southeast Asia. If you are a Muslim (dosti) who cannot handle spice, be sure to say so in advance, or your mouth will feel like it is burning for a long time.
+
+![image](https://files.catbox.moe/0big2q.jpg)
+
+![image](https://files.catbox.moe/4pc3jc.jpg)
+
+![image](https://files.catbox.moe/kt0tlx.jpg)
+
+![image](https://files.catbox.moe/rpyvlg.jpg)
+
+![image](https://files.catbox.moe/9rmncd.jpg)
+
+![image](https://files.catbox.moe/7lhf61.jpg)
+
+![image](https://files.catbox.moe/khpywp.jpg)
+
+![image](https://files.catbox.moe/oxchu0.jpg)
+
+![image](https://files.catbox.moe/lm4gzg.jpg)
+
+The second floor of the Wat Traimit mosque in Bangkok's Chinatown houses the Yaowarat Chinatown Heritage Center. It offers a very intuitive introduction to Bangkok's Chinatown. At the ticket office, just say you only want to see the exhibition and buy a 100-baht ticket. The exhibition hall introduces how the Chinese came to Bangkok to make a living and displays the atmosphere of Chinatown during the Qing Dynasty.
+
+![image](https://files.catbox.moe/a9db66.jpg)
+
+![image](https://files.catbox.moe/rb38ok.jpg)
+
+![image](https://files.catbox.moe/e0pm98.jpg)
+
+![image](https://files.catbox.moe/1kbp8b.jpg)
+
+![image](https://files.catbox.moe/51e96k.jpg)
+
+![image](https://files.catbox.moe/egmrgo.jpg)
+
+![image](https://files.catbox.moe/ntn262.jpg)
+
+![image](https://files.catbox.moe/j5zqa7.jpg)
+
+![image](https://files.catbox.moe/4b3iek.jpg)
+
+Life scenes recreated inside the Yaowarat Chinatown Heritage Center in Bangkok:
+
+Haitianlou on Shipa Road was built in 1934, and its three-story banquet hall is a key place for Chinese community gatherings.
+
+![image](https://files.catbox.moe/ymfylw.jpg)
+
+**Longweiye Market sells a variety of dried goods, fruits, and ready-to-eat foods.**
+
+![image](https://files.catbox.moe/nomc12.jpg)
+
+**The theater performs the traditional Teochew opening play, 'Six Kingdoms Conferring the Prime Minister' (Liuguo Fengxiang).**
+
+![image](https://files.catbox.moe/0tflv0.jpg)
+
+**Remittance houses (piguan) handle the delivery of letters and money back to the home country.**
+
+![image](https://files.catbox.moe/m1ei6i.jpg)
+
+**Many shops gather in the square in front of Longlian Mosque.**
+
+![image](https://files.catbox.moe/vkqn8m.jpg)
+
+Tea and snack shops sell crispy, sweet Chinese-style pastries, perfect for eating while drinking tea.
+
+![image](https://files.catbox.moe/2je8ms.jpg)
+
+Gold and silver jewelry sold at gold shops is a major way for Chinese people to save money; they often buy gold to keep after receiving lucky money (yasuiqian) during the Lunar New Year.
+
+![image](https://files.catbox.moe/xz4n2m.jpg)
+
+Several Chinese-language newspaper offices in Yaowarat post their daily papers on the wall, so people can read the 'wall news' without having to buy a copy.
+
+![image](https://files.catbox.moe/33fjlf.jpg)
+
+Tianhua Hospital opened in 1905; it uses various dialects to communicate with patients and provides free medical treatment to the poor.
+
+![image](https://files.catbox.moe/052vxl.jpg)
+
+**Bangkok's Chinatown in the rain.**
+
+![image](https://files.catbox.moe/57ox6i.jpg)
+
+![image](https://files.catbox.moe/gdelaj.jpg)
+
+![image](https://files.catbox.moe/t1913k.jpg)
+
+![image](https://files.catbox.moe/ypveu3.jpg)
+
+![image](https://files.catbox.moe/4bgnra.jpg)
+

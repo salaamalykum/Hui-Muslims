@@ -14,4 +14,150 @@ layout: "article"
 
 # Hidden Mosques Near Beijing: Huailai and Zhuolu Qingming Road Trip, Part One
 
-**Reposted from the web**\n\n**Summary:** This Qingming road trip leaves Beijing for Huailai and Zhuolu in Hebei, visiting old mosques, Hui Muslim communities, village streets, and local history in the first half of the route.\n\nDuring the Qingming holiday, I took a two-day road trip to Huailai and Zhuolu counties in Zhangjiakou, Hebei. I visited four ancient mosques and tried the local food. I left home after breakfast on Saturday and didn't reach Shacheng until noon because of highway traffic. At Ma Laoda in the county seat, I ate cornmeal dumplings (nieba), yellow rice cake (huanggao), braised carp, stewed Chinese cabbage with yam, and beef stew. Prices here are much lower than in Beijing. A bowl of corn noodles costs 10 yuan, and a large carp is 28 yuan.\n\nCornmeal dumplings (nieba) and yellow rice cake (huanggao) are both rustic snacks from Zhangjiakou. Cornmeal dumplings (nieba) are made from a mix of cornmeal and wheat flour. The texture is just right, and the side of pickled mustard greens adds a great flavor.\n\nYellow rice cake (huanggao) is made from local broomcorn millet that is peeled and ground into flour. It is soft and chewy, much like African fufu. You pinch off a piece and dip it into the broth from the stewed Chinese cabbage and yam.\n\nThe large carp is a reservoir fish from Guanting Reservoir, braised to perfection. It tastes great, doesn't have many bones, and has no muddy aftertaste. I really enjoyed it.\n\nThe only issue was that their beef stew was spicy, so the kids couldn't eat it.\n\nShacheng Castle was built in 1451 (the second year of the Jingtai reign of the Ming Dynasty). It was constructed after the Tumu Crisis to defend the northwest of the capital. To boost the population and strengthen the capital's defenses, the Ming government repeatedly ordered people from Shaanxi and Shanxi to move to the area south of the Zhangjiakou dam to farm and settle. They farmed during peacetime and served as soldiers during wartime. This is how some Hui Muslims settled in Huailai. After the Beijing-Suiyuan Railway opened in 1909, a station was built in Shacheng. The town became a busy commercial hub, and the population grew quickly. In 1951, the old Huailai county seat was flooded to build the Guanting Reservoir, and Shacheng became the new seat of Huailai County.\n\n![image](https://files.catbox.moe/frfssr.jpg)\n\n![image](https://files.catbox.moe/6tiuxt.jpg)\n\n![image](https://files.catbox.moe/zupneq.jpg)\n\n![image](https://files.catbox.moe/1teev2.jpg)\n\n![image](https://files.catbox.moe/es92ba.jpg)\n\n![image](https://files.catbox.moe/z6iegq.jpg)\n\n![image](https://files.catbox.moe/sn8xyo.jpg)\n\n![image](https://files.catbox.moe/t5m80g.jpg)\n\nAfter eating in Shacheng, I headed to the nearby Ganji Liang Village, the closest Hui Muslim village to the Huailai county seat.\n\nGanji Liang Village was originally called Gan Jilang. The main family there was the Han Chinese Gan family, but they later moved away, and the Zheng family, who are Hui Muslims, became the main residents. The Zheng family is a major Hui Muslim clan in Zhangjiakou. Their ancestors moved from Shaanxi in the late Ming and early Qing dynasties, first to Huailai, and then spread throughout Zhangjiakou. The most famous member of the Zheng family in Zhangjiakou was Zheng Kuishi. He was a well-known late Qing Hui Muslim general. He joined the army in the early Daoguang years and fought against the Taiping Rebellion during the Xianfeng years. He served in Guangxi, Hunan, Hubei, and Anhui, earned many military honors, was given the title Shalama Batulu, and was awarded a yellow riding jacket. During the Tongzhi reign, he served as the acting Zhili provincial commander, guarding the capital region and suppressing the Nian Rebellion in Zhili to keep the capital safe. In his later years, he returned home to work on water conservancy, building the Yonggu Dam to manage the Liu River. He also repaired the Zhenshuo Tower and Four Archways in Xuanhua and opened the Huoshi Slope road to improve transportation. He was highly respected locally.\n\nThe Ganji Liang Mosque was built during the Qianlong reign and is a standard courtyard-style building. The main hall from the Qing Dynasty is still well-preserved and features beautiful brick carvings. Unfortunately, the religious life in Ganji Liang Village has declined, and imams come and go. There is currently no imam at the mosque, and it looks abandoned. The main hall is covered in dust and rubble, and the backyard is overgrown with weeds.\n\n![image](https://files.catbox.moe/bkf0hu.jpg)\n\n![image](https://files.catbox.moe/p74bhj.jpg)\n\n![image](https://files.catbox.moe/zbbcqs.jpg)\n\n![image](https://files.catbox.moe/3xu1o8.jpg)\n\n![image](https://files.catbox.moe/84wq7m.jpg)\n\n![image](https://files.catbox.moe/i16a8u.jpg)\n\n![image](https://files.catbox.moe/wntf71.jpg)\n\n![image](https://files.catbox.moe/ja0d79.jpg)\n\n![image](https://files.catbox.moe/c38zo2.jpg)\n\n![image](https://files.catbox.moe/ces9mu.jpg)\n\n![image](https://files.catbox.moe/xl0lvc.jpg)\n\n![image](https://files.catbox.moe/cllbwr.jpg)\n\n![image](https://files.catbox.moe/gf5dsn.jpg)\n\n![image](https://files.catbox.moe/an6aay.jpg)\n\n![image](https://files.catbox.moe/ujfdoz.jpg)\n\n![image](https://files.catbox.moe/b5i3sf.jpg)\n\n![image](https://files.catbox.moe/byzp3p.jpg)\n\nInside the main hall, there is a wooden board with ink writing that records the history of the mosque: it was built by the community during the Qianlong reign, expanded in the sixth year of the Xianfeng reign, and land was purchased in the fourteenth year of the Daoguang reign. All the donors listed were from the local Zheng family. Unfortunately, it is hard to see the second half clearly because it was not well preserved.\n\n![image](https://files.catbox.moe/2rfjck.jpg)\n\nGanjiliang Village is built on a mountain ridge. Below the ridge are terraced fields, and on top are wind turbines. The wind here is much stronger than in Beijing.\n\nBecause of the terrain, Ganjiliang developed more slowly than the surrounding plains, which helped it keep more of its Qing Dynasty houses. Like many traditional villages, you rarely see young people here. Mostly, only the elderly remain.\n\n![image](https://files.catbox.moe/t579pn.jpg)\n\n![image](https://files.catbox.moe/arsre1.jpg)\n\n![image](https://files.catbox.moe/qzs6pp.jpg)\n\n![image](https://files.catbox.moe/9ajs1s.jpg)\n\n![image](https://files.catbox.moe/29he72.jpg)\n\n![image](https://files.catbox.moe/d6lllr.jpg)\n\n![image](https://files.catbox.moe/cazk2g.jpg)\n\n![image](https://files.catbox.moe/a64vv4.jpg)\n\n![image](https://files.catbox.moe/sjw2jg.jpg)\n\n![image](https://files.catbox.moe/prwy5u.jpg)\n\n![image](https://files.catbox.moe/ximt69.jpg)\n\n![image](https://files.catbox.moe/kpaxq6.jpg)\n\n![image](https://files.catbox.moe/gct9qc.jpg)\n\nAfter leaving Ganjiliang Village, we went to another old mosque, Mayukou Mosque. Mayukou is in Wangjialou Hui Muslim Township in Huailai, an area where many Hui Muslims live. We received a warm welcome from Imam Yang at the mosque. Imam Yang keeps the mosque in great order. Later, the assistant imam (hou ahong) invited us to eat dumplings made by the local women elders during Ramadan.\n\nXingwang Fortress was built in Mayukou during the Hongwu reign of the Ming Dynasty. It was one of the border forts built in the early Ming period to defend against the Northern Yuan. Hui Muslims settled in Mayukou in the mid-Qing Dynasty, and the Mayukou Mosque they built is now 200 years old. Mayukou Mosque and Ganjiliang Mosque have the same layout, consisting of a main prayer hall, north and south side rooms, and a front gate. The main prayer halls of Mayukou Mosque and Ganjiliang Mosque are also identical. They serve as typical examples of Qing Dynasty mosque halls in the border fort regions of Hebei. The difference is that the gate of Mayukou Mosque may have been rebuilt later. It is taller than the one at Ganjiliang Mosque and features beautiful brick carvings. It is a pity that the mosque renovated the side rooms and the interior of the main hall last year, so we could not see the traditional calligraphy preserved inside.\n\n![image](https://files.catbox.moe/sobsc6.jpg)\n\n![image](https://files.catbox.moe/30maot.jpg)\n\n![image](https://files.catbox.moe/holkhf.jpg)\n\n![image](https://files.catbox.moe/t9czoo.jpg)\n\n![image](https://files.catbox.moe/awb2kb.jpg)\n\n![image](https://files.catbox.moe/v2ikvp.jpg)\n\n![image](https://files.catbox.moe/zac5rk.jpg)\n\n![image](https://files.catbox.moe/xwi096.jpg)\n\n![image](https://files.catbox.moe/spuvcv.jpg)\n\n![image](https://files.catbox.moe/omlu8a.jpg)\n\n![image](https://files.catbox.moe/gtzf39.jpg)\n\n![image](https://files.catbox.moe/fepnbn.jpg)\n\n![image](https://files.catbox.moe/e7pzvh.jpg)\n\n![image](https://files.catbox.moe/j29238.jpg)\n\n**Scenery of Mayukou Village.**\n\n![image](https://files.catbox.moe/5sxt3y.jpg)\n\n![image](https://files.catbox.moe/h9ka84.jpg)\n\n![image](https://files.catbox.moe/cj1gjn.jpg)\n\n![image](https://files.catbox.moe/besrqx.jpg)
+**Reposted from the web**
+
+**Summary:** This Qingming road trip leaves Beijing for Huailai and Zhuolu in Hebei, visiting old mosques, Hui Muslim communities, village streets, and local history in the first half of the route.
+
+During the Qingming holiday, I took a two-day road trip to Huailai and Zhuolu counties in Zhangjiakou, Hebei. I visited four ancient mosques and tried the local food. I left home after breakfast on Saturday and didn't reach Shacheng until noon because of highway traffic. At Ma Laoda in the county seat, I ate cornmeal dumplings (nieba), yellow rice cake (huanggao), braised carp, stewed Chinese cabbage with yam, and beef stew. Prices here are much lower than in Beijing. A bowl of corn noodles costs 10 yuan, and a large carp is 28 yuan.
+
+Cornmeal dumplings (nieba) and yellow rice cake (huanggao) are both rustic snacks from Zhangjiakou. Cornmeal dumplings (nieba) are made from a mix of cornmeal and wheat flour. The texture is just right, and the side of pickled mustard greens adds a great flavor.
+
+Yellow rice cake (huanggao) is made from local broomcorn millet that is peeled and ground into flour. It is soft and chewy, much like African fufu. You pinch off a piece and dip it into the broth from the stewed Chinese cabbage and yam.
+
+The large carp is a reservoir fish from Guanting Reservoir, braised to perfection. It tastes great, doesn't have many bones, and has no muddy aftertaste. I really enjoyed it.
+
+The only issue was that their beef stew was spicy, so the kids couldn't eat it.
+
+Shacheng Castle was built in 1451 (the second year of the Jingtai reign of the Ming Dynasty). It was constructed after the Tumu Crisis to defend the northwest of the capital. To boost the population and strengthen the capital's defenses, the Ming government repeatedly ordered people from Shaanxi and Shanxi to move to the area south of the Zhangjiakou dam to farm and settle. They farmed during peacetime and served as soldiers during wartime. This is how some Hui Muslims settled in Huailai. After the Beijing-Suiyuan Railway opened in 1909, a station was built in Shacheng. The town became a busy commercial hub, and the population grew quickly. In 1951, the old Huailai county seat was flooded to build the Guanting Reservoir, and Shacheng became the new seat of Huailai County.
+
+![image](https://files.catbox.moe/frfssr.jpg)
+
+![image](https://files.catbox.moe/6tiuxt.jpg)
+
+![image](https://files.catbox.moe/zupneq.jpg)
+
+![image](https://files.catbox.moe/1teev2.jpg)
+
+![image](https://files.catbox.moe/es92ba.jpg)
+
+![image](https://files.catbox.moe/z6iegq.jpg)
+
+![image](https://files.catbox.moe/sn8xyo.jpg)
+
+![image](https://files.catbox.moe/t5m80g.jpg)
+
+After eating in Shacheng, I headed to the nearby Ganji Liang Village, the closest Hui Muslim village to the Huailai county seat.
+
+Ganji Liang Village was originally called Gan Jilang. The main family there was the Han Chinese Gan family, but they later moved away, and the Zheng family, who are Hui Muslims, became the main residents. The Zheng family is a major Hui Muslim clan in Zhangjiakou. Their ancestors moved from Shaanxi in the late Ming and early Qing dynasties, first to Huailai, and then spread throughout Zhangjiakou. The most famous member of the Zheng family in Zhangjiakou was Zheng Kuishi. He was a well-known late Qing Hui Muslim general. He joined the army in the early Daoguang years and fought against the Taiping Rebellion during the Xianfeng years. He served in Guangxi, Hunan, Hubei, and Anhui, earned many military honors, was given the title Shalama Batulu, and was awarded a yellow riding jacket. During the Tongzhi reign, he served as the acting Zhili provincial commander, guarding the capital region and suppressing the Nian Rebellion in Zhili to keep the capital safe. In his later years, he returned home to work on water conservancy, building the Yonggu Dam to manage the Liu River. He also repaired the Zhenshuo Tower and Four Archways in Xuanhua and opened the Huoshi Slope road to improve transportation. He was highly respected locally.
+
+The Ganji Liang Mosque was built during the Qianlong reign and is a standard courtyard-style building. The main hall from the Qing Dynasty is still well-preserved and features beautiful brick carvings. Unfortunately, the religious life in Ganji Liang Village has declined, and imams come and go. There is currently no imam at the mosque, and it looks abandoned. The main hall is covered in dust and rubble, and the backyard is overgrown with weeds.
+
+![image](https://files.catbox.moe/bkf0hu.jpg)
+
+![image](https://files.catbox.moe/p74bhj.jpg)
+
+![image](https://files.catbox.moe/zbbcqs.jpg)
+
+![image](https://files.catbox.moe/3xu1o8.jpg)
+
+![image](https://files.catbox.moe/84wq7m.jpg)
+
+![image](https://files.catbox.moe/i16a8u.jpg)
+
+![image](https://files.catbox.moe/wntf71.jpg)
+
+![image](https://files.catbox.moe/ja0d79.jpg)
+
+![image](https://files.catbox.moe/c38zo2.jpg)
+
+![image](https://files.catbox.moe/ces9mu.jpg)
+
+![image](https://files.catbox.moe/xl0lvc.jpg)
+
+![image](https://files.catbox.moe/cllbwr.jpg)
+
+![image](https://files.catbox.moe/gf5dsn.jpg)
+
+![image](https://files.catbox.moe/an6aay.jpg)
+
+![image](https://files.catbox.moe/ujfdoz.jpg)
+
+![image](https://files.catbox.moe/b5i3sf.jpg)
+
+![image](https://files.catbox.moe/byzp3p.jpg)
+
+Inside the main hall, there is a wooden board with ink writing that records the history of the mosque: it was built by the community during the Qianlong reign, expanded in the sixth year of the Xianfeng reign, and land was purchased in the fourteenth year of the Daoguang reign. All the donors listed were from the local Zheng family. Unfortunately, it is hard to see the second half clearly because it was not well preserved.
+
+![image](https://files.catbox.moe/2rfjck.jpg)
+
+Ganjiliang Village is built on a mountain ridge. Below the ridge are terraced fields, and on top are wind turbines. The wind here is much stronger than in Beijing.
+
+Because of the terrain, Ganjiliang developed more slowly than the surrounding plains, which helped it keep more of its Qing Dynasty houses. Like many traditional villages, you rarely see young people here. Mostly, only the elderly remain.
+
+![image](https://files.catbox.moe/t579pn.jpg)
+
+![image](https://files.catbox.moe/arsre1.jpg)
+
+![image](https://files.catbox.moe/qzs6pp.jpg)
+
+![image](https://files.catbox.moe/9ajs1s.jpg)
+
+![image](https://files.catbox.moe/29he72.jpg)
+
+![image](https://files.catbox.moe/d6lllr.jpg)
+
+![image](https://files.catbox.moe/cazk2g.jpg)
+
+![image](https://files.catbox.moe/a64vv4.jpg)
+
+![image](https://files.catbox.moe/sjw2jg.jpg)
+
+![image](https://files.catbox.moe/prwy5u.jpg)
+
+![image](https://files.catbox.moe/ximt69.jpg)
+
+![image](https://files.catbox.moe/kpaxq6.jpg)
+
+![image](https://files.catbox.moe/gct9qc.jpg)
+
+After leaving Ganjiliang Village, we went to another old mosque, Mayukou Mosque. Mayukou is in Wangjialou Hui Muslim Township in Huailai, an area where many Hui Muslims live. We received a warm welcome from Imam Yang at the mosque. Imam Yang keeps the mosque in great order. Later, the assistant imam (hou ahong) invited us to eat dumplings made by the local women elders during Ramadan.
+
+Xingwang Fortress was built in Mayukou during the Hongwu reign of the Ming Dynasty. It was one of the border forts built in the early Ming period to defend against the Northern Yuan. Hui Muslims settled in Mayukou in the mid-Qing Dynasty, and the Mayukou Mosque they built is now 200 years old. Mayukou Mosque and Ganjiliang Mosque have the same layout, consisting of a main prayer hall, north and south side rooms, and a front gate. The main prayer halls of Mayukou Mosque and Ganjiliang Mosque are also identical. They serve as typical examples of Qing Dynasty mosque halls in the border fort regions of Hebei. The difference is that the gate of Mayukou Mosque may have been rebuilt later. It is taller than the one at Ganjiliang Mosque and features beautiful brick carvings. It is a pity that the mosque renovated the side rooms and the interior of the main hall last year, so we could not see the traditional calligraphy preserved inside.
+
+![image](https://files.catbox.moe/sobsc6.jpg)
+
+![image](https://files.catbox.moe/30maot.jpg)
+
+![image](https://files.catbox.moe/holkhf.jpg)
+
+![image](https://files.catbox.moe/t9czoo.jpg)
+
+![image](https://files.catbox.moe/awb2kb.jpg)
+
+![image](https://files.catbox.moe/v2ikvp.jpg)
+
+![image](https://files.catbox.moe/zac5rk.jpg)
+
+![image](https://files.catbox.moe/xwi096.jpg)
+
+![image](https://files.catbox.moe/spuvcv.jpg)
+
+![image](https://files.catbox.moe/omlu8a.jpg)
+
+![image](https://files.catbox.moe/gtzf39.jpg)
+
+![image](https://files.catbox.moe/fepnbn.jpg)
+
+![image](https://files.catbox.moe/e7pzvh.jpg)
+
+![image](https://files.catbox.moe/j29238.jpg)
+
+**Scenery of Mayukou Village.**
+
+![image](https://files.catbox.moe/5sxt3y.jpg)
+
+![image](https://files.catbox.moe/h9ka84.jpg)
+
+![image](https://files.catbox.moe/cj1gjn.jpg)
+
+![image](https://files.catbox.moe/besrqx.jpg)

@@ -14,4 +14,196 @@ layout: "article"
 
 # Authentic Muslim Community in Jiaxing: Zhejiang Hui Mosques, Food and Canal History
 
-**Reposted from the web**\n\n**Summary:** Jiaxing, Zhejiang Province has a Hui Muslim community tied to the Grand Canal, Ganpu Port, and more than 700 years of local history. This nine-year return visit preserves the source's mosque history, street changes, restaurant details, community notes, and photographs.\n\nI first visited the Muslim communities along the Grand Canal in 2016-2017. I went to Jiaxing back then, as described in my post, "Halal Travel Review: Jiaxing, Zhejiang in 2017." I took advantage of the New Year holiday to visit Jiaxing again and see how the local Muslim community has changed over these nine years. Overall, although the traditional neighborhood right next to the Jiaxing Mosque was cleared in 2019, there are still many Hui Muslim restaurants scattered throughout the old city. This shows that the Muslim community in Jiaxing remains very active.\n\nThe Muslim community in Jiaxing began in the Southern Song Dynasty and has lasted for over 700 years. Even though it was interrupted for a few decades by war at the end of the Qing Dynasty, it remains one of the most important Muslim centers in Zhejiang.\n\nIn 1246 (the sixth year of the Chunyou era of the Song Dynasty), the Song government set up a maritime trade office at Ganpu Port in Jiaxing, and foreign merchants began to gather there. Many Hui Muslim merchants settled on Luli Street in the southeast of Jiaxing city. Goods arriving from Ganpu Port were transferred here before being sent to the capital, Lin'an. Luli Street gradually became known as "Hui Muslim Street." In the early Yuan Dynasty, a large number of Hui Muslim troops were stationed near Lin'an. In 1276 (the 13th year of the Zhiyuan era of the Yuan Dynasty), the Jiaxing military command was changed to the Jiaxing Pacification Commission, and these Hui Muslim soldiers settled down permanently. Records show that in 1295 (the first year of the Yuanzhen era of the Yuan Dynasty), when Sayyid Ajjal Shams al-Din Omar served as the governor of Songjiang Prefecture, he brought 30,000 Hui Muslim soldiers from Jiaxing.\n\nDuring the Ming Dynasty, due to policies that allowed tribute but restricted trade, the Hui Muslim soldiers and foreign merchants gradually became the Hui Muslim population. Jiaxing saw the rise of several major family names, including Xu, Guo, Jin, Sha, Ma, and Yang, and they built the Jiaxing Mosque in 1602 (the 30th year of the Wanli era). The mosque still houses a stone tablet from the 30th year of the Wanli era titled "Record of the Construction of the True Religion Mosque in Jiaxing Prefecture." It was written by Ma Hualong, who was a Jiaxing official from Xinye, Henan, and a successful candidate in the imperial examinations in the fifth year of the Wanli era. The back of the tablet was inscribed in 1774 (the 39th year of the Qianlong era) with a "Record of the Renovation of the Jiaxing Prefecture Mosque." According to the Wanli tablet, "Among the provinces, Hangzhou has the most Muslims, and they have built mosques in the Jiaxing area for a long time." "Now, Muslims like Ma Zhonglü and others have donated money according to their means, bought a piece of vacant land south of Tongji Bridge east of the government office, and built this mosque, modeling it slightly after the style in Hangzhou."\n\nJiaxing originally had a large mosque and a small mosque. The large one was destroyed during the Taiping Rebellion, so the small mosque inside the East Gate became known as the Jiaxing Mosque. The Jiaxing Mosque underwent major repairs in 1747 (the 12th year of the Qianlong era). A local official named Sha Dacheng funded the renovation and expansion of the halls and corridors, and he also added three lecture rooms. In 1774 (the 39th year of the Qianlong era), Sha Dacheng's nephew, a student named Guo Zaifen, rebuilt the main gate of the mosque and added five rooms.\n\nAfter the Taiping Rebellion, the Jiaxing Mosque fell into ruin. It was not used again until the early 20th century, when Hui Muslims newly arrived from Henan began using it. Since then, most of the imams have been hired from Henan. One of them, Imam Guo Qingxin, was from Kaifeng, Henan. He had previously taught at the Wangjia Hutong Mosque in Kaifeng. In 1948, he led more than 40 students from the Henan Arabic Language School to move south to Jiaxing. He was hired as the imam of the Jiaxing Mosque in 1950 and served for over 30 years.\n\n![image](https://files.catbox.moe/uveng1.jpg)\n\n![image](https://files.catbox.moe/cegiqe.jpg)\n\n![image](https://files.catbox.moe/qgsvs8.jpg)\n\n![image](https://files.catbox.moe/h98qod.jpg)\n\n![image](https://files.catbox.moe/76v7wa.jpg)\n\n![image](https://files.catbox.moe/g8j8m9.jpg)\n\n![image](https://files.catbox.moe/z7ba23.jpg)\n\n![image](https://files.catbox.moe/hc2pio.jpg)\n\n![image](https://files.catbox.moe/32mdoi.jpg)\n\nThe current imam of the Jiaxing Mosque is from Ningxia. The people attending Friday namaz are half from Henan and half from the Northwest, along with some foreigners. During the opening prayer and the sermon, people arrived one after another. Eventually, they filled not only the main prayer hall but also the side halls, which shows how vibrant the Muslim community in Jiaxing is. After the prayer, several friends (dost) from Henan and the Northwest were selling cooked food and noodles at the mosque entrance, making the area very lively.\n\n![image](https://files.catbox.moe/nei1b3.jpg)\n\n![image](https://files.catbox.moe/z4ft1z.jpg)\n\n![image](https://files.catbox.moe/4htmwn.jpg)\n\n![image](https://files.catbox.moe/4neuve.jpg)\n\n![image](https://files.catbox.moe/nmtf6v.jpg)\n\n![image](https://files.catbox.moe/7m2v6y.jpg)\n\n![image](https://files.catbox.moe/u4cswu.jpg)\n\n![image](https://files.catbox.moe/disq02.jpg)\n\n![image](https://files.catbox.moe/lnb4rk.jpg)\n\n![image](https://files.catbox.moe/btvzuo.jpg)\n\nThe Jiaxing Mosque preserves some very beautiful Arabic wood carvings from the mid-Qing Dynasty, which were likely carved during the renovations in the Qianlong era.\n\n![image](https://files.catbox.moe/ap66s4.jpg)\n\n![image](https://files.catbox.moe/rnnnxi.jpg)\n\n![image](https://files.catbox.moe/9q9vk9.jpg)\n\n![image](https://files.catbox.moe/rto8xp.jpg)\n\n![image](https://files.catbox.moe/0vg8wk.jpg)\n\n![image](https://files.catbox.moe/56i4b8.jpg)\n\n![image](https://files.catbox.moe/f1do11.jpg)\n\n![image](https://files.catbox.moe/xggzow.jpg)\n\nThe Henan friends (dosti) who moved to Jiaxing in the 20th century also brought the Henan tradition of women's religious education. Jiaxing's women's religious education began in 1942, with Yang Huizhen serving as the first head teacher (jiaozhang). In 1946, Yang Huizhen founded the Jiaxing Islamic Care Home to provide shelter for the elderly, weak, women, and children.\n\n![image](https://files.catbox.moe/5kzsgj.jpg)\n\n![image](https://files.catbox.moe/jzyecu.jpg)\n\n![image](https://files.catbox.moe/l0bf7u.jpg)\n\n![image](https://files.catbox.moe/3yw0eg.jpg)\n\nJiaxing Hui Muslims love martial arts, so they formed the Jiaxing Hui Muslim Martial Arts Team in 1980, led by Han Haihua of the Han family. There is still a martial arts school run by Han Maosen at the mosque entrance today.\n\n![image](https://files.catbox.moe/4c2vf0.jpg)\n\nWhen I first visited Jiaxing in 2017, there were many snack shops at the mosque entrance, and I even ate a beef rice dumpling (niurou zong). However, the area was cleared out in 2019, and there are far fewer snack shops now.\n\n![image](https://files.catbox.moe/uetjb8.jpg)\n\n![image](https://files.catbox.moe/954do4.jpg)\n\nAmong the Hui Muslims who moved south from Henan to Jiaxing during the late Qing Dynasty and the Republic of China, half belonged to the Han family from Zhecheng, Shangqiu, Henan, known as the Great Han Family. The Han surname Hui Muslims in Zhecheng are said to be the Salar Hans who moved from Xunhua, Qinghai, in the late Yuan Dynasty. Their ancestor was originally named Shamuhan, and they later took the last syllable to change their surname to Han. In 1404 (the second year of the Yongle reign of the Ming Dynasty), the Han family moved to Yucheng, Shandong, and later a branch led by Han Yuanchen moved to Zhecheng, Henan, to settle down.\n\nTo this day, many Hui Muslims with the surname Han still live near the Jiaxing mosque. Han Haili's family, located on Xiuzhou Road behind the mosque, moved to Jiaxing in 1938 when Henan fell. They have made a living selling Hui Muslim snacks for nearly 90 years, making them a famous old Jiaxing brand. When I came to Jiaxing in 2017, their shop was quite simple, but this time it has been renovated to look very refined, and they serve full meals to snacks. We ordered pan-fried dumplings (jianjiao), beef offal vermicelli pot (niuza fensi bao), fried fish noodles (baoyu mian), and crispy sesame flatbread (xiangsu bing). The beef offal pot arrived at the table bubbling and was very comforting, perfect for winter. The crispy sesame flatbread is very popular with children, and it is convenient to buy a few to take along when visiting the nearby ancient town.\n\n![image](https://files.catbox.moe/lukxx8.jpg)\n\n![image](https://files.catbox.moe/rpqoac.jpg)\n\n![image](https://files.catbox.moe/0j4wos.jpg)\n\n![image](https://files.catbox.moe/wtyitx.jpg)\n\n![image](https://files.catbox.moe/06tedo.jpg)\n\n![image](https://files.catbox.moe/w7r2w4.jpg)\n\n![image](https://files.catbox.moe/1mxgxe.jpg)\n\n![image](https://files.catbox.moe/bbekc5.jpg)\n\n![image](https://files.catbox.moe/xlofqf.jpg)\n\nThe old city of Jiaxing is home to many Hui Muslim snack shops, including Haiqin's Deli, Henan Snack Shop, Guo's Beef Pan-fried Buns, Yudong Heritage Whole Lamb Restaurant, Pan-fried Bun and Beef Soup Shop, and Alin's Pan-fried Dumpling Shop. You don't have to worry about finding food when traveling in the old city of Jiaxing.\n\n![image](https://files.catbox.moe/vbb1be.jpg)\n\n![image](https://files.catbox.moe/si0p71.jpg)\n\n![image](https://files.catbox.moe/njtyj1.jpg)\n\n![image](https://files.catbox.moe/t0nwmf.jpg)\n\n![image](https://files.catbox.moe/nn8gb0.jpg)\n\n![image](https://files.catbox.moe/03n7n0.jpg)\n\n![image](https://files.catbox.moe/1186pl.jpg)\n\n![image](https://files.catbox.moe/fzigi3.jpg)\n\n![image](https://files.catbox.moe/z6k2ak.jpg)\n\nIn the evening, we had dinner at Jingyage on Xiuzhou Road near the Jiaxing mosque. This place is also run by Henan friends, and they specialize in lamb soup and flatbread (yangtang shaobing), though I think the flatbread is only truly fragrant when made fresh in the morning. We ordered lamb soup braised noodles (yangtang huimian), stacked meat (duozi rou), and osmanthus beef tenderloin (guihua niuliu). The braised noodles and stacked meat both had a very authentic Henan taste and were very comforting to eat. The osmanthus dish is actually stir-fried eggs. Eating the beef tenderloin and stir-fried eggs wrapped in lotus leaf buns (heye bing) is very suitable for the tastes of Northerners, and our whole family thought it was delicious.\n\n![image](https://files.catbox.moe/pwi83t.jpg)\n\n![image](https://files.catbox.moe/bilo6g.jpg)\n\n![image](https://files.catbox.moe/mzluh5.jpg)\n\n![image](https://files.catbox.moe/i55uab.jpg)\n\n![image](https://files.catbox.moe/80cc99.jpg)\n\n![image](https://files.catbox.moe/heg3wo.jpg)\n\n![image](https://files.catbox.moe/z3m2yx.jpg)\n\n![image](https://files.catbox.moe/swk0u4.jpg)\n\n![image](https://files.catbox.moe/i5e6y7.jpg)\n\nThe most worth-eating Hui Muslim restaurant in Jiaxing is undoubtedly Siruchun on Yuehe Street. Siruchun has a history of over 100 years and is now listed as a Jiaxing intangible cultural heritage for its "Hui Muslim pan-fried bun and dumpling making technique."\n\nSiruchun was founded in 1919 by a Hui Muslim from Henan named Bai Tisheng. It first opened inside the East Gate near the Jiaxing Mosque. At that time, Bai Tisheng mainly sold soy-sauce beef (jiang niurou), beef and lamb steamed buns (baozi), and pan-fried pancakes (jianbing). Because the buns were the most popular, the shop was also called the Bai Family Buns of the East Gate. When the Japanese army occupied Jiaxing in December 1937, the East Gate was destroyed by artillery fire, and the Bai family fled to the countryside for safety. After the fighting calmed down at the end of 1938, Bai Tisheng opened the Siruchun Stir-fry Restaurant at the street corner near Xuangong Bridge. Later, it became one of the most famous Hui Muslim stir-fry restaurants in Jiaxing, alongside Chunhuayuan and Yuxinglou.\n\nDuring the public-private partnership period in the 1950s, Siruchun merged with several other Hui Muslim snack shops. It stopped selling stir-fried dishes and only served beef noodles and pan-fried pancakes. In 1969, Changshuitang was widened and Xuangong Bridge was demolished, causing Siruchun to disappear.\n\nAfter the 1990s, the three-story YSL Garden Hotel opened near Zhongshan Bridge in Jiaxing. Many of the veteran chefs and their apprentices from the old Chunhuayuan and Siruchun returned to work there, making the Garden Hotel the go-to spot for authentic Hui Muslim stir-fry in Jiaxing at the time. In 1998, the Garden Hotel was demolished for the construction of the city moat green belt. That same year, the Hui Muslim restaurant Chunhuayuan on Jianguo Road was also torn down, leaving Jiaxing's Hui Muslim dining scene in a difficult spot.\n\nIn 2008, Bai Tisheng's descendant, Bai Qingmin, and his children reopened the Bai Family Bun Shop on Yuehe Street. The chefs and bun makers who had worked at Chunhuayuan and the Garden Hotel came to help, some of whom were already over seventy years old. In 2012, the Bai family continued by restoring the Siruchun Stir-fry Restaurant, which became the most famous time-honored Hui Muslim brand in Jiaxing.\n\nWhen I visited Siruchun in 2017, I ate fruit soup (shuiguo yuanzi geng), crab roe tofu (xiehuang doufu), Indian aster greens (malantou), and Bai family fried fish (baojia baoyu). This time, I ordered beef strips with pickled mustard greens and edamame (xuecai maodou niurousi), stir-fried eggs with silverfish (yinyu chaodan), soy-sauce duck (jiangya), braised gluten (suji), and Indian aster greens. If you want to eat traditional Jiaxing Hui Muslim cuisine, this is the right place to come. Our favorite dish is the beef strips with pickled mustard greens and edamame. It is cooked very lightly, and both adults and children love it. Stir-fried eggs with silverfish is also a specialty of the Jiangsu, Zhejiang, and Shanghai regions, and it is very nutritious. The soy-sauce duck is a bit cold to eat in winter, so I heated it up in the shop's microwave. Since the other dishes are quite light, the soy-sauce duck helps balance the meal. I have always loved braised gluten, and it is hard to find it this good in the north. I really liked the Indian aster greens last time I ate them because they are so fresh and crisp. I recommended them to my family this time, and they all liked them too.\n\nBecause the shop is on Yuehe Street, the foot traffic is very high, and the service can't always keep up. This is understandable, and even though there are many people eating, the food still comes out quickly.\n\n![image](https://files.catbox.moe/mtddqq.jpg)\n\n![image](https://files.catbox.moe/91lrwm.jpg)\n\n![image](https://files.catbox.moe/6r4s6k.jpg)\n\n![image](https://files.catbox.moe/qltk9o.jpg)\n\n![image](https://files.catbox.moe/jyuj0a.jpg)\n\n![image](https://files.catbox.moe/2lr5oh.jpg)\n\n![image](https://files.catbox.moe/fqq6ut.jpg)\n\n![image](https://files.catbox.moe/wld5bc.jpg)\n\n![image](https://files.catbox.moe/4a1kby.jpg)\n\nThere are two other unique Hui Muslim restaurants in Jiaxing: one is a Jiangxi home-style restaurant run by Hui Muslims from Xi'an, and the other is a Northeast-style iron pot stew. If any friends (dosti) want to try a different flavor, they can check those out. We actually really wanted to try the Jiangxi home-style food, but we gave up because we had children with us and couldn't eat spicy food.\n\n![image](https://files.catbox.moe/ziyexn.jpg)\n\n![image](https://files.catbox.moe/08ehmi.jpg)
+**Reposted from the web**
+
+**Summary:** Jiaxing, Zhejiang Province has a Hui Muslim community tied to the Grand Canal, Ganpu Port, and more than 700 years of local history. This nine-year return visit preserves the source's mosque history, street changes, restaurant details, community notes, and photographs.
+
+I first visited the Muslim communities along the Grand Canal in 2016-2017. I went to Jiaxing back then, as described in my post, "Halal Travel Review: Jiaxing, Zhejiang in 2017." I took advantage of the New Year holiday to visit Jiaxing again and see how the local Muslim community has changed over these nine years. Overall, although the traditional neighborhood right next to the Jiaxing Mosque was cleared in 2019, there are still many Hui Muslim restaurants scattered throughout the old city. This shows that the Muslim community in Jiaxing remains very active.
+
+The Muslim community in Jiaxing began in the Southern Song Dynasty and has lasted for over 700 years. Even though it was interrupted for a few decades by war at the end of the Qing Dynasty, it remains one of the most important Muslim centers in Zhejiang.
+
+In 1246 (the sixth year of the Chunyou era of the Song Dynasty), the Song government set up a maritime trade office at Ganpu Port in Jiaxing, and foreign merchants began to gather there. Many Hui Muslim merchants settled on Luli Street in the southeast of Jiaxing city. Goods arriving from Ganpu Port were transferred here before being sent to the capital, Lin'an. Luli Street gradually became known as "Hui Muslim Street." In the early Yuan Dynasty, a large number of Hui Muslim troops were stationed near Lin'an. In 1276 (the 13th year of the Zhiyuan era of the Yuan Dynasty), the Jiaxing military command was changed to the Jiaxing Pacification Commission, and these Hui Muslim soldiers settled down permanently. Records show that in 1295 (the first year of the Yuanzhen era of the Yuan Dynasty), when Sayyid Ajjal Shams al-Din Omar served as the governor of Songjiang Prefecture, he brought 30,000 Hui Muslim soldiers from Jiaxing.
+
+During the Ming Dynasty, due to policies that allowed tribute but restricted trade, the Hui Muslim soldiers and foreign merchants gradually became the Hui Muslim population. Jiaxing saw the rise of several major family names, including Xu, Guo, Jin, Sha, Ma, and Yang, and they built the Jiaxing Mosque in 1602 (the 30th year of the Wanli era). The mosque still houses a stone tablet from the 30th year of the Wanli era titled "Record of the Construction of the True Religion Mosque in Jiaxing Prefecture." It was written by Ma Hualong, who was a Jiaxing official from Xinye, Henan, and a successful candidate in the imperial examinations in the fifth year of the Wanli era. The back of the tablet was inscribed in 1774 (the 39th year of the Qianlong era) with a "Record of the Renovation of the Jiaxing Prefecture Mosque." According to the Wanli tablet, "Among the provinces, Hangzhou has the most Muslims, and they have built mosques in the Jiaxing area for a long time." "Now, Muslims like Ma Zhonglü and others have donated money according to their means, bought a piece of vacant land south of Tongji Bridge east of the government office, and built this mosque, modeling it slightly after the style in Hangzhou."
+
+Jiaxing originally had a large mosque and a small mosque. The large one was destroyed during the Taiping Rebellion, so the small mosque inside the East Gate became known as the Jiaxing Mosque. The Jiaxing Mosque underwent major repairs in 1747 (the 12th year of the Qianlong era). A local official named Sha Dacheng funded the renovation and expansion of the halls and corridors, and he also added three lecture rooms. In 1774 (the 39th year of the Qianlong era), Sha Dacheng's nephew, a student named Guo Zaifen, rebuilt the main gate of the mosque and added five rooms.
+
+After the Taiping Rebellion, the Jiaxing Mosque fell into ruin. It was not used again until the early 20th century, when Hui Muslims newly arrived from Henan began using it. Since then, most of the imams have been hired from Henan. One of them, Imam Guo Qingxin, was from Kaifeng, Henan. He had previously taught at the Wangjia Hutong Mosque in Kaifeng. In 1948, he led more than 40 students from the Henan Arabic Language School to move south to Jiaxing. He was hired as the imam of the Jiaxing Mosque in 1950 and served for over 30 years.
+
+![image](https://files.catbox.moe/uveng1.jpg)
+
+![image](https://files.catbox.moe/cegiqe.jpg)
+
+![image](https://files.catbox.moe/qgsvs8.jpg)
+
+![image](https://files.catbox.moe/h98qod.jpg)
+
+![image](https://files.catbox.moe/76v7wa.jpg)
+
+![image](https://files.catbox.moe/g8j8m9.jpg)
+
+![image](https://files.catbox.moe/z7ba23.jpg)
+
+![image](https://files.catbox.moe/hc2pio.jpg)
+
+![image](https://files.catbox.moe/32mdoi.jpg)
+
+The current imam of the Jiaxing Mosque is from Ningxia. The people attending Friday namaz are half from Henan and half from the Northwest, along with some foreigners. During the opening prayer and the sermon, people arrived one after another. Eventually, they filled not only the main prayer hall but also the side halls, which shows how vibrant the Muslim community in Jiaxing is. After the prayer, several friends (dost) from Henan and the Northwest were selling cooked food and noodles at the mosque entrance, making the area very lively.
+
+![image](https://files.catbox.moe/nei1b3.jpg)
+
+![image](https://files.catbox.moe/z4ft1z.jpg)
+
+![image](https://files.catbox.moe/4htmwn.jpg)
+
+![image](https://files.catbox.moe/4neuve.jpg)
+
+![image](https://files.catbox.moe/nmtf6v.jpg)
+
+![image](https://files.catbox.moe/7m2v6y.jpg)
+
+![image](https://files.catbox.moe/u4cswu.jpg)
+
+![image](https://files.catbox.moe/disq02.jpg)
+
+![image](https://files.catbox.moe/lnb4rk.jpg)
+
+![image](https://files.catbox.moe/btvzuo.jpg)
+
+The Jiaxing Mosque preserves some very beautiful Arabic wood carvings from the mid-Qing Dynasty, which were likely carved during the renovations in the Qianlong era.
+
+![image](https://files.catbox.moe/ap66s4.jpg)
+
+![image](https://files.catbox.moe/rnnnxi.jpg)
+
+![image](https://files.catbox.moe/9q9vk9.jpg)
+
+![image](https://files.catbox.moe/rto8xp.jpg)
+
+![image](https://files.catbox.moe/0vg8wk.jpg)
+
+![image](https://files.catbox.moe/56i4b8.jpg)
+
+![image](https://files.catbox.moe/f1do11.jpg)
+
+![image](https://files.catbox.moe/xggzow.jpg)
+
+The Henan friends (dosti) who moved to Jiaxing in the 20th century also brought the Henan tradition of women's religious education. Jiaxing's women's religious education began in 1942, with Yang Huizhen serving as the first head teacher (jiaozhang). In 1946, Yang Huizhen founded the Jiaxing Islamic Care Home to provide shelter for the elderly, weak, women, and children.
+
+![image](https://files.catbox.moe/5kzsgj.jpg)
+
+![image](https://files.catbox.moe/jzyecu.jpg)
+
+![image](https://files.catbox.moe/l0bf7u.jpg)
+
+![image](https://files.catbox.moe/3yw0eg.jpg)
+
+Jiaxing Hui Muslims love martial arts, so they formed the Jiaxing Hui Muslim Martial Arts Team in 1980, led by Han Haihua of the Han family. There is still a martial arts school run by Han Maosen at the mosque entrance today.
+
+![image](https://files.catbox.moe/4c2vf0.jpg)
+
+When I first visited Jiaxing in 2017, there were many snack shops at the mosque entrance, and I even ate a beef rice dumpling (niurou zong). However, the area was cleared out in 2019, and there are far fewer snack shops now.
+
+![image](https://files.catbox.moe/uetjb8.jpg)
+
+![image](https://files.catbox.moe/954do4.jpg)
+
+Among the Hui Muslims who moved south from Henan to Jiaxing during the late Qing Dynasty and the Republic of China, half belonged to the Han family from Zhecheng, Shangqiu, Henan, known as the Great Han Family. The Han surname Hui Muslims in Zhecheng are said to be the Salar Hans who moved from Xunhua, Qinghai, in the late Yuan Dynasty. Their ancestor was originally named Shamuhan, and they later took the last syllable to change their surname to Han. In 1404 (the second year of the Yongle reign of the Ming Dynasty), the Han family moved to Yucheng, Shandong, and later a branch led by Han Yuanchen moved to Zhecheng, Henan, to settle down.
+
+To this day, many Hui Muslims with the surname Han still live near the Jiaxing mosque. Han Haili's family, located on Xiuzhou Road behind the mosque, moved to Jiaxing in 1938 when Henan fell. They have made a living selling Hui Muslim snacks for nearly 90 years, making them a famous old Jiaxing brand. When I came to Jiaxing in 2017, their shop was quite simple, but this time it has been renovated to look very refined, and they serve full meals to snacks. We ordered pan-fried dumplings (jianjiao), beef offal vermicelli pot (niuza fensi bao), fried fish noodles (baoyu mian), and crispy sesame flatbread (xiangsu bing). The beef offal pot arrived at the table bubbling and was very comforting, perfect for winter. The crispy sesame flatbread is very popular with children, and it is convenient to buy a few to take along when visiting the nearby ancient town.
+
+![image](https://files.catbox.moe/lukxx8.jpg)
+
+![image](https://files.catbox.moe/rpqoac.jpg)
+
+![image](https://files.catbox.moe/0j4wos.jpg)
+
+![image](https://files.catbox.moe/wtyitx.jpg)
+
+![image](https://files.catbox.moe/06tedo.jpg)
+
+![image](https://files.catbox.moe/w7r2w4.jpg)
+
+![image](https://files.catbox.moe/1mxgxe.jpg)
+
+![image](https://files.catbox.moe/bbekc5.jpg)
+
+![image](https://files.catbox.moe/xlofqf.jpg)
+
+The old city of Jiaxing is home to many Hui Muslim snack shops, including Haiqin's Deli, Henan Snack Shop, Guo's Beef Pan-fried Buns, Yudong Heritage Whole Lamb Restaurant, Pan-fried Bun and Beef Soup Shop, and Alin's Pan-fried Dumpling Shop. You don't have to worry about finding food when traveling in the old city of Jiaxing.
+
+![image](https://files.catbox.moe/vbb1be.jpg)
+
+![image](https://files.catbox.moe/si0p71.jpg)
+
+![image](https://files.catbox.moe/njtyj1.jpg)
+
+![image](https://files.catbox.moe/t0nwmf.jpg)
+
+![image](https://files.catbox.moe/nn8gb0.jpg)
+
+![image](https://files.catbox.moe/03n7n0.jpg)
+
+![image](https://files.catbox.moe/1186pl.jpg)
+
+![image](https://files.catbox.moe/fzigi3.jpg)
+
+![image](https://files.catbox.moe/z6k2ak.jpg)
+
+In the evening, we had dinner at Jingyage on Xiuzhou Road near the Jiaxing mosque. This place is also run by Henan friends, and they specialize in lamb soup and flatbread (yangtang shaobing), though I think the flatbread is only truly fragrant when made fresh in the morning. We ordered lamb soup braised noodles (yangtang huimian), stacked meat (duozi rou), and osmanthus beef tenderloin (guihua niuliu). The braised noodles and stacked meat both had a very authentic Henan taste and were very comforting to eat. The osmanthus dish is actually stir-fried eggs. Eating the beef tenderloin and stir-fried eggs wrapped in lotus leaf buns (heye bing) is very suitable for the tastes of Northerners, and our whole family thought it was delicious.
+
+![image](https://files.catbox.moe/pwi83t.jpg)
+
+![image](https://files.catbox.moe/bilo6g.jpg)
+
+![image](https://files.catbox.moe/mzluh5.jpg)
+
+![image](https://files.catbox.moe/i55uab.jpg)
+
+![image](https://files.catbox.moe/80cc99.jpg)
+
+![image](https://files.catbox.moe/heg3wo.jpg)
+
+![image](https://files.catbox.moe/z3m2yx.jpg)
+
+![image](https://files.catbox.moe/swk0u4.jpg)
+
+![image](https://files.catbox.moe/i5e6y7.jpg)
+
+The most worth-eating Hui Muslim restaurant in Jiaxing is undoubtedly Siruchun on Yuehe Street. Siruchun has a history of over 100 years and is now listed as a Jiaxing intangible cultural heritage for its "Hui Muslim pan-fried bun and dumpling making technique."
+
+Siruchun was founded in 1919 by a Hui Muslim from Henan named Bai Tisheng. It first opened inside the East Gate near the Jiaxing Mosque. At that time, Bai Tisheng mainly sold soy-sauce beef (jiang niurou), beef and lamb steamed buns (baozi), and pan-fried pancakes (jianbing). Because the buns were the most popular, the shop was also called the Bai Family Buns of the East Gate. When the Japanese army occupied Jiaxing in December 1937, the East Gate was destroyed by artillery fire, and the Bai family fled to the countryside for safety. After the fighting calmed down at the end of 1938, Bai Tisheng opened the Siruchun Stir-fry Restaurant at the street corner near Xuangong Bridge. Later, it became one of the most famous Hui Muslim stir-fry restaurants in Jiaxing, alongside Chunhuayuan and Yuxinglou.
+
+During the public-private partnership period in the 1950s, Siruchun merged with several other Hui Muslim snack shops. It stopped selling stir-fried dishes and only served beef noodles and pan-fried pancakes. In 1969, Changshuitang was widened and Xuangong Bridge was demolished, causing Siruchun to disappear.
+
+After the 1990s, the three-story YSL Garden Hotel opened near Zhongshan Bridge in Jiaxing. Many of the veteran chefs and their apprentices from the old Chunhuayuan and Siruchun returned to work there, making the Garden Hotel the go-to spot for authentic Hui Muslim stir-fry in Jiaxing at the time. In 1998, the Garden Hotel was demolished for the construction of the city moat green belt. That same year, the Hui Muslim restaurant Chunhuayuan on Jianguo Road was also torn down, leaving Jiaxing's Hui Muslim dining scene in a difficult spot.
+
+In 2008, Bai Tisheng's descendant, Bai Qingmin, and his children reopened the Bai Family Bun Shop on Yuehe Street. The chefs and bun makers who had worked at Chunhuayuan and the Garden Hotel came to help, some of whom were already over seventy years old. In 2012, the Bai family continued by restoring the Siruchun Stir-fry Restaurant, which became the most famous time-honored Hui Muslim brand in Jiaxing.
+
+When I visited Siruchun in 2017, I ate fruit soup (shuiguo yuanzi geng), crab roe tofu (xiehuang doufu), Indian aster greens (malantou), and Bai family fried fish (baojia baoyu). This time, I ordered beef strips with pickled mustard greens and edamame (xuecai maodou niurousi), stir-fried eggs with silverfish (yinyu chaodan), soy-sauce duck (jiangya), braised gluten (suji), and Indian aster greens. If you want to eat traditional Jiaxing Hui Muslim cuisine, this is the right place to come. Our favorite dish is the beef strips with pickled mustard greens and edamame. It is cooked very lightly, and both adults and children love it. Stir-fried eggs with silverfish is also a specialty of the Jiangsu, Zhejiang, and Shanghai regions, and it is very nutritious. The soy-sauce duck is a bit cold to eat in winter, so I heated it up in the shop's microwave. Since the other dishes are quite light, the soy-sauce duck helps balance the meal. I have always loved braised gluten, and it is hard to find it this good in the north. I really liked the Indian aster greens last time I ate them because they are so fresh and crisp. I recommended them to my family this time, and they all liked them too.
+
+Because the shop is on Yuehe Street, the foot traffic is very high, and the service can't always keep up. This is understandable, and even though there are many people eating, the food still comes out quickly.
+
+![image](https://files.catbox.moe/mtddqq.jpg)
+
+![image](https://files.catbox.moe/91lrwm.jpg)
+
+![image](https://files.catbox.moe/6r4s6k.jpg)
+
+![image](https://files.catbox.moe/qltk9o.jpg)
+
+![image](https://files.catbox.moe/jyuj0a.jpg)
+
+![image](https://files.catbox.moe/2lr5oh.jpg)
+
+![image](https://files.catbox.moe/fqq6ut.jpg)
+
+![image](https://files.catbox.moe/wld5bc.jpg)
+
+![image](https://files.catbox.moe/4a1kby.jpg)
+
+There are two other unique Hui Muslim restaurants in Jiaxing: one is a Jiangxi home-style restaurant run by Hui Muslims from Xi'an, and the other is a Northeast-style iron pot stew. If any friends (dosti) want to try a different flavor, they can check those out. We actually really wanted to try the Jiangxi home-style food, but we gave up because we had children with us and couldn't eat spicy food.
+
+![image](https://files.catbox.moe/ziyexn.jpg)
+
+![image](https://files.catbox.moe/08ehmi.jpg)

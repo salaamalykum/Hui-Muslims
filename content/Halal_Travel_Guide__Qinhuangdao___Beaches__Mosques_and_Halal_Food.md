@@ -14,4 +14,216 @@ layout: "article"
 
 # Halal Travel Guide: Qinhuangdao - Beaches, Mosques and Halal Food
 
-**Reposted from the web**\n\n**Summary:** Qinhuangdao is presented through a family beach weekend, the Haigang mosque neighborhood, and several halal restaurants on Minzu Road. This account keeps the original notes on beach activities, mosque history, seafood dishes, dumplings, shaomai, and photos.\n\nOur whole family went to Qinhuangdao to see the sea for the weekend. We chose an apartment at Jinmeng Bay First View in the Haigang District. It was a two-story sea-view apartment with two 1.8-meter double beds. Since May isn't peak season, it only cost a little over 200 yuan per night. The beach is right outside the apartment complex, which is very convenient. The apartment is a ten-minute taxi ride from Haigang Mosque and Minzu Road. It is easy to get around because ride-hailing apps pick up requests almost instantly.\n\nYou cannot swim in the sea in Qinhuangdao in May. It was windy and a bit chilly on Saturday, but the temperature was perfect on Sunday once the wind stopped.\n\n![image](https://files.catbox.moe/dz35sc.jpg)\n\n![image](https://files.catbox.moe/h2c8y6.jpg)\n\n![image](https://files.catbox.moe/a3k9pa.jpg)\n\n![image](https://files.catbox.moe/2c6i63.jpg)\n\nJinmeng Bay is not very crowded and the environment is quite nice. In the morning, many families come here to explore the beach. Suleiman played in the sand for a while, but he liked the various activities even more. There are seven or eight types of activities for children here. There are also beach motorbikes and speedboats, but we didn't let him try those. Suleiman tried five activities: the excavator, the four-wheeled electric car, the beach tank, the single-person beach car, and the water tricycle. He really liked the water tricycle because he could sit in the middle and steer. We bargained the price down to 150 yuan for half an hour, which was just the right amount of exercise. There is also a beach crawler that looks like an electric wheelchair. Suleiman loved it because it is very simple to operate—you just move a knob to go forward, backward, left, or right.\n\n![image](https://files.catbox.moe/2peteh.jpg)\n\n![image](https://files.catbox.moe/3h2qjx.jpg)\n\n![image](https://files.catbox.moe/qqgtgd.jpg)\n\n![image](https://files.catbox.moe/qff8o3.jpg)\n\n![image](https://files.catbox.moe/w0y88t.jpg)\n\n![image](https://files.catbox.moe/7jy8y4.jpg)\n\nQinhuangdao opened as a port in 1898 and was the only sovereign port on the Chinese coast at that time. A small pier was built at Qinhuangdao Port in 1902. In 1916, the Jin-Yu Railway was extended to the pier, and most of the Kailuan coal was exported from here. After that, people gradually settled in the area, and trade began to flourish.\n\nAfter Qinhuangdao Port opened, Hui Muslims began to move here. In 1905, Hong Guan-ting, a Hui Muslim from Jing'an Town in Changli County, Qinhuangdao, moved his whole family to the port to sell beef and mutton. Later, three other families—Ma Mingqi, Wang Heqian, and Ma Jingting—moved here from Shanhaiguan and Qian'an. The four families then joined together to open the Sihecheng beef and mutton shop. In 1922, Hong Guan-ting, Ma Jingting, Wang Yue, Wang Heqian, and others raised money to buy a house and establish the first Qinwangdao Mosque. It was officially completed in 1928 and later renamed Qinhuangdao Mosque and then Haigang District Mosque.\n\nIn 1985, China established a joint venture with Kuwait and Tunisia in Qinhuangdao called the Sino-Arab Chemical Fertilizer Company. The Tunisian general manager and Kuwaiti vice chairman of the company often visited Haigang District Mosque, so they applied for funds from the Kuwait International Islamic Charitable Foundation to rebuild it. The project was completed in 1987.\n\n![image](https://files.catbox.moe/zxnp9n.jpg)\n\n![image](https://files.catbox.moe/4y68oz.jpg)\n\n![image](https://files.catbox.moe/kpduzz.jpg)\n\n![image](https://files.catbox.moe/uki07l.jpg)\n\n![image](https://files.catbox.moe/sktsjs.jpg)\n\n![image](https://files.catbox.moe/2aaatl.jpg)\n\n![image](https://files.catbox.moe/r5c1sq.jpg)\n\n![image](https://files.catbox.moe/xbxhxr.jpg)\n\n![image](https://files.catbox.moe/xql7n7.jpg)\n\nThe storefronts north of Haigang Mosque form a food street with lamb soup shops (yangtang guan), sesame flatbread shops (shaobing pu), beef and mutton shops, and smoked chicken shops. The food street was originally called Hongyili, where the Hong family courtyard once stood. Later, Hong Guan-ping tore down part of his courtyard wall to make way for a road, which is how the name Hongyili came to be. Today, you can see signs like Hong's Fresh Beef and Mutton and Hong's Smoked Chicken on the food street. The surname Hong is still a major family name in the Haigang District mosque community.\n\nThe two most popular spots on the food street are Zhenhua Soup Shop and Ma's Sesame Flatbread Shop. In the morning, we had the head meat and tripe soup with egg drop at Zhenhua Soup Shop. When they scoop the soup, you can tell the lady not to add MSG and only use sesame oil. You can add white pepper at the window, and there is salt and chili on the table. If you don't add any seasonings, you can taste the pure freshness of the lamb soup. Children really like it too. I personally recommend drinking a few sips without any seasoning first, then adding salt, and finally adding chili after a few more sips so you can taste all the different flavors.\n\nYou can pair the lamb bone broth (yangtang) with their freshly fried dough (zhabing). These are much thinner than the fried dough (youbing) in Beijing, but softer than the crispy thin crackers (baocui). The texture is somewhere between the two. They cut them up for you by default, so you can eat them plain or tear them into pieces to soak in the broth. Besides the fried dough, you can also buy sesame flatbread (shaobing) from the Ma family shop next door to go with your broth. The flatbread comes in sweet and savory versions. The savory sesame flatbread is the most popular. It usually sells out as soon as it comes out of the oven, so you have to wait in line for the next batch. This means you are guaranteed to get them hot and fresh.\n\n![image](https://files.catbox.moe/r73s0g.jpg)\n\n![image](https://files.catbox.moe/a7yuz1.jpg)\n\n![image](https://files.catbox.moe/5rkovd.jpg)\n\n![image](https://files.catbox.moe/z7va84.jpg)\n\n![image](https://files.catbox.moe/wlg69h.jpg)\n\n![image](https://files.catbox.moe/gv4dha.jpg)\n\n![image](https://files.catbox.moe/bsf4mq.jpg)\n\n![image](https://files.catbox.moe/vi13tu.jpg)\n\n![image](https://files.catbox.moe/veu3kf.jpg)\n\n![image](https://files.catbox.moe/5kd56p.jpg)\n\n![image](https://files.catbox.moe/fd3bp3.jpg)\n\n![image](https://files.catbox.moe/9y073v.jpg)\n\n![image](https://files.catbox.moe/w5wjaf.jpg)\n\n![image](https://files.catbox.moe/rrwml3.jpg)\n\nWe bought sugar-free mung bean cakes (lvdougao) and sweet and savory thousand-layer pastries (qiancengsu) at Yiming Foods. They were perfect to snack on while playing on the beach.\n\n![image](https://files.catbox.moe/mhjota.jpg)\n\n![image](https://files.catbox.moe/azofcd.jpg)\n\n![image](https://files.catbox.moe/o7enks.jpg)\n\n![image](https://files.catbox.moe/dytdea.jpg)\n\nBesides the food street, there is also a Jingjiangshi Steamed Bun Shop (dabao fang) next to the Haigang Mosque. If you visit Qinhuangdao for a two-day weekend, you can have lamb bone broth for breakfast one day and steamed buns with porridge the next.\n\nTheir specialty is the savory meat-filled steamed bun (jiangrou bao). We arrived after nine, so they were already out of some varieties. We ordered mushroom and meat-filled buns and pickled cabbage and beef-filled buns, plus a red bean paste bun (dousha bao) for our son. The meat-filled buns are made with beef that has been stewed in sauce beforehand. I think this makes them very flavorful. Everyone really liked the pickled cabbage-filled buns. Eating a little pickled cabbage in the morning is great for the appetite. Suleiman has always loved red bean paste buns, just like I did when I was a kid.\n\nThey serve hot drinks like soy milk, millet porridge, and tofu pudding (doufunao). You add your own seasonings to the tofu pudding, including chive flower sauce, garlic juice, chili oil, and sesame paste. I think it goes perfectly with the buns.\n\n![image](https://files.catbox.moe/go312u.jpg)\n\n![image](https://files.catbox.moe/bpqcxt.jpg)\n\n![image](https://files.catbox.moe/c60gw0.jpg)\n\n![image](https://files.catbox.moe/smcjpg.jpg)\n\n![image](https://files.catbox.moe/hyx6hw.jpg)\n\n![image](https://files.catbox.moe/s3gppi.jpg)\n\n![image](https://files.catbox.moe/5cg1bu.jpg)\n\n![image](https://files.catbox.moe/cu17cv.jpg)\n\n![image](https://files.catbox.moe/kdeht3.jpg)\n\nWe took the 6:00 PM train from Beijing Station on Friday and arrived at Qinhuangdao Station at 7:40 PM. To avoid the taxi line, we took a few stops on the bus and then grabbed a taxi straight to Qingzhenfang Meat Hot Pot (hunguo) on Youyi Road to try this local Qinhuangdao specialty.\n\nI had heard that the Qinhuangdao meat hot pot was famous, but we usually traveled as a pair, and we could never finish a whole pot. This time, four adults came to Qinhuangdao together, so we were finally able to order a small portion.\n\nWhen the meat hot pot arrived, it was layered three levels high. The top layer had beef, beef tongue, and starch jelly (mengzi). The middle layer had chicken and meatballs, and the bottom was filled with pickled cabbage and kelp. To eat it, you first take the top layer off and put it on a plate, then start eating the meatballs and chicken. They put a large pot of meat broth next to you. You have to add broth as you eat because the liquid in the pot disappears quickly. If you add it too slowly, the vegetables at the bottom will burn.\n\nAfter eating some of the chicken and meatballs, you put the beef tongue, starch jelly, and beef back into the pot to eat with the broth. By the end, you are left with the pickled cabbage and kelp, which we thought were also delicious. The pickled cabbage is very appetizing. Even though it was a small pot, all four of us were full by the end.\n\n![image](https://files.catbox.moe/6wck75.jpg)\n\n![image](https://files.catbox.moe/zqtjn7.jpg)\n\n![image](https://files.catbox.moe/xygwrw.jpg)\n\n![image](https://files.catbox.moe/a8uem7.jpg)\n\n![image](https://files.catbox.moe/0ys1rn.jpg)\n\n![image](https://files.catbox.moe/glpd25.jpg)\n\nOn Saturday, we had lunch at Fenghuanglou, a famous restaurant in Qinhuangdao. We ate at their Shanhaiguan branch before, but this time we visited the Hebei Avenue branch in the Haigang District.\n\nThe blue banner (lanhuang) at their entrance is very traditional. In the past, a soup pot sign and a blue banner were essential for restaurants run by Hui Muslims. They had to hang the blue banner when opening and take it down when closing each day. Some people now call a blue sign a blue banner, but that is incorrect. A real blue banner is a wooden hoop covered with blue paper strips. The 1936 series 'Muslim Restaurants in Beiping' in the Zhenzong Monthly Magazine described this in detail.\n\nThey serve traditional Hui Muslim dishes, barbecue, and seafood. We ordered twice-cooked beef (huishao niurou), stewed tofu with fresh shrimp and loofah, steamed flounder, shrimp with garlic and vermicelli, pan-fried dumplings (guotie) with shrimp and three vegetarian ingredients, and spicy stir-fried yellow clams. Twice-cooked beef is a specialty of Hui Muslims in Qinhuangdao. The outside is coated like sweet and sour pork (guobaorou), while the inside contains chunks of stewed meat. It goes perfectly with rice. Their fish and shrimp are very fresh, and everyone really enjoyed the shrimp. The pan-fried dumplings with shrimp and three vegetarian ingredients are also a specialty. If you do not want rice, just order these dumplings as your main dish.\n\nThe restaurant has a nice atmosphere with large windows that let in comfortable sunlight.\n\n![image](https://files.catbox.moe/0ung6l.jpg)\n\n![image](https://files.catbox.moe/w7osri.jpg)\n\n![image](https://files.catbox.moe/7j0n6z.jpg)\n\n![image](https://files.catbox.moe/6hovpu.jpg)\n\n![image](https://files.catbox.moe/dtpu8c.jpg)\n\n![image](https://files.catbox.moe/ru8net.jpg)\n\n![image](https://files.catbox.moe/bnrp9h.jpg)\n\n![image](https://files.catbox.moe/srruzu.jpg)\n\n![image](https://files.catbox.moe/xnjd4b.jpg)\n\n![image](https://files.catbox.moe/z7txle.jpg)\n\n![image](https://files.catbox.moe/stmgvs.jpg)\n\nOn Saturday night, I went to the famous Muchunyuan soup dumpling (guantangbao) shop in the Haigang District of Qinhuangdao. I ordered their signature sea cucumber and shrimp soup dumplings, lamb and cucumber soup dumplings, a mixed seafood stir-fry (quanbao), stir-fried bok choy with wood ear mushrooms and tofu skin, grilled squid, and sesame sweet potato. These halal restaurants in Qinhuangdao really have huge menus.\n\nYou must take a small bite of the soup dumpling first to sip the broth, or it will definitely squirt onto your clothes. I prefer the lamb and cucumber filling because the diced cucumber makes it taste very fresh. The mixed seafood stir-fry is a big, fragrant plate of various seafood cooked quickly over high heat. The grilled squid is spicy and savory, and the texture is quite good. The sesame sweet potato has a sugary crust that is slightly stringy, and the yellow-fleshed sweet potato inside is very fragrant; children especially love it.\n\n![image](https://files.catbox.moe/ke0w7e.jpg)\n\n![image](https://files.catbox.moe/t703mx.jpg)\n\n![image](https://files.catbox.moe/m39rnr.jpg)\n\n![image](https://files.catbox.moe/05i4uj.jpg)\n\n![image](https://files.catbox.moe/hiq9ck.jpg)\n\n![image](https://files.catbox.moe/c4tlzx.jpg)\n\n![image](https://files.catbox.moe/71hhnc.jpg)\n\n![image](https://files.catbox.moe/0cpupy.jpg)\n\n![image](https://files.catbox.moe/6oplc9.jpg)\n\nBesides the soup dumplings (guantangbao), the steamed dumpling (shaomai) shop on Minzu Road in Qinhuangdao is also very famous. There were a lot of people when we arrived just after twelve, but we managed to find an empty table. We ordered steamed dumplings (shaomai) with lamb and fennel filling, and others with a six-ingredient filling of winter bamboo shoots, carrots, wood ear mushrooms, vermicelli, and eggs. One steamer holds 20 dumplings weighing half a jin, but you can also order a smaller portion of three liang. The steamed dumplings (shaomai) are not as oily as the ones in Inner Mongolia. Both the meat and vegetable versions are light and fresh, and kids really enjoy them. We also ordered braised mixed sea fish (jiangmen haizayu) and spinach starch noodles (bocai fengezi). The fish took a little longer to arrive, but it was braised until very flavorful. I really like steamed dumplings (shaomai) with seafood. I often ate them this way back when I was in Shanhaiguan.\n\n![image](https://files.catbox.moe/skdjj3.jpg)\n\n![image](https://files.catbox.moe/82ikpo.jpg)\n\n![image](https://files.catbox.moe/41cqkb.jpg)\n\n![image](https://files.catbox.moe/hb5t23.jpg)\n\n![image](https://files.catbox.moe/uccrhy.jpg)\n\n![image](https://files.catbox.moe/3dnvfc.jpg)\n\n![image](https://files.catbox.moe/hq40wn.jpg)\n\n![image](https://files.catbox.moe/ninj6a.jpg)\n\n![image](https://files.catbox.moe/lifw06.jpg)
+**Reposted from the web**
+
+**Summary:** Qinhuangdao is presented through a family beach weekend, the Haigang mosque neighborhood, and several halal restaurants on Minzu Road. This account keeps the original notes on beach activities, mosque history, seafood dishes, dumplings, shaomai, and photos.
+
+Our whole family went to Qinhuangdao to see the sea for the weekend. We chose an apartment at Jinmeng Bay First View in the Haigang District. It was a two-story sea-view apartment with two 1.8-meter double beds. Since May isn't peak season, it only cost a little over 200 yuan per night. The beach is right outside the apartment complex, which is very convenient. The apartment is a ten-minute taxi ride from Haigang Mosque and Minzu Road. It is easy to get around because ride-hailing apps pick up requests almost instantly.
+
+You cannot swim in the sea in Qinhuangdao in May. It was windy and a bit chilly on Saturday, but the temperature was perfect on Sunday once the wind stopped.
+
+![image](https://files.catbox.moe/dz35sc.jpg)
+
+![image](https://files.catbox.moe/h2c8y6.jpg)
+
+![image](https://files.catbox.moe/a3k9pa.jpg)
+
+![image](https://files.catbox.moe/2c6i63.jpg)
+
+Jinmeng Bay is not very crowded and the environment is quite nice. In the morning, many families come here to explore the beach. Suleiman played in the sand for a while, but he liked the various activities even more. There are seven or eight types of activities for children here. There are also beach motorbikes and speedboats, but we didn't let him try those. Suleiman tried five activities: the excavator, the four-wheeled electric car, the beach tank, the single-person beach car, and the water tricycle. He really liked the water tricycle because he could sit in the middle and steer. We bargained the price down to 150 yuan for half an hour, which was just the right amount of exercise. There is also a beach crawler that looks like an electric wheelchair. Suleiman loved it because it is very simple to operate—you just move a knob to go forward, backward, left, or right.
+
+![image](https://files.catbox.moe/2peteh.jpg)
+
+![image](https://files.catbox.moe/3h2qjx.jpg)
+
+![image](https://files.catbox.moe/qqgtgd.jpg)
+
+![image](https://files.catbox.moe/qff8o3.jpg)
+
+![image](https://files.catbox.moe/w0y88t.jpg)
+
+![image](https://files.catbox.moe/7jy8y4.jpg)
+
+Qinhuangdao opened as a port in 1898 and was the only sovereign port on the Chinese coast at that time. A small pier was built at Qinhuangdao Port in 1902. In 1916, the Jin-Yu Railway was extended to the pier, and most of the Kailuan coal was exported from here. After that, people gradually settled in the area, and trade began to flourish.
+
+After Qinhuangdao Port opened, Hui Muslims began to move here. In 1905, Hong Guan-ting, a Hui Muslim from Jing'an Town in Changli County, Qinhuangdao, moved his whole family to the port to sell beef and mutton. Later, three other families—Ma Mingqi, Wang Heqian, and Ma Jingting—moved here from Shanhaiguan and Qian'an. The four families then joined together to open the Sihecheng beef and mutton shop. In 1922, Hong Guan-ting, Ma Jingting, Wang Yue, Wang Heqian, and others raised money to buy a house and establish the first Qinwangdao Mosque. It was officially completed in 1928 and later renamed Qinhuangdao Mosque and then Haigang District Mosque.
+
+In 1985, China established a joint venture with Kuwait and Tunisia in Qinhuangdao called the Sino-Arab Chemical Fertilizer Company. The Tunisian general manager and Kuwaiti vice chairman of the company often visited Haigang District Mosque, so they applied for funds from the Kuwait International Islamic Charitable Foundation to rebuild it. The project was completed in 1987.
+
+![image](https://files.catbox.moe/zxnp9n.jpg)
+
+![image](https://files.catbox.moe/4y68oz.jpg)
+
+![image](https://files.catbox.moe/kpduzz.jpg)
+
+![image](https://files.catbox.moe/uki07l.jpg)
+
+![image](https://files.catbox.moe/sktsjs.jpg)
+
+![image](https://files.catbox.moe/2aaatl.jpg)
+
+![image](https://files.catbox.moe/r5c1sq.jpg)
+
+![image](https://files.catbox.moe/xbxhxr.jpg)
+
+![image](https://files.catbox.moe/xql7n7.jpg)
+
+The storefronts north of Haigang Mosque form a food street with lamb soup shops (yangtang guan), sesame flatbread shops (shaobing pu), beef and mutton shops, and smoked chicken shops. The food street was originally called Hongyili, where the Hong family courtyard once stood. Later, Hong Guan-ping tore down part of his courtyard wall to make way for a road, which is how the name Hongyili came to be. Today, you can see signs like Hong's Fresh Beef and Mutton and Hong's Smoked Chicken on the food street. The surname Hong is still a major family name in the Haigang District mosque community.
+
+The two most popular spots on the food street are Zhenhua Soup Shop and Ma's Sesame Flatbread Shop. In the morning, we had the head meat and tripe soup with egg drop at Zhenhua Soup Shop. When they scoop the soup, you can tell the lady not to add MSG and only use sesame oil. You can add white pepper at the window, and there is salt and chili on the table. If you don't add any seasonings, you can taste the pure freshness of the lamb soup. Children really like it too. I personally recommend drinking a few sips without any seasoning first, then adding salt, and finally adding chili after a few more sips so you can taste all the different flavors.
+
+You can pair the lamb bone broth (yangtang) with their freshly fried dough (zhabing). These are much thinner than the fried dough (youbing) in Beijing, but softer than the crispy thin crackers (baocui). The texture is somewhere between the two. They cut them up for you by default, so you can eat them plain or tear them into pieces to soak in the broth. Besides the fried dough, you can also buy sesame flatbread (shaobing) from the Ma family shop next door to go with your broth. The flatbread comes in sweet and savory versions. The savory sesame flatbread is the most popular. It usually sells out as soon as it comes out of the oven, so you have to wait in line for the next batch. This means you are guaranteed to get them hot and fresh.
+
+![image](https://files.catbox.moe/r73s0g.jpg)
+
+![image](https://files.catbox.moe/a7yuz1.jpg)
+
+![image](https://files.catbox.moe/5rkovd.jpg)
+
+![image](https://files.catbox.moe/z7va84.jpg)
+
+![image](https://files.catbox.moe/wlg69h.jpg)
+
+![image](https://files.catbox.moe/gv4dha.jpg)
+
+![image](https://files.catbox.moe/bsf4mq.jpg)
+
+![image](https://files.catbox.moe/vi13tu.jpg)
+
+![image](https://files.catbox.moe/veu3kf.jpg)
+
+![image](https://files.catbox.moe/5kd56p.jpg)
+
+![image](https://files.catbox.moe/fd3bp3.jpg)
+
+![image](https://files.catbox.moe/9y073v.jpg)
+
+![image](https://files.catbox.moe/w5wjaf.jpg)
+
+![image](https://files.catbox.moe/rrwml3.jpg)
+
+We bought sugar-free mung bean cakes (lvdougao) and sweet and savory thousand-layer pastries (qiancengsu) at Yiming Foods. They were perfect to snack on while playing on the beach.
+
+![image](https://files.catbox.moe/mhjota.jpg)
+
+![image](https://files.catbox.moe/azofcd.jpg)
+
+![image](https://files.catbox.moe/o7enks.jpg)
+
+![image](https://files.catbox.moe/dytdea.jpg)
+
+Besides the food street, there is also a Jingjiangshi Steamed Bun Shop (dabao fang) next to the Haigang Mosque. If you visit Qinhuangdao for a two-day weekend, you can have lamb bone broth for breakfast one day and steamed buns with porridge the next.
+
+Their specialty is the savory meat-filled steamed bun (jiangrou bao). We arrived after nine, so they were already out of some varieties. We ordered mushroom and meat-filled buns and pickled cabbage and beef-filled buns, plus a red bean paste bun (dousha bao) for our son. The meat-filled buns are made with beef that has been stewed in sauce beforehand. I think this makes them very flavorful. Everyone really liked the pickled cabbage-filled buns. Eating a little pickled cabbage in the morning is great for the appetite. Suleiman has always loved red bean paste buns, just like I did when I was a kid.
+
+They serve hot drinks like soy milk, millet porridge, and tofu pudding (doufunao). You add your own seasonings to the tofu pudding, including chive flower sauce, garlic juice, chili oil, and sesame paste. I think it goes perfectly with the buns.
+
+![image](https://files.catbox.moe/go312u.jpg)
+
+![image](https://files.catbox.moe/bpqcxt.jpg)
+
+![image](https://files.catbox.moe/c60gw0.jpg)
+
+![image](https://files.catbox.moe/smcjpg.jpg)
+
+![image](https://files.catbox.moe/hyx6hw.jpg)
+
+![image](https://files.catbox.moe/s3gppi.jpg)
+
+![image](https://files.catbox.moe/5cg1bu.jpg)
+
+![image](https://files.catbox.moe/cu17cv.jpg)
+
+![image](https://files.catbox.moe/kdeht3.jpg)
+
+We took the 6:00 PM train from Beijing Station on Friday and arrived at Qinhuangdao Station at 7:40 PM. To avoid the taxi line, we took a few stops on the bus and then grabbed a taxi straight to Qingzhenfang Meat Hot Pot (hunguo) on Youyi Road to try this local Qinhuangdao specialty.
+
+I had heard that the Qinhuangdao meat hot pot was famous, but we usually traveled as a pair, and we could never finish a whole pot. This time, four adults came to Qinhuangdao together, so we were finally able to order a small portion.
+
+When the meat hot pot arrived, it was layered three levels high. The top layer had beef, beef tongue, and starch jelly (mengzi). The middle layer had chicken and meatballs, and the bottom was filled with pickled cabbage and kelp. To eat it, you first take the top layer off and put it on a plate, then start eating the meatballs and chicken. They put a large pot of meat broth next to you. You have to add broth as you eat because the liquid in the pot disappears quickly. If you add it too slowly, the vegetables at the bottom will burn.
+
+After eating some of the chicken and meatballs, you put the beef tongue, starch jelly, and beef back into the pot to eat with the broth. By the end, you are left with the pickled cabbage and kelp, which we thought were also delicious. The pickled cabbage is very appetizing. Even though it was a small pot, all four of us were full by the end.
+
+![image](https://files.catbox.moe/6wck75.jpg)
+
+![image](https://files.catbox.moe/zqtjn7.jpg)
+
+![image](https://files.catbox.moe/xygwrw.jpg)
+
+![image](https://files.catbox.moe/a8uem7.jpg)
+
+![image](https://files.catbox.moe/0ys1rn.jpg)
+
+![image](https://files.catbox.moe/glpd25.jpg)
+
+On Saturday, we had lunch at Fenghuanglou, a famous restaurant in Qinhuangdao. We ate at their Shanhaiguan branch before, but this time we visited the Hebei Avenue branch in the Haigang District.
+
+The blue banner (lanhuang) at their entrance is very traditional. In the past, a soup pot sign and a blue banner were essential for restaurants run by Hui Muslims. They had to hang the blue banner when opening and take it down when closing each day. Some people now call a blue sign a blue banner, but that is incorrect. A real blue banner is a wooden hoop covered with blue paper strips. The 1936 series 'Muslim Restaurants in Beiping' in the Zhenzong Monthly Magazine described this in detail.
+
+They serve traditional Hui Muslim dishes, barbecue, and seafood. We ordered twice-cooked beef (huishao niurou), stewed tofu with fresh shrimp and loofah, steamed flounder, shrimp with garlic and vermicelli, pan-fried dumplings (guotie) with shrimp and three vegetarian ingredients, and spicy stir-fried yellow clams. Twice-cooked beef is a specialty of Hui Muslims in Qinhuangdao. The outside is coated like sweet and sour pork (guobaorou), while the inside contains chunks of stewed meat. It goes perfectly with rice. Their fish and shrimp are very fresh, and everyone really enjoyed the shrimp. The pan-fried dumplings with shrimp and three vegetarian ingredients are also a specialty. If you do not want rice, just order these dumplings as your main dish.
+
+The restaurant has a nice atmosphere with large windows that let in comfortable sunlight.
+
+![image](https://files.catbox.moe/0ung6l.jpg)
+
+![image](https://files.catbox.moe/w7osri.jpg)
+
+![image](https://files.catbox.moe/7j0n6z.jpg)
+
+![image](https://files.catbox.moe/6hovpu.jpg)
+
+![image](https://files.catbox.moe/dtpu8c.jpg)
+
+![image](https://files.catbox.moe/ru8net.jpg)
+
+![image](https://files.catbox.moe/bnrp9h.jpg)
+
+![image](https://files.catbox.moe/srruzu.jpg)
+
+![image](https://files.catbox.moe/xnjd4b.jpg)
+
+![image](https://files.catbox.moe/z7txle.jpg)
+
+![image](https://files.catbox.moe/stmgvs.jpg)
+
+On Saturday night, I went to the famous Muchunyuan soup dumpling (guantangbao) shop in the Haigang District of Qinhuangdao. I ordered their signature sea cucumber and shrimp soup dumplings, lamb and cucumber soup dumplings, a mixed seafood stir-fry (quanbao), stir-fried bok choy with wood ear mushrooms and tofu skin, grilled squid, and sesame sweet potato. These halal restaurants in Qinhuangdao really have huge menus.
+
+You must take a small bite of the soup dumpling first to sip the broth, or it will definitely squirt onto your clothes. I prefer the lamb and cucumber filling because the diced cucumber makes it taste very fresh. The mixed seafood stir-fry is a big, fragrant plate of various seafood cooked quickly over high heat. The grilled squid is spicy and savory, and the texture is quite good. The sesame sweet potato has a sugary crust that is slightly stringy, and the yellow-fleshed sweet potato inside is very fragrant; children especially love it.
+
+![image](https://files.catbox.moe/ke0w7e.jpg)
+
+![image](https://files.catbox.moe/t703mx.jpg)
+
+![image](https://files.catbox.moe/m39rnr.jpg)
+
+![image](https://files.catbox.moe/05i4uj.jpg)
+
+![image](https://files.catbox.moe/hiq9ck.jpg)
+
+![image](https://files.catbox.moe/c4tlzx.jpg)
+
+![image](https://files.catbox.moe/71hhnc.jpg)
+
+![image](https://files.catbox.moe/0cpupy.jpg)
+
+![image](https://files.catbox.moe/6oplc9.jpg)
+
+Besides the soup dumplings (guantangbao), the steamed dumpling (shaomai) shop on Minzu Road in Qinhuangdao is also very famous. There were a lot of people when we arrived just after twelve, but we managed to find an empty table. We ordered steamed dumplings (shaomai) with lamb and fennel filling, and others with a six-ingredient filling of winter bamboo shoots, carrots, wood ear mushrooms, vermicelli, and eggs. One steamer holds 20 dumplings weighing half a jin, but you can also order a smaller portion of three liang. The steamed dumplings (shaomai) are not as oily as the ones in Inner Mongolia. Both the meat and vegetable versions are light and fresh, and kids really enjoy them. We also ordered braised mixed sea fish (jiangmen haizayu) and spinach starch noodles (bocai fengezi). The fish took a little longer to arrive, but it was braised until very flavorful. I really like steamed dumplings (shaomai) with seafood. I often ate them this way back when I was in Shanhaiguan.
+
+![image](https://files.catbox.moe/skdjj3.jpg)
+
+![image](https://files.catbox.moe/82ikpo.jpg)
+
+![image](https://files.catbox.moe/41cqkb.jpg)
+
+![image](https://files.catbox.moe/hb5t23.jpg)
+
+![image](https://files.catbox.moe/uccrhy.jpg)
+
+![image](https://files.catbox.moe/3dnvfc.jpg)
+
+![image](https://files.catbox.moe/hq40wn.jpg)
+
+![image](https://files.catbox.moe/ninj6a.jpg)
+
+![image](https://files.catbox.moe/lifw06.jpg)

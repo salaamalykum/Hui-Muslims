@@ -14,4 +14,372 @@ layout: "article"
 
 # Halal Travel Guide: Nanjing Mosques - Old South City, Liuhe and Zhuzhen, Part 1
 
-**Reposted from the web**\n\n**Summary:** The first part of the Nanjing mosque journey focuses on Jingjue Mosque, Caoqiao Mosque, Taiping Road Mosque, and other historic Muslim sites in the old city. This account keeps the original mosque names, inscriptions, dates, architecture, street context, and photographs.\n\n**Jingjue Mosque.**\n\nJingjue Mosque is located on Sanshan Street in the south of Nanjing. It was originally called Sanshan Street Mosque. During the Jiajing era of the Ming Dynasty, it was given the name Jingjue Mosque, making it the first mosque in Nanjing during the Ming period.\n\nOne account says Jingjue Mosque was built in 1388 (the 21st year of the Hongwu era) by imperial order to house officials from the Western Regions who had submitted to the Ming, such as Yibulajin and Kemaluding. Another account says it was built in 1392 (the 25th year of the Hongwu era) by imperial order of Saihazhi, a seventh-generation descendant of Sayyid Ajjal Shams al-Din. Both accounts are supported by stone inscriptions from the Ming Dynasty.\n\nAccording to a 1493 (the 5th year of the Hongzhi era) inscription titled 'Record of the Two Imperial Mosques Built in the South of the City of Yingtian Prefecture in Jiangnan,' it states: 'In the 21st year of the Hongwu era, Yibulajin, Kemaluding, and others, originally from the Rumi Kingdom in the Western Regions, submitted to China along with the Duke of Song after the conquest of Jinshan and Kaiyuan... Therefore, two mosques were built to settle them, and Kemaluding and four other households were assigned to live at the Wangyue Tower Jingjue Mosque.' The family genealogies of two Hui Muslim branches with the surname Ma, known as 'Weiyitang' and 'Baojitang' in Hushu, Nanjing, both record that they are descendants of Ma Gutai and Ma Baihao, who were settled at Jingjue Mosque at that time.\n\nAccording to a 1405 (the 3rd year of the Yongle era) inscription at the Great Mosque on Huajue Lane in Xi'an, 'On the 14th day of the third month of the 25th year of the Hongwu era, Saihazhi, the seventh-generation descendant of the Prince of Xianyang Sayyid Ajjal, went to the inner court to announce the imperial decree: On that day at the Fengtian Gate, the imperial decree was received:...build two mosques in two locations, one at the copper workshop on Sanshan Street in Yingtian Prefecture, Nanjing, and one on Ziwu Lane in Chang'an County, Xi'an Prefecture, Shaanxi Province.' The 'Genealogy of the Sayyid Ajjal Family' records that Saihazhi was granted the hereditary title of Marquis of Xianning, and 'When the Ming Taizu established the capital in Jinling, he entrusted Saihazhi to build a mosque in Jinling.' After the work was finished, he built the Great Mosque in Chang'an. When the Tiemao Lane Mosque in Taicang, Jiangsu, was renovated in the 1980s, a stone tablet was found inside a wall, revealing that the Taicang mosque was also built by Saihazhi.\n\nAdditionally, according to the Republic of China era 'Zhongnan Huaibei Regional Gazetteer,' 'North of the street is Jingjue Mosque. Wu Ru, a man from the Western Regions during the Ming Dynasty, came to China to serve in the Imperial Astronomical Bureau. He lived in Nanjing and built this mosque next to his residence.' Therefore, Jingjue Mosque may have originally been part of Wu Ru's residence.\n\nJingjue Mosque was destroyed by fire in 1430 (the 5th year of the Xuande era), and Zheng He requested its reconstruction before his seventh voyage to the Western Oceans. According to the 'Record of the Imperial Eunuch Zheng He Rebuilding the Mosque,' it states: 'Your request has been received: The mosque on Sanshan Street in Nanjing has been burned down.' 'You wish to rebuild it to pray for the safety of the funds, grain, people, and ships for your voyage. This shows your respectful heart, so how could it be neglected?' 'As an imperial envoy, since you have set your heart on this, how could your wish be abandoned?' 'If the personnel and materials you use are insufficient, and the project is delayed, you may draw what is needed from the Nanjing Directorate of Palace Servants and the Ministry of Works so that it can be completed in time for you to wait for the favorable winds to set sail. This is the decree.'\n\nDuring the Taiping Rebellion, most of the bricks, tiles, and wood from Jingjue Mosque were taken down to build a local government office. The mosque was rebuilt in 1877 (the third year of the Guangxu reign) and renovated in 1879 (the fifth year of the Guangxu reign), which created its current layout. In the early years of the Republic of China, a wealthy Nanjing couple, Jiang Xiudong and his wife, paid to build the north and south lecture halls and the main hall. The mosque was repaired again in 1957. After the 1960s, a rubber company and the No. 3 Rubber Factory occupied the mosque. They tore down the only remaining Ming Dynasty brick and stone archway and the Butterfly Hall (hudieting), and destroyed many plaques, couplets, and stone tablets. The mosque was repaired in 1982, reopened in 1983, and the archway was rebuilt in 1985.\n\n![image](https://files.catbox.moe/e8yz3z.jpg)\n\nDuring the Ming Dynasty, the main prayer hall of Jingjue Mosque had 81 rooms and was built with nanmu wood. The current main hall was rebuilt in 1877 (the third year of the Guangxu reign). Its floor plan projects outward at the rear, like a raised middle section, and it uses a traditional post-and-beam wooden frame. The main hall and the opposite hall are linked by a covered corridor, forming a straight central axis with halls at both ends. This layout is typical of Jiangnan architecture. The mihrab was moved here from the original mosque on Xiaowangfu Lane, and the surrounding wooden carvings of scripture were added in 2001.\n\n![image](https://files.catbox.moe/4smwvz.jpg)\n\n![image](https://files.catbox.moe/hudrdn.jpg)\n\n![image](https://files.catbox.moe/xeul8v.jpg)\n\n![image](https://files.catbox.moe/tcc2l3.jpg)\n\n![image](https://files.catbox.moe/cvw9jw.jpg)\n\n![image](https://files.catbox.moe/igzyk4.jpg)\n\n![image](https://files.catbox.moe/hvr9so.jpg)\n\n![image](https://files.catbox.moe/ra7d9e.jpg)\n\n![image](https://files.catbox.moe/uqp1s3.jpg)\n\nThe back of the prayer hall connects directly to a high wall. This is a typical feature of Jianghuai courtyard-style architecture, which is very rare in the north.\n\n![image](https://files.catbox.moe/4wm7my.jpg)\n\n![image](https://files.catbox.moe/665570.jpg)\n\nDuring renovations in 2007, the main hall was raised by one meter. Workers dug two meters deep and found Ming Dynasty glazed tiles, brick carvings, stone railings, and huge Ming Dynasty stone column bases. These bases were twice as wide as those from the Guangxu period.\n\n![image](https://files.catbox.moe/ue0t3x.jpg)\n\n![image](https://files.catbox.moe/9l4ngk.jpg)\n\n![image](https://files.catbox.moe/z2ck2r.jpg)\n\n![image](https://files.catbox.moe/w6qav7.jpg)\n\n![image](https://files.catbox.moe/tymq9s.jpg)\n\n![image](https://files.catbox.moe/ayimp0.jpg)\n\nThe only remaining Ming Dynasty structures, the brick and stone archway and the Butterfly Hall, were both torn down in the 1960s. The archway was rebuilt in 1985, the Butterfly Hall in 2004, and a new stele pavilion was built in 1996.\n\n![image](https://files.catbox.moe/pakbcc.jpg)\n\n![image](https://files.catbox.moe/q75kax.jpg)\n\n![image](https://files.catbox.moe/6wo28g.jpg)\n\n![image](https://files.catbox.moe/u2np99.jpg)\n\n![image](https://files.catbox.moe/kvghe3.jpg)\n\n![image](https://files.catbox.moe/dn42gh.jpg)\n\n![image](https://files.catbox.moe/42ddgn.jpg)\n\n![image](https://files.catbox.moe/1uvq5r.jpg)\n\n![image](https://files.catbox.moe/ywkr4g.jpg)\n\n**The only Jahriyya mosque in Nanjing.**\n\nInside Jingjue Mosque, there is a stone tablet from 1891 titled 'Dahua Guizhen'. It records how Wu Defa followed his father Wu Dasong's final wish and donated the back part of their family home at 59 Shigu Road (formerly Xiaofuyuxiang) to establish the Shigu Road Mosque. The tablet mentions two Jahriyya imams, Fan Yuncai and Zhan Fengxiang. Witnesses included neighbors surnamed Chen, Cai, Zhou, and Yu; fellow Muslims surnamed Sun, Li, Wu, Zhan, Zong, and Jin; close relatives surnamed Ha, Ma, and Mai; and clan members surnamed Wu. This tablet was originally kept at the Shigu Road Mosque. After that mosque was torn down in 1986 for road expansion, the tablet was moved to Jingjue Mosque.\n\nShigu Road Mosque is the only Jahriyya mosque in Nanjing. In the late years of the Qianlong reign of the Qing Dynasty, a Hui Muslim named Wu from Taiyuan, Shanxi, who followed the Jahriyya (Zhepai) order, settled on Shigu Road in Nanjing. Influenced by him, followers of the Jahriyya order (Zhepai gaomu) began to appear around Shigu Road, Sanmaogong, and Nantai Lane in Nanjing, and most of them worked in the fish fry farming industry. At first, the Nanjing Jahriyya followers performed their worship at the Wuxueyuan Mosque (Yuan Mosque) near Shigu Road. During the Taiping Rebellion, the Wuxueyuan Mosque was destroyed by war, so the followers moved their worship to the Fengfu Road Mosque. Because their practice of loud chanting (gaosheng zannian) was different, Wu Defa later invited the Jahriyya followers to perform worship at his own home on Shigu Road, and in 1891 (the 17th year of the Guangxu reign), the Shigu Road Mosque was finally established.\n\nThe Nanjing Jahriyya order belongs to the Beishan menhuan. The Beishan menhuan is centered in Beishan, Zhangjiachuan, Gansu. Its leader, Ma Yuanzhang, was well-read, proficient in both Islamic scriptures and Chinese classics, and adopted the ideas of Liu Jielian to interpret Islam through Confucianism. After the Shigu Road Mosque was built, Fan Yuncai and Zhan Fengxiang from the Beishan menhuan served as imams. Imam Fan Yuncai was from Siyang, Jiangsu. During the Republic of China era, his son Fan Zhaofa opened the Faji Carriage Company in Nanjing, which was very successful. In 1905, Wu Wenlian, the grandson of Nanjing's Wu Defa, went to Gansu to study scriptures. After completing his studies in 1911, he was appointed by Ma Yuanzhang to serve as the imam of the Shigu Road Mosque.\n\nAfter the Beishan order leader Ma Yuanzhang passed away (guizhen) in 1920, his nephew Ma Dianwu took over the religious affairs. It was still called the Beishan menhuan, overseeing over 100 mosques in places like Zhangjiachuan, Tianshui, and Longnan in Gansu, Qiqihar in Heilongjiang, Runan in Henan, and Long County in Shaanxi. Nanjing's Shigu Road was its only mosque in East China.\n\nIn 1937, Ma Dianwu appointed Imam Su Ziying from Zhangjiachuan, Gansu, to serve as the imam of the Shigu Road Mosque. Imam Su actively visited other mosques, connected with community elders, and promoted education, which helped the Shigu Road Mosque flourish and trained more than 20 students (hailifa). In 1953, Imam Yang Junwen succeeded as the imam of the Shigu Road Mosque. In 1958, the Shigu Road Mosque closed, and Imam Yang Junwen became an imam at the Fengfu Road Mosque. After that, Imam Yang no longer maintained contact with the Beishan menhuan, and his worship practices gradually merged with the Gedimu order.\n\nIn 1986, the Shigu Road Mosque was demolished due to road widening. Although the mosque closed, some descendants of the Nanjing Jahriyya followers still held firmly to their worship. For example, Fan Songshou, a descendant of Imam Fan Wencai, made a living running a tofu shop. Even in his nineties, he insisted on performing the five daily prayers (namaz) without fail. In his old age, he still insisted on fasting (zhai), and in the 1960s, he continued to volunteer to wash and bury the deceased and help with funeral arrangements.\n\n![image](https://files.catbox.moe/8zaqh2.jpg)\n\nPlaque inscriptions at Jingjue Mosque:\n\nOnly pure, only one: Erected on an auspicious day in the first month of summer in the Gengyin year, the 16th year of the Guangxu reign of the Great Qing Dynasty, by the Commander of the Jiujiang Garrison in Jiangxi.\n\n![image](https://files.catbox.moe/11llvb.jpg)\n\nRectify the heart and be sincere: Erected in June of the 11th year of the Republic of China by members of the Nanjing Islamic Association.\n\n![image](https://files.catbox.moe/rfpg58.jpg)\n\nThe stele from the 47th year of the Qianlong reign records the four boundaries of Jingjue Mosque. To the east, there was a shop for rent, and to the west, a shop in Maxiang Alley was rented out as a flower shop. The elders who donated funds included those with the surnames Chen, Ma, Wu, Jin, Zheng, and Sha.\n\n![image](https://files.catbox.moe/07ctk7.jpg)\n\nThe stele from the 18th year of the Guangxu reign records that Imam Ma donated his own land next to the mosque to build the main prayer hall and the water room (wudu area).\n\n![image](https://files.catbox.moe/vox5vn.jpg)\n\n![image](https://files.catbox.moe/y8h6ud.jpg)\n\nJingjue Mosque houses a memorial stele for Ma Yitang, a Hui Muslim merchant from Nanjing who worked in Shanghai. It was inscribed in 1931 by Ma Fuxiang, a famous Beiyang general who was then the Chairman of the Mongolian and Tibetan Affairs Commission.\n\nMa Yitang was born in 1869. His ancestors ran a money shop outside Jubao Gate in Nanjing, and the family owned the Ma Yulong Satin and Fan Shop. With Shanghai as his base, Ma Yitang expanded his business to include domestic and foreign general merchandise. He set up branches in Chengdu and Chongqing, and his goods were sold as far away as the Tibetan regions. Ma Yitang was devoted to the faith. He served as a director for the North Mosque and West Mosque in Shanghai and helped fund the founding of the Hanximen Girls' School and the Zhuganxiang Girls' School in Nanjing. In 1909, Ma Yitang became a special consultative director for the Shanghai Islamic Board of Directors, participating in all its decisions. In 1921, he was responsible for the expansion of the Shanghai Xiaoshadu Mosque (now the Huxi Mosque).\n\n![image](https://files.catbox.moe/0jaygu.jpg)\n\nJingjue Mosque houses a notice stele from the 15th year of the Republic of China regarding the Shangfuqiao Mosque, issued by the Western District Police Station of the Jiangsu Provincial Capital Police Department. It records that the police stepped in to protect the Shangfuqiao Mosque and the Dajiaoxiang Mosque to uphold the rights of the faith. The petitioners included Hui Muslims with the surnames Bai, Tao, Pu, Ma, Yuan, Liang, Wei, and Jin.\n\nShangfuqiao Mosque was located in Chuanban Alley and was first built in 1662 (the first year of the Kangxi reign). It was destroyed during the Taiping Rebellion in the Xianfeng era and rebuilt in 1876 (the second year of the Guangxu reign). Later, it was occupied by Nanjing No. 62 Middle School, and the notice stele was moved into Jingjue Mosque. Dajiaoxiang Mosque was first built in 1874 (the 13th year of the Tongzhi reign). The mosque once housed trade associations for the pavilion decoration, wedding, and fried rice industries. It was later occupied by a factory and eventually demolished.\n\n![image](https://files.catbox.moe/yrxtd1.jpg)\n\nJingjue Mosque houses a Qing Dynasty stone carving from the Neiqiaowan Mosque, which was rescued from under an excavator during the demolition of Neiqiaowan in 2019.\n\nNeiqiaowan Mosque was located on Zhongshan South Road. One account says it was first built in 1645 (the second year of the Shunzhi reign), while another says it was built in 1662 (the first year of the Kangxi reign). In 1898 (the 24th year of the Guangxu reign), Shi Jialiang bought a group of houses in Neiqiaowan to rebuild the main prayer hall. The Shi family came from Wuwei, Gansu. They moved to Nanjing during the Jiaqing reign of the Qing Dynasty to expand the silk trade. They later became a famous silk-trading family in Nanjing and founded the Shijuxing Silk Firm during the Daoguang reign. The Shi family moved to Shanghai during the Guangxu reign and were members of the Shanghai mosque board of directors.\n\nNeiqiaowan Mosque once housed a primary school and the Glutinous Rice Food Industry Guild. It was demolished in 1991 to widen the road.\n\n![image](https://files.catbox.moe/lkzhec.jpg)\n\n![image](https://files.catbox.moe/0fhxfi.jpg)\n\n![image](https://files.catbox.moe/sfsepo.jpg)\n\n![image](https://files.catbox.moe/c9x235.jpg)\n\n![image](https://files.catbox.moe/ip0a40.jpg)\n\n![image](https://files.catbox.moe/81kgcy.jpg)\n\n![image](https://files.catbox.moe/fn819g.jpg)\n\n![image](https://files.catbox.moe/3gcbxo.jpg)\n\n**The former Taiping Road Mosque.**\n\nBecause the Jiangsu Hotel expanded to Taiping Road, the main hall and opposite hall of the Taiping Road Mosque were moved 40 meters south of the old Caoqiao Mosque in 2003. The project was completed in 2005.\n\nTaiping Road Mosque was originally called Huapailou Mosque. Legend says it was built by Chang Yuchun in the early Ming Dynasty. It was destroyed during the Taiping Rebellion and later rebuilt with funds raised by elders from the Ha, Ma, Zheng, Yang, Ding, and Chang families. Ma Jingtao led its renovation during the Tongzhi reign. In 1924, wealthy Nanjing merchants and brothers Jiang Muzhou and Jiang Sukan (Guobang) donated money to rebuild a new mosque on the south side, which was still called Huapailou Mosque. When the road was widened in 1931, the gate tower was demolished. Huapailou was renamed Taiping Road, and Huapailou Mosque was renamed Taiping Road Mosque.\n\nAfter the victory in the War of Resistance in 1945, the Jiang family of Jinling funded the renovation of the main hall and built the Jiang Family Shouxuan Hall in the north courtyard. That same year, the China Islamic National Salvation Association moved into Taiping Road Mosque and changed its name to the China Islamic Association. Its first chairman was Bai Chongxi. It was the highest Islamic organization in the country at the time until it moved to Taipei in 1949. After the 1960s, the Taiping Road Mosque was occupied. It was reclaimed in 1978, reopened in 1980, and named a municipal cultural relic protection unit in 1982. It was demolished in 2003, and the components of the main hall and opposite hall were moved to a new site.\n\nBecause the daily expenses of Taiping Road Mosque were paid by the wealthy Jiang family of Jinling, it was the richest mosque in Nanjing during the Republic of China era. The Jiang family of Jinling originally came from Yuncao Ancient Town in Hanshan County, Anhui. They moved to Nanjing in 1808 (the 13th year of Jiaqing). They started as small vendors and later expanded into the silk, salt, and pawn industries. During the Guangxu reign, they opened branches in major commercial ports and became a wealthy merchant family.\n\n![image](https://files.catbox.moe/1ufovt.jpg)\n\n![image](https://files.catbox.moe/c0gggm.jpg)\n\n![image](https://files.catbox.moe/vhoj8f.jpg)\n\n![image](https://files.catbox.moe/91aew0.jpg)\n\n![image](https://files.catbox.moe/e4o4bz.jpg)\n\n![image](https://files.catbox.moe/hxu1rm.jpg)\n\n![image](https://files.catbox.moe/eimbfi.jpg)\n\n![image](https://files.catbox.moe/04pm7p.jpg)\n\n![image](https://files.catbox.moe/qyb9gr.jpg)\n\nThe opposite hall of the former Taiping Road Mosque served as the office for the chairman of the China Islamic Association between 1945 and 1949, where Bai Chongxi once worked.\n\n![image](https://files.catbox.moe/u3n45f.jpg)\n\n![image](https://files.catbox.moe/4blcmp.jpg)\n\n![image](https://files.catbox.moe/2ci65p.jpg)\n\n![image](https://files.catbox.moe/ysem80.jpg)\n\n![image](https://files.catbox.moe/gdpd80.jpg)\n\n![image](https://files.catbox.moe/10v74p.jpg)\n\n![image](https://files.catbox.moe/je8obw.jpg)\n\n![image](https://files.catbox.moe/9v4dyr.jpg)\n\nThe brick carving of 'Washing the Heart and Looking at the Palace' (xixin zhanque) from the water room of the former Taiping Road Mosque.\n\n![image](https://files.catbox.moe/darxyv.jpg)\n\nThe former Taiping Road Mosque collected the 'Postscript to the Mother's Filial Piety Arch' written by Jiang Guobang. It records that the father of the wealthy Nanjing merchant Jiang Guobang lost his own father early and was raised by his mother, Madam Ma. In 1911 (the third year of the Xuantong reign), he petitioned to build a memorial arch for his mother's filial piety. Due to the change in government, it was finally completed in 1914.\n\nJiang Guobang came from the wealthy Jiang merchant family of Jinling, but he cared little for fame or wealth and dedicated himself to the study of traditional Chinese culture. Jiang Guobang was very filial. To provide his mother with a good place to spend her later years, he spent a large sum of money to buy the Xiaowanliu Hall by West Lake in Hangzhou. He later named it Jiang Manor (Jiangzhuang), which was one of the three major manors on West Lake at that time. In 1924, Jiang Guobang oversaw the reconstruction of Taiping Road Mosque and later built the memorial arch for his mother's filial piety inside the mosque. The arch no longer exists today, and only the stone tablet record remains.\n\n![image](https://files.catbox.moe/0iig5m.jpg)\n\n![image](https://files.catbox.moe/0d4uwz.jpg)\n\n![image](https://files.catbox.moe/hh6rm9.jpg)\n\nThe well railing from the Qing Dynasty and a stone tablet from the Guangxu reign at Caoqiao Mosque. Caoqiao Mosque was first built during the Guangxu reign of the Qing Dynasty. It was destroyed by fire during the Taiping Rebellion and rebuilt in the early years of the Tongzhi reign. Because it was located in Qijiawan, a neighborhood where Hui Muslims lived, Caoqiao Mosque once had the largest number of congregants in Nanjing. Historically, Caoqiao Mosque had no property of its own. Its daily expenses were covered by the Beef and Leather Trade Association, which was based inside the mosque. After 1958, Caoqiao Mosque was occupied and later rented to the Nanjing Woodworking Factory, which caused serious damage. The mosque property was returned in 1985 but never reopened, and it was demolished in 2003.\n\n![image](https://files.catbox.moe/fazwp1.jpg)\n\n![image](https://files.catbox.moe/s8p7na.jpg)\n\n![image](https://files.catbox.moe/c48odx.jpg)\n\n**The Jiang Family Courtyard in Laomendong.**\n\nIn the Laomendong scenic area of Nanjing, there is a residence called Jishan Hall belonging to the wealthy Hui Muslim merchant family, the Jiangs of Jinling. It is currently located at 18 and 20 Santiaoying. The residence was open for visits before, but unfortunately, it was closed when we went.\n\nThe Jiang family of Jinling originally came from Yuncao, an ancient town in Hanshan County, Anhui. They moved to Nanjing in 1808 (the 13th year of the Jiaqing reign) and started out as small vendors. After the Taiping Rebellion was suppressed in 1864 (the third year of the Tongzhi reign), the Jiang family used sailboats to transport salt from the Lianghuai salt fields to the Yangtze River coast. On their return trips, they brought back large quantities of daily necessities, which helped them build their fortune. Later, they opened the Chunshengjian firm to trade in satin, and their reputation spread throughout the southwestern provinces.\n\nJiang Shoushan, also known as Changcheng, was a key figure of the Jinling Jiang family in the late Qing Dynasty. He owned the Deda Soy Sauce Shop in Nanjing, the Guangda Oil Mill in Liuhe, and the Chunyuan Oil Firm in Hankou. In 1875 (the first year of the Guangxu reign), the government named his residence Jishantang (Hall of Accumulated Goodness) and the street outside Jishanli (Alley of Accumulated Goodness) to honor his charity work, which included building bridges, paving roads, giving porridge to the poor, and helping those in need.\n\nBeyond his business success, the Jiang family was also very devoted to their faith. Jiang Shoushan's father, Jiang Hanchen, wrote in the preface to the religious book 'Guizhen Yaodao' (Essential Path to Returning to the Truth), which he edited for his fourth son Jiang Changsong: 'Building wealth from nothing through business is all due to the grace of Allah.' During the late Qing Dynasty and the Republic of China, the Jiang family made significant contributions to the faith. They led the construction of the Wuxi Mosque and the Xixin Pavilion at the Huashen Mosque in Nanjing, rebuilt the Huapailou (Taiping Road) Mosque in Nanjing, expanded the Taipingfang Mosque in Suzhou, renovated the Hanximen Mosque and Jingjue Mosque in Nanjing and the Jinshifang Street Mosque in Beijing, and also established a charity school in the southern suburbs of Nanjing.\n\n![image](https://files.catbox.moe/4szhd3.jpg)\n\n![image](https://files.catbox.moe/kd8u8z.jpg)\n\n![image](https://files.catbox.moe/jojznk.jpg)\n\n![image](https://files.catbox.moe/siapq7.jpg)\n\n![image](https://files.catbox.moe/q59xkv.jpg)\n\n![image](https://files.catbox.moe/4shc6q.jpg)\n\n**Xiaowangfu Lane Mosque**\n\nThe Xiaowangfu Lane Mosque was built in the late Tongzhi reign of the Qing Dynasty. It is one of the few remaining old buildings among the 33 traditional Hui Muslim neighborhoods in Nanjing. The mihrab (the niche in the wall indicating the direction of Mecca) currently in the Jingjue Mosque was moved here from the Xiaowangfu Lane Mosque. The Xiaowangfu Lane Mosque was used as a residential area for a long time, but it has now been vacated and may soon have a new purpose.\n\nIn 1917, the Xiaowangfu Lane Mosque founded the private Wuben Primary School to teach both general subjects and religious knowledge. It moved to the entrance of Xiaowangfu Lane on Fengfu Road in 1953 and became a public school in 1956.\n\n![image](https://files.catbox.moe/6vlucf.jpg)\n\n![image](https://files.catbox.moe/ug8u0n.jpg)\n\n![image](https://files.catbox.moe/gtk11f.jpg)\n\n![image](https://files.catbox.moe/ediyzz.jpg)\n\n![image](https://files.catbox.moe/5s76sh.jpg)\n\n![image](https://files.catbox.moe/cpop9k.jpg)\n\n![image](https://files.catbox.moe/apbcqv.jpg)\n\n![image](https://files.catbox.moe/y8bc4c.jpg)\n\n![image](https://files.catbox.moe/td2y51.jpg)\n\n**Anleyuan**\n\nEvery time I visit Nanjing, I make sure to have morning tea at Anleyuan. The morning tea used to be served in the main dining room, but it has moved to the hot pot hall on the right. The menu, however, remains the same.\n\nWe arrived after ten o'clock, and it wasn't very crowded. We ordered roast duck with dried tofu strips (ya gan si), shark fin golden cake, crystal shrimp dumplings, red bean soup with rice balls (chidou yuanxiao), water shield vegetable steamed dumplings (jiao'ercai zhengjiao), duck and pine nut steamed dumplings (shaomai), beef spring rolls, and crispy fried dough (sanzi) with tofu pudding, all paired with Yuhua tea. Anleyuan is a great place to experience the charm of Jinling's Hui Muslim cuisine, especially if you are dining with a group.\n\nAnleyuan was founded in 1920 by Cai Jiheng, a Hui Muslim from Nanjing. Originally called Anleju Restaurant, it has been in business for 105 years. Anleyuan was first located at 64 Pingshi Street (formerly Shuixiangkou) in the Hui Muslim community of Qijiawan. It later moved to the Jiangxi Guild Hall at 19 Pingshi Street, specializing in snacks like sweet red bean paste buns and assorted vegetable buns.\n\nIn 1949, owner Cai Jiheng was getting old, so he handed the restaurant over to his son, Cai Yuting. Cai Yuting was a scholar by trade and did not know how to run a business, so the restaurant's sales began to decline. In 1952, Li Fuquan, who ran a restaurant at Chaotian Palace, bought the Anleju Restaurant and renamed it Anleyuan Restaurant. Owner Li introduced signature braised dishes like salt-water duck (yanshui ya), sliced dried beef (ganqie niurou), braised wheat gluten (lu mianjin), and smoked fish (xunyu), which won high praise from customers.\n\nIn 1956, during the public-private partnership period, Anleyuan merged with the state-owned Heping Canteen and moved to Shengzhou Road, west of Qijiawan. It grew from a small eatery into a medium-sized restaurant of 400 square meters with 14 tables, gaining a steady base of diners. In 1961, Anleyuan moved again to Mochou Road near Chaotian Palace. The space expanded further, and they introduced new dishes like braised fish maw with three delicacies (sanxian hui yudu) and crispy beef (xiangsu niurou), entering the ranks of high-end restaurants. In 1966, Anleyuan was renamed Victory Restaurant (Shengli Fandian), but it changed back to its original name in 1972. In 2001, due to the development of the Chaotian Palace South Square, Anleyuan was relocated to its current site on Wangfu Street. The new shop expanded to 2,000 square meters, becoming a large restaurant with three separate areas for snacks, main meals, and hot pot.\n\n![image](https://files.catbox.moe/d4d3gk.jpg)\n\n![image](https://files.catbox.moe/r9hm93.jpg)\n\n![image](https://files.catbox.moe/pexa8u.jpg)\n\n![image](https://files.catbox.moe/cd8vrs.jpg)\n\n![image](https://files.catbox.moe/r4x1uh.jpg)\n\n![image](https://files.catbox.moe/pyzf6h.jpg)\n\n![image](https://files.catbox.moe/as274a.jpg)\n\n![image](https://files.catbox.moe/dsnzm4.jpg)\n\n![image](https://files.catbox.moe/3uz0ck.jpg)\n\n![image](https://files.catbox.moe/hvy1gv.jpg)\n\n![image](https://files.catbox.moe/jzyj3b.jpg)\n\n**Li Rongxing**\n\nAt noon, we went to the old Hui Muslim brand Li Rongxing on Xufu Lane in Nanjing for lunch. I ate at their original shop ten years ago, and this time I found they have opened chain stores, including a branch here in the north of the city.\n\nWe ordered beef potstickers (niurou guotie), beef wontons (niurou huntun), beef vermicelli soup (niurou fensi tang), smoked fish noodles (xunyu mian), beef soup dumplings (niurou guantangbao), and assorted vegetables (su shijin), which are all considered typical Nanjing Hui Muslim specialties. The snacks of Nanjing Hui Muslims are characterized by a hint of sweetness. I find this quite unique, but people from the north might not be used to it.\n\nLi Rongxing is a famous old brand from Qijiawan, founded by Li Houming in 1914. It started at the T-junction of Qijiawan and Ganyu Lane, and was best known for its pan-fried beef buns (niurou jianbao), beef soup, and smoked beef. In 2002, Li Rongxing's third-generation successor, Li Bangzheng, opened a Li Rongxing on Fenghuang West Street, and in 2006, it moved to Nanhu East Road. The current owner, Li Guofan, is the fourth-generation successor of Li Rongxing. Additionally, the most famous Li's Restaurant (Liji) in Qijiawan today is run by Li Bangzheng's cousin, Li Bangjie, who once worked with him at a salted duck factory.\n\n![image](https://files.catbox.moe/uowm01.jpg)\n\n![image](https://files.catbox.moe/31qwqu.jpg)\n\n![image](https://files.catbox.moe/gssdav.jpg)\n\n![image](https://files.catbox.moe/6vgi12.jpg)\n\n![image](https://files.catbox.moe/cgm0vh.jpg)\n\n![image](https://files.catbox.moe/sztb2r.jpg)\n\n![image](https://files.catbox.moe/wbhpbh.jpg)\n\n![image](https://files.catbox.moe/lxgh6o.jpg)\n\n![image](https://files.catbox.moe/sf8fvl.jpg)\n\n![image](https://files.catbox.moe/ashq2f.jpg)\n\n**Lvliuju**\n\nNext to Li Rongxing on Xufu Lane is another long-standing shop, Lvliuju. Their shop is quite small. Besides their most popular green sticky rice balls (qingtuan), they serve simple meals like duck blood vermicelli soup (laoya fensi tang), bamboo shoot and beef brisket rice (sungand niunan fan), braised three-delicacy rice (hui sanxian fan), and smoked fish assorted noodles (xunyu shijin mian). We bought some of their signature three-colored cakes (sanse gao).\n\nLvliuju was founded in 1912 at Taoye Ferry by the Qinhuai River. It started as a high-end vegetarian restaurant, and people like Kong Xiangxi, Chiang Ching-kuo, Bai Chongxi, and the Soong sisters often ate there. After 1949, Lvliuju closed for a time. It reopened in 1963 on Taiping South Road at Yanggongjing, hiring the famous chef Chen Bingyu to lead the kitchen and continue serving authentic vegetarian food. A major feature of Lvliuju is making vegetarian dishes taste like meat. Their vegetarian chicken (suji) and vegetarian duck (suya), made from tofu skin, gluten, and dried bean curd sticks with herbal seasonings, are delicious. In 1987, Lvliuju added halal dishes to its vegetarian menu and became a halal restaurant, though it still specializes in vegetarian food. It is now a national-level intangible cultural heritage.\n\n![image](https://files.catbox.moe/gn6nsv.jpg)\n\n![image](https://files.catbox.moe/e7m9o7.jpg)\n\n![image](https://files.catbox.moe/zf0hiz.jpg)\n\n![image](https://files.catbox.moe/rad9ay.jpg)\n\n![image](https://files.catbox.moe/o4dunb.jpg)\n\n![image](https://files.catbox.moe/knx4xk.jpg)\n\n![image](https://files.catbox.moe/ub3hm1.jpg)\n\n![image](https://files.catbox.moe/qg7opq.jpg)\n\n![image](https://files.catbox.moe/mywvd0.jpg)\n\n![image](https://files.catbox.moe/slg0pc.jpg)\n\n**Liuhe South Gate Mosque**\n\nLeaving the Nanjing city area, we crossed the Yangtze River and headed north to Liuhe District, where we performed namaz at the Liuhe South Gate Mosque.\n\nThere were once seven mosques and three women's schools in Liuhe. Today, the Changjiang Road Mosque, South Gate Mosque, and Zhuzhen Mosque are open, and the historic buildings of the South Gate Women's School and Zhuzhen Women's School remain.\n\nThe Liuhe South Gate Mosque was first built in 1403 (the first year of the Yongle reign of the Ming Dynasty) and rebuilt in 1553 (the 32nd year of the Jiajing reign). It was destroyed during the Taiping Rebellion and later rebuilt. The famous Imam Da Pusheng, one of the four great imams of the Republic of China, had three generations of his family—from his great-grandfather to his father—serve as the imam at South Gate Mosque. The old Da family home is on the Halal Street (Qingzhen Jie) right at the mosque entrance. Imam Da Pusheng studied the scriptures at South Gate Mosque for seven years, from age 10 to 17, before going to Nanjing and Beijing for further study.\n\nThe ancestor of the Da family of the Baiye Hall, where Imam Da Pusheng belonged, was Mubalesha from the Western Regions during the Yuan Dynasty. Research shows he belonged to the Kipchak Yuliberi tribe and served as a Darughachi in Zhenjiang before passing away in Zhenjiang. His sixth-generation descendant, Da Shan, moved from Zhenjiang to Liuhe in the early Ming Dynasty to serve as a county magistrate candidate. He settled in Liuhe, making them the oldest Hui Muslim family from the Western Regions in the area.\n\nAfter 1966, the South Gate Mosque was used as a kindergarten. During that time, the Shamao Hall (duiting), the north wing, the red gate, and the entrance hall were demolished. The kindergarten moved out in 1975, and Baozhen Primary School borrowed the space for a while. It was finally reclaimed in 2000 after the school moved out. The main hall was raised and rebuilt in 2013. Later, the Unity Pagoda (Tongxin Ta) and Tongxing Building were built, and the site finally opened to the public in 2020.\n\n![image](https://files.catbox.moe/ulfc9u.jpg)\n\n![image](https://files.catbox.moe/0nay96.jpg)
+**Reposted from the web**
+
+**Summary:** The first part of the Nanjing mosque journey focuses on Jingjue Mosque, Caoqiao Mosque, Taiping Road Mosque, and other historic Muslim sites in the old city. This account keeps the original mosque names, inscriptions, dates, architecture, street context, and photographs.
+
+**Jingjue Mosque.**
+
+Jingjue Mosque is located on Sanshan Street in the south of Nanjing. It was originally called Sanshan Street Mosque. During the Jiajing era of the Ming Dynasty, it was given the name Jingjue Mosque, making it the first mosque in Nanjing during the Ming period.
+
+One account says Jingjue Mosque was built in 1388 (the 21st year of the Hongwu era) by imperial order to house officials from the Western Regions who had submitted to the Ming, such as Yibulajin and Kemaluding. Another account says it was built in 1392 (the 25th year of the Hongwu era) by imperial order of Saihazhi, a seventh-generation descendant of Sayyid Ajjal Shams al-Din. Both accounts are supported by stone inscriptions from the Ming Dynasty.
+
+According to a 1493 (the 5th year of the Hongzhi era) inscription titled 'Record of the Two Imperial Mosques Built in the South of the City of Yingtian Prefecture in Jiangnan,' it states: 'In the 21st year of the Hongwu era, Yibulajin, Kemaluding, and others, originally from the Rumi Kingdom in the Western Regions, submitted to China along with the Duke of Song after the conquest of Jinshan and Kaiyuan... Therefore, two mosques were built to settle them, and Kemaluding and four other households were assigned to live at the Wangyue Tower Jingjue Mosque.' The family genealogies of two Hui Muslim branches with the surname Ma, known as 'Weiyitang' and 'Baojitang' in Hushu, Nanjing, both record that they are descendants of Ma Gutai and Ma Baihao, who were settled at Jingjue Mosque at that time.
+
+According to a 1405 (the 3rd year of the Yongle era) inscription at the Great Mosque on Huajue Lane in Xi'an, 'On the 14th day of the third month of the 25th year of the Hongwu era, Saihazhi, the seventh-generation descendant of the Prince of Xianyang Sayyid Ajjal, went to the inner court to announce the imperial decree: On that day at the Fengtian Gate, the imperial decree was received:...build two mosques in two locations, one at the copper workshop on Sanshan Street in Yingtian Prefecture, Nanjing, and one on Ziwu Lane in Chang'an County, Xi'an Prefecture, Shaanxi Province.' The 'Genealogy of the Sayyid Ajjal Family' records that Saihazhi was granted the hereditary title of Marquis of Xianning, and 'When the Ming Taizu established the capital in Jinling, he entrusted Saihazhi to build a mosque in Jinling.' After the work was finished, he built the Great Mosque in Chang'an. When the Tiemao Lane Mosque in Taicang, Jiangsu, was renovated in the 1980s, a stone tablet was found inside a wall, revealing that the Taicang mosque was also built by Saihazhi.
+
+Additionally, according to the Republic of China era 'Zhongnan Huaibei Regional Gazetteer,' 'North of the street is Jingjue Mosque. Wu Ru, a man from the Western Regions during the Ming Dynasty, came to China to serve in the Imperial Astronomical Bureau. He lived in Nanjing and built this mosque next to his residence.' Therefore, Jingjue Mosque may have originally been part of Wu Ru's residence.
+
+Jingjue Mosque was destroyed by fire in 1430 (the 5th year of the Xuande era), and Zheng He requested its reconstruction before his seventh voyage to the Western Oceans. According to the 'Record of the Imperial Eunuch Zheng He Rebuilding the Mosque,' it states: 'Your request has been received: The mosque on Sanshan Street in Nanjing has been burned down.' 'You wish to rebuild it to pray for the safety of the funds, grain, people, and ships for your voyage. This shows your respectful heart, so how could it be neglected?' 'As an imperial envoy, since you have set your heart on this, how could your wish be abandoned?' 'If the personnel and materials you use are insufficient, and the project is delayed, you may draw what is needed from the Nanjing Directorate of Palace Servants and the Ministry of Works so that it can be completed in time for you to wait for the favorable winds to set sail. This is the decree.'
+
+During the Taiping Rebellion, most of the bricks, tiles, and wood from Jingjue Mosque were taken down to build a local government office. The mosque was rebuilt in 1877 (the third year of the Guangxu reign) and renovated in 1879 (the fifth year of the Guangxu reign), which created its current layout. In the early years of the Republic of China, a wealthy Nanjing couple, Jiang Xiudong and his wife, paid to build the north and south lecture halls and the main hall. The mosque was repaired again in 1957. After the 1960s, a rubber company and the No. 3 Rubber Factory occupied the mosque. They tore down the only remaining Ming Dynasty brick and stone archway and the Butterfly Hall (hudieting), and destroyed many plaques, couplets, and stone tablets. The mosque was repaired in 1982, reopened in 1983, and the archway was rebuilt in 1985.
+
+![image](https://files.catbox.moe/e8yz3z.jpg)
+
+During the Ming Dynasty, the main prayer hall of Jingjue Mosque had 81 rooms and was built with nanmu wood. The current main hall was rebuilt in 1877 (the third year of the Guangxu reign). Its floor plan projects outward at the rear, like a raised middle section, and it uses a traditional post-and-beam wooden frame. The main hall and the opposite hall are linked by a covered corridor, forming a straight central axis with halls at both ends. This layout is typical of Jiangnan architecture. The mihrab was moved here from the original mosque on Xiaowangfu Lane, and the surrounding wooden carvings of scripture were added in 2001.
+
+![image](https://files.catbox.moe/4smwvz.jpg)
+
+![image](https://files.catbox.moe/hudrdn.jpg)
+
+![image](https://files.catbox.moe/xeul8v.jpg)
+
+![image](https://files.catbox.moe/tcc2l3.jpg)
+
+![image](https://files.catbox.moe/cvw9jw.jpg)
+
+![image](https://files.catbox.moe/igzyk4.jpg)
+
+![image](https://files.catbox.moe/hvr9so.jpg)
+
+![image](https://files.catbox.moe/ra7d9e.jpg)
+
+![image](https://files.catbox.moe/uqp1s3.jpg)
+
+The back of the prayer hall connects directly to a high wall. This is a typical feature of Jianghuai courtyard-style architecture, which is very rare in the north.
+
+![image](https://files.catbox.moe/4wm7my.jpg)
+
+![image](https://files.catbox.moe/665570.jpg)
+
+During renovations in 2007, the main hall was raised by one meter. Workers dug two meters deep and found Ming Dynasty glazed tiles, brick carvings, stone railings, and huge Ming Dynasty stone column bases. These bases were twice as wide as those from the Guangxu period.
+
+![image](https://files.catbox.moe/ue0t3x.jpg)
+
+![image](https://files.catbox.moe/9l4ngk.jpg)
+
+![image](https://files.catbox.moe/z2ck2r.jpg)
+
+![image](https://files.catbox.moe/w6qav7.jpg)
+
+![image](https://files.catbox.moe/tymq9s.jpg)
+
+![image](https://files.catbox.moe/ayimp0.jpg)
+
+The only remaining Ming Dynasty structures, the brick and stone archway and the Butterfly Hall, were both torn down in the 1960s. The archway was rebuilt in 1985, the Butterfly Hall in 2004, and a new stele pavilion was built in 1996.
+
+![image](https://files.catbox.moe/pakbcc.jpg)
+
+![image](https://files.catbox.moe/q75kax.jpg)
+
+![image](https://files.catbox.moe/6wo28g.jpg)
+
+![image](https://files.catbox.moe/u2np99.jpg)
+
+![image](https://files.catbox.moe/kvghe3.jpg)
+
+![image](https://files.catbox.moe/dn42gh.jpg)
+
+![image](https://files.catbox.moe/42ddgn.jpg)
+
+![image](https://files.catbox.moe/1uvq5r.jpg)
+
+![image](https://files.catbox.moe/ywkr4g.jpg)
+
+**The only Jahriyya mosque in Nanjing.**
+
+Inside Jingjue Mosque, there is a stone tablet from 1891 titled 'Dahua Guizhen'. It records how Wu Defa followed his father Wu Dasong's final wish and donated the back part of their family home at 59 Shigu Road (formerly Xiaofuyuxiang) to establish the Shigu Road Mosque. The tablet mentions two Jahriyya imams, Fan Yuncai and Zhan Fengxiang. Witnesses included neighbors surnamed Chen, Cai, Zhou, and Yu; fellow Muslims surnamed Sun, Li, Wu, Zhan, Zong, and Jin; close relatives surnamed Ha, Ma, and Mai; and clan members surnamed Wu. This tablet was originally kept at the Shigu Road Mosque. After that mosque was torn down in 1986 for road expansion, the tablet was moved to Jingjue Mosque.
+
+Shigu Road Mosque is the only Jahriyya mosque in Nanjing. In the late years of the Qianlong reign of the Qing Dynasty, a Hui Muslim named Wu from Taiyuan, Shanxi, who followed the Jahriyya (Zhepai) order, settled on Shigu Road in Nanjing. Influenced by him, followers of the Jahriyya order (Zhepai gaomu) began to appear around Shigu Road, Sanmaogong, and Nantai Lane in Nanjing, and most of them worked in the fish fry farming industry. At first, the Nanjing Jahriyya followers performed their worship at the Wuxueyuan Mosque (Yuan Mosque) near Shigu Road. During the Taiping Rebellion, the Wuxueyuan Mosque was destroyed by war, so the followers moved their worship to the Fengfu Road Mosque. Because their practice of loud chanting (gaosheng zannian) was different, Wu Defa later invited the Jahriyya followers to perform worship at his own home on Shigu Road, and in 1891 (the 17th year of the Guangxu reign), the Shigu Road Mosque was finally established.
+
+The Nanjing Jahriyya order belongs to the Beishan menhuan. The Beishan menhuan is centered in Beishan, Zhangjiachuan, Gansu. Its leader, Ma Yuanzhang, was well-read, proficient in both Islamic scriptures and Chinese classics, and adopted the ideas of Liu Jielian to interpret Islam through Confucianism. After the Shigu Road Mosque was built, Fan Yuncai and Zhan Fengxiang from the Beishan menhuan served as imams. Imam Fan Yuncai was from Siyang, Jiangsu. During the Republic of China era, his son Fan Zhaofa opened the Faji Carriage Company in Nanjing, which was very successful. In 1905, Wu Wenlian, the grandson of Nanjing's Wu Defa, went to Gansu to study scriptures. After completing his studies in 1911, he was appointed by Ma Yuanzhang to serve as the imam of the Shigu Road Mosque.
+
+After the Beishan order leader Ma Yuanzhang passed away (guizhen) in 1920, his nephew Ma Dianwu took over the religious affairs. It was still called the Beishan menhuan, overseeing over 100 mosques in places like Zhangjiachuan, Tianshui, and Longnan in Gansu, Qiqihar in Heilongjiang, Runan in Henan, and Long County in Shaanxi. Nanjing's Shigu Road was its only mosque in East China.
+
+In 1937, Ma Dianwu appointed Imam Su Ziying from Zhangjiachuan, Gansu, to serve as the imam of the Shigu Road Mosque. Imam Su actively visited other mosques, connected with community elders, and promoted education, which helped the Shigu Road Mosque flourish and trained more than 20 students (hailifa). In 1953, Imam Yang Junwen succeeded as the imam of the Shigu Road Mosque. In 1958, the Shigu Road Mosque closed, and Imam Yang Junwen became an imam at the Fengfu Road Mosque. After that, Imam Yang no longer maintained contact with the Beishan menhuan, and his worship practices gradually merged with the Gedimu order.
+
+In 1986, the Shigu Road Mosque was demolished due to road widening. Although the mosque closed, some descendants of the Nanjing Jahriyya followers still held firmly to their worship. For example, Fan Songshou, a descendant of Imam Fan Wencai, made a living running a tofu shop. Even in his nineties, he insisted on performing the five daily prayers (namaz) without fail. In his old age, he still insisted on fasting (zhai), and in the 1960s, he continued to volunteer to wash and bury the deceased and help with funeral arrangements.
+
+![image](https://files.catbox.moe/8zaqh2.jpg)
+
+Plaque inscriptions at Jingjue Mosque:
+
+Only pure, only one: Erected on an auspicious day in the first month of summer in the Gengyin year, the 16th year of the Guangxu reign of the Great Qing Dynasty, by the Commander of the Jiujiang Garrison in Jiangxi.
+
+![image](https://files.catbox.moe/11llvb.jpg)
+
+Rectify the heart and be sincere: Erected in June of the 11th year of the Republic of China by members of the Nanjing Islamic Association.
+
+![image](https://files.catbox.moe/rfpg58.jpg)
+
+The stele from the 47th year of the Qianlong reign records the four boundaries of Jingjue Mosque. To the east, there was a shop for rent, and to the west, a shop in Maxiang Alley was rented out as a flower shop. The elders who donated funds included those with the surnames Chen, Ma, Wu, Jin, Zheng, and Sha.
+
+![image](https://files.catbox.moe/07ctk7.jpg)
+
+The stele from the 18th year of the Guangxu reign records that Imam Ma donated his own land next to the mosque to build the main prayer hall and the water room (wudu area).
+
+![image](https://files.catbox.moe/vox5vn.jpg)
+
+![image](https://files.catbox.moe/y8h6ud.jpg)
+
+Jingjue Mosque houses a memorial stele for Ma Yitang, a Hui Muslim merchant from Nanjing who worked in Shanghai. It was inscribed in 1931 by Ma Fuxiang, a famous Beiyang general who was then the Chairman of the Mongolian and Tibetan Affairs Commission.
+
+Ma Yitang was born in 1869. His ancestors ran a money shop outside Jubao Gate in Nanjing, and the family owned the Ma Yulong Satin and Fan Shop. With Shanghai as his base, Ma Yitang expanded his business to include domestic and foreign general merchandise. He set up branches in Chengdu and Chongqing, and his goods were sold as far away as the Tibetan regions. Ma Yitang was devoted to the faith. He served as a director for the North Mosque and West Mosque in Shanghai and helped fund the founding of the Hanximen Girls' School and the Zhuganxiang Girls' School in Nanjing. In 1909, Ma Yitang became a special consultative director for the Shanghai Islamic Board of Directors, participating in all its decisions. In 1921, he was responsible for the expansion of the Shanghai Xiaoshadu Mosque (now the Huxi Mosque).
+
+![image](https://files.catbox.moe/0jaygu.jpg)
+
+Jingjue Mosque houses a notice stele from the 15th year of the Republic of China regarding the Shangfuqiao Mosque, issued by the Western District Police Station of the Jiangsu Provincial Capital Police Department. It records that the police stepped in to protect the Shangfuqiao Mosque and the Dajiaoxiang Mosque to uphold the rights of the faith. The petitioners included Hui Muslims with the surnames Bai, Tao, Pu, Ma, Yuan, Liang, Wei, and Jin.
+
+Shangfuqiao Mosque was located in Chuanban Alley and was first built in 1662 (the first year of the Kangxi reign). It was destroyed during the Taiping Rebellion in the Xianfeng era and rebuilt in 1876 (the second year of the Guangxu reign). Later, it was occupied by Nanjing No. 62 Middle School, and the notice stele was moved into Jingjue Mosque. Dajiaoxiang Mosque was first built in 1874 (the 13th year of the Tongzhi reign). The mosque once housed trade associations for the pavilion decoration, wedding, and fried rice industries. It was later occupied by a factory and eventually demolished.
+
+![image](https://files.catbox.moe/yrxtd1.jpg)
+
+Jingjue Mosque houses a Qing Dynasty stone carving from the Neiqiaowan Mosque, which was rescued from under an excavator during the demolition of Neiqiaowan in 2019.
+
+Neiqiaowan Mosque was located on Zhongshan South Road. One account says it was first built in 1645 (the second year of the Shunzhi reign), while another says it was built in 1662 (the first year of the Kangxi reign). In 1898 (the 24th year of the Guangxu reign), Shi Jialiang bought a group of houses in Neiqiaowan to rebuild the main prayer hall. The Shi family came from Wuwei, Gansu. They moved to Nanjing during the Jiaqing reign of the Qing Dynasty to expand the silk trade. They later became a famous silk-trading family in Nanjing and founded the Shijuxing Silk Firm during the Daoguang reign. The Shi family moved to Shanghai during the Guangxu reign and were members of the Shanghai mosque board of directors.
+
+Neiqiaowan Mosque once housed a primary school and the Glutinous Rice Food Industry Guild. It was demolished in 1991 to widen the road.
+
+![image](https://files.catbox.moe/lkzhec.jpg)
+
+![image](https://files.catbox.moe/0fhxfi.jpg)
+
+![image](https://files.catbox.moe/sfsepo.jpg)
+
+![image](https://files.catbox.moe/c9x235.jpg)
+
+![image](https://files.catbox.moe/ip0a40.jpg)
+
+![image](https://files.catbox.moe/81kgcy.jpg)
+
+![image](https://files.catbox.moe/fn819g.jpg)
+
+![image](https://files.catbox.moe/3gcbxo.jpg)
+
+**The former Taiping Road Mosque.**
+
+Because the Jiangsu Hotel expanded to Taiping Road, the main hall and opposite hall of the Taiping Road Mosque were moved 40 meters south of the old Caoqiao Mosque in 2003. The project was completed in 2005.
+
+Taiping Road Mosque was originally called Huapailou Mosque. Legend says it was built by Chang Yuchun in the early Ming Dynasty. It was destroyed during the Taiping Rebellion and later rebuilt with funds raised by elders from the Ha, Ma, Zheng, Yang, Ding, and Chang families. Ma Jingtao led its renovation during the Tongzhi reign. In 1924, wealthy Nanjing merchants and brothers Jiang Muzhou and Jiang Sukan (Guobang) donated money to rebuild a new mosque on the south side, which was still called Huapailou Mosque. When the road was widened in 1931, the gate tower was demolished. Huapailou was renamed Taiping Road, and Huapailou Mosque was renamed Taiping Road Mosque.
+
+After the victory in the War of Resistance in 1945, the Jiang family of Jinling funded the renovation of the main hall and built the Jiang Family Shouxuan Hall in the north courtyard. That same year, the China Islamic National Salvation Association moved into Taiping Road Mosque and changed its name to the China Islamic Association. Its first chairman was Bai Chongxi. It was the highest Islamic organization in the country at the time until it moved to Taipei in 1949. After the 1960s, the Taiping Road Mosque was occupied. It was reclaimed in 1978, reopened in 1980, and named a municipal cultural relic protection unit in 1982. It was demolished in 2003, and the components of the main hall and opposite hall were moved to a new site.
+
+Because the daily expenses of Taiping Road Mosque were paid by the wealthy Jiang family of Jinling, it was the richest mosque in Nanjing during the Republic of China era. The Jiang family of Jinling originally came from Yuncao Ancient Town in Hanshan County, Anhui. They moved to Nanjing in 1808 (the 13th year of Jiaqing). They started as small vendors and later expanded into the silk, salt, and pawn industries. During the Guangxu reign, they opened branches in major commercial ports and became a wealthy merchant family.
+
+![image](https://files.catbox.moe/1ufovt.jpg)
+
+![image](https://files.catbox.moe/c0gggm.jpg)
+
+![image](https://files.catbox.moe/vhoj8f.jpg)
+
+![image](https://files.catbox.moe/91aew0.jpg)
+
+![image](https://files.catbox.moe/e4o4bz.jpg)
+
+![image](https://files.catbox.moe/hxu1rm.jpg)
+
+![image](https://files.catbox.moe/eimbfi.jpg)
+
+![image](https://files.catbox.moe/04pm7p.jpg)
+
+![image](https://files.catbox.moe/qyb9gr.jpg)
+
+The opposite hall of the former Taiping Road Mosque served as the office for the chairman of the China Islamic Association between 1945 and 1949, where Bai Chongxi once worked.
+
+![image](https://files.catbox.moe/u3n45f.jpg)
+
+![image](https://files.catbox.moe/4blcmp.jpg)
+
+![image](https://files.catbox.moe/2ci65p.jpg)
+
+![image](https://files.catbox.moe/ysem80.jpg)
+
+![image](https://files.catbox.moe/gdpd80.jpg)
+
+![image](https://files.catbox.moe/10v74p.jpg)
+
+![image](https://files.catbox.moe/je8obw.jpg)
+
+![image](https://files.catbox.moe/9v4dyr.jpg)
+
+The brick carving of 'Washing the Heart and Looking at the Palace' (xixin zhanque) from the water room of the former Taiping Road Mosque.
+
+![image](https://files.catbox.moe/darxyv.jpg)
+
+The former Taiping Road Mosque collected the 'Postscript to the Mother's Filial Piety Arch' written by Jiang Guobang. It records that the father of the wealthy Nanjing merchant Jiang Guobang lost his own father early and was raised by his mother, Madam Ma. In 1911 (the third year of the Xuantong reign), he petitioned to build a memorial arch for his mother's filial piety. Due to the change in government, it was finally completed in 1914.
+
+Jiang Guobang came from the wealthy Jiang merchant family of Jinling, but he cared little for fame or wealth and dedicated himself to the study of traditional Chinese culture. Jiang Guobang was very filial. To provide his mother with a good place to spend her later years, he spent a large sum of money to buy the Xiaowanliu Hall by West Lake in Hangzhou. He later named it Jiang Manor (Jiangzhuang), which was one of the three major manors on West Lake at that time. In 1924, Jiang Guobang oversaw the reconstruction of Taiping Road Mosque and later built the memorial arch for his mother's filial piety inside the mosque. The arch no longer exists today, and only the stone tablet record remains.
+
+![image](https://files.catbox.moe/0iig5m.jpg)
+
+![image](https://files.catbox.moe/0d4uwz.jpg)
+
+![image](https://files.catbox.moe/hh6rm9.jpg)
+
+The well railing from the Qing Dynasty and a stone tablet from the Guangxu reign at Caoqiao Mosque. Caoqiao Mosque was first built during the Guangxu reign of the Qing Dynasty. It was destroyed by fire during the Taiping Rebellion and rebuilt in the early years of the Tongzhi reign. Because it was located in Qijiawan, a neighborhood where Hui Muslims lived, Caoqiao Mosque once had the largest number of congregants in Nanjing. Historically, Caoqiao Mosque had no property of its own. Its daily expenses were covered by the Beef and Leather Trade Association, which was based inside the mosque. After 1958, Caoqiao Mosque was occupied and later rented to the Nanjing Woodworking Factory, which caused serious damage. The mosque property was returned in 1985 but never reopened, and it was demolished in 2003.
+
+![image](https://files.catbox.moe/fazwp1.jpg)
+
+![image](https://files.catbox.moe/s8p7na.jpg)
+
+![image](https://files.catbox.moe/c48odx.jpg)
+
+**The Jiang Family Courtyard in Laomendong.**
+
+In the Laomendong scenic area of Nanjing, there is a residence called Jishan Hall belonging to the wealthy Hui Muslim merchant family, the Jiangs of Jinling. It is currently located at 18 and 20 Santiaoying. The residence was open for visits before, but unfortunately, it was closed when we went.
+
+The Jiang family of Jinling originally came from Yuncao, an ancient town in Hanshan County, Anhui. They moved to Nanjing in 1808 (the 13th year of the Jiaqing reign) and started out as small vendors. After the Taiping Rebellion was suppressed in 1864 (the third year of the Tongzhi reign), the Jiang family used sailboats to transport salt from the Lianghuai salt fields to the Yangtze River coast. On their return trips, they brought back large quantities of daily necessities, which helped them build their fortune. Later, they opened the Chunshengjian firm to trade in satin, and their reputation spread throughout the southwestern provinces.
+
+Jiang Shoushan, also known as Changcheng, was a key figure of the Jinling Jiang family in the late Qing Dynasty. He owned the Deda Soy Sauce Shop in Nanjing, the Guangda Oil Mill in Liuhe, and the Chunyuan Oil Firm in Hankou. In 1875 (the first year of the Guangxu reign), the government named his residence Jishantang (Hall of Accumulated Goodness) and the street outside Jishanli (Alley of Accumulated Goodness) to honor his charity work, which included building bridges, paving roads, giving porridge to the poor, and helping those in need.
+
+Beyond his business success, the Jiang family was also very devoted to their faith. Jiang Shoushan's father, Jiang Hanchen, wrote in the preface to the religious book 'Guizhen Yaodao' (Essential Path to Returning to the Truth), which he edited for his fourth son Jiang Changsong: 'Building wealth from nothing through business is all due to the grace of Allah.' During the late Qing Dynasty and the Republic of China, the Jiang family made significant contributions to the faith. They led the construction of the Wuxi Mosque and the Xixin Pavilion at the Huashen Mosque in Nanjing, rebuilt the Huapailou (Taiping Road) Mosque in Nanjing, expanded the Taipingfang Mosque in Suzhou, renovated the Hanximen Mosque and Jingjue Mosque in Nanjing and the Jinshifang Street Mosque in Beijing, and also established a charity school in the southern suburbs of Nanjing.
+
+![image](https://files.catbox.moe/4szhd3.jpg)
+
+![image](https://files.catbox.moe/kd8u8z.jpg)
+
+![image](https://files.catbox.moe/jojznk.jpg)
+
+![image](https://files.catbox.moe/siapq7.jpg)
+
+![image](https://files.catbox.moe/q59xkv.jpg)
+
+![image](https://files.catbox.moe/4shc6q.jpg)
+
+**Xiaowangfu Lane Mosque**
+
+The Xiaowangfu Lane Mosque was built in the late Tongzhi reign of the Qing Dynasty. It is one of the few remaining old buildings among the 33 traditional Hui Muslim neighborhoods in Nanjing. The mihrab (the niche in the wall indicating the direction of Mecca) currently in the Jingjue Mosque was moved here from the Xiaowangfu Lane Mosque. The Xiaowangfu Lane Mosque was used as a residential area for a long time, but it has now been vacated and may soon have a new purpose.
+
+In 1917, the Xiaowangfu Lane Mosque founded the private Wuben Primary School to teach both general subjects and religious knowledge. It moved to the entrance of Xiaowangfu Lane on Fengfu Road in 1953 and became a public school in 1956.
+
+![image](https://files.catbox.moe/6vlucf.jpg)
+
+![image](https://files.catbox.moe/ug8u0n.jpg)
+
+![image](https://files.catbox.moe/gtk11f.jpg)
+
+![image](https://files.catbox.moe/ediyzz.jpg)
+
+![image](https://files.catbox.moe/5s76sh.jpg)
+
+![image](https://files.catbox.moe/cpop9k.jpg)
+
+![image](https://files.catbox.moe/apbcqv.jpg)
+
+![image](https://files.catbox.moe/y8bc4c.jpg)
+
+![image](https://files.catbox.moe/td2y51.jpg)
+
+**Anleyuan**
+
+Every time I visit Nanjing, I make sure to have morning tea at Anleyuan. The morning tea used to be served in the main dining room, but it has moved to the hot pot hall on the right. The menu, however, remains the same.
+
+We arrived after ten o'clock, and it wasn't very crowded. We ordered roast duck with dried tofu strips (ya gan si), shark fin golden cake, crystal shrimp dumplings, red bean soup with rice balls (chidou yuanxiao), water shield vegetable steamed dumplings (jiao'ercai zhengjiao), duck and pine nut steamed dumplings (shaomai), beef spring rolls, and crispy fried dough (sanzi) with tofu pudding, all paired with Yuhua tea. Anleyuan is a great place to experience the charm of Jinling's Hui Muslim cuisine, especially if you are dining with a group.
+
+Anleyuan was founded in 1920 by Cai Jiheng, a Hui Muslim from Nanjing. Originally called Anleju Restaurant, it has been in business for 105 years. Anleyuan was first located at 64 Pingshi Street (formerly Shuixiangkou) in the Hui Muslim community of Qijiawan. It later moved to the Jiangxi Guild Hall at 19 Pingshi Street, specializing in snacks like sweet red bean paste buns and assorted vegetable buns.
+
+In 1949, owner Cai Jiheng was getting old, so he handed the restaurant over to his son, Cai Yuting. Cai Yuting was a scholar by trade and did not know how to run a business, so the restaurant's sales began to decline. In 1952, Li Fuquan, who ran a restaurant at Chaotian Palace, bought the Anleju Restaurant and renamed it Anleyuan Restaurant. Owner Li introduced signature braised dishes like salt-water duck (yanshui ya), sliced dried beef (ganqie niurou), braised wheat gluten (lu mianjin), and smoked fish (xunyu), which won high praise from customers.
+
+In 1956, during the public-private partnership period, Anleyuan merged with the state-owned Heping Canteen and moved to Shengzhou Road, west of Qijiawan. It grew from a small eatery into a medium-sized restaurant of 400 square meters with 14 tables, gaining a steady base of diners. In 1961, Anleyuan moved again to Mochou Road near Chaotian Palace. The space expanded further, and they introduced new dishes like braised fish maw with three delicacies (sanxian hui yudu) and crispy beef (xiangsu niurou), entering the ranks of high-end restaurants. In 1966, Anleyuan was renamed Victory Restaurant (Shengli Fandian), but it changed back to its original name in 1972. In 2001, due to the development of the Chaotian Palace South Square, Anleyuan was relocated to its current site on Wangfu Street. The new shop expanded to 2,000 square meters, becoming a large restaurant with three separate areas for snacks, main meals, and hot pot.
+
+![image](https://files.catbox.moe/d4d3gk.jpg)
+
+![image](https://files.catbox.moe/r9hm93.jpg)
+
+![image](https://files.catbox.moe/pexa8u.jpg)
+
+![image](https://files.catbox.moe/cd8vrs.jpg)
+
+![image](https://files.catbox.moe/r4x1uh.jpg)
+
+![image](https://files.catbox.moe/pyzf6h.jpg)
+
+![image](https://files.catbox.moe/as274a.jpg)
+
+![image](https://files.catbox.moe/dsnzm4.jpg)
+
+![image](https://files.catbox.moe/3uz0ck.jpg)
+
+![image](https://files.catbox.moe/hvy1gv.jpg)
+
+![image](https://files.catbox.moe/jzyj3b.jpg)
+
+**Li Rongxing**
+
+At noon, we went to the old Hui Muslim brand Li Rongxing on Xufu Lane in Nanjing for lunch. I ate at their original shop ten years ago, and this time I found they have opened chain stores, including a branch here in the north of the city.
+
+We ordered beef potstickers (niurou guotie), beef wontons (niurou huntun), beef vermicelli soup (niurou fensi tang), smoked fish noodles (xunyu mian), beef soup dumplings (niurou guantangbao), and assorted vegetables (su shijin), which are all considered typical Nanjing Hui Muslim specialties. The snacks of Nanjing Hui Muslims are characterized by a hint of sweetness. I find this quite unique, but people from the north might not be used to it.
+
+Li Rongxing is a famous old brand from Qijiawan, founded by Li Houming in 1914. It started at the T-junction of Qijiawan and Ganyu Lane, and was best known for its pan-fried beef buns (niurou jianbao), beef soup, and smoked beef. In 2002, Li Rongxing's third-generation successor, Li Bangzheng, opened a Li Rongxing on Fenghuang West Street, and in 2006, it moved to Nanhu East Road. The current owner, Li Guofan, is the fourth-generation successor of Li Rongxing. Additionally, the most famous Li's Restaurant (Liji) in Qijiawan today is run by Li Bangzheng's cousin, Li Bangjie, who once worked with him at a salted duck factory.
+
+![image](https://files.catbox.moe/uowm01.jpg)
+
+![image](https://files.catbox.moe/31qwqu.jpg)
+
+![image](https://files.catbox.moe/gssdav.jpg)
+
+![image](https://files.catbox.moe/6vgi12.jpg)
+
+![image](https://files.catbox.moe/cgm0vh.jpg)
+
+![image](https://files.catbox.moe/sztb2r.jpg)
+
+![image](https://files.catbox.moe/wbhpbh.jpg)
+
+![image](https://files.catbox.moe/lxgh6o.jpg)
+
+![image](https://files.catbox.moe/sf8fvl.jpg)
+
+![image](https://files.catbox.moe/ashq2f.jpg)
+
+**Lvliuju**
+
+Next to Li Rongxing on Xufu Lane is another long-standing shop, Lvliuju. Their shop is quite small. Besides their most popular green sticky rice balls (qingtuan), they serve simple meals like duck blood vermicelli soup (laoya fensi tang), bamboo shoot and beef brisket rice (sungand niunan fan), braised three-delicacy rice (hui sanxian fan), and smoked fish assorted noodles (xunyu shijin mian). We bought some of their signature three-colored cakes (sanse gao).
+
+Lvliuju was founded in 1912 at Taoye Ferry by the Qinhuai River. It started as a high-end vegetarian restaurant, and people like Kong Xiangxi, Chiang Ching-kuo, Bai Chongxi, and the Soong sisters often ate there. After 1949, Lvliuju closed for a time. It reopened in 1963 on Taiping South Road at Yanggongjing, hiring the famous chef Chen Bingyu to lead the kitchen and continue serving authentic vegetarian food. A major feature of Lvliuju is making vegetarian dishes taste like meat. Their vegetarian chicken (suji) and vegetarian duck (suya), made from tofu skin, gluten, and dried bean curd sticks with herbal seasonings, are delicious. In 1987, Lvliuju added halal dishes to its vegetarian menu and became a halal restaurant, though it still specializes in vegetarian food. It is now a national-level intangible cultural heritage.
+
+![image](https://files.catbox.moe/gn6nsv.jpg)
+
+![image](https://files.catbox.moe/e7m9o7.jpg)
+
+![image](https://files.catbox.moe/zf0hiz.jpg)
+
+![image](https://files.catbox.moe/rad9ay.jpg)
+
+![image](https://files.catbox.moe/o4dunb.jpg)
+
+![image](https://files.catbox.moe/knx4xk.jpg)
+
+![image](https://files.catbox.moe/ub3hm1.jpg)
+
+![image](https://files.catbox.moe/qg7opq.jpg)
+
+![image](https://files.catbox.moe/mywvd0.jpg)
+
+![image](https://files.catbox.moe/slg0pc.jpg)
+
+**Liuhe South Gate Mosque**
+
+Leaving the Nanjing city area, we crossed the Yangtze River and headed north to Liuhe District, where we performed namaz at the Liuhe South Gate Mosque.
+
+There were once seven mosques and three women's schools in Liuhe. Today, the Changjiang Road Mosque, South Gate Mosque, and Zhuzhen Mosque are open, and the historic buildings of the South Gate Women's School and Zhuzhen Women's School remain.
+
+The Liuhe South Gate Mosque was first built in 1403 (the first year of the Yongle reign of the Ming Dynasty) and rebuilt in 1553 (the 32nd year of the Jiajing reign). It was destroyed during the Taiping Rebellion and later rebuilt. The famous Imam Da Pusheng, one of the four great imams of the Republic of China, had three generations of his family—from his great-grandfather to his father—serve as the imam at South Gate Mosque. The old Da family home is on the Halal Street (Qingzhen Jie) right at the mosque entrance. Imam Da Pusheng studied the scriptures at South Gate Mosque for seven years, from age 10 to 17, before going to Nanjing and Beijing for further study.
+
+The ancestor of the Da family of the Baiye Hall, where Imam Da Pusheng belonged, was Mubalesha from the Western Regions during the Yuan Dynasty. Research shows he belonged to the Kipchak Yuliberi tribe and served as a Darughachi in Zhenjiang before passing away in Zhenjiang. His sixth-generation descendant, Da Shan, moved from Zhenjiang to Liuhe in the early Ming Dynasty to serve as a county magistrate candidate. He settled in Liuhe, making them the oldest Hui Muslim family from the Western Regions in the area.
+
+After 1966, the South Gate Mosque was used as a kindergarten. During that time, the Shamao Hall (duiting), the north wing, the red gate, and the entrance hall were demolished. The kindergarten moved out in 1975, and Baozhen Primary School borrowed the space for a while. It was finally reclaimed in 2000 after the school moved out. The main hall was raised and rebuilt in 2013. Later, the Unity Pagoda (Tongxin Ta) and Tongxing Building were built, and the site finally opened to the public in 2020.
+
+![image](https://files.catbox.moe/ulfc9u.jpg)
+
+![image](https://files.catbox.moe/0nay96.jpg)

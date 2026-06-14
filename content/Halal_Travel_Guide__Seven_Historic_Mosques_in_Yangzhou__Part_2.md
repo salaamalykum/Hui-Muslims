@@ -14,4 +14,22 @@ layout: "article"
 
 # Halal Travel Guide: Seven Historic Mosques in Yangzhou, Part 2
 
-**Reposted from the web**\n\n**Summary:** The second part of the Yangzhou mosque journey focuses on Baoying and local Hui Muslim food connected to the mosque community. This short account keeps the restaurant, halal meat details, and photographs from the original post.\n\n![image](https://files.catbox.moe/zfm7g8.jpg)\n\n![image](https://files.catbox.moe/x1ceqt.jpg)\n\n![image](https://files.catbox.moe/3ge1ph.jpg)\n\n![image](https://files.catbox.moe/onfj21.jpg)\n\n![image](https://files.catbox.moe/bx6qkp.jpg)\n\n![image](https://files.catbox.moe/b6zhxy.jpg)\n\nBaoying County also has a beef and lamb restaurant run by local Hui Muslims. You can eat local Hui Muslim specialties there, and all the meat is slaughtered by Imam Li. It is a pity that the owner was busy and the shop was closed when we visited. If you are passing through Baoying County, I recommend that fellow Muslims (dost) stop by and give it a try.\n\n![image](https://files.catbox.moe/aqeb4f.jpg)
+**Reposted from the web**
+
+**Summary:** The second part of the Yangzhou mosque journey focuses on Baoying and local Hui Muslim food connected to the mosque community. This short account keeps the restaurant, halal meat details, and photographs from the original post.
+
+![image](https://files.catbox.moe/zfm7g8.jpg)
+
+![image](https://files.catbox.moe/x1ceqt.jpg)
+
+![image](https://files.catbox.moe/3ge1ph.jpg)
+
+![image](https://files.catbox.moe/onfj21.jpg)
+
+![image](https://files.catbox.moe/bx6qkp.jpg)
+
+![image](https://files.catbox.moe/b6zhxy.jpg)
+
+Baoying County also has a beef and lamb restaurant run by local Hui Muslims. You can eat local Hui Muslim specialties there, and all the meat is slaughtered by Imam Li. It is a pity that the owner was busy and the shop was closed when we visited. If you are passing through Baoying County, I recommend that fellow Muslims (dost) stop by and give it a try.
+
+![image](https://files.catbox.moe/aqeb4f.jpg)

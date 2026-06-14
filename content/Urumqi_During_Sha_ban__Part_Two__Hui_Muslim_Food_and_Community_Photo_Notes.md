@@ -14,4 +14,28 @@ layout: "article"
 
 # Urumqi During Sha'ban, Part Two: Hui Muslim Food and Community Photo Notes
 
-**Reposted from the web**\n\n**Summary:** This short second part of the Urumqi Sha'ban travel note is primarily a photo continuation from the local Hui Muslim food and community visit. It preserves the source's image sequence and article structure without adding details that were not present in the Chinese source.\n\n![image](https://files.catbox.moe/zf4ib1.jpg)\n\n![image](https://files.catbox.moe/kp5kc7.jpg)\n\n![image](https://files.catbox.moe/04k3zo.jpg)\n\n![image](https://files.catbox.moe/5glioe.jpg)\n\n![image](https://files.catbox.moe/gxqanf.jpg)\n\n![image](https://files.catbox.moe/uh5yp1.jpg)\n\n![image](https://files.catbox.moe/votchd.jpg)\n\n![image](https://files.catbox.moe/prd0lo.jpg)\n\n![image](https://files.catbox.moe/ruans7.jpg)\n\n![image](https://files.catbox.moe/uwm77q.jpg)\n\n![image](https://files.catbox.moe/q3ry6d.jpg)
+**Reposted from the web**
+
+**Summary:** This short second part of the Urumqi Sha'ban travel note is primarily a photo continuation from the local Hui Muslim food and community visit. It preserves the source's image sequence and article structure without adding details that were not present in the Chinese source.
+
+![image](https://files.catbox.moe/zf4ib1.jpg)
+
+![image](https://files.catbox.moe/kp5kc7.jpg)
+
+![image](https://files.catbox.moe/04k3zo.jpg)
+
+![image](https://files.catbox.moe/5glioe.jpg)
+
+![image](https://files.catbox.moe/gxqanf.jpg)
+
+![image](https://files.catbox.moe/uh5yp1.jpg)
+
+![image](https://files.catbox.moe/votchd.jpg)
+
+![image](https://files.catbox.moe/prd0lo.jpg)
+
+![image](https://files.catbox.moe/ruans7.jpg)
+
+![image](https://files.catbox.moe/uwm77q.jpg)
+
+![image](https://files.catbox.moe/q3ry6d.jpg)

@@ -14,4 +14,128 @@ layout: "article"
 
 # Halal Travel Guide: Xiaoquan, Sichuan - Hui Muslim Street and Old Town
 
-**Reposted from the web**\n\n**Summary:** Xiaoquan Ancient Town in Sichuan has a Hui Muslim community centered on Banbian Street and Xiaoquan Mosque, with roots traced to early Qing migration and military settlement. This travel account follows the town halal food, Deng family history, mosque architecture, Qing-era inscriptions, and Xiaoquan juice beef.\n\nI took the high-speed train from Songpan, Sichuan, to Mianzhu South Station, then took a 20-minute taxi ride to the ancient town of Xiaoquan. The ancient town is quite quiet, and most shops were closed by eight o'clock. I caught the Dengji Restaurant at the gate of Xiaoquan Mosque just in time to get some braised beef (shao niurou). My altitude sickness from Songpan had completely disappeared by then, so I ate a big bowl of rice with the beef and pickled radishes, and my appetite was huge.\n\nPassing by Dengji Restaurant the next day, I saw many flat geese (ban'e) hanging at their door, which is a specialty of the Hui Muslims in Sichuan.\n\nThe Deng family is the earliest Hui Muslim family in Xiaoquan ancient town, arriving during the early Qing Dynasty when people moved from Hubei and Hunan to Sichuan. Legend has it that after the Three Feudatories were suppressed during the Kangxi era of the Qing Dynasty, the Sichuan governor asked the Ministry of War to strengthen the Mianzhu garrison. At that time, Hui Muslims surnamed Deng from Cangzhou, Hebei, led their troops to rest at the Hui camp in Liujiaji, Macheng, Hubei, before moving along the Yangtze River to station in Xiaoquan. This is the earliest origin of the Hui Muslims in Xiaoquan.\n\n![image](https://files.catbox.moe/i64nws.jpg)\n\n![image](https://files.catbox.moe/4pcrz7.jpg)\n\n![image](https://files.catbox.moe/t37bev.jpg)\n\n![image](https://files.catbox.moe/f1gvgz.jpg)\n\n![image](https://files.catbox.moe/hvcjxn.jpg)\n\n![image](https://files.catbox.moe/t7mkyf.jpg)\n\n![image](https://files.catbox.moe/mv3292.jpg)\n\nOn the morning at Banbian Street in Xiaoquan, Sichuan, the street was full of various marinated meats made by Hui Muslims, including beef tongue, flat goose (ban'e), and beef sausage, which are very popular. I had a bowl of beef steak rice noodles at a place called Qingfangge. It was very spicy and numbing, and they added blanched pea tips on top. Then I had a freshly baked beef bun (niurou baozi) at another shop, and it tasted delicious.\n\nMost Hui Muslims in Xiaoquan came during the Qing Dynasty migration from Hubei and Hunan. The four major surnames are Deng, Ma, Liu, and Huang, along with others like Zhang, Bao, Ding, La, Li, and Sha. Most of the Hui Muslims in Xiaoquan live in the Banbian Street area near the gate of the Xiaoquan Mosque. Although many people later moved to Chengdu, Deyang, and Mianyang, there are still over a hundred households there today.\n\n![image](https://files.catbox.moe/9dedsu.jpg)\n\n![image](https://files.catbox.moe/c420mp.jpg)\n\n![image](https://files.catbox.moe/9deklw.jpg)\n\n![image](https://files.catbox.moe/pm1jwl.jpg)\n\n![image](https://files.catbox.moe/n021ay.jpg)\n\n![image](https://files.catbox.moe/2h619n.jpg)\n\n![image](https://files.catbox.moe/u36aec.jpg)\n\n![image](https://files.catbox.moe/zuwztl.jpg)\n\n![image](https://files.catbox.moe/iehv2r.jpg)\n\nThe Xiaoquan Mosque was built during the Kangxi era of the Qing Dynasty next to the Lingu Mosque on Guihua Street, and it was quite small at first. As the number of Hui Muslims grew in the mid-Qing Dynasty, the Deng and Ma families led a fundraising effort in 1840 (the 20th year of the Daoguang reign) to buy the Feng family ancestral hall on Banbian Street. They rebuilt it into the current Xiaoquan Mosque and renovated it again during the Guangxu era, creating the traditional four-sided water courtyard (si shui gui tang) architectural style. The four-sided water courtyard means the four sloping roofs tilt toward the central courtyard, collecting rainwater into the center to create a layout where water from all directions gathers in the bright hall.\n\nThe couplet on the main gate was written by Huang Menghui, a local Hui Muslim calligrapher from Xiaoquan. Huang is a retired employee of the Xiaoquan Supply and Marketing Cooperative and is now a committee member of the Xiaoquan Mosque management board. He has loved calligraphy since he was a child and is now a famous Hui Muslim calligrapher in Xiaoquan.\n\n![image](https://files.catbox.moe/0lceit.jpg)\n\n![image](https://files.catbox.moe/vhul5v.jpg)\n\n![image](https://files.catbox.moe/mqtiy4.jpg)\n\n![image](https://files.catbox.moe/d9xit4.jpg)\n\n![image](https://files.catbox.moe/kt9e1g.jpg)\n\n![image](https://files.catbox.moe/eik4gx.jpg)\n\n![image](https://files.catbox.moe/megl02.jpg)\n\n![image](https://files.catbox.moe/1y9bss.jpg)\n\n![image](https://files.catbox.moe/i1bk6v.jpg)\n\nThe Xiaoquan Mosque was severely damaged during the Wenchuan earthquake, but it was later restored, and the Qing Dynasty wood carvings were preserved.\n\n![image](https://files.catbox.moe/y9z9o0.jpg)\n\n![image](https://files.catbox.moe/qyim1c.jpg)\n\n![image](https://files.catbox.moe/s4xob7.jpg)\n\n![image](https://files.catbox.moe/kbp9m7.jpg)\n\n![image](https://files.catbox.moe/vw619p.jpg)\n\n![image](https://files.catbox.moe/yj8p5s.jpg)\n\n![image](https://files.catbox.moe/w1blb9.jpg)\n\n![image](https://files.catbox.moe/8az8xy.jpg)\n\n![image](https://files.catbox.moe/yxi19q.jpg)\n\nThere are 15 hand-copied scriptures from the Daoguang era currently preserved at the Xiaoquan Mosque.\n\n![image](https://files.catbox.moe/1w5e0e.jpg)\n\n![image](https://files.catbox.moe/aex2jb.jpg)\n\nThe Qing Dynasty stone tablets at the Xiaoquan Mosque include one from the 23rd year of the Daoguang reign. It records how a Hui Muslim named Zhang Zongfa honored his parents and, after they passed away, sincerely donated to the Xiaoquan Mosque by buying a vegetable garden, dry land, and building foundations from the Deng family and donating them to the mosque. After Zhang Zongfa passed away, members of the community carved his deeds into stone under the corridor of the mosque to honor his name.\n\n![image](https://files.catbox.moe/uc8pqt.jpg)\n\n![image](https://files.catbox.moe/wezy1x.jpg)\n\n![image](https://files.catbox.moe/q6ht8e.jpg)\n\n![image](https://files.catbox.moe/fu8ekl.jpg)\n\n![image](https://files.catbox.moe/zi4ntt.jpg)\n\n![image](https://files.catbox.moe/qdo3mh.jpg)\n\n![image](https://files.catbox.moe/30sndz.jpg)\n\nBefore leaving, I bought some specialty juice beef (guozhi niurou) on Banbian Street. Xiaoquan juice beef comes from traditional Sichuan braised beef. During the Republic of China era, a Hui Muslim named Ma Daoyong used a method of frying the beef first and then adding flavor to solve the problem of braised beef molding easily. He created a beef that is juicy and flavorful, which eventually developed into the current Xiaoquan juice beef. When Ma Daoyong first sold juice beef, he used the brand name of his eldest son, Ma Changheng. After the public-private partnership in 1956, Ma Daoyong founded the Xiaoquan Supply and Marketing Cooperative Halal Food Factory. His youngest son, Ma Changmeng, took over in 1977 and became the factory director in 1993. In 1995, the organization arranged for Ma Changmeng to work at a hardware company. He later applied for unpaid leave to start his own food factory and began producing Ma Changmeng Juice Beef.\n\nThere are many beef juice shops on Banbian Street now, and after walking around, I saw the prices are all about the same. The clerk at this Ma Changbin shop wears a headscarf, and since there were quite a few customers, I decided to buy from them. It actually tastes a bit like shadow beef (dengying niurou), very fragrant and perfect as a snack when you are out and about.\n\n![image](https://files.catbox.moe/dzydj0.jpg)\n\n![image](https://files.catbox.moe/5u5dqx.jpg)\n\n![image](https://files.catbox.moe/p8qe5s.jpg)\n\n![image](https://files.catbox.moe/md8cq1.jpg)\n\n![image](https://files.catbox.moe/rc31za.jpg)\n\n![image](https://files.catbox.moe/5tkp0k.jpg)
+**Reposted from the web**
+
+**Summary:** Xiaoquan Ancient Town in Sichuan has a Hui Muslim community centered on Banbian Street and Xiaoquan Mosque, with roots traced to early Qing migration and military settlement. This travel account follows the town halal food, Deng family history, mosque architecture, Qing-era inscriptions, and Xiaoquan juice beef.
+
+I took the high-speed train from Songpan, Sichuan, to Mianzhu South Station, then took a 20-minute taxi ride to the ancient town of Xiaoquan. The ancient town is quite quiet, and most shops were closed by eight o'clock. I caught the Dengji Restaurant at the gate of Xiaoquan Mosque just in time to get some braised beef (shao niurou). My altitude sickness from Songpan had completely disappeared by then, so I ate a big bowl of rice with the beef and pickled radishes, and my appetite was huge.
+
+Passing by Dengji Restaurant the next day, I saw many flat geese (ban'e) hanging at their door, which is a specialty of the Hui Muslims in Sichuan.
+
+The Deng family is the earliest Hui Muslim family in Xiaoquan ancient town, arriving during the early Qing Dynasty when people moved from Hubei and Hunan to Sichuan. Legend has it that after the Three Feudatories were suppressed during the Kangxi era of the Qing Dynasty, the Sichuan governor asked the Ministry of War to strengthen the Mianzhu garrison. At that time, Hui Muslims surnamed Deng from Cangzhou, Hebei, led their troops to rest at the Hui camp in Liujiaji, Macheng, Hubei, before moving along the Yangtze River to station in Xiaoquan. This is the earliest origin of the Hui Muslims in Xiaoquan.
+
+![image](https://files.catbox.moe/i64nws.jpg)
+
+![image](https://files.catbox.moe/4pcrz7.jpg)
+
+![image](https://files.catbox.moe/t37bev.jpg)
+
+![image](https://files.catbox.moe/f1gvgz.jpg)
+
+![image](https://files.catbox.moe/hvcjxn.jpg)
+
+![image](https://files.catbox.moe/t7mkyf.jpg)
+
+![image](https://files.catbox.moe/mv3292.jpg)
+
+On the morning at Banbian Street in Xiaoquan, Sichuan, the street was full of various marinated meats made by Hui Muslims, including beef tongue, flat goose (ban'e), and beef sausage, which are very popular. I had a bowl of beef steak rice noodles at a place called Qingfangge. It was very spicy and numbing, and they added blanched pea tips on top. Then I had a freshly baked beef bun (niurou baozi) at another shop, and it tasted delicious.
+
+Most Hui Muslims in Xiaoquan came during the Qing Dynasty migration from Hubei and Hunan. The four major surnames are Deng, Ma, Liu, and Huang, along with others like Zhang, Bao, Ding, La, Li, and Sha. Most of the Hui Muslims in Xiaoquan live in the Banbian Street area near the gate of the Xiaoquan Mosque. Although many people later moved to Chengdu, Deyang, and Mianyang, there are still over a hundred households there today.
+
+![image](https://files.catbox.moe/9dedsu.jpg)
+
+![image](https://files.catbox.moe/c420mp.jpg)
+
+![image](https://files.catbox.moe/9deklw.jpg)
+
+![image](https://files.catbox.moe/pm1jwl.jpg)
+
+![image](https://files.catbox.moe/n021ay.jpg)
+
+![image](https://files.catbox.moe/2h619n.jpg)
+
+![image](https://files.catbox.moe/u36aec.jpg)
+
+![image](https://files.catbox.moe/zuwztl.jpg)
+
+![image](https://files.catbox.moe/iehv2r.jpg)
+
+The Xiaoquan Mosque was built during the Kangxi era of the Qing Dynasty next to the Lingu Mosque on Guihua Street, and it was quite small at first. As the number of Hui Muslims grew in the mid-Qing Dynasty, the Deng and Ma families led a fundraising effort in 1840 (the 20th year of the Daoguang reign) to buy the Feng family ancestral hall on Banbian Street. They rebuilt it into the current Xiaoquan Mosque and renovated it again during the Guangxu era, creating the traditional four-sided water courtyard (si shui gui tang) architectural style. The four-sided water courtyard means the four sloping roofs tilt toward the central courtyard, collecting rainwater into the center to create a layout where water from all directions gathers in the bright hall.
+
+The couplet on the main gate was written by Huang Menghui, a local Hui Muslim calligrapher from Xiaoquan. Huang is a retired employee of the Xiaoquan Supply and Marketing Cooperative and is now a committee member of the Xiaoquan Mosque management board. He has loved calligraphy since he was a child and is now a famous Hui Muslim calligrapher in Xiaoquan.
+
+![image](https://files.catbox.moe/0lceit.jpg)
+
+![image](https://files.catbox.moe/vhul5v.jpg)
+
+![image](https://files.catbox.moe/mqtiy4.jpg)
+
+![image](https://files.catbox.moe/d9xit4.jpg)
+
+![image](https://files.catbox.moe/kt9e1g.jpg)
+
+![image](https://files.catbox.moe/eik4gx.jpg)
+
+![image](https://files.catbox.moe/megl02.jpg)
+
+![image](https://files.catbox.moe/1y9bss.jpg)
+
+![image](https://files.catbox.moe/i1bk6v.jpg)
+
+The Xiaoquan Mosque was severely damaged during the Wenchuan earthquake, but it was later restored, and the Qing Dynasty wood carvings were preserved.
+
+![image](https://files.catbox.moe/y9z9o0.jpg)
+
+![image](https://files.catbox.moe/qyim1c.jpg)
+
+![image](https://files.catbox.moe/s4xob7.jpg)
+
+![image](https://files.catbox.moe/kbp9m7.jpg)
+
+![image](https://files.catbox.moe/vw619p.jpg)
+
+![image](https://files.catbox.moe/yj8p5s.jpg)
+
+![image](https://files.catbox.moe/w1blb9.jpg)
+
+![image](https://files.catbox.moe/8az8xy.jpg)
+
+![image](https://files.catbox.moe/yxi19q.jpg)
+
+There are 15 hand-copied scriptures from the Daoguang era currently preserved at the Xiaoquan Mosque.
+
+![image](https://files.catbox.moe/1w5e0e.jpg)
+
+![image](https://files.catbox.moe/aex2jb.jpg)
+
+The Qing Dynasty stone tablets at the Xiaoquan Mosque include one from the 23rd year of the Daoguang reign. It records how a Hui Muslim named Zhang Zongfa honored his parents and, after they passed away, sincerely donated to the Xiaoquan Mosque by buying a vegetable garden, dry land, and building foundations from the Deng family and donating them to the mosque. After Zhang Zongfa passed away, members of the community carved his deeds into stone under the corridor of the mosque to honor his name.
+
+![image](https://files.catbox.moe/uc8pqt.jpg)
+
+![image](https://files.catbox.moe/wezy1x.jpg)
+
+![image](https://files.catbox.moe/q6ht8e.jpg)
+
+![image](https://files.catbox.moe/fu8ekl.jpg)
+
+![image](https://files.catbox.moe/zi4ntt.jpg)
+
+![image](https://files.catbox.moe/qdo3mh.jpg)
+
+![image](https://files.catbox.moe/30sndz.jpg)
+
+Before leaving, I bought some specialty juice beef (guozhi niurou) on Banbian Street. Xiaoquan juice beef comes from traditional Sichuan braised beef. During the Republic of China era, a Hui Muslim named Ma Daoyong used a method of frying the beef first and then adding flavor to solve the problem of braised beef molding easily. He created a beef that is juicy and flavorful, which eventually developed into the current Xiaoquan juice beef. When Ma Daoyong first sold juice beef, he used the brand name of his eldest son, Ma Changheng. After the public-private partnership in 1956, Ma Daoyong founded the Xiaoquan Supply and Marketing Cooperative Halal Food Factory. His youngest son, Ma Changmeng, took over in 1977 and became the factory director in 1993. In 1995, the organization arranged for Ma Changmeng to work at a hardware company. He later applied for unpaid leave to start his own food factory and began producing Ma Changmeng Juice Beef.
+
+There are many beef juice shops on Banbian Street now, and after walking around, I saw the prices are all about the same. The clerk at this Ma Changbin shop wears a headscarf, and since there were quite a few customers, I decided to buy from them. It actually tastes a bit like shadow beef (dengying niurou), very fragrant and perfect as a snack when you are out and about.
+
+![image](https://files.catbox.moe/dzydj0.jpg)
+
+![image](https://files.catbox.moe/5u5dqx.jpg)
+
+![image](https://files.catbox.moe/p8qe5s.jpg)
+
+![image](https://files.catbox.moe/md8cq1.jpg)
+
+![image](https://files.catbox.moe/rc31za.jpg)
+
+![image](https://files.catbox.moe/5tkp0k.jpg)

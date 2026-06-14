@@ -14,4 +14,310 @@ layout: "article"
 
 # Halal Travel Guide: Jiangsu - 25 Historic Mosques, Part 4
 
-**Reposted from the web**\n\n**Summary:** This fourth part of the Jiangsu mosque series records historic mosque sites in Nanjing and Liuhe, including Taiping Road Mosque, Caoqiao Mosque, Xiaowangfu Lane Mosque, Hushu Mosque, South Gate Mosque, Changjiang Road Mosque, and Zhuzhen Mosque. The article preserves founding dates, women's mosque history, Da Pusheng family records, stone tablets, ancient trees, and surviving architectural details.\n\n![image](https://files.catbox.moe/wxcrym.jpg)\n\n![image](https://files.catbox.moe/yybvlw.jpg)\n\n![image](https://files.catbox.moe/zhooe7.jpg)\n\n![image](https://files.catbox.moe/a0y7vn.jpg)\n\n![image](https://files.catbox.moe/mztzsp.jpg)\n\n![image](https://files.catbox.moe/b52kyg.jpg)\n\n![image](https://files.catbox.moe/i7mfs4.jpg)\n\n![image](https://files.catbox.moe/17to3d.jpg)\n\nThe front hall of the former Taiping Road Mosque served as the office for the chairman of the Chinese Islamic Association between 1945 and 1949, where Bai Chongxi once worked.\n\n![image](https://files.catbox.moe/dqfrs6.jpg)\n\n![image](https://files.catbox.moe/ax3zu6.jpg)\n\n![image](https://files.catbox.moe/k8q3em.jpg)\n\n![image](https://files.catbox.moe/dse0ga.jpg)\n\n![image](https://files.catbox.moe/pxm13l.jpg)\n\n![image](https://files.catbox.moe/p69x9v.jpg)\n\n![image](https://files.catbox.moe/om8zn8.jpg)\n\n![image](https://files.catbox.moe/med6h2.jpg)\n\nThe brick carving titled 'Purifying the Heart and Gazing at the Palace' (xixin zhanque) from the water room of the former Taiping Road Mosque.\n\n![image](https://files.catbox.moe/skwaj6.jpg)\n\nThe former Taiping Road Mosque collection includes the 'Postscript to the Filial Piety Arch for Mother' written by Jiang Guobang. It records that Jiang, a wealthy Nanjing merchant, lost his father early and was raised by his mother, Madam Ma. In 1911 (the third year of the Xuantong reign), he petitioned to build a memorial arch for his mother's filial piety. Due to the change in government, it was finally completed in 1914.\n\nJiang Guobang came from the wealthy Jiang merchant family of Jinling, but he was indifferent to fame and wealth, dedicating himself to the study of traditional Chinese classics. Jiang Guobang was very filial. To provide his mother with a good place for her retirement, he spent a large sum of money to buy the Small Ten Thousand Willow Hall (xiaowanliutang) by West Lake in Hangzhou, later naming it 'Jiang Manor' (Jiangzhuang), which was one of the three major manors of West Lake at the time. Jiang Guobang oversaw the reconstruction of the Taiping Road Mosque in 1924 and later built a filial piety arch for his mother inside the mosque. The arch no longer exists, leaving only the stone tablet record.\n\n![image](https://files.catbox.moe/rd1six.jpg)\n\n![image](https://files.catbox.moe/ssqe34.jpg)\n\n![image](https://files.catbox.moe/kb5vtz.jpg)\n\nThe Qing dynasty well railing and the Guangxu reign stone tablet at Caoqiao Mosque. Caoqiao Mosque was first built during the Guangxu reign of the Qing dynasty, destroyed by fire during the Taiping Rebellion, and rebuilt in the early years of the Tongzhi reign. Because it was located in Qijiawan, a neighborhood where Hui Muslims lived, Caoqiao Mosque once had the largest number of congregants in Nanjing. Historically, Caoqiao Mosque had no property of its own; its daily expenses were covered by the Beef and Bone Trade Association located within the mosque. After 1958, Caoqiao Mosque was occupied and later rented to the Nanjing Woodware Factory, suffering severe damage. The property was returned in 1985 but remained closed until it was demolished in 2003.\n\n![image](https://files.catbox.moe/9wgx8y.jpg)\n\n![image](https://files.catbox.moe/h2plor.jpg)\n\n![image](https://files.catbox.moe/6312eg.jpg)\n\n**Xiaowangfu Lane Mosque.**\n\nXiaowangfu Lane Mosque was first built in the late Tongzhi reign of the Qing dynasty. It is one of the few remaining old buildings among the 33 mosques in Nanjing from the Republic of China era. The mihrab (mihalabu) niche currently in Jingjue Mosque was moved here from the Xiaowangfu Lane Mosque. Xiaowangfu Lane Mosque was used as a residence for a long time. It has now been vacated and may be put to new use.\n\nIn 1917, Xiaowangfu Lane Mosque founded the private Wuben Primary School to teach cultural subjects and Islamic knowledge. It moved to the entrance of Xiaowangfu Lane on Fengfu Road in 1953 and became a municipal school in 1956.\n\n![image](https://files.catbox.moe/8o459c.jpg)\n\n![image](https://files.catbox.moe/awvzhs.jpg)\n\n![image](https://files.catbox.moe/9evrjp.jpg)\n\n![image](https://files.catbox.moe/3g0vm6.jpg)\n\n![image](https://files.catbox.moe/mnfmbc.jpg)\n\n![image](https://files.catbox.moe/lpmwqg.jpg)\n\n![image](https://files.catbox.moe/qtkqz4.jpg)\n\n![image](https://files.catbox.moe/87ws9n.jpg)\n\n![image](https://files.catbox.moe/sqd8wv.jpg)\n\n**Hushu Mosque.**\n\nHushu Mosque was first built in 1392 (the 25th year of the Hongwu reign). It was destroyed during the Taiping Rebellion, and the main hall was rebuilt in 1896 (the 22nd year of the Guangxu reign). In 1911, five tile-roofed rooms were built on the left side in front of the main hall, with the water room on the left, dormitories on the right, and a guest hall in the middle. In 1919, three rooms of the front hall, five rooms of the main hall, and two rooms of the east wing at the main gate were rebuilt.\n\nAround 1932, a primary school for Hui Muslim children was established inside Hushu Mosque, which moved out of the mosque in 1956. In 1964, the main hall of Hushu Mosque was demolished during the 'Four Cleanups Movement' and was occupied by the Hushu Straw Bag Factory, Hushu Hardware Factory, and Hushu Supply and Marketing Cooperative during the Cultural Revolution. The main hall was rebuilt in 1988. The roof of the main hall at Hushu Mosque was originally built in a palace style with upturned eaves, but it was changed to a flat roof after renovations.\n\n![image](https://files.catbox.moe/kse8sf.jpg)\n\n![image](https://files.catbox.moe/sxgll2.jpg)\n\n![image](https://files.catbox.moe/k95kz0.jpg)\n\nThe gate piers from the original construction in 1392.\n\n![image](https://files.catbox.moe/nvt4q8.jpg)\n\n![image](https://files.catbox.moe/r8q82d.jpg)\n\n![image](https://files.catbox.moe/7vwppt.jpg)\n\nA ginkgo tree transplanted in 1689.\n\n![image](https://files.catbox.moe/gjoyam.jpg)\n\n![image](https://files.catbox.moe/07xnxq.jpg)\n\n![image](https://files.catbox.moe/zp6jgo.jpg)\n\n![image](https://files.catbox.moe/dp34p5.jpg)\n\n**Liuhe South Gate Mosque.**\n\nLiuhe once had seven mosques and three schools for women. Today, the Changjiang Road Mosque, South Gate Mosque, and Zhuzhen Mosque are open, and the historic buildings of the South Gate Women's School and Zhuzhen Women's School have been preserved.\n\nLiuhe South Gate Mosque was first built in 1403 (the first year of the Yongle reign of the Ming Dynasty), renovated in 1553 (the 32nd year of the Jiajing reign), destroyed during the Taiping Rebellion, and later rebuilt. One of the four famous imams of the Republic of China, Imam Da Pusheng, had three generations of his family—from his great-grandfather to his father—serve as the imam at South Gate Mosque. The old Da family home is on Qingzhen Street right at the mosque entrance. Imam Da Pusheng studied the scriptures at South Gate Mosque for seven years from the age of 10 to 17, before moving on to Nanjing and Beijing for further studies.\n\nThe ancestors of the Baiyetang Da family, to which Imam Da Pusheng belonged, were from the Western Regions during the Yuan Dynasty. Research shows they belonged to the Kipchak Yuliberi tribe, and his ancestor served as a darughachi in Zhenjiang before passing away there. His sixth-generation ancestor, Da Shanyu, moved from Zhenjiang to Liuhe in the early Ming Dynasty to take up a position as a county assistant. He settled in Liuhe, making this the oldest Hui Muslim family from the Western Regions in the area.\n\nAfter 1966, South Gate Mosque was occupied by a kindergarten, during which time the Shamao Hall (a secondary hall), the north wing, the red gate, and the entrance hall were demolished. The kindergarten moved out in 1975, and the site was later borrowed by Baozhen Primary School. It was finally reclaimed in 2000 when the school moved out. In 2013, the main hall was raised and rebuilt. Later, the Tongxin Tower and Tongxing Building were added, and the site was finally opened for use in 2020.\n\n![image](https://files.catbox.moe/v1ms9k.jpg)\n\n![image](https://files.catbox.moe/dth1zt.jpg)\n\n![image](https://files.catbox.moe/dvf5in.jpg)\n\n![image](https://files.catbox.moe/w522uh.jpg)\n\n![image](https://files.catbox.moe/ald0p4.jpg)\n\n![image](https://files.catbox.moe/fs4scp.jpg)\n\n![image](https://files.catbox.moe/hrhqsg.jpg)\n\n![image](https://files.catbox.moe/ivlh71.jpg)\n\n![image](https://files.catbox.moe/mn4lsh.jpg)\n\nStone carvings and ancient trees at Liuhe South Gate Mosque:\n\n**A stone tablet from the seventh year of the Daoguang reign commemorating a house donation by a Hui Muslim named Li.**\n\n![image](https://files.catbox.moe/oe6aqz.jpg)\n\n**A boundary marker for the mosque.**\n\n![image](https://files.catbox.moe/yg3kou.jpg)\n\nA stone tablet from the 12th year of the Guangxu reign, recording that South Gate Mosque was destroyed by the Taiping Rebellion during the Xianfeng period, many Hui Muslims from the local militia died in battle, and the government later stepped in to protect the graves.\n\n![image](https://files.catbox.moe/4u38q2.jpg)\n\nA couplet written by Wang Jianli in the 10th year of the Republic of China: 'Keep your heart pure and clean as if in the afterlife, return to the truth and simplicity just the same.'\n\n![image](https://files.catbox.moe/s2etd5.jpg)\n\n**Qing Dynasty drum-shaped stone bases in front of the main gate.**\n\n![image](https://files.catbox.moe/hiqenv.jpg)\n\n![image](https://files.catbox.moe/c2p80y.jpg)\n\nA 460-year-old Chinese juniper in front of the main hall, classified as a first-class ancient tree.\n\n![image](https://files.catbox.moe/aezib5.jpg)\n\n![image](https://files.catbox.moe/tyu0th.jpg)\n\n**Liuhe Women's School.**\n\nThe Liuhe Muslim Women's School began in 1912, and the current building was constructed in 1930. It was later used as a funeral home for Hui Muslims and is a rare surviving example of a Muslim women's school from the Republic of China era.\n\nTraditionally, these women's schools did not form formal classes, did not call the adhan, did not hold Jumu'ah or Eid prayers, and the female imam (shiniang) did not lead the prayer from the front, but instead stood in the middle of the first row. Women's mosques (nuxue) do not have minarets, and the main prayer hall does not have a pulpit (minbar). Female imams (shiniang) lead the local women in their religious duties and teach them about the faith.\n\nWomen's mosques emerged in the mid-to-late Qing Dynasty, starting in Henan and spreading to nearby areas in Hebei, Shandong, and Anhui. In the early Republic of China, the New Culture Movement and the women's liberation movement helped Hui Muslims understand the ideas of promoting women's education and ending foot-binding. The number of women's mosques grew quickly, with over 100 in Henan province alone, and many more built in other provinces.\n\nDuring the Guangxu period of the Qing Dynasty, Nanjing had two women's mosques at Hanximen and Changle Street. During the Republic of China, four more were built at Fangjia Lane, Zhuganli, Shigu Road, and Dahuifu Lane, but all of these have since been torn down. In the early Republic of China, Liuhe had three women's mosques at Houjie, Nanmenwai, and Zhuzhen. The historical buildings at Nanmenwai and Zhuzhen still stand today.\n\n![image](https://files.catbox.moe/mc8yle.jpg)\n\n![image](https://files.catbox.moe/sbd0wj.jpg)\n\n![image](https://files.catbox.moe/6vja0s.jpg)\n\n![image](https://files.catbox.moe/1yusoa.jpg)\n\n![image](https://files.catbox.moe/vouy0e.jpg)\n\n![image](https://files.catbox.moe/srawsx.jpg)\n\n**Liuhe Changjiang Road Mosque.**\n\nThe Changjiang Road Mosque was originally called Chengqingfang, and was also known as the Liuhe North Mosque, the City Mosque, or the Da Family Mosque. It was built in 1424 (the 22nd year of the Yongle reign of the Ming Dynasty) by the Da family, who had lived in Liuhe for generations. The Changjiang Road Mosque was destroyed by the Taiping Heavenly Kingdom during the Xianfeng period. It was later rebuilt through donations from the imam Liu Weiting and local elders. In 1885 (the 11th year of the Guangxu reign), Da Guangyong donated money to build a reception hall. In 1928, Wang Dashi, the widow of the wealthy merchant Wang Zuochen and aunt of the great imam Da Pusheng, donated money to build the Wuxin Pavilion on the site of the original Wangyue Tower.\n\nIn 1899, the great imam Da Pusheng returned to his hometown of Liuhe from the Niujie Mosque in Beijing to serve as the imam of the Changjiang Road Mosque. It was not until 1905, when Imam Wang Kuan of Niujie went on the Hajj, that Imam Da returned to the Niujie Mosque to serve as the acting imam and lead religious affairs. Imam Da founded the Guangyi Primary School inside the Changjiang Road Mosque to promote modern education. He offered courses in Chinese and Arabic, scripture, geography, history, and mathematics, marking the first transition from traditional scripture hall teaching to modern education. In a memoir from the early 1950s, Imam Da wrote: 'I worked hard for six years. Perhaps moved by the success of Guangyi Primary School, the local Hui Muslims supported the school with great effort. Looking back, it was not easy to struggle at that time, patiently convincing stubborn traditionalists and acting courageously without being accused of going against the faith!'\n\nAfter 1966, the Changjiang Road Mosque was occupied by a theater troupe and a cultural troupe. It was returned and reopened in 1983.\n\n![image](https://files.catbox.moe/gbsja4.jpg)\n\n![image](https://files.catbox.moe/tnrgpp.jpg)\n\n![image](https://files.catbox.moe/l520r4.jpg)\n\n![image](https://files.catbox.moe/eha3wr.jpg)\n\n![image](https://files.catbox.moe/m0opit.jpg)\n\n![image](https://files.catbox.moe/ajq7tc.jpg)\n\n![image](https://files.catbox.moe/1i976o.jpg)\n\n![image](https://files.catbox.moe/y9b6mi.jpg)\n\n![image](https://files.catbox.moe/esuk07.jpg)\n\nExisting stone tablets at the Liuhe Changjiang Road Mosque:\n\n![image](https://files.catbox.moe/ia688d.jpg)\n\n![image](https://files.catbox.moe/jgkq2q.jpg)\n\nThe 11th-year Guangxu tablet records Da Guangyong's donation to build the reception rooms at the Liuhe City Mosque. Da Guangyong was an 18th-generation descendant of the Baiyetang Da family, held a minor official rank, and lived to be 81.\n\n![image](https://files.catbox.moe/niuekq.jpg)\n\nThe 25th-year Guangxu tablet, titled 'Record of the Renovation of the Tangyi City Mosque and the Surrounding Market Shops,' documents the specific situation of the Changjiang Road Mosque during the Guangxu period. All those who signed it were local Hui Muslims from the Da family.\n\n![image](https://files.catbox.moe/cpimg3.jpg)\n\nThe 17th-year Republic of China tablet, regarding Wang Dashi's donation to help repair the Wangyue Pavilion and redeem market shops, records that Dashi, the wife of the Zhuzhen elder Wang Zuochen, donated money to build the Wangyue Pavilion. Wang Zuochen was a Hui Muslim from Zhuzhen, Liuhe. He ran a grain business on North Street in Zhuzhen for decades and was very devout, never missing his prayers. However, he was suddenly kidnapped by bandits in 1925 and was never heard from again. Wang Zuochen's wife, Dashi, was also very devout and had founded the Zhuzhen Women's School. After her husband went missing, Dashi spent years asking people to help find him, but there was no result. Because Wang Zuochen had no brothers or children, Dashi donated all the family's money to the Zhuzhen Mosque and to build the Wangyue Pavilion at the Changjiang Road Mosque.\n\n![image](https://files.catbox.moe/5xepbo.jpg)\n\n![image](https://files.catbox.moe/sznawb.jpg)\n\nInside the mosque, there is a 350-year-old Chinese juniper (yuanbai) tree.\n\n![image](https://files.catbox.moe/5vn1ys.jpg)\n\n![image](https://files.catbox.moe/gk0xk0.jpg)\n\n![image](https://files.catbox.moe/5njuki.jpg)\n\n**Zhuzhen Mosque**\n\nZhuzhen Mosque was originally located outside the East Bridge. It was destroyed during the Taiping Rebellion and rebuilt in 1901 (the 27th year of the Guangxu reign) in Wangjia Lane in the middle of the old street. In 1968, Zhuzhen Mosque was turned into a dormitory for teachers at an agricultural middle school. It was reclaimed and reopened in 1983, and the main hall was rebuilt in 2001.\n\nIn 1939, the imam of Zhuzhen Mosque, Li Shudu, formed the Hui Muslim Anti-Japanese Independent Guerrilla Battalion and served as its commander. He worked with the New Fourth Army and made significant contributions to the anti-Japanese cause.\n\nAdditionally, in 1939, Hui Muslims from the 'Qiaobang' group in the Gaoyou and Lingtang areas built a mosque near Xinhua Garden on the west side of Zhuzhen. After 1966, it was converted into a Hui Muslim food processing factory.\n\n![image](https://files.catbox.moe/nabl26.jpg)\n\n![image](https://files.catbox.moe/mt1cbb.jpg)\n\nZhuzhen Mosque still has a door plaque from the Qing Dynasty's Guangxu reign, inscribed with 'Built by the Zhudun Community.' Zhudun is the old name for Zhuzhen.\n\n![image](https://files.catbox.moe/3s9fnp.jpg)\n\n![image](https://files.catbox.moe/221ntt.jpg)\n\n![image](https://files.catbox.moe/ad0jz6.jpg)\n\n![image](https://files.catbox.moe/pxnmz8.jpg)\n\n![image](https://files.catbox.moe/64pak1.jpg)\n\n![image](https://files.catbox.moe/0oqnzh.jpg)\n\n![image](https://files.catbox.moe/h65re9.jpg)\n\nLiuhe Zhuzhen Mosque houses a Qing Dynasty stone well called 'Songquan,' two pairs of drum-shaped stone bases, and a 1927 (the 16th year of the Republic of China) stele recording the will of Wang Zuochen's wife, Madam Da. Madam Da was the aunt of the great imam Da Pusheng. The inscription records that the Zhuzhen Girls' School was founded by Wang Zuochen and fellow members of the faith, who also provided all the funding. Later, Wang Zuochen was kidnapped by bandits and remained missing for several years. Because of this, his wife, Madam Da, decided to donate all their family farmland and property, except for a portion used for her own support. The funds were mainly for the daily expenses of the Zhuzhen Girls' School, with the remainder going to Zhuzhen Mosque. The inscription mentions her 'nephew Da Pusheng.'\n\n![image](https://files.catbox.moe/ytwp8t.jpg)\n\n![image](https://files.catbox.moe/ergfpg.jpg)\n\n![image](https://files.catbox.moe/om25sl.jpg)\n\nAcross from Zhuzhen Mosque, there is a shop selling small-mill sesame oil (xiaomo mayou), and there are only hand-pulled noodle (lamian) shops in town.\n\n![image](https://files.catbox.moe/zsx5rt.jpg)\n\n![image](https://files.catbox.moe/hbewr1.jpg)\n\n![image](https://files.catbox.moe/5lriii.jpg)\n\n![image](https://files.catbox.moe/oxvt8n.jpg)\n\n**Zhuzhen Girls' School**\n\nZhuzhen Girls' School features typical Jianghuai architectural style. The entrance hall and the main hall form a small courtyard, and both sides have classic Hui-style horse-head walls (matouqiang).\n\nZhuzhen Girls' School was founded in 1921 by Wang Zuochen, the uncle-in-law of the great imam Da Pusheng, along with fellow members of the faith in Zhuzhen. It was originally located on Zhuzhen Middle Street and was rebuilt in 1931 by Wu Tieqian and others along the south riverbank outside the East Bridge. After 1966, the Zhuzhen Girls' School was occupied by the Hui Muslim food processing factory. It was renovated in 2007 and is currently not open to the public. During the Republic of China era, the Zhuzhen Girls' School was led by two female imams, Teacher Dai and Teacher Bai, who taught scriptures and religious doctrines to local Hui Muslim women.\n\nWu Tieqian was a famous Hui Muslim anti-Japanese patriotic businessman. His original name was Wu Jiashan. At age 22, he inherited his father's business and ran the Wudeyuan Grain Store. After 1938, when the New Fourth Army entered Zhuzhen to lead the anti-Japanese resistance, Wu Tieqian took the lead in donating grain, money, and guns. He also served as the chairman of the Zhuzhen Merchants' Anti-Enemy Association. In 1942, Wu Tieqian became the first mayor of the Zhuzhen Anti-Japanese Democratic Government. He took risks to rescue and protect many comrades and also mobilized ambitious young people to join the revolution. After the founding of New China, Wu Tieqian was elected as the vice director of the Nanjing Islamic Association. He passed away (guizhen) in 1967.\n\n![image](https://files.catbox.moe/qx3qh4.jpg)\n\n![image](https://files.catbox.moe/a05bd0.jpg)\n\n![image](https://files.catbox.moe/z98rdh.jpg)
+**Reposted from the web**
+
+**Summary:** This fourth part of the Jiangsu mosque series records historic mosque sites in Nanjing and Liuhe, including Taiping Road Mosque, Caoqiao Mosque, Xiaowangfu Lane Mosque, Hushu Mosque, South Gate Mosque, Changjiang Road Mosque, and Zhuzhen Mosque. The article preserves founding dates, women's mosque history, Da Pusheng family records, stone tablets, ancient trees, and surviving architectural details.
+
+![image](https://files.catbox.moe/wxcrym.jpg)
+
+![image](https://files.catbox.moe/yybvlw.jpg)
+
+![image](https://files.catbox.moe/zhooe7.jpg)
+
+![image](https://files.catbox.moe/a0y7vn.jpg)
+
+![image](https://files.catbox.moe/mztzsp.jpg)
+
+![image](https://files.catbox.moe/b52kyg.jpg)
+
+![image](https://files.catbox.moe/i7mfs4.jpg)
+
+![image](https://files.catbox.moe/17to3d.jpg)
+
+The front hall of the former Taiping Road Mosque served as the office for the chairman of the Chinese Islamic Association between 1945 and 1949, where Bai Chongxi once worked.
+
+![image](https://files.catbox.moe/dqfrs6.jpg)
+
+![image](https://files.catbox.moe/ax3zu6.jpg)
+
+![image](https://files.catbox.moe/k8q3em.jpg)
+
+![image](https://files.catbox.moe/dse0ga.jpg)
+
+![image](https://files.catbox.moe/pxm13l.jpg)
+
+![image](https://files.catbox.moe/p69x9v.jpg)
+
+![image](https://files.catbox.moe/om8zn8.jpg)
+
+![image](https://files.catbox.moe/med6h2.jpg)
+
+The brick carving titled 'Purifying the Heart and Gazing at the Palace' (xixin zhanque) from the water room of the former Taiping Road Mosque.
+
+![image](https://files.catbox.moe/skwaj6.jpg)
+
+The former Taiping Road Mosque collection includes the 'Postscript to the Filial Piety Arch for Mother' written by Jiang Guobang. It records that Jiang, a wealthy Nanjing merchant, lost his father early and was raised by his mother, Madam Ma. In 1911 (the third year of the Xuantong reign), he petitioned to build a memorial arch for his mother's filial piety. Due to the change in government, it was finally completed in 1914.
+
+Jiang Guobang came from the wealthy Jiang merchant family of Jinling, but he was indifferent to fame and wealth, dedicating himself to the study of traditional Chinese classics. Jiang Guobang was very filial. To provide his mother with a good place for her retirement, he spent a large sum of money to buy the Small Ten Thousand Willow Hall (xiaowanliutang) by West Lake in Hangzhou, later naming it 'Jiang Manor' (Jiangzhuang), which was one of the three major manors of West Lake at the time. Jiang Guobang oversaw the reconstruction of the Taiping Road Mosque in 1924 and later built a filial piety arch for his mother inside the mosque. The arch no longer exists, leaving only the stone tablet record.
+
+![image](https://files.catbox.moe/rd1six.jpg)
+
+![image](https://files.catbox.moe/ssqe34.jpg)
+
+![image](https://files.catbox.moe/kb5vtz.jpg)
+
+The Qing dynasty well railing and the Guangxu reign stone tablet at Caoqiao Mosque. Caoqiao Mosque was first built during the Guangxu reign of the Qing dynasty, destroyed by fire during the Taiping Rebellion, and rebuilt in the early years of the Tongzhi reign. Because it was located in Qijiawan, a neighborhood where Hui Muslims lived, Caoqiao Mosque once had the largest number of congregants in Nanjing. Historically, Caoqiao Mosque had no property of its own; its daily expenses were covered by the Beef and Bone Trade Association located within the mosque. After 1958, Caoqiao Mosque was occupied and later rented to the Nanjing Woodware Factory, suffering severe damage. The property was returned in 1985 but remained closed until it was demolished in 2003.
+
+![image](https://files.catbox.moe/9wgx8y.jpg)
+
+![image](https://files.catbox.moe/h2plor.jpg)
+
+![image](https://files.catbox.moe/6312eg.jpg)
+
+**Xiaowangfu Lane Mosque.**
+
+Xiaowangfu Lane Mosque was first built in the late Tongzhi reign of the Qing dynasty. It is one of the few remaining old buildings among the 33 mosques in Nanjing from the Republic of China era. The mihrab (mihalabu) niche currently in Jingjue Mosque was moved here from the Xiaowangfu Lane Mosque. Xiaowangfu Lane Mosque was used as a residence for a long time. It has now been vacated and may be put to new use.
+
+In 1917, Xiaowangfu Lane Mosque founded the private Wuben Primary School to teach cultural subjects and Islamic knowledge. It moved to the entrance of Xiaowangfu Lane on Fengfu Road in 1953 and became a municipal school in 1956.
+
+![image](https://files.catbox.moe/8o459c.jpg)
+
+![image](https://files.catbox.moe/awvzhs.jpg)
+
+![image](https://files.catbox.moe/9evrjp.jpg)
+
+![image](https://files.catbox.moe/3g0vm6.jpg)
+
+![image](https://files.catbox.moe/mnfmbc.jpg)
+
+![image](https://files.catbox.moe/lpmwqg.jpg)
+
+![image](https://files.catbox.moe/qtkqz4.jpg)
+
+![image](https://files.catbox.moe/87ws9n.jpg)
+
+![image](https://files.catbox.moe/sqd8wv.jpg)
+
+**Hushu Mosque.**
+
+Hushu Mosque was first built in 1392 (the 25th year of the Hongwu reign). It was destroyed during the Taiping Rebellion, and the main hall was rebuilt in 1896 (the 22nd year of the Guangxu reign). In 1911, five tile-roofed rooms were built on the left side in front of the main hall, with the water room on the left, dormitories on the right, and a guest hall in the middle. In 1919, three rooms of the front hall, five rooms of the main hall, and two rooms of the east wing at the main gate were rebuilt.
+
+Around 1932, a primary school for Hui Muslim children was established inside Hushu Mosque, which moved out of the mosque in 1956. In 1964, the main hall of Hushu Mosque was demolished during the 'Four Cleanups Movement' and was occupied by the Hushu Straw Bag Factory, Hushu Hardware Factory, and Hushu Supply and Marketing Cooperative during the Cultural Revolution. The main hall was rebuilt in 1988. The roof of the main hall at Hushu Mosque was originally built in a palace style with upturned eaves, but it was changed to a flat roof after renovations.
+
+![image](https://files.catbox.moe/kse8sf.jpg)
+
+![image](https://files.catbox.moe/sxgll2.jpg)
+
+![image](https://files.catbox.moe/k95kz0.jpg)
+
+The gate piers from the original construction in 1392.
+
+![image](https://files.catbox.moe/nvt4q8.jpg)
+
+![image](https://files.catbox.moe/r8q82d.jpg)
+
+![image](https://files.catbox.moe/7vwppt.jpg)
+
+A ginkgo tree transplanted in 1689.
+
+![image](https://files.catbox.moe/gjoyam.jpg)
+
+![image](https://files.catbox.moe/07xnxq.jpg)
+
+![image](https://files.catbox.moe/zp6jgo.jpg)
+
+![image](https://files.catbox.moe/dp34p5.jpg)
+
+**Liuhe South Gate Mosque.**
+
+Liuhe once had seven mosques and three schools for women. Today, the Changjiang Road Mosque, South Gate Mosque, and Zhuzhen Mosque are open, and the historic buildings of the South Gate Women's School and Zhuzhen Women's School have been preserved.
+
+Liuhe South Gate Mosque was first built in 1403 (the first year of the Yongle reign of the Ming Dynasty), renovated in 1553 (the 32nd year of the Jiajing reign), destroyed during the Taiping Rebellion, and later rebuilt. One of the four famous imams of the Republic of China, Imam Da Pusheng, had three generations of his family—from his great-grandfather to his father—serve as the imam at South Gate Mosque. The old Da family home is on Qingzhen Street right at the mosque entrance. Imam Da Pusheng studied the scriptures at South Gate Mosque for seven years from the age of 10 to 17, before moving on to Nanjing and Beijing for further studies.
+
+The ancestors of the Baiyetang Da family, to which Imam Da Pusheng belonged, were from the Western Regions during the Yuan Dynasty. Research shows they belonged to the Kipchak Yuliberi tribe, and his ancestor served as a darughachi in Zhenjiang before passing away there. His sixth-generation ancestor, Da Shanyu, moved from Zhenjiang to Liuhe in the early Ming Dynasty to take up a position as a county assistant. He settled in Liuhe, making this the oldest Hui Muslim family from the Western Regions in the area.
+
+After 1966, South Gate Mosque was occupied by a kindergarten, during which time the Shamao Hall (a secondary hall), the north wing, the red gate, and the entrance hall were demolished. The kindergarten moved out in 1975, and the site was later borrowed by Baozhen Primary School. It was finally reclaimed in 2000 when the school moved out. In 2013, the main hall was raised and rebuilt. Later, the Tongxin Tower and Tongxing Building were added, and the site was finally opened for use in 2020.
+
+![image](https://files.catbox.moe/v1ms9k.jpg)
+
+![image](https://files.catbox.moe/dth1zt.jpg)
+
+![image](https://files.catbox.moe/dvf5in.jpg)
+
+![image](https://files.catbox.moe/w522uh.jpg)
+
+![image](https://files.catbox.moe/ald0p4.jpg)
+
+![image](https://files.catbox.moe/fs4scp.jpg)
+
+![image](https://files.catbox.moe/hrhqsg.jpg)
+
+![image](https://files.catbox.moe/ivlh71.jpg)
+
+![image](https://files.catbox.moe/mn4lsh.jpg)
+
+Stone carvings and ancient trees at Liuhe South Gate Mosque:
+
+**A stone tablet from the seventh year of the Daoguang reign commemorating a house donation by a Hui Muslim named Li.**
+
+![image](https://files.catbox.moe/oe6aqz.jpg)
+
+**A boundary marker for the mosque.**
+
+![image](https://files.catbox.moe/yg3kou.jpg)
+
+A stone tablet from the 12th year of the Guangxu reign, recording that South Gate Mosque was destroyed by the Taiping Rebellion during the Xianfeng period, many Hui Muslims from the local militia died in battle, and the government later stepped in to protect the graves.
+
+![image](https://files.catbox.moe/4u38q2.jpg)
+
+A couplet written by Wang Jianli in the 10th year of the Republic of China: 'Keep your heart pure and clean as if in the afterlife, return to the truth and simplicity just the same.'
+
+![image](https://files.catbox.moe/s2etd5.jpg)
+
+**Qing Dynasty drum-shaped stone bases in front of the main gate.**
+
+![image](https://files.catbox.moe/hiqenv.jpg)
+
+![image](https://files.catbox.moe/c2p80y.jpg)
+
+A 460-year-old Chinese juniper in front of the main hall, classified as a first-class ancient tree.
+
+![image](https://files.catbox.moe/aezib5.jpg)
+
+![image](https://files.catbox.moe/tyu0th.jpg)
+
+**Liuhe Women's School.**
+
+The Liuhe Muslim Women's School began in 1912, and the current building was constructed in 1930. It was later used as a funeral home for Hui Muslims and is a rare surviving example of a Muslim women's school from the Republic of China era.
+
+Traditionally, these women's schools did not form formal classes, did not call the adhan, did not hold Jumu'ah or Eid prayers, and the female imam (shiniang) did not lead the prayer from the front, but instead stood in the middle of the first row. Women's mosques (nuxue) do not have minarets, and the main prayer hall does not have a pulpit (minbar). Female imams (shiniang) lead the local women in their religious duties and teach them about the faith.
+
+Women's mosques emerged in the mid-to-late Qing Dynasty, starting in Henan and spreading to nearby areas in Hebei, Shandong, and Anhui. In the early Republic of China, the New Culture Movement and the women's liberation movement helped Hui Muslims understand the ideas of promoting women's education and ending foot-binding. The number of women's mosques grew quickly, with over 100 in Henan province alone, and many more built in other provinces.
+
+During the Guangxu period of the Qing Dynasty, Nanjing had two women's mosques at Hanximen and Changle Street. During the Republic of China, four more were built at Fangjia Lane, Zhuganli, Shigu Road, and Dahuifu Lane, but all of these have since been torn down. In the early Republic of China, Liuhe had three women's mosques at Houjie, Nanmenwai, and Zhuzhen. The historical buildings at Nanmenwai and Zhuzhen still stand today.
+
+![image](https://files.catbox.moe/mc8yle.jpg)
+
+![image](https://files.catbox.moe/sbd0wj.jpg)
+
+![image](https://files.catbox.moe/6vja0s.jpg)
+
+![image](https://files.catbox.moe/1yusoa.jpg)
+
+![image](https://files.catbox.moe/vouy0e.jpg)
+
+![image](https://files.catbox.moe/srawsx.jpg)
+
+**Liuhe Changjiang Road Mosque.**
+
+The Changjiang Road Mosque was originally called Chengqingfang, and was also known as the Liuhe North Mosque, the City Mosque, or the Da Family Mosque. It was built in 1424 (the 22nd year of the Yongle reign of the Ming Dynasty) by the Da family, who had lived in Liuhe for generations. The Changjiang Road Mosque was destroyed by the Taiping Heavenly Kingdom during the Xianfeng period. It was later rebuilt through donations from the imam Liu Weiting and local elders. In 1885 (the 11th year of the Guangxu reign), Da Guangyong donated money to build a reception hall. In 1928, Wang Dashi, the widow of the wealthy merchant Wang Zuochen and aunt of the great imam Da Pusheng, donated money to build the Wuxin Pavilion on the site of the original Wangyue Tower.
+
+In 1899, the great imam Da Pusheng returned to his hometown of Liuhe from the Niujie Mosque in Beijing to serve as the imam of the Changjiang Road Mosque. It was not until 1905, when Imam Wang Kuan of Niujie went on the Hajj, that Imam Da returned to the Niujie Mosque to serve as the acting imam and lead religious affairs. Imam Da founded the Guangyi Primary School inside the Changjiang Road Mosque to promote modern education. He offered courses in Chinese and Arabic, scripture, geography, history, and mathematics, marking the first transition from traditional scripture hall teaching to modern education. In a memoir from the early 1950s, Imam Da wrote: 'I worked hard for six years. Perhaps moved by the success of Guangyi Primary School, the local Hui Muslims supported the school with great effort. Looking back, it was not easy to struggle at that time, patiently convincing stubborn traditionalists and acting courageously without being accused of going against the faith!'
+
+After 1966, the Changjiang Road Mosque was occupied by a theater troupe and a cultural troupe. It was returned and reopened in 1983.
+
+![image](https://files.catbox.moe/gbsja4.jpg)
+
+![image](https://files.catbox.moe/tnrgpp.jpg)
+
+![image](https://files.catbox.moe/l520r4.jpg)
+
+![image](https://files.catbox.moe/eha3wr.jpg)
+
+![image](https://files.catbox.moe/m0opit.jpg)
+
+![image](https://files.catbox.moe/ajq7tc.jpg)
+
+![image](https://files.catbox.moe/1i976o.jpg)
+
+![image](https://files.catbox.moe/y9b6mi.jpg)
+
+![image](https://files.catbox.moe/esuk07.jpg)
+
+Existing stone tablets at the Liuhe Changjiang Road Mosque:
+
+![image](https://files.catbox.moe/ia688d.jpg)
+
+![image](https://files.catbox.moe/jgkq2q.jpg)
+
+The 11th-year Guangxu tablet records Da Guangyong's donation to build the reception rooms at the Liuhe City Mosque. Da Guangyong was an 18th-generation descendant of the Baiyetang Da family, held a minor official rank, and lived to be 81.
+
+![image](https://files.catbox.moe/niuekq.jpg)
+
+The 25th-year Guangxu tablet, titled 'Record of the Renovation of the Tangyi City Mosque and the Surrounding Market Shops,' documents the specific situation of the Changjiang Road Mosque during the Guangxu period. All those who signed it were local Hui Muslims from the Da family.
+
+![image](https://files.catbox.moe/cpimg3.jpg)
+
+The 17th-year Republic of China tablet, regarding Wang Dashi's donation to help repair the Wangyue Pavilion and redeem market shops, records that Dashi, the wife of the Zhuzhen elder Wang Zuochen, donated money to build the Wangyue Pavilion. Wang Zuochen was a Hui Muslim from Zhuzhen, Liuhe. He ran a grain business on North Street in Zhuzhen for decades and was very devout, never missing his prayers. However, he was suddenly kidnapped by bandits in 1925 and was never heard from again. Wang Zuochen's wife, Dashi, was also very devout and had founded the Zhuzhen Women's School. After her husband went missing, Dashi spent years asking people to help find him, but there was no result. Because Wang Zuochen had no brothers or children, Dashi donated all the family's money to the Zhuzhen Mosque and to build the Wangyue Pavilion at the Changjiang Road Mosque.
+
+![image](https://files.catbox.moe/5xepbo.jpg)
+
+![image](https://files.catbox.moe/sznawb.jpg)
+
+Inside the mosque, there is a 350-year-old Chinese juniper (yuanbai) tree.
+
+![image](https://files.catbox.moe/5vn1ys.jpg)
+
+![image](https://files.catbox.moe/gk0xk0.jpg)
+
+![image](https://files.catbox.moe/5njuki.jpg)
+
+**Zhuzhen Mosque**
+
+Zhuzhen Mosque was originally located outside the East Bridge. It was destroyed during the Taiping Rebellion and rebuilt in 1901 (the 27th year of the Guangxu reign) in Wangjia Lane in the middle of the old street. In 1968, Zhuzhen Mosque was turned into a dormitory for teachers at an agricultural middle school. It was reclaimed and reopened in 1983, and the main hall was rebuilt in 2001.
+
+In 1939, the imam of Zhuzhen Mosque, Li Shudu, formed the Hui Muslim Anti-Japanese Independent Guerrilla Battalion and served as its commander. He worked with the New Fourth Army and made significant contributions to the anti-Japanese cause.
+
+Additionally, in 1939, Hui Muslims from the 'Qiaobang' group in the Gaoyou and Lingtang areas built a mosque near Xinhua Garden on the west side of Zhuzhen. After 1966, it was converted into a Hui Muslim food processing factory.
+
+![image](https://files.catbox.moe/nabl26.jpg)
+
+![image](https://files.catbox.moe/mt1cbb.jpg)
+
+Zhuzhen Mosque still has a door plaque from the Qing Dynasty's Guangxu reign, inscribed with 'Built by the Zhudun Community.' Zhudun is the old name for Zhuzhen.
+
+![image](https://files.catbox.moe/3s9fnp.jpg)
+
+![image](https://files.catbox.moe/221ntt.jpg)
+
+![image](https://files.catbox.moe/ad0jz6.jpg)
+
+![image](https://files.catbox.moe/pxnmz8.jpg)
+
+![image](https://files.catbox.moe/64pak1.jpg)
+
+![image](https://files.catbox.moe/0oqnzh.jpg)
+
+![image](https://files.catbox.moe/h65re9.jpg)
+
+Liuhe Zhuzhen Mosque houses a Qing Dynasty stone well called 'Songquan,' two pairs of drum-shaped stone bases, and a 1927 (the 16th year of the Republic of China) stele recording the will of Wang Zuochen's wife, Madam Da. Madam Da was the aunt of the great imam Da Pusheng. The inscription records that the Zhuzhen Girls' School was founded by Wang Zuochen and fellow members of the faith, who also provided all the funding. Later, Wang Zuochen was kidnapped by bandits and remained missing for several years. Because of this, his wife, Madam Da, decided to donate all their family farmland and property, except for a portion used for her own support. The funds were mainly for the daily expenses of the Zhuzhen Girls' School, with the remainder going to Zhuzhen Mosque. The inscription mentions her 'nephew Da Pusheng.'
+
+![image](https://files.catbox.moe/ytwp8t.jpg)
+
+![image](https://files.catbox.moe/ergfpg.jpg)
+
+![image](https://files.catbox.moe/om25sl.jpg)
+
+Across from Zhuzhen Mosque, there is a shop selling small-mill sesame oil (xiaomo mayou), and there are only hand-pulled noodle (lamian) shops in town.
+
+![image](https://files.catbox.moe/zsx5rt.jpg)
+
+![image](https://files.catbox.moe/hbewr1.jpg)
+
+![image](https://files.catbox.moe/5lriii.jpg)
+
+![image](https://files.catbox.moe/oxvt8n.jpg)
+
+**Zhuzhen Girls' School**
+
+Zhuzhen Girls' School features typical Jianghuai architectural style. The entrance hall and the main hall form a small courtyard, and both sides have classic Hui-style horse-head walls (matouqiang).
+
+Zhuzhen Girls' School was founded in 1921 by Wang Zuochen, the uncle-in-law of the great imam Da Pusheng, along with fellow members of the faith in Zhuzhen. It was originally located on Zhuzhen Middle Street and was rebuilt in 1931 by Wu Tieqian and others along the south riverbank outside the East Bridge. After 1966, the Zhuzhen Girls' School was occupied by the Hui Muslim food processing factory. It was renovated in 2007 and is currently not open to the public. During the Republic of China era, the Zhuzhen Girls' School was led by two female imams, Teacher Dai and Teacher Bai, who taught scriptures and religious doctrines to local Hui Muslim women.
+
+Wu Tieqian was a famous Hui Muslim anti-Japanese patriotic businessman. His original name was Wu Jiashan. At age 22, he inherited his father's business and ran the Wudeyuan Grain Store. After 1938, when the New Fourth Army entered Zhuzhen to lead the anti-Japanese resistance, Wu Tieqian took the lead in donating grain, money, and guns. He also served as the chairman of the Zhuzhen Merchants' Anti-Enemy Association. In 1942, Wu Tieqian became the first mayor of the Zhuzhen Anti-Japanese Democratic Government. He took risks to rescue and protect many comrades and also mobilized ambitious young people to join the revolution. After the founding of New China, Wu Tieqian was elected as the vice director of the Nanjing Islamic Association. He passed away (guizhen) in 1967.
+
+![image](https://files.catbox.moe/qx3qh4.jpg)
+
+![image](https://files.catbox.moe/a05bd0.jpg)
+
+![image](https://files.catbox.moe/z98rdh.jpg)

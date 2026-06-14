@@ -14,4 +14,18 @@ layout: "article"
 
 # Muslim Travel Guide: Xi'an Mawlid 2025 Part 2 — Spring Festival Photos
 
-**Reposted from the web**\n\n**Summary:** This short second part of the Xi'an Mawlid 2025 record is mostly a photo-based continuation of the Spring Festival visit. The English version keeps the original image order and context while presenting the piece as part of the wider Xi'an Muslim community travel series.\n\n![image](https://files.catbox.moe/wu5qmh.jpg)\n\n![image](https://files.catbox.moe/662ekp.jpg)\n\n![image](https://files.catbox.moe/buyzag.jpg)\n\n![image](https://files.catbox.moe/bs2f39.jpg)\n\n![image](https://files.catbox.moe/tffzow.jpg)\n\n![image](https://files.catbox.moe/adrlis.jpg)
+**Reposted from the web**
+
+**Summary:** This short second part of the Xi'an Mawlid 2025 record is mostly a photo-based continuation of the Spring Festival visit. The English version keeps the original image order and context while presenting the piece as part of the wider Xi'an Muslim community travel series.
+
+![image](https://files.catbox.moe/wu5qmh.jpg)
+
+![image](https://files.catbox.moe/662ekp.jpg)
+
+![image](https://files.catbox.moe/buyzag.jpg)
+
+![image](https://files.catbox.moe/bs2f39.jpg)
+
+![image](https://files.catbox.moe/tffzow.jpg)
+
+![image](https://files.catbox.moe/adrlis.jpg)

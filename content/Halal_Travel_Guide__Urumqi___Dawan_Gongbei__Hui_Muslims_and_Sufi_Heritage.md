@@ -14,4 +14,46 @@ layout: "article"
 
 # Halal Travel Guide: Urumqi - Dawan Gongbei, Hui Muslims and Sufi Heritage
 
-**Reposted from the web**\n\n**Summary:** This Urumqi article visits the Dawan Gongbei and records its connection with Hui Muslim religious memory and local community life. It keeps the original shrine details, route, religious terms, and travel observations without changing the facts.\n\nYesterday at noon, I went to the Dawan Gongbei in Urumqi to attend a funeral (janazah) for an elder from the Luyuan Street community. Hundreds of people were there. It was very moving and showed the strong unity of the local community (jamaat).\n\n![image](https://files.catbox.moe/cvwn02.jpg)\n\n![image](https://files.catbox.moe/k2auvl.jpg)\n\n![image](https://files.catbox.moe/jejimy.jpg)\n\nAfter the funeral, I visited the graves of two historical figures at the Dawan Gongbei. The first was the elder Weijiapu (1732-1812), who was the first imam to lead the mosque in Urumqi. Elder Weijiapu was originally a Salar from Xunhua. When he was young, his hard work and love for learning made him the imam of the Jiezi Gonghe La Mosque in Xunhua. In 1763, due to conflicts between Sufi orders (menhuan) in the Hehuang region, Elder Weijiapu left to seek spiritual knowledge. He traveled through Linxia, Lanzhou, and Wuwei before moving to Hami and Turpan in Xinjiang to teach. In 1780, after the first mosque was built in the Beiliang area of Dihua, the local Muslims invited Elder Weijiapu to serve as their imam.\n\nIn the mid-18th century, Yihewan Gali, a student of the Indian Sufi leader Imam Rabbani, came to Aksu to teach the Khufiyya Sufi path. Ma Fang, a Qing dynasty military officer stationed in Aksu, accepted his teachings. Later, Ma Fang resigned from his post to spread the faith across Xinjiang. He took on five students, one of whom was Ma Pei (known as the Anjihai Master). Ma Pei went to Urumqi to teach, and Elder Weijiapu became his student. Elder Weijiapu taught at the Beiliang mosque in Dihua for nearly 30 years. He taught scripture to ordinary community members and guided Khufiyya followers in their spiritual practice. He balanced the relationships between different groups well and was respected by everyone.\n\nAfter Elder Weijiapu passed away (returned to Allah), he was originally buried at the Beiliang mosque. Later, following his will, he was moved to Dawan. The cemetery there became known as the Dawan Gongbei. In 1900, the three brothers of Ma Youfu, the great-grandson of Elder Weijiapu, rebuilt the Gongbei. It was renovated again in 2013 to its current appearance.\n\n![image](https://files.catbox.moe/u4z5kx.jpg)\n\n![image](https://files.catbox.moe/jk0hxa.jpg)\n\n![image](https://files.catbox.moe/9a991w.jpg)\n\n![image](https://files.catbox.moe/4fsajy.jpg)\n\n![image](https://files.catbox.moe/0jkjzt.jpg)\n\n![image](https://files.catbox.moe/drpv2w.jpg)\n\nThe second historical figure at the Dawan Gongbei is Imam Ma Zongfu (1806-1885), who led the Beiliang Mosque and the Beifang Mosque in Urumqi. People called him the Datong Elder.\n\nImam Ma Zongfu was originally from Datong, Qinghai. When he was young, he taught at various mosques in Qinghai and practiced the Khufiyya Sufi path. Later, because Imam Ma opposed the growing and selling of opium, he was persecuted by local wealthy landowners. In 1850, he led his family through many hardships to reach Xinjiang, where they settled at the Beiliang Mosque in Dihua. At that time, the imam of the Beiliang Mosque was Qitaizhou, a student of the Khufiyya leader Ma Pei. Imam Ma Zongfu became a student of Qitaizhou and became the imam of the Beiliang Mosque in 1852.\n\nImam Ma led the renovation of the Beiliang Mosque in 1861. Later, he established a spiritual center (daotang) on Yinma Lane in Dihua for meditation and study. The Qing government closed Beiliang Mosque because of the anti-Qing uprising and turned it into an ancestral hall, so the local community built Beifang Mosque in 1876. Because the local community loved Imam Ma so much, they elected him as their religious leader again. After Imam Ma passed away in 1885, he was buried next to the elder's grave in Weijiapu at the Dawan gongbei, just as he requested in his will.\n\n![image](https://files.catbox.moe/09hs9j.jpg)\n\n![image](https://files.catbox.moe/i5ii11.jpg)\n\n![image](https://files.catbox.moe/y4mkim.jpg)\n\n![image](https://files.catbox.moe/w3m4o7.jpg)
+**Reposted from the web**
+
+**Summary:** This Urumqi article visits the Dawan Gongbei and records its connection with Hui Muslim religious memory and local community life. It keeps the original shrine details, route, religious terms, and travel observations without changing the facts.
+
+Yesterday at noon, I went to the Dawan Gongbei in Urumqi to attend a funeral (janazah) for an elder from the Luyuan Street community. Hundreds of people were there. It was very moving and showed the strong unity of the local community (jamaat).
+
+![image](https://files.catbox.moe/cvwn02.jpg)
+
+![image](https://files.catbox.moe/k2auvl.jpg)
+
+![image](https://files.catbox.moe/jejimy.jpg)
+
+After the funeral, I visited the graves of two historical figures at the Dawan Gongbei. The first was the elder Weijiapu (1732-1812), who was the first imam to lead the mosque in Urumqi. Elder Weijiapu was originally a Salar from Xunhua. When he was young, his hard work and love for learning made him the imam of the Jiezi Gonghe La Mosque in Xunhua. In 1763, due to conflicts between Sufi orders (menhuan) in the Hehuang region, Elder Weijiapu left to seek spiritual knowledge. He traveled through Linxia, Lanzhou, and Wuwei before moving to Hami and Turpan in Xinjiang to teach. In 1780, after the first mosque was built in the Beiliang area of Dihua, the local Muslims invited Elder Weijiapu to serve as their imam.
+
+In the mid-18th century, Yihewan Gali, a student of the Indian Sufi leader Imam Rabbani, came to Aksu to teach the Khufiyya Sufi path. Ma Fang, a Qing dynasty military officer stationed in Aksu, accepted his teachings. Later, Ma Fang resigned from his post to spread the faith across Xinjiang. He took on five students, one of whom was Ma Pei (known as the Anjihai Master). Ma Pei went to Urumqi to teach, and Elder Weijiapu became his student. Elder Weijiapu taught at the Beiliang mosque in Dihua for nearly 30 years. He taught scripture to ordinary community members and guided Khufiyya followers in their spiritual practice. He balanced the relationships between different groups well and was respected by everyone.
+
+After Elder Weijiapu passed away (returned to Allah), he was originally buried at the Beiliang mosque. Later, following his will, he was moved to Dawan. The cemetery there became known as the Dawan Gongbei. In 1900, the three brothers of Ma Youfu, the great-grandson of Elder Weijiapu, rebuilt the Gongbei. It was renovated again in 2013 to its current appearance.
+
+![image](https://files.catbox.moe/u4z5kx.jpg)
+
+![image](https://files.catbox.moe/jk0hxa.jpg)
+
+![image](https://files.catbox.moe/9a991w.jpg)
+
+![image](https://files.catbox.moe/4fsajy.jpg)
+
+![image](https://files.catbox.moe/0jkjzt.jpg)
+
+![image](https://files.catbox.moe/drpv2w.jpg)
+
+The second historical figure at the Dawan Gongbei is Imam Ma Zongfu (1806-1885), who led the Beiliang Mosque and the Beifang Mosque in Urumqi. People called him the Datong Elder.
+
+Imam Ma Zongfu was originally from Datong, Qinghai. When he was young, he taught at various mosques in Qinghai and practiced the Khufiyya Sufi path. Later, because Imam Ma opposed the growing and selling of opium, he was persecuted by local wealthy landowners. In 1850, he led his family through many hardships to reach Xinjiang, where they settled at the Beiliang Mosque in Dihua. At that time, the imam of the Beiliang Mosque was Qitaizhou, a student of the Khufiyya leader Ma Pei. Imam Ma Zongfu became a student of Qitaizhou and became the imam of the Beiliang Mosque in 1852.
+
+Imam Ma led the renovation of the Beiliang Mosque in 1861. Later, he established a spiritual center (daotang) on Yinma Lane in Dihua for meditation and study. The Qing government closed Beiliang Mosque because of the anti-Qing uprising and turned it into an ancestral hall, so the local community built Beifang Mosque in 1876. Because the local community loved Imam Ma so much, they elected him as their religious leader again. After Imam Ma passed away in 1885, he was buried next to the elder's grave in Weijiapu at the Dawan gongbei, just as he requested in his will.
+
+![image](https://files.catbox.moe/09hs9j.jpg)
+
+![image](https://files.catbox.moe/i5ii11.jpg)
+
+![image](https://files.catbox.moe/y4mkim.jpg)
+
+![image](https://files.catbox.moe/w3m4o7.jpg)

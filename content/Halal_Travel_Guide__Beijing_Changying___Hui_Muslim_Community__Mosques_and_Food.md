@@ -14,4 +14,188 @@ layout: "article"
 
 # Halal Travel Guide: Beijing Changying — Hui Muslim Community, Mosques and Food
 
-**Reposted from the web**\n\n**Summary:** Beijing Changying — Hui Muslim Community, Mosques and Food is presented here as a firsthand travel account in clear English, beginning with this scene: Changying is also called Changying. It sits on the north side of the Chaoyangmen official road between Beijing and Tongzhou, 13 kilometers from Beijing's Chaoyangmen and 5 kilometers from Tongzhou's West Gate. The account keeps its focus on Beijing Changying, Hui Muslims, Halal Food while preserving the names, places, food, and historical details from the Chinese source.\n\nChangying is also called Changying. It sits on the north side of the Chaoyangmen official road between Beijing and Tongzhou, 13 kilometers from Beijing's Chaoyangmen and 5 kilometers from Tongzhou's West Gate. Legend says that Chang Yuchun, a famous founding general of the Ming Dynasty, once stationed a troop of Hui Muslims near Tongzhou, and this camp was named Changjiayingzi.\n\nThe Jiajing Tongzhou Gazetteer (Jiajing Tongzhou Zhilue Guanji Zhi) records that Chang Yuchun visited Tongzhou twice. The first time was in 1368 (the first year of the Hongwu reign), when Chang Yuchun served as deputy general under General Xu Da during the Northern Expedition and captured Tongzhou. The following year, the Yuan army attacked Tongzhou, and Chang Yuchun led his troops back to rescue the city. He held Tongzhou, and the local people have deep feelings for him.\n\nHowever, current historical records only mention Chang Yuchun stationing troops outside Tongzhou in the early Hongwu years (1368-1369). According to a stele rebuilt during the Jiaqing reign, the Changying mosque was built 150 years later during the Zhengde period (1505-1521). It is hard to imagine a Hui Muslim community going that long without a mosque. Therefore, the origin of Changying is still debated. It is possible that the Hui Muslim village formed during the Zhengde period and the legend of Chang Yuchun was added later, or perhaps there was already a mosque in Changying during the Hongwu years, but historical records have not yet been found.\n\nBecause the upper reaches of the Tonghui River, which led from Tongzhou to Beijing, lacked enough water and often silted up, most grain barges on the Grand Canal reached Tongzhou and then had to switch to land. They unloaded the cargo onto carts and traveled directly to Chaoyangmen, which created the official road outside Chaoyangmen. At the end of the Qianlong reign, Park Ji-won, an envoy from Korea, wrote in his Jehol Diary that the Chaoyangmen official road was packed: 'Once inside the east gate (of Tongzhou), until the five-mile mark to the west gate, there were tens of thousands of wheelbarrows, filling the road with no room to turn... From Tongzhou to the imperial city, a distance of 40 li, the road was paved with stone. The iron wheels clattered, and the sound of the carts was so loud it made one's heart and mind restless.'\n\nChangying is located not far from the north side of the Chaoyangmen official road. The Beijing Chaoyang District Gazetteer records a rhyme about Changying from the Republican era: 'Three treasures of the Changying Hui Muslims: pushing wheelbarrows, selling hay, and pulling rickshaws.' Pushing wheelbarrows meant moving grain from the Tongzhou earth dam to the Thirteen Granaries (Shisancang) inside and outside Chaoyangmen, while pulling rickshaws meant transporting passengers on the Chaoyangmen official road. Both jobs were directly related to the canal transport system.\n\nThe 1941 Tong County Gazetteer records that Changying had 500 Hui Muslim households at the time, making it the second-largest Hui Muslim settlement in Tong County after the county seat.\n\n![image](https://files.catbox.moe/4j0pky.jpg)\n\n![image](https://files.catbox.moe/w91lcw.jpg)\n\nIn the 1935 General Map of the Old Capital's Suburbs, the black dot northwest of Tongzhou is Changying.\n\n![image](https://files.catbox.moe/legmsk.jpg)\n\nOn the 1928 Shunzhi Topographic Map, you can see a road labeled 'Beijing to Tong County Main Road' passing through Changying.\n\n![image](https://files.catbox.moe/o8f3gs.jpg)\n\nThe Changying mosque was built during the Ming Zhengde period (1505-1521), rebuilt in 1796 (the first year of the Jiaqing reign), rebuilt again in 1986, and underwent large-scale renovations and expansions in 2004 to reach its current form.\n\n![image](https://files.catbox.moe/l59w6e.jpg)\n\n![image](https://files.catbox.moe/lf5cw4.jpg)\n\n![image](https://files.catbox.moe/33s2m0.jpg)\n\n![image](https://files.catbox.moe/hthiau.jpg)\n\n![image](https://files.catbox.moe/r9bizq.jpg)\n\n![image](https://files.catbox.moe/7ghdfz.jpg)\n\n![image](https://files.catbox.moe/h75lgu.jpg)\n\n![image](https://files.catbox.moe/qgaui8.jpg)\n\n![image](https://files.catbox.moe/wssm4w.jpg)\n\n![image](https://files.catbox.moe/3je7l6.jpg)\n\n![image](https://files.catbox.moe/p6oph7.jpg)\n\n![image](https://files.catbox.moe/0ls8tl.jpg)\n\n**An ancient tree from the Zhengde era.**\n\n![image](https://files.catbox.moe/enew6g.jpg)\n\n![image](https://files.catbox.moe/lc1k34.jpg)\n\nSwinhoe’s book, Narrative of the North China Campaign of 1860, mentions Changying and the Changying mosque:\n\nAt noon on October 3, we took down our tents, crossed the canal, and marched into a village of Hui Muslims in Changying. The village was near a rifle regiment outpost. Lord Elgin and Sir Hope Grant, along with their staff, stayed in a beautiful mosque, while about six thousand strong soldiers camped in the surrounding fields.\n\nThe village was small and filled with mud huts. But this time, not all the houses were empty. The villagers were Hui Muslims who followed Islam. You could tell them apart from the other locals by the strange pointed hats they wore, with their braids tucked inside. Inside the mosque, there were many stone inscriptions in Arabic and Chinese, and several books and scriptures printed in Arabic were scattered around. Many of the Prophet’s Chinese followers could recite a few sentences from these books, but few could explain what they meant. However, they were very familiar with the prayers and chapters of the Quran and often recited them to the Sikh cavalry (Note: the author mistook Indian Muslims for Sikhs). The villagers chanted these prayers repeatedly, which always moved the tired Indian warriors to tears and often made them take silver out of their pockets. The Hui Muslims of the Celestial Empire knew it was best to accept this sympathy.\n\nInside the Changying mosque, there is a 1937 stone tablet titled "Last Words of My Late Mother," which is a precious record of the Changying women’s mosque. It says, "We sacrificed the family house in the west courtyard to convert the former girls' school into a women's bathing facility." But the two rooms on the east side were kept as a place for Lin and others to stay when they returned home. "" The 'Lin' here refers to Zhang Zhaolin, a Hui Muslim from Changying who was known as one of the 'five great Hui Muslim journalists of the Republic of China era'.\n\nAccording to the article 'With the Zhang Zhaolin Brothers', Zhang Zhaolin, whose courtesy name was Ziqi, was born in Changying in 1865. His grandfather and great-uncle were both military jinshi (a high-level imperial examination degree) in the same year during the Daoguang reign. His family's fortunes declined when he was four or five years old. He only attended a private village school before becoming an apprentice at a grocery store. In 1909, Zhang Zhaolin founded the 'Xingshi Bao' (Awakening Times) in Fengtian, which was the most important vernacular newspaper in the city at the time.\n\nThe 'Xingshi Bao' aimed to 'represent public opinion and serve as a mouthpiece for the people'. It gained fame in 1919 for its continuous coverage of the student demonstrations in Shenyang colleges and universities in response to the May Fourth Movement. During the 1927 anti-Japanese protest in Fengtian involving 60,000 people, Zhang Zhaolin marched at the front as a reporter and used his newspaper to build public support. The Japanese considered 'Xingshi Bao' to be at the forefront of the anti-Japanese movement at the time. At the same time, 'Xingshi Bao' frequently published articles about Hui Muslim customs and activities, serving as a window for different ethnic groups to understand each other and bridge cultural gaps.\n\nAfter Japan occupied Fengtian in 1931, they shut down most newspapers. 'Xingshi Bao' was exceptionally allowed to remain open as a Hui Muslim publication, but it shifted from covering current events to printing local anecdotes and serialized romance or martial arts novels to stay in business. In 1934, Zhang Zhaolin handed the newspaper over to his son to manage. He passed away in 1938, and 'Xingshi Bao' ceased publication and dissolved in 1944.\n\nIn 1911, Zhang Zhaolin entered the field of education and helped establish the Fengtian Mosque School. He also founded a private school in his hometown of Changying. The school song included the lyrics: 'Old man Ziqi, worked hard to manage, with a heart to help the world... educating the younger generation, wanting to bring light to our hometown'.\n\n**Halal food**\n\nIn 2001, Changying underwent demolition. The original eight Hui Muslim villages, including Changying villages 1-7 and the first residential area, were relocated to the Changying Ethnic Homeland residential complex. This formed a new Hui Muslim community, featuring a food street behind the Changying Mosque, a halal food market, a halal supermarket, and many halal restaurants.\n\nThe wall bordering the Changying Mosque is the halal food street. The most famous spot there is Li Xiaolao's meat flatbread (rou shaobing). Meat flatbread paired with tofu puff soup (dou pao tang) is my standard order.\n\n![image](https://files.catbox.moe/7eaxd4.jpg)\n\n![image](https://files.catbox.moe/xjavrw.jpg)\n\n![image](https://files.catbox.moe/r2tzne.jpg)\n\n![image](https://files.catbox.moe/9vzav3.jpg)\n\nNext to Li Xiaolao is the Anji Deli, known for its crispy meat (songrou) and spiced beef (jiang niurou).\n\n![image](https://files.catbox.moe/93vuar.jpg)\n\n![image](https://files.catbox.moe/l7r1ki.jpg)\n\n![image](https://files.catbox.moe/j4bjf4.jpg)\n\n![image](https://files.catbox.moe/a5uch8.jpg)\n\n![image](https://files.catbox.moe/d9jhpq.jpg)\n\n![image](https://files.catbox.moe/8k2ran.jpg)\n\n**Next to that is the Jialun Deli, which sells roasted chicken (shaoji).**\n\n![image](https://files.catbox.moe/gyl6jf.jpg)\n\n![image](https://files.catbox.moe/i2eqhr.jpg)\n\n![image](https://files.catbox.moe/bgfhm8.jpg)\n\nYinfangzhai Pastry Shop sells wife cakes (laopo bing), sugar-filled sesame cakes (tang huoshao), and peanuts.\n\n![image](https://files.catbox.moe/yn3m8i.jpg)\n\n![image](https://files.catbox.moe/b07ki0.jpg)\n\n![image](https://files.catbox.moe/0y6cwt.jpg)\n\n![image](https://files.catbox.moe/yazvm5.jpg)\n\n![image](https://files.catbox.moe/rt0bk0.jpg)\n\n**I passed by Kaiyizhai when they were selling sweet rice balls (yuanxiao) at the beginning of the lunar new year.**\n\n![image](https://files.catbox.moe/eil9wb.jpg)\n\n![image](https://files.catbox.moe/621bfi.jpg)\n\nThe almond tofu (xingren doufu) at the entrance of the Hui Muslim residential area across from the food street is delicious. It is hard to find such authentic almond tofu in the city.\n\n![image](https://files.catbox.moe/feyhf2.jpg)\n\n![image](https://files.catbox.moe/05qb6u.jpg)\n\n![image](https://files.catbox.moe/s2mdte.jpg)\n\nNorthwest-style cold skin noodles (liangpizi) at the entrance of the food street.\n\n![image](https://files.catbox.moe/2hyn25.jpg)\n\n![image](https://files.catbox.moe/qdh9rg.jpg)\n\n![image](https://files.catbox.moe/hx32yo.jpg)\n\n![image](https://files.catbox.moe/63rnf4.jpg)\n\nCrispy fried milk (cuipi xiannai) and duck heads at the Ziguangyuan snack window.\n\n![image](https://files.catbox.moe/cpdhs7.jpg)\n\n![image](https://files.catbox.moe/o8rkac.jpg)\n\n![image](https://files.catbox.moe/g88nsf.jpg)\n\n**Changying Halal Market.**\n\n![image](https://files.catbox.moe/169s22.jpg)\n\n![image](https://files.catbox.moe/fo984s.jpg)\n\nFried chicken wishbones (zhaji chagu) at the entrance.\n\n![image](https://files.catbox.moe/xhoy8i.jpg)\n\n![image](https://files.catbox.moe/3ujs8s.jpg)\n\nHalal snacks inside.\n\n![image](https://files.catbox.moe/lcc9rv.jpg)\n\n![image](https://files.catbox.moe/cgfaf4.jpg)\n\n![image](https://files.catbox.moe/lqf8xk.jpg)\n\n![image](https://files.catbox.moe/i0j2x6.jpg)\n\n**Street view of Changying.**\n\n![image](https://files.catbox.moe/qhuovc.jpg)\n\n![image](https://files.catbox.moe/kziu18.jpg)\n\n![image](https://files.catbox.moe/hb1mxd.jpg)
+**Reposted from the web**
+
+**Summary:** Beijing Changying — Hui Muslim Community, Mosques and Food is presented here as a firsthand travel account in clear English, beginning with this scene: Changying is also called Changying. It sits on the north side of the Chaoyangmen official road between Beijing and Tongzhou, 13 kilometers from Beijing's Chaoyangmen and 5 kilometers from Tongzhou's West Gate. The account keeps its focus on Beijing Changying, Hui Muslims, Halal Food while preserving the names, places, food, and historical details from the Chinese source.
+
+Changying is also called Changying. It sits on the north side of the Chaoyangmen official road between Beijing and Tongzhou, 13 kilometers from Beijing's Chaoyangmen and 5 kilometers from Tongzhou's West Gate. Legend says that Chang Yuchun, a famous founding general of the Ming Dynasty, once stationed a troop of Hui Muslims near Tongzhou, and this camp was named Changjiayingzi.
+
+The Jiajing Tongzhou Gazetteer (Jiajing Tongzhou Zhilue Guanji Zhi) records that Chang Yuchun visited Tongzhou twice. The first time was in 1368 (the first year of the Hongwu reign), when Chang Yuchun served as deputy general under General Xu Da during the Northern Expedition and captured Tongzhou. The following year, the Yuan army attacked Tongzhou, and Chang Yuchun led his troops back to rescue the city. He held Tongzhou, and the local people have deep feelings for him.
+
+However, current historical records only mention Chang Yuchun stationing troops outside Tongzhou in the early Hongwu years (1368-1369). According to a stele rebuilt during the Jiaqing reign, the Changying mosque was built 150 years later during the Zhengde period (1505-1521). It is hard to imagine a Hui Muslim community going that long without a mosque. Therefore, the origin of Changying is still debated. It is possible that the Hui Muslim village formed during the Zhengde period and the legend of Chang Yuchun was added later, or perhaps there was already a mosque in Changying during the Hongwu years, but historical records have not yet been found.
+
+Because the upper reaches of the Tonghui River, which led from Tongzhou to Beijing, lacked enough water and often silted up, most grain barges on the Grand Canal reached Tongzhou and then had to switch to land. They unloaded the cargo onto carts and traveled directly to Chaoyangmen, which created the official road outside Chaoyangmen. At the end of the Qianlong reign, Park Ji-won, an envoy from Korea, wrote in his Jehol Diary that the Chaoyangmen official road was packed: 'Once inside the east gate (of Tongzhou), until the five-mile mark to the west gate, there were tens of thousands of wheelbarrows, filling the road with no room to turn... From Tongzhou to the imperial city, a distance of 40 li, the road was paved with stone. The iron wheels clattered, and the sound of the carts was so loud it made one's heart and mind restless.'
+
+Changying is located not far from the north side of the Chaoyangmen official road. The Beijing Chaoyang District Gazetteer records a rhyme about Changying from the Republican era: 'Three treasures of the Changying Hui Muslims: pushing wheelbarrows, selling hay, and pulling rickshaws.' Pushing wheelbarrows meant moving grain from the Tongzhou earth dam to the Thirteen Granaries (Shisancang) inside and outside Chaoyangmen, while pulling rickshaws meant transporting passengers on the Chaoyangmen official road. Both jobs were directly related to the canal transport system.
+
+The 1941 Tong County Gazetteer records that Changying had 500 Hui Muslim households at the time, making it the second-largest Hui Muslim settlement in Tong County after the county seat.
+
+![image](https://files.catbox.moe/4j0pky.jpg)
+
+![image](https://files.catbox.moe/w91lcw.jpg)
+
+In the 1935 General Map of the Old Capital's Suburbs, the black dot northwest of Tongzhou is Changying.
+
+![image](https://files.catbox.moe/legmsk.jpg)
+
+On the 1928 Shunzhi Topographic Map, you can see a road labeled 'Beijing to Tong County Main Road' passing through Changying.
+
+![image](https://files.catbox.moe/o8f3gs.jpg)
+
+The Changying mosque was built during the Ming Zhengde period (1505-1521), rebuilt in 1796 (the first year of the Jiaqing reign), rebuilt again in 1986, and underwent large-scale renovations and expansions in 2004 to reach its current form.
+
+![image](https://files.catbox.moe/l59w6e.jpg)
+
+![image](https://files.catbox.moe/lf5cw4.jpg)
+
+![image](https://files.catbox.moe/33s2m0.jpg)
+
+![image](https://files.catbox.moe/hthiau.jpg)
+
+![image](https://files.catbox.moe/r9bizq.jpg)
+
+![image](https://files.catbox.moe/7ghdfz.jpg)
+
+![image](https://files.catbox.moe/h75lgu.jpg)
+
+![image](https://files.catbox.moe/qgaui8.jpg)
+
+![image](https://files.catbox.moe/wssm4w.jpg)
+
+![image](https://files.catbox.moe/3je7l6.jpg)
+
+![image](https://files.catbox.moe/p6oph7.jpg)
+
+![image](https://files.catbox.moe/0ls8tl.jpg)
+
+**An ancient tree from the Zhengde era.**
+
+![image](https://files.catbox.moe/enew6g.jpg)
+
+![image](https://files.catbox.moe/lc1k34.jpg)
+
+Swinhoe’s book, Narrative of the North China Campaign of 1860, mentions Changying and the Changying mosque:
+
+At noon on October 3, we took down our tents, crossed the canal, and marched into a village of Hui Muslims in Changying. The village was near a rifle regiment outpost. Lord Elgin and Sir Hope Grant, along with their staff, stayed in a beautiful mosque, while about six thousand strong soldiers camped in the surrounding fields.
+
+The village was small and filled with mud huts. But this time, not all the houses were empty. The villagers were Hui Muslims who followed Islam. You could tell them apart from the other locals by the strange pointed hats they wore, with their braids tucked inside. Inside the mosque, there were many stone inscriptions in Arabic and Chinese, and several books and scriptures printed in Arabic were scattered around. Many of the Prophet’s Chinese followers could recite a few sentences from these books, but few could explain what they meant. However, they were very familiar with the prayers and chapters of the Quran and often recited them to the Sikh cavalry (Note: the author mistook Indian Muslims for Sikhs). The villagers chanted these prayers repeatedly, which always moved the tired Indian warriors to tears and often made them take silver out of their pockets. The Hui Muslims of the Celestial Empire knew it was best to accept this sympathy.
+
+Inside the Changying mosque, there is a 1937 stone tablet titled "Last Words of My Late Mother," which is a precious record of the Changying women’s mosque. It says, "We sacrificed the family house in the west courtyard to convert the former girls' school into a women's bathing facility." But the two rooms on the east side were kept as a place for Lin and others to stay when they returned home. "" The 'Lin' here refers to Zhang Zhaolin, a Hui Muslim from Changying who was known as one of the 'five great Hui Muslim journalists of the Republic of China era'.
+
+According to the article 'With the Zhang Zhaolin Brothers', Zhang Zhaolin, whose courtesy name was Ziqi, was born in Changying in 1865. His grandfather and great-uncle were both military jinshi (a high-level imperial examination degree) in the same year during the Daoguang reign. His family's fortunes declined when he was four or five years old. He only attended a private village school before becoming an apprentice at a grocery store. In 1909, Zhang Zhaolin founded the 'Xingshi Bao' (Awakening Times) in Fengtian, which was the most important vernacular newspaper in the city at the time.
+
+The 'Xingshi Bao' aimed to 'represent public opinion and serve as a mouthpiece for the people'. It gained fame in 1919 for its continuous coverage of the student demonstrations in Shenyang colleges and universities in response to the May Fourth Movement. During the 1927 anti-Japanese protest in Fengtian involving 60,000 people, Zhang Zhaolin marched at the front as a reporter and used his newspaper to build public support. The Japanese considered 'Xingshi Bao' to be at the forefront of the anti-Japanese movement at the time. At the same time, 'Xingshi Bao' frequently published articles about Hui Muslim customs and activities, serving as a window for different ethnic groups to understand each other and bridge cultural gaps.
+
+After Japan occupied Fengtian in 1931, they shut down most newspapers. 'Xingshi Bao' was exceptionally allowed to remain open as a Hui Muslim publication, but it shifted from covering current events to printing local anecdotes and serialized romance or martial arts novels to stay in business. In 1934, Zhang Zhaolin handed the newspaper over to his son to manage. He passed away in 1938, and 'Xingshi Bao' ceased publication and dissolved in 1944.
+
+In 1911, Zhang Zhaolin entered the field of education and helped establish the Fengtian Mosque School. He also founded a private school in his hometown of Changying. The school song included the lyrics: 'Old man Ziqi, worked hard to manage, with a heart to help the world... educating the younger generation, wanting to bring light to our hometown'.
+
+**Halal food**
+
+In 2001, Changying underwent demolition. The original eight Hui Muslim villages, including Changying villages 1-7 and the first residential area, were relocated to the Changying Ethnic Homeland residential complex. This formed a new Hui Muslim community, featuring a food street behind the Changying Mosque, a halal food market, a halal supermarket, and many halal restaurants.
+
+The wall bordering the Changying Mosque is the halal food street. The most famous spot there is Li Xiaolao's meat flatbread (rou shaobing). Meat flatbread paired with tofu puff soup (dou pao tang) is my standard order.
+
+![image](https://files.catbox.moe/7eaxd4.jpg)
+
+![image](https://files.catbox.moe/xjavrw.jpg)
+
+![image](https://files.catbox.moe/r2tzne.jpg)
+
+![image](https://files.catbox.moe/9vzav3.jpg)
+
+Next to Li Xiaolao is the Anji Deli, known for its crispy meat (songrou) and spiced beef (jiang niurou).
+
+![image](https://files.catbox.moe/93vuar.jpg)
+
+![image](https://files.catbox.moe/l7r1ki.jpg)
+
+![image](https://files.catbox.moe/j4bjf4.jpg)
+
+![image](https://files.catbox.moe/a5uch8.jpg)
+
+![image](https://files.catbox.moe/d9jhpq.jpg)
+
+![image](https://files.catbox.moe/8k2ran.jpg)
+
+**Next to that is the Jialun Deli, which sells roasted chicken (shaoji).**
+
+![image](https://files.catbox.moe/gyl6jf.jpg)
+
+![image](https://files.catbox.moe/i2eqhr.jpg)
+
+![image](https://files.catbox.moe/bgfhm8.jpg)
+
+Yinfangzhai Pastry Shop sells wife cakes (laopo bing), sugar-filled sesame cakes (tang huoshao), and peanuts.
+
+![image](https://files.catbox.moe/yn3m8i.jpg)
+
+![image](https://files.catbox.moe/b07ki0.jpg)
+
+![image](https://files.catbox.moe/0y6cwt.jpg)
+
+![image](https://files.catbox.moe/yazvm5.jpg)
+
+![image](https://files.catbox.moe/rt0bk0.jpg)
+
+**I passed by Kaiyizhai when they were selling sweet rice balls (yuanxiao) at the beginning of the lunar new year.**
+
+![image](https://files.catbox.moe/eil9wb.jpg)
+
+![image](https://files.catbox.moe/621bfi.jpg)
+
+The almond tofu (xingren doufu) at the entrance of the Hui Muslim residential area across from the food street is delicious. It is hard to find such authentic almond tofu in the city.
+
+![image](https://files.catbox.moe/feyhf2.jpg)
+
+![image](https://files.catbox.moe/05qb6u.jpg)
+
+![image](https://files.catbox.moe/s2mdte.jpg)
+
+Northwest-style cold skin noodles (liangpizi) at the entrance of the food street.
+
+![image](https://files.catbox.moe/2hyn25.jpg)
+
+![image](https://files.catbox.moe/qdh9rg.jpg)
+
+![image](https://files.catbox.moe/hx32yo.jpg)
+
+![image](https://files.catbox.moe/63rnf4.jpg)
+
+Crispy fried milk (cuipi xiannai) and duck heads at the Ziguangyuan snack window.
+
+![image](https://files.catbox.moe/cpdhs7.jpg)
+
+![image](https://files.catbox.moe/o8rkac.jpg)
+
+![image](https://files.catbox.moe/g88nsf.jpg)
+
+**Changying Halal Market.**
+
+![image](https://files.catbox.moe/169s22.jpg)
+
+![image](https://files.catbox.moe/fo984s.jpg)
+
+Fried chicken wishbones (zhaji chagu) at the entrance.
+
+![image](https://files.catbox.moe/xhoy8i.jpg)
+
+![image](https://files.catbox.moe/3ujs8s.jpg)
+
+Halal snacks inside.
+
+![image](https://files.catbox.moe/lcc9rv.jpg)
+
+![image](https://files.catbox.moe/cgfaf4.jpg)
+
+![image](https://files.catbox.moe/lqf8xk.jpg)
+
+![image](https://files.catbox.moe/i0j2x6.jpg)
+
+**Street view of Changying.**
+
+![image](https://files.catbox.moe/qhuovc.jpg)
+
+![image](https://files.catbox.moe/kziu18.jpg)
+
+![image](https://files.catbox.moe/hb1mxd.jpg)

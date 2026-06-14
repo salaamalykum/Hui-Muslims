@@ -14,4 +14,235 @@ layout: "article"
 
 # Halal Travel Guide: Songpan - Mosques, Gongbei and Hui Muslim Homes
 
-**Reposted from the web**\n\n**Summary:** Songpan County in Sichuan preserves old Hui Muslim mosque quarters, gongbei shrines, and residential lanes inside the ancient city of Songzhou. This travel account follows the Upper Mosque, Lower Mosque, Hui Muslim homes, graves, streets, and local religious landmarks recorded in the source.\n\nThe ancient city of Songzhou in Songpan, Sichuan, originally had two mosques, the Upper Mosque and the Lower Mosque. The Upper Mosque was destroyed after 1966, leaving only the Lower Mosque today. Songpan Lower Mosque is located on Middle Street inside the city and is an ancient mosque from the Ming Dynasty. In 1379 (the 12th year of the Hongwu reign of the Ming Dynasty), General Ding Yu rebuilt Songzhou City. As the tea and horse trade routes between Sichuan, Gansu, and Qinghai became busy, Hui Muslim horse and cattle caravans from Shaanxi, Qinghai, Gansu, and Yunnan traveled to Songzhou. Because the original Dongshan Mosque was destroyed in war, the local Tie, Sha, and Chang families of dost (dosti) funded the construction of the Songpan Lower Mosque in 1379.\n\nSongpan Lower Mosque was destroyed multiple times in 1663 (the second year of the Kangxi reign), 1860 (the tenth year of the Xianfeng reign), and 1911 (the third year of the Xuantong reign), and was rebuilt each time. The main prayer hall was rebuilt in 1988, and the Moon-Watching Tower (wangyuelou) was rebuilt in 1996.\n\nAfter the Friday prayer (Jumu'ah) at the mosque, when there is a funeral (janazah), many Han and Tibetan neighbors come to pay their respects, showing the harmony of the local community.\n\n![image](https://files.catbox.moe/t73apq.jpg)\n\n![image](https://files.catbox.moe/i7x7ci.jpg)\n\n![image](https://files.catbox.moe/6zcpl3.jpg)\n\n![image](https://files.catbox.moe/8twele.jpg)\n\n![image](https://files.catbox.moe/9m0ui9.jpg)\n\n![image](https://files.catbox.moe/e5u8o5.jpg)\n\n![image](https://files.catbox.moe/oe77fy.jpg)\n\n![image](https://files.catbox.moe/d09c37.jpg)\n\n![image](https://files.catbox.moe/gdxakv.jpg)\n\n![image](https://files.catbox.moe/6hcul2.jpg)\n\nAfter Jumu'ah, enjoy a slow moment drinking Pu'er tea in the 200-year-old Hui Muslim residence of Ma Chongxian inside Songzhou City.\n\nThe residence was first built by Songpan Hui Muslim Ma Chongxian in 1819 (the 24th year of the Jiaqing reign), and Ma's descendants have lived there for generations. After 1951, the house was used as a grain warehouse. It was returned to the Ma family in 1970 and has now been passed down for eight generations.\n\nThe Ma Chongxian residence still preserves its all-wood frame and column-and-tie (chuandou) structure from the Jiaqing era. It is a typical example of traditional northwest Sichuan architecture and was named one of the first historical buildings in Songpan County in December 2017.\n\nSince 2012, the Ma family has run the Ancestral Home Inn here. You can stay, drink tea, or eat, and all dost are welcome to experience it.\n\n![image](https://files.catbox.moe/gs15lo.jpg)\n\n![image](https://files.catbox.moe/oure7t.jpg)\n\n![image](https://files.catbox.moe/npki4h.jpg)\n\n![image](https://files.catbox.moe/i72oza.jpg)\n\n![image](https://files.catbox.moe/yp7q8p.jpg)\n\n![image](https://files.catbox.moe/zhvang.jpg)\n\n![image](https://files.catbox.moe/7wp1jp.jpg)\n\n![image](https://files.catbox.moe/e79t8o.jpg)\n\n![image](https://files.catbox.moe/uzlha6.jpg)\n\n![image](https://files.catbox.moe/h5osl7.jpg)\n\nHui Muslim residences in the ancient city of Songzhou include the Ma Zhiliang residence, the gatehouse of the Ma Zhide residence, and the gatehouse of the Sha family courtyard.\n\n![image](https://files.catbox.moe/iii8uj.jpg)\n\n![image](https://files.catbox.moe/3qnaid.jpg)\n\n![image](https://files.catbox.moe/3b19rv.jpg)\n\n![image](https://files.catbox.moe/1rya15.jpg)\n\n![image](https://files.catbox.moe/w4bnvj.jpg)\n\n![image](https://files.catbox.moe/2orhzf.jpg)\n\n![image](https://files.catbox.moe/35okts.jpg)\n\n![image](https://files.catbox.moe/mhxfpd.jpg)\n\n![image](https://files.catbox.moe/ir4ejx.jpg)\n\nAfter the Qing Dynasty, the tea and horse trade in Songpan flourished. In 1896 (the 22nd year of the Guangxu reign), tea merchant Ma Jian built the Songpan North Mosque by the Minjiang River outside the north gate of Songzhou ancient city. Songpan North Mosque was destroyed twice, in 1911 and 1919, and was later rebuilt under the leadership of Imam Mi Depei from Gansu. The mosque houses a plaque inscribed by Bai Chongxi that reads 'Promote Education and Build the Nation.' The main hall was rebuilt in 2005, and the gatehouse and Moon-Watching Tower were rebuilt in 2011.\n\n![image](https://files.catbox.moe/imf5fj.jpg)\n\n![image](https://files.catbox.moe/8ulrlv.jpg)\n\n![image](https://files.catbox.moe/0t2uqd.jpg)\n\n![image](https://files.catbox.moe/3lmb03.jpg)\n\n![image](https://files.catbox.moe/inybqe.jpg)\n\n![image](https://files.catbox.moe/1eb7ss.jpg)\n\n![image](https://files.catbox.moe/rk5ac4.jpg)\n\n![image](https://files.catbox.moe/qsaqeg.jpg)\n\n![image](https://files.catbox.moe/pxphc2.jpg)\n\nSongpan Guangzhao Pavilion Gongbei is located northeast of Songzhou City and belongs to the Qadiriyya (Gaderenye) Sufi order (menhuan). According to the Republic of China-era 'Songpan County Annals,' in 1686 (the 25th year of the Kangxi reign), Huazhe Abudonglaxi traveled from Linxia to Songpan to preach, then continued to Langzhong to meet Ma Ziyun, the commander of northern Sichuan. In 1689 (the 28th year of the Kangxi reign), Huazhe passed away (returned to Allah) in Langzhong. On that same day, the dost in Songpan suddenly saw Huazhe arrive. He stayed for a few days and then left without saying where he was going. Only when the Songpan dost received a letter from Ma Ziyun days later did they learn the date of Huazhe's passing and realize that his visit was a miracle. The Songpan dost then built a pavilion over the grave (gongbei) under the elm tree at the foot of the mountain east of the city where he had stayed, naming it Guangzhao. Since then, whenever there are floods or droughts, people go to the gongbei to make dua.\n\nAccording to the 'Biography of the Grand Master,' Qi Jingyi, a disciple of Huazhe and founder of the Great Gongbei, went to Guangzhao Pavilion Gongbei in 1694 (the 33rd year of the Kangxi reign) to teach. People came in an endless stream to listen, and even the local Songpan garrison commander came to see him. Later, the commander was inspired by Qi Jingyi, gave up his high position and wealth, and followed Qi Jingyi to pursue a life of spiritual practice.\n\nThe Light Pavilion (Guangzhao Ting) was torn down after 1966. In 1997, Yang Jiefang, the head of the Great Gongbei (Da Gongbei), led its reconstruction. It was renovated again in 2019 to reach its current appearance. I was welcomed by an imam at the Gongbei Mosque (Gongbei Si), where I learned a lot about Sufism and enjoyed tea and steamed buns (momo). I felt very grateful.\n\n![image](https://files.catbox.moe/r0j80z.jpg)\n\n![image](https://files.catbox.moe/3jwecq.jpg)\n\n![image](https://files.catbox.moe/g4e3ky.jpg)\n\n![image](https://files.catbox.moe/n00lyj.jpg)\n\n![image](https://files.catbox.moe/xrmhbb.jpg)\n\n![image](https://files.catbox.moe/8izl8h.jpg)\n\n![image](https://files.catbox.moe/6rtt8n.jpg)\n\n![image](https://files.catbox.moe/ov6mal.jpg)\n\n![image](https://files.catbox.moe/fwy0rh.jpg)\n\nIn the dua hall of the Light Pavilion Gongbei, the mihrab features three wooden carvings of dua in the shapes of a fan, a circle, and an incense burner. Building a prayer hall inside a gongbei is a characteristic of the Great Gongbei menhuan, which is why it is also called the Gongbei Mosque. There is an imam inside the Gongbei Mosque.\n\n![image](https://files.catbox.moe/3set0z.jpg)\n\n![image](https://files.catbox.moe/xzlmda.jpg)\n\n![image](https://files.catbox.moe/u6ehh3.jpg)\n\n![image](https://files.catbox.moe/5oy549.jpg)\n\n![image](https://files.catbox.moe/yzqbso.jpg)\n\n![image](https://files.catbox.moe/tfbsn0.jpg)\n\n![image](https://files.catbox.moe/rtxuzh.jpg)\n\nWalking further up the mountain from the Songpan Light Pavilion Gongbei leads to a Hui Muslim cemetery. Continuing to climb higher, you can see another site, the Hidden Immortal Pavilion (Yinxian Ting) Gongbei. The Hidden Immortal Pavilion Gongbei is usually closed. You need to contact the imam at the Light Pavilion Gongbei Mosque down the mountain to open the door.\n\nThe Hidden Immortal Pavilion Gongbei is also called the Upper Gongbei. In 1736 (the first year of the Qianlong reign), it became the burial site for Ma Guangzu, who came to China to preach during the Kangxi reign. According to the Republic of China era 'Songpan County Annals, Volume 8, Miscellaneous Records,' Ma Guangzu traveled through Jiangsu, Shandong, Hebei, Shanxi, Shaanxi, and Gansu provinces before finally arriving at a cave on a slope near the Light Pavilion in Songpan to meditate. He lived on dates and chestnuts. When local Songpan dostis (friends/disciples) came to seek his guidance, he taught them to respect Allah and purify their hearts to see their true nature. Ma Guangzu was 120 years old when he returned to Allah in 1736. To honor him, the Songpan dostis built a gongbei pavilion over his thatched hut. In the early years of the Jiaqing reign, when the White Lotus Sect attacked Songzhou City, they passed by the Gongbei. They suddenly saw an old man in a green robe who was as tall as the mountain, leading soldiers in white armor to fill the valley, which scared the White Lotus Sect members away. To thank the old man for his miraculous protection, the Qing official Hong Fan personally wrote the plaque 'Protect My People' (Bao Wo Limin) and hung it on the middle door of the main hall of the Gongbei.\n\n![image](https://files.catbox.moe/1x1r20.jpg)\n\n![image](https://files.catbox.moe/r6ngj6.jpg)\n\n![image](https://files.catbox.moe/328l1l.jpg)\n\n![image](https://files.catbox.moe/607pfd.jpg)\n\n![image](https://files.catbox.moe/yl1s8y.jpg)\n\n![image](https://files.catbox.moe/swmrd4.jpg)\n\n![image](https://files.catbox.moe/efkrhe.jpg)\n\n![image](https://files.catbox.moe/d2jr1b.jpg)\n\n![image](https://files.catbox.moe/trw29v.jpg)\n\n![image](https://files.catbox.moe/2e3bn1.jpg)\n\n![image](https://files.catbox.moe/5lceo8.jpg)\n\n![image](https://files.catbox.moe/tmdl0p.jpg)\n\n![image](https://files.catbox.moe/ue7gl2.jpg)\n\n![image](https://files.catbox.moe/zrkfjt.jpg)\n\n![image](https://files.catbox.moe/zzbjxy.jpg)\n\nYousuotun Mosque is located in Yousuotun Village, 5 kilometers north of Songpan City. It was built over two years starting in 1933, after villagers Ma Bolong and Ma Qijun donated the land. It stopped being used after 1958, was destroyed after 1966, rebuilt in 1986, and reconstructed again in 2008 into its current form.\n\n![image](https://files.catbox.moe/2l44y9.jpg)\n\n![image](https://files.catbox.moe/4hwjyr.jpg)\n\n![image](https://files.catbox.moe/g1yn9t.jpg)\n\n![image](https://files.catbox.moe/7vwod2.jpg)\n\nThe Hui Muslim homes in Yousuotun retain the traditional architectural style of the Sichuan-Tibet region and are well worth seeing.\n\n![image](https://files.catbox.moe/b1tugk.jpg)\n\n![image](https://files.catbox.moe/gdlvvu.jpg)\n\n![image](https://files.catbox.moe/922za8.jpg)\n\n![image](https://files.catbox.moe/lusjdd.jpg)\n\n![image](https://files.catbox.moe/zipv1h.jpg)\n\n![image](https://files.catbox.moe/7u2d7k.jpg)\n\n![image](https://files.catbox.moe/mue8tj.jpg)\n\n![image](https://files.catbox.moe/ory4gy.jpg)\n\n![image](https://files.catbox.moe/5wa9js.jpg)\n\n![image](https://files.catbox.moe/scg79g.jpg)\n\n![image](https://files.catbox.moe/4wis97.jpg)\n\n![image](https://files.catbox.moe/suiyxl.jpg)\n\n![image](https://files.catbox.moe/93eq57.jpg)\n\n![image](https://files.catbox.moe/vk93ke.jpg)\n\nHuoshaotun Mosque is located in Huoshaotun Village by the Min River, north of Songpan City. It was first built in 1920, and it was being rebuilt when I visited. Huoshaotun Village has branded itself as a 'Ten-Mile Hui Muslim Cultural Town,' but in reality, there are very few places to eat there.\n\n![image](https://files.catbox.moe/lgs8ua.jpg)\n\n![image](https://files.catbox.moe/jdxqld.jpg)\n\n![image](https://files.catbox.moe/i25ypx.jpg)\n\n![image](https://files.catbox.moe/ue8s2x.jpg)\n\n![image](https://files.catbox.moe/mrtuz7.jpg)\n\n![image](https://files.catbox.moe/5vpbw6.jpg)\n\n![image](https://files.catbox.moe/y85cq2.jpg)\n\n![image](https://files.catbox.moe/9p63vc.jpg)\n\n![image](https://files.catbox.moe/y01m7z.jpg)\n
+**Reposted from the web**
+
+**Summary:** Songpan County in Sichuan preserves old Hui Muslim mosque quarters, gongbei shrines, and residential lanes inside the ancient city of Songzhou. This travel account follows the Upper Mosque, Lower Mosque, Hui Muslim homes, graves, streets, and local religious landmarks recorded in the source.
+
+The ancient city of Songzhou in Songpan, Sichuan, originally had two mosques, the Upper Mosque and the Lower Mosque. The Upper Mosque was destroyed after 1966, leaving only the Lower Mosque today. Songpan Lower Mosque is located on Middle Street inside the city and is an ancient mosque from the Ming Dynasty. In 1379 (the 12th year of the Hongwu reign of the Ming Dynasty), General Ding Yu rebuilt Songzhou City. As the tea and horse trade routes between Sichuan, Gansu, and Qinghai became busy, Hui Muslim horse and cattle caravans from Shaanxi, Qinghai, Gansu, and Yunnan traveled to Songzhou. Because the original Dongshan Mosque was destroyed in war, the local Tie, Sha, and Chang families of dost (dosti) funded the construction of the Songpan Lower Mosque in 1379.
+
+Songpan Lower Mosque was destroyed multiple times in 1663 (the second year of the Kangxi reign), 1860 (the tenth year of the Xianfeng reign), and 1911 (the third year of the Xuantong reign), and was rebuilt each time. The main prayer hall was rebuilt in 1988, and the Moon-Watching Tower (wangyuelou) was rebuilt in 1996.
+
+After the Friday prayer (Jumu'ah) at the mosque, when there is a funeral (janazah), many Han and Tibetan neighbors come to pay their respects, showing the harmony of the local community.
+
+![image](https://files.catbox.moe/t73apq.jpg)
+
+![image](https://files.catbox.moe/i7x7ci.jpg)
+
+![image](https://files.catbox.moe/6zcpl3.jpg)
+
+![image](https://files.catbox.moe/8twele.jpg)
+
+![image](https://files.catbox.moe/9m0ui9.jpg)
+
+![image](https://files.catbox.moe/e5u8o5.jpg)
+
+![image](https://files.catbox.moe/oe77fy.jpg)
+
+![image](https://files.catbox.moe/d09c37.jpg)
+
+![image](https://files.catbox.moe/gdxakv.jpg)
+
+![image](https://files.catbox.moe/6hcul2.jpg)
+
+After Jumu'ah, enjoy a slow moment drinking Pu'er tea in the 200-year-old Hui Muslim residence of Ma Chongxian inside Songzhou City.
+
+The residence was first built by Songpan Hui Muslim Ma Chongxian in 1819 (the 24th year of the Jiaqing reign), and Ma's descendants have lived there for generations. After 1951, the house was used as a grain warehouse. It was returned to the Ma family in 1970 and has now been passed down for eight generations.
+
+The Ma Chongxian residence still preserves its all-wood frame and column-and-tie (chuandou) structure from the Jiaqing era. It is a typical example of traditional northwest Sichuan architecture and was named one of the first historical buildings in Songpan County in December 2017.
+
+Since 2012, the Ma family has run the Ancestral Home Inn here. You can stay, drink tea, or eat, and all dost are welcome to experience it.
+
+![image](https://files.catbox.moe/gs15lo.jpg)
+
+![image](https://files.catbox.moe/oure7t.jpg)
+
+![image](https://files.catbox.moe/npki4h.jpg)
+
+![image](https://files.catbox.moe/i72oza.jpg)
+
+![image](https://files.catbox.moe/yp7q8p.jpg)
+
+![image](https://files.catbox.moe/zhvang.jpg)
+
+![image](https://files.catbox.moe/7wp1jp.jpg)
+
+![image](https://files.catbox.moe/e79t8o.jpg)
+
+![image](https://files.catbox.moe/uzlha6.jpg)
+
+![image](https://files.catbox.moe/h5osl7.jpg)
+
+Hui Muslim residences in the ancient city of Songzhou include the Ma Zhiliang residence, the gatehouse of the Ma Zhide residence, and the gatehouse of the Sha family courtyard.
+
+![image](https://files.catbox.moe/iii8uj.jpg)
+
+![image](https://files.catbox.moe/3qnaid.jpg)
+
+![image](https://files.catbox.moe/3b19rv.jpg)
+
+![image](https://files.catbox.moe/1rya15.jpg)
+
+![image](https://files.catbox.moe/w4bnvj.jpg)
+
+![image](https://files.catbox.moe/2orhzf.jpg)
+
+![image](https://files.catbox.moe/35okts.jpg)
+
+![image](https://files.catbox.moe/mhxfpd.jpg)
+
+![image](https://files.catbox.moe/ir4ejx.jpg)
+
+After the Qing Dynasty, the tea and horse trade in Songpan flourished. In 1896 (the 22nd year of the Guangxu reign), tea merchant Ma Jian built the Songpan North Mosque by the Minjiang River outside the north gate of Songzhou ancient city. Songpan North Mosque was destroyed twice, in 1911 and 1919, and was later rebuilt under the leadership of Imam Mi Depei from Gansu. The mosque houses a plaque inscribed by Bai Chongxi that reads 'Promote Education and Build the Nation.' The main hall was rebuilt in 2005, and the gatehouse and Moon-Watching Tower were rebuilt in 2011.
+
+![image](https://files.catbox.moe/imf5fj.jpg)
+
+![image](https://files.catbox.moe/8ulrlv.jpg)
+
+![image](https://files.catbox.moe/0t2uqd.jpg)
+
+![image](https://files.catbox.moe/3lmb03.jpg)
+
+![image](https://files.catbox.moe/inybqe.jpg)
+
+![image](https://files.catbox.moe/1eb7ss.jpg)
+
+![image](https://files.catbox.moe/rk5ac4.jpg)
+
+![image](https://files.catbox.moe/qsaqeg.jpg)
+
+![image](https://files.catbox.moe/pxphc2.jpg)
+
+Songpan Guangzhao Pavilion Gongbei is located northeast of Songzhou City and belongs to the Qadiriyya (Gaderenye) Sufi order (menhuan). According to the Republic of China-era 'Songpan County Annals,' in 1686 (the 25th year of the Kangxi reign), Huazhe Abudonglaxi traveled from Linxia to Songpan to preach, then continued to Langzhong to meet Ma Ziyun, the commander of northern Sichuan. In 1689 (the 28th year of the Kangxi reign), Huazhe passed away (returned to Allah) in Langzhong. On that same day, the dost in Songpan suddenly saw Huazhe arrive. He stayed for a few days and then left without saying where he was going. Only when the Songpan dost received a letter from Ma Ziyun days later did they learn the date of Huazhe's passing and realize that his visit was a miracle. The Songpan dost then built a pavilion over the grave (gongbei) under the elm tree at the foot of the mountain east of the city where he had stayed, naming it Guangzhao. Since then, whenever there are floods or droughts, people go to the gongbei to make dua.
+
+According to the 'Biography of the Grand Master,' Qi Jingyi, a disciple of Huazhe and founder of the Great Gongbei, went to Guangzhao Pavilion Gongbei in 1694 (the 33rd year of the Kangxi reign) to teach. People came in an endless stream to listen, and even the local Songpan garrison commander came to see him. Later, the commander was inspired by Qi Jingyi, gave up his high position and wealth, and followed Qi Jingyi to pursue a life of spiritual practice.
+
+The Light Pavilion (Guangzhao Ting) was torn down after 1966. In 1997, Yang Jiefang, the head of the Great Gongbei (Da Gongbei), led its reconstruction. It was renovated again in 2019 to reach its current appearance. I was welcomed by an imam at the Gongbei Mosque (Gongbei Si), where I learned a lot about Sufism and enjoyed tea and steamed buns (momo). I felt very grateful.
+
+![image](https://files.catbox.moe/r0j80z.jpg)
+
+![image](https://files.catbox.moe/3jwecq.jpg)
+
+![image](https://files.catbox.moe/g4e3ky.jpg)
+
+![image](https://files.catbox.moe/n00lyj.jpg)
+
+![image](https://files.catbox.moe/xrmhbb.jpg)
+
+![image](https://files.catbox.moe/8izl8h.jpg)
+
+![image](https://files.catbox.moe/6rtt8n.jpg)
+
+![image](https://files.catbox.moe/ov6mal.jpg)
+
+![image](https://files.catbox.moe/fwy0rh.jpg)
+
+In the dua hall of the Light Pavilion Gongbei, the mihrab features three wooden carvings of dua in the shapes of a fan, a circle, and an incense burner. Building a prayer hall inside a gongbei is a characteristic of the Great Gongbei menhuan, which is why it is also called the Gongbei Mosque. There is an imam inside the Gongbei Mosque.
+
+![image](https://files.catbox.moe/3set0z.jpg)
+
+![image](https://files.catbox.moe/xzlmda.jpg)
+
+![image](https://files.catbox.moe/u6ehh3.jpg)
+
+![image](https://files.catbox.moe/5oy549.jpg)
+
+![image](https://files.catbox.moe/yzqbso.jpg)
+
+![image](https://files.catbox.moe/tfbsn0.jpg)
+
+![image](https://files.catbox.moe/rtxuzh.jpg)
+
+Walking further up the mountain from the Songpan Light Pavilion Gongbei leads to a Hui Muslim cemetery. Continuing to climb higher, you can see another site, the Hidden Immortal Pavilion (Yinxian Ting) Gongbei. The Hidden Immortal Pavilion Gongbei is usually closed. You need to contact the imam at the Light Pavilion Gongbei Mosque down the mountain to open the door.
+
+The Hidden Immortal Pavilion Gongbei is also called the Upper Gongbei. In 1736 (the first year of the Qianlong reign), it became the burial site for Ma Guangzu, who came to China to preach during the Kangxi reign. According to the Republic of China era 'Songpan County Annals, Volume 8, Miscellaneous Records,' Ma Guangzu traveled through Jiangsu, Shandong, Hebei, Shanxi, Shaanxi, and Gansu provinces before finally arriving at a cave on a slope near the Light Pavilion in Songpan to meditate. He lived on dates and chestnuts. When local Songpan dostis (friends/disciples) came to seek his guidance, he taught them to respect Allah and purify their hearts to see their true nature. Ma Guangzu was 120 years old when he returned to Allah in 1736. To honor him, the Songpan dostis built a gongbei pavilion over his thatched hut. In the early years of the Jiaqing reign, when the White Lotus Sect attacked Songzhou City, they passed by the Gongbei. They suddenly saw an old man in a green robe who was as tall as the mountain, leading soldiers in white armor to fill the valley, which scared the White Lotus Sect members away. To thank the old man for his miraculous protection, the Qing official Hong Fan personally wrote the plaque 'Protect My People' (Bao Wo Limin) and hung it on the middle door of the main hall of the Gongbei.
+
+![image](https://files.catbox.moe/1x1r20.jpg)
+
+![image](https://files.catbox.moe/r6ngj6.jpg)
+
+![image](https://files.catbox.moe/328l1l.jpg)
+
+![image](https://files.catbox.moe/607pfd.jpg)
+
+![image](https://files.catbox.moe/yl1s8y.jpg)
+
+![image](https://files.catbox.moe/swmrd4.jpg)
+
+![image](https://files.catbox.moe/efkrhe.jpg)
+
+![image](https://files.catbox.moe/d2jr1b.jpg)
+
+![image](https://files.catbox.moe/trw29v.jpg)
+
+![image](https://files.catbox.moe/2e3bn1.jpg)
+
+![image](https://files.catbox.moe/5lceo8.jpg)
+
+![image](https://files.catbox.moe/tmdl0p.jpg)
+
+![image](https://files.catbox.moe/ue7gl2.jpg)
+
+![image](https://files.catbox.moe/zrkfjt.jpg)
+
+![image](https://files.catbox.moe/zzbjxy.jpg)
+
+Yousuotun Mosque is located in Yousuotun Village, 5 kilometers north of Songpan City. It was built over two years starting in 1933, after villagers Ma Bolong and Ma Qijun donated the land. It stopped being used after 1958, was destroyed after 1966, rebuilt in 1986, and reconstructed again in 2008 into its current form.
+
+![image](https://files.catbox.moe/2l44y9.jpg)
+
+![image](https://files.catbox.moe/4hwjyr.jpg)
+
+![image](https://files.catbox.moe/g1yn9t.jpg)
+
+![image](https://files.catbox.moe/7vwod2.jpg)
+
+The Hui Muslim homes in Yousuotun retain the traditional architectural style of the Sichuan-Tibet region and are well worth seeing.
+
+![image](https://files.catbox.moe/b1tugk.jpg)
+
+![image](https://files.catbox.moe/gdlvvu.jpg)
+
+![image](https://files.catbox.moe/922za8.jpg)
+
+![image](https://files.catbox.moe/lusjdd.jpg)
+
+![image](https://files.catbox.moe/zipv1h.jpg)
+
+![image](https://files.catbox.moe/7u2d7k.jpg)
+
+![image](https://files.catbox.moe/mue8tj.jpg)
+
+![image](https://files.catbox.moe/ory4gy.jpg)
+
+![image](https://files.catbox.moe/5wa9js.jpg)
+
+![image](https://files.catbox.moe/scg79g.jpg)
+
+![image](https://files.catbox.moe/4wis97.jpg)
+
+![image](https://files.catbox.moe/suiyxl.jpg)
+
+![image](https://files.catbox.moe/93eq57.jpg)
+
+![image](https://files.catbox.moe/vk93ke.jpg)
+
+Huoshaotun Mosque is located in Huoshaotun Village by the Min River, north of Songpan City. It was first built in 1920, and it was being rebuilt when I visited. Huoshaotun Village has branded itself as a 'Ten-Mile Hui Muslim Cultural Town,' but in reality, there are very few places to eat there.
+
+![image](https://files.catbox.moe/lgs8ua.jpg)
+
+![image](https://files.catbox.moe/jdxqld.jpg)
+
+![image](https://files.catbox.moe/i25ypx.jpg)
+
+![image](https://files.catbox.moe/ue8s2x.jpg)
+
+![image](https://files.catbox.moe/mrtuz7.jpg)
+
+![image](https://files.catbox.moe/5vpbw6.jpg)
+
+![image](https://files.catbox.moe/y85cq2.jpg)
+
+![image](https://files.catbox.moe/9p63vc.jpg)
+
+![image](https://files.catbox.moe/y01m7z.jpg)
+

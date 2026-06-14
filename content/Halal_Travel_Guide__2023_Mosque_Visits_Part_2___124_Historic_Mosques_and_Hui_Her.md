@@ -14,4 +14,132 @@ layout: "article"
 
 # Halal Travel Guide: 2023 Mosque Visits Part 2 — 124 Historic Mosques and Hui Heritage
 
-**Reposted from the web**\n\n**Summary:** This second part of the 2023 mosque-visit record continues a large journey through 124 historic mosques and Muslim heritage sites. It preserves the original mosque names, travel order, photos, and community details in a single long English article.\n\nAl-Ghamama Mosque in Medina: This mosque stands where the Prophet led the Eid prayer in 631. It was first built during the reign of the eighth Umayyad Caliph, Umar ibn Abd al-Aziz (reigned 717-720). It was renovated in 1340 and 1622, then rebuilt in 1859 by Ottoman Sultan Abdülmecid I (reigned 1839-1861) using black volcanic basalt. It is one of the few mosques in Medina that still keeps its Ottoman-era style.\n\n![image](https://files.catbox.moe/msx5tn.jpg)\n\nAbu Bakr As-Siddiq Mosque in Medina: This is also located where the Prophet led the Eid prayer in 631. It is named after Caliph Abu Bakr, who continued to lead the Eid prayer there. The current black volcanic basalt building was ordered by Ottoman Sultan Mahmud II in 1838, and the Sultan's tughra (calligraphic signature) is still at the entrance.\n\n![image](https://files.catbox.moe/vziybi.jpg)\n\nAs-Saqiya Mosque in Medina: This is where the Prophet inspected his troops before the Battle of Badr in 624. It is said to be the place where the eighth chapter, seventh verse of the Quran was revealed, which is the earliest chapter revealed in Medina. The current black volcanic basalt building was built during the Ottoman period.\n\n![image](https://files.catbox.moe/yhzf81.jpg)\n\nAnbariya Mosque in Medina: Built in 1908 by Ottoman Sultan Abdülhamid II for the Medina station of the Hejaz Railway. The architecture follows the traditional Ottoman style but uses local, hard basalt stone.\n\n![image](https://files.catbox.moe/oni5fv.jpg)\n\nMusabbih Mosque in Medina: Legend says the Prophet performed the Fajr prayer here when he first migrated to Medina in 622. The ancient mosque still has its black volcanic basalt walls and the remains of a mihrab inside. The small courtyard is quiet, with blooming flowers and a fellow Muslim (dost) cleaning, which is a sharp contrast to the crowded Quba Mosque nearby.\n\n![image](https://files.catbox.moe/6c7nym.jpg)\n\nAl-Fath Mosque in Medina: Located on the battlefield of the Battle of the Trench, it is said to be where the Prophet performed namaz during the battle. It was built during the reign of Umayyad Caliph Umar ibn Abd al-Aziz (reigned 717-720) and later renovated.\n\n![image](https://files.catbox.moe/6wy7ld.jpg)\n\nSalman Al-Farsi Mosque in Medina: Located on the battlefield of the Battle of the Trench, it is named after the Prophet's companion, Salman the Persian. It was built during the reign of Umayyad Caliph Umar ibn Abd al-Aziz (reigned 717-720) and later renovated.\n\n![image](https://files.catbox.moe/qotgoo.jpg)\n\nUmar bin Khattab Mosque in Medina: Located on the battlefield of the Battle of the Trench, it is named after Caliph Umar. It was built during the reign of Umayyad Caliph Umar ibn Abd al-Aziz (reigned 717-720) and later renovated.\n\n![image](https://files.catbox.moe/0h983q.jpg)\n\nAli bin Abu Talib Mosque in Medina: Located on the battlefield of the Battle of the Trench, it is named after Caliph Ali, who is said to have joined the battle here. It was built during the reign of Umayyad Caliph Umar ibn Abd al-Aziz (reigned 717-720) and later renovated.\n\n![image](https://files.catbox.moe/ekhcb4.jpg)\n\nFatimah Az-Zahra Mosque in Medina: Located on the battlefield of the Battle of the Trench, it is named after the Prophet's daughter, Fatimah. It is a small mosque attached to others, built during the reign of Ottoman Sultan Abdülmecid I (reigned 1839-1861), and today only the wall foundations remain.\n\n![image](https://files.catbox.moe/17o5wp.jpg)\n\nAl-Shafi'i Mosque in Jeddah: The oldest surviving coral stone mosque in Jeddah. It was first built in 1250 by the King of Yemen, Al-Muzaffar, and named after the Shafi'i school of law followed in Yemen. In 1539, an Indian merchant named Khawaja Muhammad Ali brought the best wood from Yemen to rebuild everything except the minaret. You can see a clear Kerala, India style in the carvings on the cross-capitals of the porch.\n\n![image](https://files.catbox.moe/7xpm7n.jpg)\n\n**20 mosques in Egypt in November.**\n\nAl-Hakim Mosque in Cairo: Construction began in 990 by the fifth Fatimid Caliph, Al-Aziz Billah, and was finished in 1013 by Caliph Al-Hakim. The mosque was used as a prison by the Franks during the Crusades, then as a stable by Saladin. It was rebuilt during the Mamluk period in the 14th century, but later fell into ruins for a long time before being restored again in 1808. In 1980, the Dawoodi Bohra branch of the Shia sect carried out a large-scale reconstruction and renovation using white marble.\n\n![image](https://files.catbox.moe/gswboo.jpg)\n\nAqmar Mosque in Cairo: Ordered by the Fatimid vizier Al-Ma'mun al-Bata'ihi and built in 1125-6, it holds a pioneering place in Egyptian architectural history. It is the first mosque where the main entrance is aligned with the street rather than the qibla wall. It is also the first mosque to feature complex stone carving decorations. In 1993, the Dawoodi Bohra branch of the Shia sect conducted a major renovation. Most of the historical elements inside the main hall were not preserved, which led to criticism.\n\n![image](https://files.catbox.moe/y42uks.jpg)\n\nAl-Azhar Mosque in Cairo: In 969 AD, the Shia Ismaili Fatimid dynasty conquered Egypt and immediately began building the new capital, Cairo. After two years of construction, the first congregational mosque (Jumu'ah mosque) of Cairo officially opened in 972, known as Al-Azhar Mosque. Several Fatimid caliphs expanded and renovated Al-Azhar Mosque. Caliph al-Hafiz carried out a major renovation in 1138. The four-centered arches in the courtyard and the dome at the entrance of the main hall date back to this period.\n\n![image](https://files.catbox.moe/e7l964.jpg)\n\nAl-Hussein Mosque in Cairo: In 1153, the Fatimid dynasty ordered the head of Hussein to be transported to Cairo to be buried alongside the Fatimid caliphs, and Al-Hussein Mosque was built in 1154. Today, the lower part of the south gate of Al-Hussein Mosque still retains its original Fatimid dynasty structure. In 1874, Ismail Pasha, the ruler of the Muhammad Ali dynasty, rebuilt Al-Hussein Mosque in a Gothic Revival style and constructed a minaret (bangke ta) that blended Gothic and Ottoman styles.\n\n![image](https://files.catbox.moe/wg6ren.jpg)\n\nAbu al-Dhahab Mosque in Cairo: Built in 1774 by the Egyptian Mamluk ruler Abu al-Dhahab, it was the last large complex built by the Mamluks in Egypt, but only the mosque remains today.\n\n![image](https://files.catbox.moe/s138if.jpg)\n\nAl-Ashraf Mosque in Cairo: Built in 1424 by the Mamluk Sultan al-Ashraf Barsbay, it features a dome with geometric carvings, which is an early example of decorative dome carving.\n\n![image](https://files.catbox.moe/zv0v9x.jpg)\n\nSultan al-Mu'ayyad Mosque in Cairo: Built by the Mamluk Sultan al-Mu'ayyad between 1415 and 1421, it is the last large hypostyle mosque in Cairo. It originally had four facades, but only the east side and the main hall remain as original structures. The mosque's gate is known as the last grand gate of the Mamluk dynasty, decorated with exquisite marble geometric patterns, Kufic calligraphy, and complex stucco carvings.\n\n![image](https://files.catbox.moe/vq915g.jpg)\n\nSalih Tala'i Mosque in Cairo: Built in 1160 under the direction of the Fatimid vizier Tala'i ibn Ruzzik, it is the last important historical building of the Fatimid dynasty still standing. It is the first "hanging mosque" in Cairo, built on a platform with shops on three sides of the ground floor and the main hall on the upper level.\n\n![image](https://files.catbox.moe/98gmhs.jpg)\n\nAhmed al-Mihmandar Mosque in Cairo: Built by the Mamluk Emir Ahmed al-Mihmandar between 1324 and 1325, it has a very exquisite facade. It is a typical example of Mamluk decorative style, featuring script calligraphy and muqarnas cornices.\n\n![image](https://files.catbox.moe/kl72hv.jpg)\n\nQijmas al-Ishaqi Mosque in Cairo: Built by the Mamluk Emir Qijmas al-Ishaqi between 1480 and 1481, it is a model and masterpiece of late Mamluk architecture and is printed on the 50 Egyptian pound banknote. The exterior facade of the mosque features the typical architectural style of the Mamluk Sultan Qaitbay period. The arabesque stone carvings, the muqarnas cornices above the windows, and the combination of red, black, and white marble are all very delicate.\n\n![image](https://files.catbox.moe/4hzwhn.jpg)\n\nMahmoud al-Kurdi Mosque in Cairo: Built in 1395 by the high-ranking Mamluk official Mahmoud al-Kurdi, it features the first dome carved with a V-shaped pattern; domes before this had spiral patterns. The dome on the minaret was also very rare at the time and was later widely used during the Ottoman Empire.\n\n![image](https://files.catbox.moe/x3vaw7.jpg)\n\nAl-Rifa'i Mosque in Cairo: Rifa'i is a Sufi order founded in Iraq in the 12th century, which is widely distributed in Egypt and Syria. Al-Rifa'i Mosque was originally a Sufi lodge (zawiya). It was rebuilt into the current grand mosque by the Muhammad Ali dynasty of Egypt between 1869 and 1912, and it houses many members of the Egyptian royal family, including several kings.\n\n![image](https://files.catbox.moe/ritc8l.jpg)\n\nAmir Altinbugha al-Mardani Mosque in Cairo: Built between 1338 and 1340 by Emir Altinbugha al-Mardani, the son-in-law of Mamluk Sultan Nasir Muhammad. It is a classic Mamluk-style mosque with the most luxurious decorations of its time. It is also the first major Mamluk mosque to set the standard for an octagonal minaret and a large dome.\n\n![image](https://files.catbox.moe/sawbmu.jpg)\n\nUmm al-Sultan Sha'ban Mosque in Cairo: Built by Mamluk Sultan al-Ashraf Sha'ban in 1368-69 to honor his mother, Umm al-Sultan Sha'ban, who was on the Hajj pilgrimage at the time. The mosque features a classic Mamluk architectural style, complete with ribbed and fluted domes. The outer walls stand 18 meters high, creating a grand and imposing presence.\n\n![image](https://files.catbox.moe/c2l70a.jpg)\n\nBlue Mosque in Cairo: Originally named Aqsunqur Mosque, it was commissioned in 1347 by Emir Shams al-Din Aqsunqur, the son-in-law of a Mamluk sultan. As the former governor of Tripoli, Aqsunqur built the mosque in a Syrian style, featuring cross-vaults and a columned layout, both of which are rare in Cairo. The Blue Mosque houses the oldest marble minbar (pulpit) in Cairo, which is a rare find in the city. Between 1652 and 1654, Ottoman Janissary commander Emir Ibrahim Agha al-Mustahfizan decorated the qibla wall with Ottoman tiles, earning the building the name Blue Mosque.\n\n![image](https://files.catbox.moe/arl7le.jpg)\n\nSultan Hasan Mosque in Cairo: Built by Mamluk Sultan Nasir Hasan between 1356 and 1363. This grand mosque is massive in scale, costing over 10,000 dinars, making it the most expensive mosque built in medieval Cairo. The top edge of the mosque's facade features a 1.5-meter-high stalactite cornice, an unprecedented detail in Mamluk architecture. The southern minaret stood 84 meters above the street when completed, making it the tallest minaret among all Mamluk structures. The center of the main hall is decorated with Kufic calligraphy and swirling arabesque patterns, which are unique to Mamluk architecture. The minbar features beautifully patterned bronze doors, another rare sight in Mamluk architecture.\n\n![image](https://files.catbox.moe/90hzev.jpg)\n\nIbn Tulun Mosque in Cairo: The oldest surviving mosque in Egypt and the largest in Cairo by area. Built by Emir Ahmad ibn Tulun of the Tulunid dynasty between 876 and 879, it served as the main congregational mosque for the Tulunid capital. Ibn Tulun Mosque was modeled after the Great Mosque of Samarra in Iraq. It features a classic Abbasid style and contains the only spiral minaret in Egypt.\n\n![image](https://files.catbox.moe/kuv018.jpg)\n\nTaghribirdi Mosque in Cairo: Built in 1440 by Emir Taghribirdi, a secretary to the Mamluk sultan, it features a classic Mamluk architectural style.\n\n![image](https://files.catbox.moe/23g81q.jpg)\n\nShaykhu Mosque in Cairo: Built in 1349 by the great Mamluk Emir Shaykhu al-Umari al-Nasiri, it contains the earliest open-arcaded riwaq courtyard in Egypt.\n\n![image](https://files.catbox.moe/e9l0zy.jpg)\n\nQanibay al-Muhammadi Mosque in Cairo: Built in 1413 by Qanibay al-Muhammadi, a high-ranking official of the Mamluk Sultanate. It features a classic Mamluk style, highlighted by a V-patterned dome and a minaret with a stalactite cornice.\n\n![image](https://files.catbox.moe/ij2d3m.jpg)
+**Reposted from the web**
+
+**Summary:** This second part of the 2023 mosque-visit record continues a large journey through 124 historic mosques and Muslim heritage sites. It preserves the original mosque names, travel order, photos, and community details in a single long English article.
+
+Al-Ghamama Mosque in Medina: This mosque stands where the Prophet led the Eid prayer in 631. It was first built during the reign of the eighth Umayyad Caliph, Umar ibn Abd al-Aziz (reigned 717-720). It was renovated in 1340 and 1622, then rebuilt in 1859 by Ottoman Sultan Abdülmecid I (reigned 1839-1861) using black volcanic basalt. It is one of the few mosques in Medina that still keeps its Ottoman-era style.
+
+![image](https://files.catbox.moe/msx5tn.jpg)
+
+Abu Bakr As-Siddiq Mosque in Medina: This is also located where the Prophet led the Eid prayer in 631. It is named after Caliph Abu Bakr, who continued to lead the Eid prayer there. The current black volcanic basalt building was ordered by Ottoman Sultan Mahmud II in 1838, and the Sultan's tughra (calligraphic signature) is still at the entrance.
+
+![image](https://files.catbox.moe/vziybi.jpg)
+
+As-Saqiya Mosque in Medina: This is where the Prophet inspected his troops before the Battle of Badr in 624. It is said to be the place where the eighth chapter, seventh verse of the Quran was revealed, which is the earliest chapter revealed in Medina. The current black volcanic basalt building was built during the Ottoman period.
+
+![image](https://files.catbox.moe/yhzf81.jpg)
+
+Anbariya Mosque in Medina: Built in 1908 by Ottoman Sultan Abdülhamid II for the Medina station of the Hejaz Railway. The architecture follows the traditional Ottoman style but uses local, hard basalt stone.
+
+![image](https://files.catbox.moe/oni5fv.jpg)
+
+Musabbih Mosque in Medina: Legend says the Prophet performed the Fajr prayer here when he first migrated to Medina in 622. The ancient mosque still has its black volcanic basalt walls and the remains of a mihrab inside. The small courtyard is quiet, with blooming flowers and a fellow Muslim (dost) cleaning, which is a sharp contrast to the crowded Quba Mosque nearby.
+
+![image](https://files.catbox.moe/6c7nym.jpg)
+
+Al-Fath Mosque in Medina: Located on the battlefield of the Battle of the Trench, it is said to be where the Prophet performed namaz during the battle. It was built during the reign of Umayyad Caliph Umar ibn Abd al-Aziz (reigned 717-720) and later renovated.
+
+![image](https://files.catbox.moe/6wy7ld.jpg)
+
+Salman Al-Farsi Mosque in Medina: Located on the battlefield of the Battle of the Trench, it is named after the Prophet's companion, Salman the Persian. It was built during the reign of Umayyad Caliph Umar ibn Abd al-Aziz (reigned 717-720) and later renovated.
+
+![image](https://files.catbox.moe/qotgoo.jpg)
+
+Umar bin Khattab Mosque in Medina: Located on the battlefield of the Battle of the Trench, it is named after Caliph Umar. It was built during the reign of Umayyad Caliph Umar ibn Abd al-Aziz (reigned 717-720) and later renovated.
+
+![image](https://files.catbox.moe/0h983q.jpg)
+
+Ali bin Abu Talib Mosque in Medina: Located on the battlefield of the Battle of the Trench, it is named after Caliph Ali, who is said to have joined the battle here. It was built during the reign of Umayyad Caliph Umar ibn Abd al-Aziz (reigned 717-720) and later renovated.
+
+![image](https://files.catbox.moe/ekhcb4.jpg)
+
+Fatimah Az-Zahra Mosque in Medina: Located on the battlefield of the Battle of the Trench, it is named after the Prophet's daughter, Fatimah. It is a small mosque attached to others, built during the reign of Ottoman Sultan Abdülmecid I (reigned 1839-1861), and today only the wall foundations remain.
+
+![image](https://files.catbox.moe/17o5wp.jpg)
+
+Al-Shafi'i Mosque in Jeddah: The oldest surviving coral stone mosque in Jeddah. It was first built in 1250 by the King of Yemen, Al-Muzaffar, and named after the Shafi'i school of law followed in Yemen. In 1539, an Indian merchant named Khawaja Muhammad Ali brought the best wood from Yemen to rebuild everything except the minaret. You can see a clear Kerala, India style in the carvings on the cross-capitals of the porch.
+
+![image](https://files.catbox.moe/7xpm7n.jpg)
+
+**20 mosques in Egypt in November.**
+
+Al-Hakim Mosque in Cairo: Construction began in 990 by the fifth Fatimid Caliph, Al-Aziz Billah, and was finished in 1013 by Caliph Al-Hakim. The mosque was used as a prison by the Franks during the Crusades, then as a stable by Saladin. It was rebuilt during the Mamluk period in the 14th century, but later fell into ruins for a long time before being restored again in 1808. In 1980, the Dawoodi Bohra branch of the Shia sect carried out a large-scale reconstruction and renovation using white marble.
+
+![image](https://files.catbox.moe/gswboo.jpg)
+
+Aqmar Mosque in Cairo: Ordered by the Fatimid vizier Al-Ma'mun al-Bata'ihi and built in 1125-6, it holds a pioneering place in Egyptian architectural history. It is the first mosque where the main entrance is aligned with the street rather than the qibla wall. It is also the first mosque to feature complex stone carving decorations. In 1993, the Dawoodi Bohra branch of the Shia sect conducted a major renovation. Most of the historical elements inside the main hall were not preserved, which led to criticism.
+
+![image](https://files.catbox.moe/y42uks.jpg)
+
+Al-Azhar Mosque in Cairo: In 969 AD, the Shia Ismaili Fatimid dynasty conquered Egypt and immediately began building the new capital, Cairo. After two years of construction, the first congregational mosque (Jumu'ah mosque) of Cairo officially opened in 972, known as Al-Azhar Mosque. Several Fatimid caliphs expanded and renovated Al-Azhar Mosque. Caliph al-Hafiz carried out a major renovation in 1138. The four-centered arches in the courtyard and the dome at the entrance of the main hall date back to this period.
+
+![image](https://files.catbox.moe/e7l964.jpg)
+
+Al-Hussein Mosque in Cairo: In 1153, the Fatimid dynasty ordered the head of Hussein to be transported to Cairo to be buried alongside the Fatimid caliphs, and Al-Hussein Mosque was built in 1154. Today, the lower part of the south gate of Al-Hussein Mosque still retains its original Fatimid dynasty structure. In 1874, Ismail Pasha, the ruler of the Muhammad Ali dynasty, rebuilt Al-Hussein Mosque in a Gothic Revival style and constructed a minaret (bangke ta) that blended Gothic and Ottoman styles.
+
+![image](https://files.catbox.moe/wg6ren.jpg)
+
+Abu al-Dhahab Mosque in Cairo: Built in 1774 by the Egyptian Mamluk ruler Abu al-Dhahab, it was the last large complex built by the Mamluks in Egypt, but only the mosque remains today.
+
+![image](https://files.catbox.moe/s138if.jpg)
+
+Al-Ashraf Mosque in Cairo: Built in 1424 by the Mamluk Sultan al-Ashraf Barsbay, it features a dome with geometric carvings, which is an early example of decorative dome carving.
+
+![image](https://files.catbox.moe/zv0v9x.jpg)
+
+Sultan al-Mu'ayyad Mosque in Cairo: Built by the Mamluk Sultan al-Mu'ayyad between 1415 and 1421, it is the last large hypostyle mosque in Cairo. It originally had four facades, but only the east side and the main hall remain as original structures. The mosque's gate is known as the last grand gate of the Mamluk dynasty, decorated with exquisite marble geometric patterns, Kufic calligraphy, and complex stucco carvings.
+
+![image](https://files.catbox.moe/vq915g.jpg)
+
+Salih Tala'i Mosque in Cairo: Built in 1160 under the direction of the Fatimid vizier Tala'i ibn Ruzzik, it is the last important historical building of the Fatimid dynasty still standing. It is the first "hanging mosque" in Cairo, built on a platform with shops on three sides of the ground floor and the main hall on the upper level.
+
+![image](https://files.catbox.moe/98gmhs.jpg)
+
+Ahmed al-Mihmandar Mosque in Cairo: Built by the Mamluk Emir Ahmed al-Mihmandar between 1324 and 1325, it has a very exquisite facade. It is a typical example of Mamluk decorative style, featuring script calligraphy and muqarnas cornices.
+
+![image](https://files.catbox.moe/kl72hv.jpg)
+
+Qijmas al-Ishaqi Mosque in Cairo: Built by the Mamluk Emir Qijmas al-Ishaqi between 1480 and 1481, it is a model and masterpiece of late Mamluk architecture and is printed on the 50 Egyptian pound banknote. The exterior facade of the mosque features the typical architectural style of the Mamluk Sultan Qaitbay period. The arabesque stone carvings, the muqarnas cornices above the windows, and the combination of red, black, and white marble are all very delicate.
+
+![image](https://files.catbox.moe/4hzwhn.jpg)
+
+Mahmoud al-Kurdi Mosque in Cairo: Built in 1395 by the high-ranking Mamluk official Mahmoud al-Kurdi, it features the first dome carved with a V-shaped pattern; domes before this had spiral patterns. The dome on the minaret was also very rare at the time and was later widely used during the Ottoman Empire.
+
+![image](https://files.catbox.moe/x3vaw7.jpg)
+
+Al-Rifa'i Mosque in Cairo: Rifa'i is a Sufi order founded in Iraq in the 12th century, which is widely distributed in Egypt and Syria. Al-Rifa'i Mosque was originally a Sufi lodge (zawiya). It was rebuilt into the current grand mosque by the Muhammad Ali dynasty of Egypt between 1869 and 1912, and it houses many members of the Egyptian royal family, including several kings.
+
+![image](https://files.catbox.moe/ritc8l.jpg)
+
+Amir Altinbugha al-Mardani Mosque in Cairo: Built between 1338 and 1340 by Emir Altinbugha al-Mardani, the son-in-law of Mamluk Sultan Nasir Muhammad. It is a classic Mamluk-style mosque with the most luxurious decorations of its time. It is also the first major Mamluk mosque to set the standard for an octagonal minaret and a large dome.
+
+![image](https://files.catbox.moe/sawbmu.jpg)
+
+Umm al-Sultan Sha'ban Mosque in Cairo: Built by Mamluk Sultan al-Ashraf Sha'ban in 1368-69 to honor his mother, Umm al-Sultan Sha'ban, who was on the Hajj pilgrimage at the time. The mosque features a classic Mamluk architectural style, complete with ribbed and fluted domes. The outer walls stand 18 meters high, creating a grand and imposing presence.
+
+![image](https://files.catbox.moe/c2l70a.jpg)
+
+Blue Mosque in Cairo: Originally named Aqsunqur Mosque, it was commissioned in 1347 by Emir Shams al-Din Aqsunqur, the son-in-law of a Mamluk sultan. As the former governor of Tripoli, Aqsunqur built the mosque in a Syrian style, featuring cross-vaults and a columned layout, both of which are rare in Cairo. The Blue Mosque houses the oldest marble minbar (pulpit) in Cairo, which is a rare find in the city. Between 1652 and 1654, Ottoman Janissary commander Emir Ibrahim Agha al-Mustahfizan decorated the qibla wall with Ottoman tiles, earning the building the name Blue Mosque.
+
+![image](https://files.catbox.moe/arl7le.jpg)
+
+Sultan Hasan Mosque in Cairo: Built by Mamluk Sultan Nasir Hasan between 1356 and 1363. This grand mosque is massive in scale, costing over 10,000 dinars, making it the most expensive mosque built in medieval Cairo. The top edge of the mosque's facade features a 1.5-meter-high stalactite cornice, an unprecedented detail in Mamluk architecture. The southern minaret stood 84 meters above the street when completed, making it the tallest minaret among all Mamluk structures. The center of the main hall is decorated with Kufic calligraphy and swirling arabesque patterns, which are unique to Mamluk architecture. The minbar features beautifully patterned bronze doors, another rare sight in Mamluk architecture.
+
+![image](https://files.catbox.moe/90hzev.jpg)
+
+Ibn Tulun Mosque in Cairo: The oldest surviving mosque in Egypt and the largest in Cairo by area. Built by Emir Ahmad ibn Tulun of the Tulunid dynasty between 876 and 879, it served as the main congregational mosque for the Tulunid capital. Ibn Tulun Mosque was modeled after the Great Mosque of Samarra in Iraq. It features a classic Abbasid style and contains the only spiral minaret in Egypt.
+
+![image](https://files.catbox.moe/kuv018.jpg)
+
+Taghribirdi Mosque in Cairo: Built in 1440 by Emir Taghribirdi, a secretary to the Mamluk sultan, it features a classic Mamluk architectural style.
+
+![image](https://files.catbox.moe/23g81q.jpg)
+
+Shaykhu Mosque in Cairo: Built in 1349 by the great Mamluk Emir Shaykhu al-Umari al-Nasiri, it contains the earliest open-arcaded riwaq courtyard in Egypt.
+
+![image](https://files.catbox.moe/e9l0zy.jpg)
+
+Qanibay al-Muhammadi Mosque in Cairo: Built in 1413 by Qanibay al-Muhammadi, a high-ranking official of the Mamluk Sultanate. It features a classic Mamluk style, highlighted by a V-patterned dome and a minaret with a stalactite cornice.
+
+![image](https://files.catbox.moe/ij2d3m.jpg)

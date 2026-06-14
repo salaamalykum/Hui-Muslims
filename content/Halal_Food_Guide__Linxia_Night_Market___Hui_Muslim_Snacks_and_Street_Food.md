@@ -14,4 +14,76 @@ layout: "article"
 
 # Halal Food Guide: Linxia Night Market — Hui Muslim Snacks and Street Food
 
-**Reposted from the web**\n\n**Summary:** Halal Food Guide: Linxia Night Market — Hui Muslim Snacks and Street Food is presented here as a firsthand travel account in clear English, beginning with this scene: I went to Gansu in May 2019 to listen to folk songs (hua'er), then stopped by Linxia to explore the food. The account keeps its focus on Linxia Food, Halal Snacks, Hui Muslims while preserving the names, places, food, and historical details from the Chinese source.\n\nI went to Gansu in May 2019 to listen to folk songs (hua'er), then stopped by Linxia to explore the food.\n\n**Linxia North Street Night Market**\n\nEvery day after sunset, Linxia North Street turns into a lively night market for snacks.\n\n![image](https://files.catbox.moe/v63rso.jpg)\n\nThis Dongxiang stall was packed with customers. Listening to the young man speak the Dongxiang language, which sounds a lot like Mongolian, felt like stepping back into the Mongol Empire era.\n\n![image](https://files.catbox.moe/d9kxta.jpg)\n\n![image](https://files.catbox.moe/t08haq.jpg)\n\nI had lamb clay pot (yangrou shaguo) and lamb skewers (yangrou chuan). The clay pot tasted very fresh and delicious.\n\n![image](https://files.catbox.moe/50vs4a.jpg)\n\n![image](https://files.catbox.moe/h6n9vw.jpg)\n\nI also ate lamb head at this shop. The name 'Nuhai' actually refers to Noah from Noah's Ark. The stir-fried lamb head meat, steamed lamb brains, and steamed lamb neck were all incredibly tasty.\n\n![image](https://files.catbox.moe/sn851i.jpg)\n\n![image](https://files.catbox.moe/r50od5.jpg)\n\n![image](https://files.catbox.moe/nv54ax.jpg)\n\n![image](https://files.catbox.moe/3t42jd.jpg)\n\n![image](https://files.catbox.moe/hufi4q.jpg)\n\n**Lamb brains**\n\n![image](https://files.catbox.moe/9hig7k.jpg)\n\nI ate old-broth chicken (laotang ji) at this shop, but when I returned in 2021, this row of stalls at the night market was gone.\n\n![image](https://files.catbox.moe/7q3gvq.jpg)\n\n![image](https://files.catbox.moe/i3ka8x.jpg)\n\n![image](https://files.catbox.moe/whm7yp.jpg)\n\n![image](https://files.catbox.moe/ct4di8.jpg)\n\n**Linxia snacks**\n\nLinxia has all kinds of snacks during the day, but since I visited right after Eid al-Fitr, many restaurants were closed. Linxia's thick flatbread (guokui) is made with bitter bean herb (kudou), which gives it a special fragrance that I really like.\n\n![image](https://files.catbox.moe/oig0a0.jpg)\n\n![image](https://files.catbox.moe/lhl4rl.jpg)\n\nAt this shop, I tried cold buckwheat noodles (qiaofen). They taste different from regular cold wheat noodles (liangpi) and are very unique.\n\n![image](https://files.catbox.moe/byjlmf.jpg)\n\n![image](https://files.catbox.moe/8ooug4.jpg)\n\n![image](https://files.catbox.moe/45vsfo.jpg)\n\nI had old-braised noodles (laolu mian) and Hezhou steamed buns (Hezhou baozi) at this shop. The old-braised noodles were very rich and had a thick, hearty texture. The buns were filled with radish, and you could see the golden Sichuan peppercorn oil seeping through.\n\n![image](https://files.catbox.moe/fmj8xx.jpg)\n\n![image](https://files.catbox.moe/vwlfbm.jpg)\n\n![image](https://files.catbox.moe/r4wij2.jpg)
+**Reposted from the web**
+
+**Summary:** Halal Food Guide: Linxia Night Market — Hui Muslim Snacks and Street Food is presented here as a firsthand travel account in clear English, beginning with this scene: I went to Gansu in May 2019 to listen to folk songs (hua'er), then stopped by Linxia to explore the food. The account keeps its focus on Linxia Food, Halal Snacks, Hui Muslims while preserving the names, places, food, and historical details from the Chinese source.
+
+I went to Gansu in May 2019 to listen to folk songs (hua'er), then stopped by Linxia to explore the food.
+
+**Linxia North Street Night Market**
+
+Every day after sunset, Linxia North Street turns into a lively night market for snacks.
+
+![image](https://files.catbox.moe/v63rso.jpg)
+
+This Dongxiang stall was packed with customers. Listening to the young man speak the Dongxiang language, which sounds a lot like Mongolian, felt like stepping back into the Mongol Empire era.
+
+![image](https://files.catbox.moe/d9kxta.jpg)
+
+![image](https://files.catbox.moe/t08haq.jpg)
+
+I had lamb clay pot (yangrou shaguo) and lamb skewers (yangrou chuan). The clay pot tasted very fresh and delicious.
+
+![image](https://files.catbox.moe/50vs4a.jpg)
+
+![image](https://files.catbox.moe/h6n9vw.jpg)
+
+I also ate lamb head at this shop. The name 'Nuhai' actually refers to Noah from Noah's Ark. The stir-fried lamb head meat, steamed lamb brains, and steamed lamb neck were all incredibly tasty.
+
+![image](https://files.catbox.moe/sn851i.jpg)
+
+![image](https://files.catbox.moe/r50od5.jpg)
+
+![image](https://files.catbox.moe/nv54ax.jpg)
+
+![image](https://files.catbox.moe/3t42jd.jpg)
+
+![image](https://files.catbox.moe/hufi4q.jpg)
+
+**Lamb brains**
+
+![image](https://files.catbox.moe/9hig7k.jpg)
+
+I ate old-broth chicken (laotang ji) at this shop, but when I returned in 2021, this row of stalls at the night market was gone.
+
+![image](https://files.catbox.moe/7q3gvq.jpg)
+
+![image](https://files.catbox.moe/i3ka8x.jpg)
+
+![image](https://files.catbox.moe/whm7yp.jpg)
+
+![image](https://files.catbox.moe/ct4di8.jpg)
+
+**Linxia snacks**
+
+Linxia has all kinds of snacks during the day, but since I visited right after Eid al-Fitr, many restaurants were closed. Linxia's thick flatbread (guokui) is made with bitter bean herb (kudou), which gives it a special fragrance that I really like.
+
+![image](https://files.catbox.moe/oig0a0.jpg)
+
+![image](https://files.catbox.moe/lhl4rl.jpg)
+
+At this shop, I tried cold buckwheat noodles (qiaofen). They taste different from regular cold wheat noodles (liangpi) and are very unique.
+
+![image](https://files.catbox.moe/byjlmf.jpg)
+
+![image](https://files.catbox.moe/8ooug4.jpg)
+
+![image](https://files.catbox.moe/45vsfo.jpg)
+
+I had old-braised noodles (laolu mian) and Hezhou steamed buns (Hezhou baozi) at this shop. The old-braised noodles were very rich and had a thick, hearty texture. The buns were filled with radish, and you could see the golden Sichuan peppercorn oil seeping through.
+
+![image](https://files.catbox.moe/fmj8xx.jpg)
+
+![image](https://files.catbox.moe/vwlfbm.jpg)
+
+![image](https://files.catbox.moe/r4wij2.jpg)

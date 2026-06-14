@@ -14,4 +14,96 @@ layout: "article"
 
 # Hidden Gongbei in Qingchuan: Dayuan Hui Township and Wulongshan Sufi Shrine in Guangyuan
 
-**Reposted from the web**\n\n**Summary:** This northern Sichuan travelogue visits Dayuan Hui Muslim Township in Qingchuan County and Wulongshan gongbei (Sufi shrine), preserving the route, people, and local Muslim heritage.\n\nI left downtown Guangyuan in the morning and reached Dayuan Hui Ethnic Township, deep in the Qinba Mountains, after a trip of nearly two hours. I followed the Huaguo River up the valley and first arrived at Huaguo Village to visit the Huaguo Mosque (Huaguo Si). The mosque was closed, so I could only look around the courtyard.\n\nHuaguo Mosque is a century-old site. It was built in 1925 at Majiakou in Huaguo Village, moved to its current location in Chenjiayuan in 1940, and rebuilt after the 2008 earthquake. You can still see the old stone column bases in the courtyard today.\n\n![image](https://files.catbox.moe/4j5gdd.jpg)\n\n![image](https://files.catbox.moe/36q4jy.jpg)\n\n![image](https://files.catbox.moe/qfuf5m.jpg)\n\n![image](https://files.catbox.moe/29w39h.jpg)\n\n![image](https://files.catbox.moe/dfuij1.jpg)\n\n![image](https://files.catbox.moe/3t0x0a.jpg)\n\n![image](https://files.catbox.moe/8purkv.jpg)\n\n![image](https://files.catbox.moe/0ibfid.jpg)\n\n![image](https://files.catbox.moe/ljdd6x.jpg)\n\nContinuing up the Huaguo River, I reached Suojia Village, another Hui Muslim village. It is the oldest Hui village in all of Qingchuan, with a history of over 400 years. According to a tombstone in the village, Ma Jiyuan invited the Suo and Zhao families to move from Jingyang County, Shanxi, to settle by the Huagai River in 1580 (the eighth year of the Wanli reign of the Ming Dynasty). The Qingchuan County Annals record that in 1586 (the fourteenth year of the Wanli reign of the Ming Dynasty), three Hui Muslim families named Ma, Suo, and Hei from Ta'er Mosque in Jingyang County, Shanxi, moved to settle by the Huagai River in Dayuan Township, marking the arrival of Hui Muslims in the county.\n\nAt Suojia Mosque, the imam and village elders welcomed me warmly. I offered a donation (nietie), but they returned it to me, saying it was for travelers, and gave me oranges and apples instead. Suojia Mosque was built in the late Ming Dynasty, occupied in 1952, and torn down in 1967. Led by fellow Muslims Suo Fushou and Ma Minghuai, and through the efforts of Suo Jinming, Suo Wenjin, Ma Qinggao, Suo Jinzhu, Suo Fuguo, and Ma Wancai, the current Suojia Mosque was finally completed after four years of work from 2007 to 2011.\n\nIn Suojia Village, I clearly saw many people wearing white caps. Everyone was very friendly and smiled at me. Suojia Village sits deep in Wulong Mountain. With ducks and geese in the stream and fellow Muslims plowing the terraced fields with oxen, it is a peaceful scene, like a hidden paradise.\n\n![image](https://files.catbox.moe/vg7gbv.jpg)\n\n![image](https://files.catbox.moe/3oyhma.jpg)\n\n![image](https://files.catbox.moe/w8ppjp.jpg)\n\n![image](https://files.catbox.moe/76bmv7.jpg)\n\n![image](https://files.catbox.moe/h3ynia.jpg)\n\n![image](https://files.catbox.moe/g34ew2.jpg)\n\n![image](https://files.catbox.moe/ryd6rj.jpg)\n\n![image](https://files.catbox.moe/0tutyw.jpg)\n\n![image](https://files.catbox.moe/g81fhl.jpg)\n\nSuojia Village is definitely the most beautiful Hui Muslim village I have visited in Sichuan. I slowly climbed Wulong Mountain and looked out from the railing. Rolling green mountains stretched out, the quiet Huaguo River valley lay between them, and houses were scattered along the slopes. White walls and dark tiles dotted the landscape, while terraced fields formed a lush green pattern. The fresh mountain air hit my face, and everything I saw felt like a healing pastoral poem.\n\nThe village specializes in organic green tea, mountain delicacies, eco-friendly beef and lamb, and medicinal herbs grown in the forest. While walking through the village, I happened to meet a simple Hui Muslim grandmother driving her cattle and sheep into the deep mountains to graze, looking very relaxed. When she is not grazing them, she feeds the cattle and sheep pure corn cobs. Cattle and sheep raised on mountain spring water, wild mushrooms, and corn must taste great. I want to try some next time I have the chance.\n\n![image](https://files.catbox.moe/of0sf4.jpg)\n\n![image](https://files.catbox.moe/lmyewr.jpg)\n\n![image](https://files.catbox.moe/q7ebwv.jpg)\n\n![image](https://files.catbox.moe/3abtla.jpg)\n\n![image](https://files.catbox.moe/eakyn3.jpg)\n\n![image](https://files.catbox.moe/tpe35u.jpg)\n\n![image](https://files.catbox.moe/qkfezw.jpg)\n\n![image](https://files.catbox.moe/fr7qye.jpg)\n\n![image](https://files.catbox.moe/tca5xa.jpg)\n\nOn a cliff at the end of the Huaguo River valley sits the Wulong Mountain Gongbei, also called the Wulong Mountain Mosque (Qingzhen Ting), which belongs to the Jahriyya Sufi order (Gaderenye Menhuan). This cliffside shrine is comparable in scale to the Jiujing Gongbei.\n\nWulong Mountain Gongbei is where 'Grandpa An' (An Taiye) from Ding'an River practiced during his lifetime. Grandpa An was originally a Han Chinese from Anhui. During the Kangxi reign, he served as a magistrate in Langzhong County. Inspired by Qi Jingyi, the founder of the Jahriyya order, he resigned from his post to join the faith. Later, he went to Wulong Mountain to practice in a cave. After he passed away (gui zhen) in 1708 (the forty-seventh year of the Kangxi reign), the Wulong Mountain Gongbei was built. Inside the Gongbei, there is a plaque from the eighth year of the Xianfeng reign that reads 'Imperial Grace' (Sheng En).\n\n![image](https://files.catbox.moe/rnvzdv.jpg)\n\n![image](https://files.catbox.moe/xir9w1.jpg)\n\n![image](https://files.catbox.moe/ta8rid.jpg)\n\n![image](https://files.catbox.moe/h4cqgo.jpg)\n\n![image](https://files.catbox.moe/0d8puy.jpg)\n\n![image](https://files.catbox.moe/juol41.jpg)\n\n![image](https://files.catbox.moe/95mylw.jpg)\n\n![image](https://files.catbox.moe/29lxak.jpg)\n\n![image](https://files.catbox.moe/lsjwim.jpg)
+**Reposted from the web**
+
+**Summary:** This northern Sichuan travelogue visits Dayuan Hui Muslim Township in Qingchuan County and Wulongshan gongbei (Sufi shrine), preserving the route, people, and local Muslim heritage.
+
+I left downtown Guangyuan in the morning and reached Dayuan Hui Ethnic Township, deep in the Qinba Mountains, after a trip of nearly two hours. I followed the Huaguo River up the valley and first arrived at Huaguo Village to visit the Huaguo Mosque (Huaguo Si). The mosque was closed, so I could only look around the courtyard.
+
+Huaguo Mosque is a century-old site. It was built in 1925 at Majiakou in Huaguo Village, moved to its current location in Chenjiayuan in 1940, and rebuilt after the 2008 earthquake. You can still see the old stone column bases in the courtyard today.
+
+![image](https://files.catbox.moe/4j5gdd.jpg)
+
+![image](https://files.catbox.moe/36q4jy.jpg)
+
+![image](https://files.catbox.moe/qfuf5m.jpg)
+
+![image](https://files.catbox.moe/29w39h.jpg)
+
+![image](https://files.catbox.moe/dfuij1.jpg)
+
+![image](https://files.catbox.moe/3t0x0a.jpg)
+
+![image](https://files.catbox.moe/8purkv.jpg)
+
+![image](https://files.catbox.moe/0ibfid.jpg)
+
+![image](https://files.catbox.moe/ljdd6x.jpg)
+
+Continuing up the Huaguo River, I reached Suojia Village, another Hui Muslim village. It is the oldest Hui village in all of Qingchuan, with a history of over 400 years. According to a tombstone in the village, Ma Jiyuan invited the Suo and Zhao families to move from Jingyang County, Shanxi, to settle by the Huagai River in 1580 (the eighth year of the Wanli reign of the Ming Dynasty). The Qingchuan County Annals record that in 1586 (the fourteenth year of the Wanli reign of the Ming Dynasty), three Hui Muslim families named Ma, Suo, and Hei from Ta'er Mosque in Jingyang County, Shanxi, moved to settle by the Huagai River in Dayuan Township, marking the arrival of Hui Muslims in the county.
+
+At Suojia Mosque, the imam and village elders welcomed me warmly. I offered a donation (nietie), but they returned it to me, saying it was for travelers, and gave me oranges and apples instead. Suojia Mosque was built in the late Ming Dynasty, occupied in 1952, and torn down in 1967. Led by fellow Muslims Suo Fushou and Ma Minghuai, and through the efforts of Suo Jinming, Suo Wenjin, Ma Qinggao, Suo Jinzhu, Suo Fuguo, and Ma Wancai, the current Suojia Mosque was finally completed after four years of work from 2007 to 2011.
+
+In Suojia Village, I clearly saw many people wearing white caps. Everyone was very friendly and smiled at me. Suojia Village sits deep in Wulong Mountain. With ducks and geese in the stream and fellow Muslims plowing the terraced fields with oxen, it is a peaceful scene, like a hidden paradise.
+
+![image](https://files.catbox.moe/vg7gbv.jpg)
+
+![image](https://files.catbox.moe/3oyhma.jpg)
+
+![image](https://files.catbox.moe/w8ppjp.jpg)
+
+![image](https://files.catbox.moe/76bmv7.jpg)
+
+![image](https://files.catbox.moe/h3ynia.jpg)
+
+![image](https://files.catbox.moe/g34ew2.jpg)
+
+![image](https://files.catbox.moe/ryd6rj.jpg)
+
+![image](https://files.catbox.moe/0tutyw.jpg)
+
+![image](https://files.catbox.moe/g81fhl.jpg)
+
+Suojia Village is definitely the most beautiful Hui Muslim village I have visited in Sichuan. I slowly climbed Wulong Mountain and looked out from the railing. Rolling green mountains stretched out, the quiet Huaguo River valley lay between them, and houses were scattered along the slopes. White walls and dark tiles dotted the landscape, while terraced fields formed a lush green pattern. The fresh mountain air hit my face, and everything I saw felt like a healing pastoral poem.
+
+The village specializes in organic green tea, mountain delicacies, eco-friendly beef and lamb, and medicinal herbs grown in the forest. While walking through the village, I happened to meet a simple Hui Muslim grandmother driving her cattle and sheep into the deep mountains to graze, looking very relaxed. When she is not grazing them, she feeds the cattle and sheep pure corn cobs. Cattle and sheep raised on mountain spring water, wild mushrooms, and corn must taste great. I want to try some next time I have the chance.
+
+![image](https://files.catbox.moe/of0sf4.jpg)
+
+![image](https://files.catbox.moe/lmyewr.jpg)
+
+![image](https://files.catbox.moe/q7ebwv.jpg)
+
+![image](https://files.catbox.moe/3abtla.jpg)
+
+![image](https://files.catbox.moe/eakyn3.jpg)
+
+![image](https://files.catbox.moe/tpe35u.jpg)
+
+![image](https://files.catbox.moe/qkfezw.jpg)
+
+![image](https://files.catbox.moe/fr7qye.jpg)
+
+![image](https://files.catbox.moe/tca5xa.jpg)
+
+On a cliff at the end of the Huaguo River valley sits the Wulong Mountain Gongbei, also called the Wulong Mountain Mosque (Qingzhen Ting), which belongs to the Jahriyya Sufi order (Gaderenye Menhuan). This cliffside shrine is comparable in scale to the Jiujing Gongbei.
+
+Wulong Mountain Gongbei is where 'Grandpa An' (An Taiye) from Ding'an River practiced during his lifetime. Grandpa An was originally a Han Chinese from Anhui. During the Kangxi reign, he served as a magistrate in Langzhong County. Inspired by Qi Jingyi, the founder of the Jahriyya order, he resigned from his post to join the faith. Later, he went to Wulong Mountain to practice in a cave. After he passed away (gui zhen) in 1708 (the forty-seventh year of the Kangxi reign), the Wulong Mountain Gongbei was built. Inside the Gongbei, there is a plaque from the eighth year of the Xianfeng reign that reads 'Imperial Grace' (Sheng En).
+
+![image](https://files.catbox.moe/rnvzdv.jpg)
+
+![image](https://files.catbox.moe/xir9w1.jpg)
+
+![image](https://files.catbox.moe/ta8rid.jpg)
+
+![image](https://files.catbox.moe/h4cqgo.jpg)
+
+![image](https://files.catbox.moe/0d8puy.jpg)
+
+![image](https://files.catbox.moe/juol41.jpg)
+
+![image](https://files.catbox.moe/95mylw.jpg)
+
+![image](https://files.catbox.moe/29lxak.jpg)
+
+![image](https://files.catbox.moe/lsjwim.jpg)
